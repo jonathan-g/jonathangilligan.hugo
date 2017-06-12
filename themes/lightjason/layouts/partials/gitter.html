@@ -1,0 +1,8 @@
+{{- if .Site.Params.gitter -}}
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: '{{- .Site.Params.gitter.user -}}/{{- (replaceRE "[[:space:]]+" "-" (default .Site.Params.Gitter.defaultroom .Params.gitter)) | safeURL -}}'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+{{- end -}}

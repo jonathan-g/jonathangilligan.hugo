@@ -1,0 +1,152 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@{{- .Site.Params.twitter -}}" />
+<meta name="twitter:title" content="{{- .Site.Title -}}{{- if not .IsHome }} - {{ .Title -}}{{- end -}}" />
+<meta name="twitter:description" content="{{- (.Render "summary") | default .Title -}}" />
+<meta name="twitter:image" content="{{- if .Params.image -}}{{ delimit (slice .Site.BaseURL .Params.image) "" -}}{{- else -}}{{- delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}}{{- end }}" />
+
+<meta property="og:site_name" content="{{- .Site.Title -}}" />
+<meta property="og:url" content="{{- partial "domainlink" (dict "content" . "path" .RelPermalink) -}}" />
+<meta property="og:title" content="{{- .Site.Title -}}{{- if not .IsHome }} - {{ .Title -}}{{- end -}}" />
+<meta property="og:image" content="{{- if .Params.image -}}{{ delimit (slice .Site.BaseURL .Params.image) "" -}}{{- else -}}{{- delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}}{{- end }}" />
+<meta property="og:description" content="{{- (.Render "summary") | default .Title -}}" /> 
+
+<script type="application/ld+json">
+[{
+	"@context": "http://schema.org",
+	"@type": "Organization",	
+	"name" : {{ .Site.Title -}},
+	"email" : {{ .Site.Params.contact -}},
+	"url" : {{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" -}},
+	"logo" : {{ delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}},
+	"founders": [
+		{{- range $i, $l := .Site.Params.person -}}
+		{{- if gt $i 0 -}},{{- end -}}
+		{
+			"@type": "Person",
+			"email" : {{ .email -}},
+			"name" : {{ delimit (slice .name.given .name.family) " " -}},
+			"givenName" : {{ .name.given -}},
+			"familyName" : {{ .name.family }}
+			{{ with .name.middle -}}, "additionalName" : {{ . -}}{{- end -}}
+			{{ with .image }}, "image" : {{ . -}}{{- end }}
+			{{- if .links }}
+			, "sameAs" : [
+				{{- range $n, $k := .links -}}
+				{{- if gt $n 0 -}},{{- end }}
+				{{ .url }}
+				{{- end }}
+			]
+			{{- end }}
+		}
+		{{ end -}}
+	]
+},
+
+
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"name": {{ .Site.Title -}},
+	"alternateName": {{ .Site.Title -}},
+	"url": {{- partial "domainlink" (dict "content" .) }}
+	{{ with .Site.Params.license }}, "license" : {{ . -}}{{- end }}
+	{{ with .Site.Params.keywords -}}, "genre" : {{ . -}}, "keywords" : {{ . -}}{{- end }}
+	, "author" : [
+		{{- range $i, $l := .Site.Params.person -}}
+		{{- if gt $i 0 -}},{{- end -}}
+		{
+			"@type": "Person",
+			"email" : {{ .email -}},
+			"name" : {{ delimit (slice .name.given .name.family) " " -}},
+			"givenName" : {{ .name.given -}},
+			"familyName" : {{ .name.family }}
+			{{ with .name.middle -}}, "additionalName" : {{ . -}}{{- end -}}
+			{{ with .image }}, "image" : {{ . -}}{{- end }}
+			{{- if .links }}
+			, "sameAs" : [
+				{{- range $n, $k := .links -}}
+				{{- if gt $n 0 -}},{{- end }}
+				{{ .url }}
+				{{- end }}
+			]
+			{{- end }}
+		}
+		{{ end -}}
+	]
+}
+
+
+{{- if in .Params.jsonld "techarticle" }}
+,{
+	"@context" : "http://schema.org",
+	"@type" : "TechArticle",
+	"headline" : {{ .Title -}},
+	"proficiencyLevel" : {{ if .Params.difficulty -}}{{- .Params.difficulty -}}{{- else -}}"Beginner"{{- end -}},
+	"wordCount" : {{ .FuzzyWordCount }},
+	"datePublished" : {{ if .Date.IsZero -}}{{- .Site.Params.nonexistingdate -}}{{- else -}}{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" -}}{{- end }},
+	"image" : {{ if .Params.image -}}{{ delimit (slice .Site.BaseURL .Params.image) "" -}}{{- else -}}{{- delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}}{{- end }} 
+}
+{{- end }}
+
+
+{{- if in .Params.jsonld "course" }}
+,{
+	"@context" : "http://schema.org",
+	"@type" : "Course",
+	"name" : {{ .Title -}},
+	"description" : {{ .Params.description | default (replaceRE "\n+" " " (replace (.Summary | markdownify | plainify) "Contents [Hide]" "")) -}},
+	"provider" : {
+		"@type" : "Organization",
+		"name" : {{ .Site.Title -}},
+		"sameAs" : {{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" }}
+	}
+}
+{{- end }}
+
+
+{{- if isset .Site.Taxonomies .Section -}}
+,{
+	"@context" : "http://schema.org",
+	"@type" : "BlogPosting",
+	"headline" : {{ .Title -}},
+	"articleBody" : {{ .Content | plainify | chomp -}},
+	"wordCount" : {{ .FuzzyWordCount }},
+	"datePublished" : {{ if .Date.IsZero -}}{{- .Site.Params.nonexistingdate -}}{{- else -}}{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" -}}{{- end }},
+	"dateModified" : {{ if .Lastmod.IsZero -}}{{- .Site.Params.nonexistingdate -}}{{- else -}}{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" -}}{{- end }},
+	"image" : {{ if .Params.image -}}{{ delimit (slice .Site.BaseURL .Params.image) "" -}}{{- else -}}{{- delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}}{{- end }}, 
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": {{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" -}}
+	},
+	"publisher" : {
+			"@type": "Organization",	
+			"name" : {{ .Site.Title -}},
+			"email" : {{ .Site.Params.contact -}},
+			"logo" : {{ delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}},
+			"url" : {{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" -}}
+	},
+	"author" : {
+			"@type": "Organization",	
+			"name" : {{ .Site.Title -}},
+			"email" : {{ .Site.Params.contact -}},
+			"url" : {{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" -}}
+	}
+	{{ with .Params.categories -}}, "keywords" : {{ delimit (sort .) ", " -}}{{- end }}
+}
+
+
+{{- if .Params.relmedia -}}
+,{
+	"@context" : "http://schema.org",
+	"@type" : "DigitalDocument",
+	"about" : {{ .Title -}},
+	"fileFormat" : {{ partial "domainlink" (dict "content" . "path" .Params.relmedia) -}},
+	"url" : {{ partial "domainlink" (dict "content" . "path" .Params.relmedia) -}},
+	"license" : {{ .Site.Params.license -}}
+}
+{{- end -}}
+{{- end }}
+]
+</script>
+
+

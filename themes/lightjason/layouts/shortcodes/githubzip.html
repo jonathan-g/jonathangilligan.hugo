@@ -1,0 +1,1 @@
+<a href="https://github.com/{{- (.Get "user") -}}/{{- (.Get "repo") -}}/archive/{{- (.Get "branch" | default "master") -}}.zip">{{- .Get "text" | default (delimit (slice (.Get "branch" | default "master") ".zip") "") -}}</a>

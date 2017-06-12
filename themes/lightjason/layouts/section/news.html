@@ -1,0 +1,22 @@
+{{ define "main" -}}
+    {{- $baseurl := .Site.BaseURL -}} 
+	<span class="category_control"><a href="#" class="category_showall">show all</a></span>
+	<ul>
+    {{- range .Data.Pages.ByDate.Reverse -}} 
+		    <li class="spread">
+				{{- if (isset .Params "relmedia") -}}
+				<a href="{{ .Params.relmedia }}">{{- .Title -}}</a>
+				{{- else -}}
+				<a href="{{ .Permalink }}">{{- .Title -}}</a>
+				{{- end -}}
+				{{- if not .Date.IsZero -}}<time> ({{- .Date.Format "Mon, Jan 2, 2006" -}}) </time>{{- end -}}
+			    {{ with .Params.categories -}} [{{ delimit (apply (apply (sort .) "partial" "categories" ".") "chomp" ".") ", " }}] {{- end -}}
+			    <br/>
+				<span class="info">
+			    {{- .Render "summary" -}}
+				</span>
+		    </li>
+	{{- end }}
+	</ul>
+{{- end }}
+      

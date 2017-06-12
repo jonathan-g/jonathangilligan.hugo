@@ -1,0 +1,28 @@
+{{- range sort .Site.Params.person ".family" "desc" -}}
+{{- $given := .name.given -}}
+{{- $family := .name.family -}}
+
+<blockquote>
+{{- $given }} {{ .name.middle }} {{ $family -}}
+{{- with .image -}}<img src="{{- . -}}#contact" alt="{{- $given }} {{ $family -}}"/>{{- end -}}
+<br/>
+<em>{{- replace .email "@" " [at] " -}}</em>
+{{- if .links -}}
+<br/>
+{{- range .links -}}
+	<a href="{{- .url -}}" target="_blank">
+	{{- if .image -}}	
+	<img src="{{- .image -}}" alt="{{- .name -}}" />
+	{{- else -}}
+	{{- .name -}}
+	{{- end -}}
+	</a>
+{{ end -}}
+{{- end -}}
+<br/><br/>
+{{- delimit .work ", " -}}
+</blockquote>
+<p></p>
+
+{{- end -}}
+    

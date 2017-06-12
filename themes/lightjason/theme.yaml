@@ -1,0 +1,16 @@
+name         : "LightJason"
+license      : "LGPL"
+licenselink  : "https://www.gnu.org/licenses/lgpl-3.0.en.html"
+description  : "A documentation theme ported from Hugo Alabaster Theme"
+tags         : ["documentation", "alabaster", "sphinx"]
+features     : []
+min_version  : 0.16
+
+author:
+    name     : "Philipp Kraus"
+    homepage : "http://flashpixx.de"
+
+original:
+    name     : "Digitalcraftsman"
+    homepage : "https://digitalcraftsman.github.io/hugo-alabaster-theme/"
+    repo     : "https://github.com/digitalcraftsman/hugo-alabaster-themer"

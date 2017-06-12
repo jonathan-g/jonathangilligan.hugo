@@ -1,0 +1,10 @@
+{{- if or .Params.next .Params.previous -}}
+<div class="sitepagination">
+    {{- if .Params.previous -}}
+    <div class="left"><a href="{{- .Params.previous.url -}}">{{- .Params.previous.text -}}</a> previous page</div>
+    {{- end -}}
+    {{- if .Params.next -}}
+    <div class="right">next page <a href="{{- .Params.next.url -}}">{{- .Params.next.text -}}</a></div>
+    {{- end -}}
+</div>    
+{{- end -}}

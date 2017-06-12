@@ -1,0 +1,24 @@
+{{ partial "header" . -}} 
+<div class="document">
+	<div id="nav">&#9776;</div>
+	<div class="documentwrapper">
+		<div class="bodywrapper">
+			<div class="body">
+				<h1 id="root"><a href="#root">{{ if .Title -}}{{ .Title }}{{ else }}{{ .Site.Title }}{{- end }}</a></h1>
+				{{ block "main" . -}}{{- end }} 
+				{{ partial "publication" . -}}
+			</div>
+			{{- if .IsHome -}}
+				{{ range first 1 (where .Site.Pages "Type" "homepage") -}}
+					{{- partial "pagination" . -}}
+				{{- end -}}
+			{{- else -}}
+				{{- partial "pagination" . -}}
+			{{- end -}}
+		</div>
+	</div>	
+	{{ partial "menu" . -}}
+	<div class="clear"></div>	 
+</div>
+
+{{ partialCached "footer" . -}} 

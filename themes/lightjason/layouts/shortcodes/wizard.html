@@ -1,0 +1,100 @@
+{{- $generateid := (.Get "generateid") -}}
+{{- $wizardid := (.Get "wizardid") -}}
+{{- $user := .Get "user" -}}
+{{- $repo := .Get "repo" -}}
+{{- $branch := delimit (slice "?ref=" (.Get "branch" | default "master")) "" | string -}}
+{{- $inner := .Inner | safeJS -}}
+
+<script>
+jQuery(function() {
+
+    var lf_keytoupper = function( po_object ) { var lo = {}; Object.keys( po_object ).forEach( function( i ) { lo[i.toUpperCase()] = po_object[i]; } ); return lo; }
+    var lf_replacewithkey = function( pc_string, po_object ) { var lc = pc_string; Object.keys( po_object ).forEach( function( i ) { lc = lc.replace(i, po_object[i], "g" ); } ); return lc; }
+    var lf_renderzip = function( po_zip, po_config ) { po_zip.file( po_config.prefix + "/" + lf_replacewithkey( po_config.filename, po_config ).replace(/[.](?=.*[.])/g, "/"), Mustache.render( po_config.filecontent, po_config ) ); }
+
+	/**
+     * define wizard
+     * @see http://search.maven.org/solrsearch/select?q=g:%22org.lightjason.agentspeak%22&core=gav
+     */
+    jQuery({{- $wizardid -}}).steps({ 
+        headerTag: "h3",
+        bodyTag: "section",
+        transitionEffect: "slideLeft",
+        enableFinishButton: true,
+        enablePagination: false,
+        enableAllSteps: true,
+        titleTemplate: "#title#",
+        cssClass: "tabcontrol",
+        onStepChanging: function(p_event, p_current, p_new) {
+            
+            var ll_result = true;
+            jQuery(this).find("section:nth(" + p_current + ")").find(".required").each(function() {
+                ll_result = ll_result && ( jQuery(this).val().trim().length > 0 );
+                if ( jQuery(this).val() == "")
+                    jQuery(this).addClass("error");
+                else
+                    jQuery(this).removeClass("error");
+            } );
+            return ll_result;
+        }
+     });
+
+
+	jQuery({{- $generateid -}}).click(function() {
+
+            var lf_configsandbox = function() {
+                
+                var createValueListFromSelect = function( pc_id, pf_call ) {
+                    return  pf_call instanceof Function
+                            ? jQuery(pc_id + " option").map(function() { return pf_call( jQuery(this).val() ); }).get()
+                            : jQuery(pc_id + " option").map(function() { return jQuery(this).val(); }).get();
+                };
+
+                return { {{- $inner -}} };    
+            };
+
+            var lo_zip = new JSZip();
+            var lo_configuration = lf_configsandbox();
+            lo_configuration = jQuery.extend( 
+                {
+                    "function_toupper" : function() { return function( pc_text, po_render ) { return po_render( pc_text ).toUpperCase(); } },
+                    "function_tolower" : function() { return function( pc_text, po_render ) { return po_render( pc_text ).toLowerCase(); } }
+                }, 
+                lo_configuration, 
+                lf_keytoupper(lo_configuration)
+            );
+
+            {{ range $filename := (split (.Get "file") ",") }}
+
+                {{- $file := getJSON "https://api.github.com/repos/" $user "/" $repo "/contents/" $filename $branch -}}
+
+                lo_configuration.filename = {{- $filename -}};
+                lo_configuration.filecontent = {{- $file.content | base64Decode -}};
+
+                if ( jQuery.type( lo_configuration[{{- $filename -}}] ) !== "object" )
+                    lf_renderzip( lo_zip, lo_configuration );
+                else
+                {
+                    lo_configuration[{{- $filename -}}].list.forEach( function( i ) {
+
+                        var lo = jQuery.extend( {}, lo_configuration );
+                        if ( lo[{{- $filename -}}].target instanceof Function )
+                            lo = lo[{{- $filename -}}].target( lo, i );
+                        else
+                            lo[ lo[{{- $filename -}}].target ] = i;
+                        
+                        delete lo[{{- $filename -}}]
+                        lo = jQuery.extend( lo, lf_keytoupper(lo) );
+                        lf_renderzip( lo_zip, lo );
+                    } );
+                }    
+
+            {{ end }}
+
+
+			lo_zip.generateAsync({ type: "blob" }).then( function(p_blob) { saveAs( p_blob, lo_configuration.prefix + ".zip" ); } );
+
+	});
+
+} );
+</script>
