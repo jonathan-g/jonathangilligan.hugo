@@ -1,10 +1,10 @@
-{{ template "partials/header.html" . }}
+{{ partial "header.html" . }}
 <body lang="en" itemscope itemtype="http://schema.org/Article">
 
   <div id="topbar">
     <div class="wrapper">
       <header>
-        {{ template "partials/sidebar.html" . }}
+        {{ partial "sidebar.html" . }}
 
         {{ $baseurl := .Site.BaseURL }}
       </header>

@@ -1,5 +1,6 @@
 ---
 MetaDataFormat: "yaml"
+theme: "kjh"
 contentdir: "content"
 layoutdir: "layouts"
 datadir: "data"
