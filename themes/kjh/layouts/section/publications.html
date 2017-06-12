@@ -1,0 +1,120 @@
+{{ partial "header.html" . }}
+<body lang="en" itemscope itemtype="http://schema.org/Article">
+  <div id="topbar">
+    <div class="wrapper">
+      <header>
+        
+        {{ template "partials/sidebar.html" . }}
+
+        {{ $baseurl := .Site.BaseURL }}
+      </header>
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="units-row">
+      <div lass="unit-100">
+        <p><a href="/vita.pdf"><em>Curriculum Vitae</em></a><a href="/vita.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a></p>
+        <p>Much of my research has been about exchange in human blood and organs, cultural goods, software, and ideas. My current work focuses on the moral order of market society, the effect of models and measurement on social classification, and the link between those two topics, especially in the consumer credit market. I'm also interested in techniques and methods for data visualization.</p>
+      </div>
+    </div>
+  </div>  
+  <div class="wrapper">
+    <div class="units-row">
+      <div class="unit-50">
+        <h2>Working Papers</h2>
+          {{ range (where .Data.Pages "Type" "unpublished").GroupByDate "2006" "desc" }}
+          <div class="units-row">
+            <div class="unit-10">
+              <h3>{{ .Key }}</h3>
+            </div>
+            <div class="unit-90">
+              <ul class="compact fa-ul">
+	        {{ range .Pages.ByDate.Reverse }}
+                <li><i class="fa-li fa fa-file-o fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }} 
+                  <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                  {{ if isset .Params "file" }}
+                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  {{ end }}
+                </li>
+	        {{ end }}
+              </ul>              
+            </div>	
+          </div>
+          {{ end }}
+        <h2>Articles and Book Chapters</h2>
+          {{ range (where .Data.Pages "Type" "published").GroupByDate "2006" "desc" }}
+          <div class="units-row">
+            <div class="unit-10">
+              <h3>{{ .Key }}</h3>
+            </div>
+            <div class="unit-90">
+              <ul class="compact fa-ul">
+	        {{ range .Pages.ByDate.Reverse }}
+                <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
+                  <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                  {{ if isset .Params "file" }}
+                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  {{ end }}
+                </li>
+	        {{ end }}
+              </ul>              
+            </div>	
+          </div>
+          {{ end }}
+        </div>
+
+      <div class="unit-50">
+      <h2>Retired Papers</h2>
+          <!-- Column of even-numbered items -->
+          {{ range (where .Data.Pages "Type" "retired").GroupByDate "2006" "desc" }}
+          <div class="units-row">
+            <div class="unit-10">
+              <h3>{{ .Key }}</h3>
+            </div>
+            <div class="unit-90">
+              <ul class="compact fa-ul">
+	        {{ range .Pages.ByDate.Reverse }}
+                <li><i class="fa-li fa  {{ if eq .Type "retired" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
+                  <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                  {{ if isset .Params "file" }}
+                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  {{ end }}
+                </li>
+	        {{ end }}
+              </ul>              
+            </div>	
+          </div>
+          {{ end }}
+          <h2>Essays and Reviews</h2>
+          {{ range (where .Data.Pages "Type" "other").GroupByDate "2006" "desc" }}
+          <div class="units-row">
+            <div class="unit-10">
+              <h3>{{ .Key }}</h3>
+            </div>
+            <div class="unit-90">
+              <ul class="compact fa-ul">
+	        {{ range .Pages.ByDate.Reverse }}
+                <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
+                  <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                  {{ if isset .Params "file" }}
+                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  {{ end }}
+                </li>
+	        {{ end }}
+              </ul>              
+            </div>	
+          </div>
+          {{ end }} 
+        </div>
+    </div> 
+
+
+</div>
+
+<hr class="separator">
+
+{{ partial "whatisthis.html" . }}
+
+{{ partial "foot.html" . }}
+</body>
+</html>
