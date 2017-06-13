@@ -19,15 +19,21 @@ relativeUrls: true
 enableRobotsTXT: true
 menu:
   main:
+      - Name: "What's New"
+        URL: "/whats_new"
+        Weight: 2
+      - Name: "Research"
+        URL: "/research"
+        Weight: 3
       - Name: "Publications"
         URL: "/publications"
-        Weight: 2
+        Weight: 4
       - Name: "Teaching"
         URL: "/teaching"
-        Weight: 4
+        Weight: 5
       - Name: "Blog"
         URL: "/blog"
-        Weight: 5
+        Weight: 6
 permalinks:
   blog: /blog/archives/:year/:month/:day/:slug
   archive: /blog/archives/

@@ -68,7 +68,7 @@
         ]
       ]
     },
-    "note": " Featured by Taylor & Francis publishers as part of their observance of World Water Day 2017. T&F opened free access to the article and published an accompanying “Research Story” with background on the article: <http://explore.tandfonline.com/page/gen/world-water-day-2017>.",
+    "note": " Featured by Taylor & Francis publishers as part of their observance of World Water Day 2017. T&F opened free access to the article and published an accompanying “Research Story” with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>.",
     "page": "508-524",
     "title": "Drinking water insecurity: Water quality and access in coastal south-western Bangladesh",
     "title-short": "Drinking water insecurity",
@@ -77,7 +77,7 @@
   },
   {
     "DOI": "10.1109/WSC.2016.7822216",
-    "URL": "http://papers.ssrn.com/abstract=2807452",
+    "URL": "https://papers.ssrn.com/abstract=2807452",
     "abstract": "Drought and water scarcity are growing challenges to agriculture around the world. Farmers can adapt through both individual and community-based collective actions. We draw on extensive field-work conducted with paddy farmers in rural Sri Lanka to study adaptations to water scarcity, including switching to less water-intensive crops, farming collectively on shared land, and individually turning to groundwater by digging wells. We explore how variability in climate affects agricultural decision-making at the community and individual levels using three types of decision-making, each characterized by an objective function: risk-averse expected utility, regret-adjusted expected utility, and prospect theory loss-aversion. We also assess how the introduction of individualized access to irrigation water with wells affects community-based drought mitigation practices. Preliminary results suggest that the growth of well-irrigation may produce sudden disruptions to community-based adaptations, but that this depends on the mental models farmers use to think about risk and make decisions under uncertainty.",
     "author": [
       {
@@ -135,7 +135,7 @@
   {
     "DOI": "10.5194/isprs-archives-XLI-B2-465-2016",
     "ISSN": "1682-1750",
-    "URL": "http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/",
+    "URL": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/",
     "accessed": {
       "date-parts": [
         [
@@ -266,7 +266,7 @@
   },
   {
     "DOI": "10.1109/WSC.2016.7822215",
-    "URL": "http://arxiv.org/abs/1603.08961",
+    "URL": "https://arxiv.org/abs/1603.08961",
     "abstract": "Despite much scientific evidence, a large fraction of the American public doubts that greenhouse gases are causing global warming. We present a simulation model as a computational test-bed for climate prediction markets. Traders adapt their beliefs about future temperatures based on the profits of other traders in their social network. We simulate two alternative climate futures, in which global temperatures are primarily driven either by carbon dioxide or by solar irradiance. These represent, respectively, the scientific consensus and a hypothesis advanced by prominent skeptics. We conduct sensitivity analyses to determine how a variety of factors describing both the market and the physical climate may affect traders’ beliefs about the cause of global climate change. Market participation causes most traders to converge quickly toward believing the “true” climate model, suggesting that a climate market could be useful for building public consensus.",
     "accessed": {
       "date-parts": [
@@ -439,7 +439,7 @@
   {
     "DOI": "10.1038/nclimate2620",
     "ISSN": "1758-678X",
-    "URL": "http://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html",
+    "URL": "https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html",
     "accessed": {
       "date-parts": [
         [
@@ -509,7 +509,7 @@
   {
     "DOI": "10.1109/WSC.2015.7408456",
     "ISBN": "978-1-4673-9741-4",
-    "URL": "http://ieeexplore.ieee.org/document/7408456/",
+    "URL": "https://ieeexplore.ieee.org/document/7408456/",
     "accessed": {
       "date-parts": [
         [
@@ -630,7 +630,7 @@
   {
     "DOI": "10.1109/WSC.2015.7408381",
     "ISBN": "978-1-4673-9741-4",
-    "URL": "http://dl.acm.org/citation.cfm?id=2888619.2888935",
+    "URL": "https://dl.acm.org/citation.cfm?id=2888619.2888935",
     "accessed": {
       "date-parts": [
         [
@@ -695,7 +695,7 @@
   },
   {
     "DOI": "10.2139/ssrn.2533643",
-    "URL": "http://www.columbiaenvironmentallaw.org/beyond-gridlock/",
+    "URL": "https://www.columbiaenvironmentallaw.org/beyond-gridlock/",
     "author": [
       {
         "family": "Vandenbergh",

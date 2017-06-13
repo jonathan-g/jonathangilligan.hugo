@@ -17,5 +17,5 @@ min_version = "0.22"
 # If porting an existing theme
 [original]
   name = "Kieran Healy"
-  homepage = "http://kieranhealy.org"
+  homepage = "https://kieranhealy.org"
   repo = "https://github.com/kjhealy/hieranhealy.hugo"

@@ -3,7 +3,7 @@
  * @version 0.1.6
  *
  * @author Steve Whiteley & Philipp Kraus
- * @see http://teletype.rocks
+ * @see https://teletype.rocks
  * @see https://github.com/stvwhtly/jquery-teletype-plugin
  *
  * Copyright (c) 2015-2017 Steve Whiteley & Philipp Kraus

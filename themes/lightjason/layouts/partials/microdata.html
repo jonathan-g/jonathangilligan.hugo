@@ -12,7 +12,7 @@
 
 <script type="application/ld+json">
 [{
-	"@context": "http://schema.org",
+	"@context": "https://schema.org",
 	"@type": "Organization",	
 	"name" : {{ .Site.Title -}},
 	"email" : {{ .Site.Params.contact -}},
@@ -44,7 +44,7 @@
 
 
 {
-	"@context": "http://schema.org",
+	"@context": "https://schema.org",
 	"@type": "WebSite",
 	"name": {{ .Site.Title -}},
 	"alternateName": {{ .Site.Title -}},
@@ -78,7 +78,7 @@
 
 {{- if in .Params.jsonld "techarticle" }}
 ,{
-	"@context" : "http://schema.org",
+	"@context" : "https://schema.org",
 	"@type" : "TechArticle",
 	"headline" : {{ .Title -}},
 	"proficiencyLevel" : {{ if .Params.difficulty -}}{{- .Params.difficulty -}}{{- else -}}"Beginner"{{- end -}},
@@ -91,7 +91,7 @@
 
 {{- if in .Params.jsonld "course" }}
 ,{
-	"@context" : "http://schema.org",
+	"@context" : "https://schema.org",
 	"@type" : "Course",
 	"name" : {{ .Title -}},
 	"description" : {{ .Params.description | default (replaceRE "\n+" " " (replace (.Summary | markdownify | plainify) "Contents [Hide]" "")) -}},
@@ -106,7 +106,7 @@
 
 {{- if isset .Site.Taxonomies .Section -}}
 ,{
-	"@context" : "http://schema.org",
+	"@context" : "https://schema.org",
 	"@type" : "BlogPosting",
 	"headline" : {{ .Title -}},
 	"articleBody" : {{ .Content | plainify | chomp -}},
@@ -137,7 +137,7 @@
 
 {{- if .Params.relmedia -}}
 ,{
-	"@context" : "http://schema.org",
+	"@context" : "https://schema.org",
 	"@type" : "DigitalDocument",
 	"about" : {{ .Title -}},
 	"fileFormat" : {{ partial "domainlink" (dict "content" . "path" .Params.relmedia) -}},
