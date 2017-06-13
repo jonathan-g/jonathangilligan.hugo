@@ -4,7 +4,7 @@
     <div class="wrapper">
       <header>
 
-        {{ template "partials/sidebar.html" . }}
+        {{ partial "sidebar.html" . }}
 
         {{ $baseurl := .Site.BaseURL }}
       </header>
@@ -27,9 +27,17 @@
     <div class="units-row">
       <div class="unit-50">
         <h2>Publications</h2>
-        <ul>        
-          {{ range $publication := sort .Site.Data.publicationa "issued" "desc" }}
-          {{ partial "publication" $publication }}
+        <ul>
+          {{ range $.Site.Data.publications.jg_pubs }}
+          {{ $.Scratch.Set "pub" . }}
+          {{ $year := index ($.Scratch.Get "pub") "issued" "date-parts" 0 0 }}
+          {{ $.Scratch.SetInMap "pub" "year" $year }}
+          {{ $.Scratch.Add "pubs" (slice ($.Scratch.Get "pub")) }}
+          {{ end }}
+          {{ $pubs := $.Scratch.Get "pubs" }}
+
+          {{ range sort $pubs ".year" "desc" }}
+          {{ partial "publication.html" . }}
 	        {{ end }}
         </ul>
       </div>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+  <channel>
+      <title>404s on jonathangilligan.org </title>
+    <link>https://www.jgilligan.org/404/</link>
+    <language>en-us</language>
+    <author>Jonathan Gilligan</author>
+    <rights>Copyright (c) Jonathan Gilligan.</rights>
+    <updated>Mon, 01 Jan 0001 00:00:00 CST</updated>
+    
+    <item>
+      <title>404</title>
+      <link>https://www.jgilligan.org/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/404/</guid>
+      <description>&lt;h2&gt;404: File not found&lt;/h2&gt;
+
+&lt;h4&gt;Sorry, that doesn&#39;t seem to be here&lt;/h4&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

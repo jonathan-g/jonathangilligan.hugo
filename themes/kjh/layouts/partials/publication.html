@@ -11,6 +11,8 @@
     <br/>
     {{ delimit (apply (apply  $publication.author "partial" "author" ".") "chomp" ".") ", " }}
 
+    <br/> Year: {{ $publication.year }}
+
     <br/>
     {{- if isset $publication "collection-title" | and (index $publication "collection-title") }}
         {{ index $publication "collection-title" }}

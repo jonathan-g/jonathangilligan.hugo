@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+  <channel>
+      <title>Teaching on jonathangilligan.org </title>
+    <link>https://www.jgilligan.org/teaching/</link>
+    <language>en-us</language>
+    <author>Jonathan Gilligan</author>
+    <rights>Copyright (c) Jonathan Gilligan.</rights>
+    <updated>Mon, 08 Jan 2018 00:00:00 CST</updated>
+    
+    <item>
+      <title>Data Science Methods for Smart City Applications</title>
+      <link>https://www.jgilligan.org/teaching/smart_cities/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/teaching/smart_cities/</guid>
+      <description>&lt;p&gt;A &lt;em&gt;University Course&lt;/em&gt; offered under the auspices of the Vanderbilt Strategic Plan, this team-taught, project-based course will integrate technological and socio-economic approaches to challenges facing metropolitan areas experiencing unprecedented growth. It will address the infrastructure and resources needed for sustainable development and to maintain quality of life.&lt;/p&gt;
+
+&lt;p&gt;By applying a technology-driven, internet-of-things framework to the smart cities concept of urban development, this course will address ethical and justice concerns that include privacy and equitable access to data. Through immersive field research experiences and cross-disciplinary learning activities, students will be able to link the “biology of learning” to innovative, applied social science research experiences.&lt;/p&gt;
+
+&lt;p&gt;Taught jointly by faculty from Engineering, Peabody and Arts &amp;amp; Sciences, this course will combine lectures on the fundamental material with a semester-long, interdisciplinary group project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Climate Change</title>
+      <link>https://www.jgilligan.org/teaching/global_climate_change/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/teaching/global_climate_change/</guid>
+      <description>&lt;p&gt;This course, for undergraduate and graduate students, has three major parts:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;We cover the &lt;strong&gt;basic scientific
+principles&lt;/strong&gt; of how the earth&amp;rsquo;s climate functions, causes of climate change
+(both natural and human), and examining how these theories compare to the
+evidence from direct measurements and the geological record of climate over
+the past several million years.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We study &lt;strong&gt;impacts and possible responses to climate change&lt;/strong&gt;:
+How is climate likely to change in the future,
+how might this affect people&amp;rsquo;s lives,
+and what can be done both to adapt to life in a changing climate and to limit the severity of future climate change. Much of this section
+uses methods from economics to assess the risks of climate change and the relative
+advantages and disadvantages of different policy options.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We study the &lt;strong&gt;politics of climate change&lt;/strong&gt;: how does the political process
+respond to the risks of climate change, what makes proposed policies more or
+less likely to succeed, and what characteristics might make proposed climate policies
+more likely to be adopted into practice?&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A laboratory section gives students a chance to work with interactive
+computer-based climate models and examine data from climate monitoring networks
+and the geological record.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;syllabus-pdf-files-teaching-ees-3310-5310-syllabus-pdf&#34;&gt;&lt;a href=&#34;../files/teaching/EES_3310_5310_Syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agent- and Individual-Based Computational Modeling</title>
+      <link>https://www.jgilligan.org/teaching/agent_based_modeling/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/teaching/agent_based_modeling/</guid>
+      <description>&lt;p&gt;This course (for undergraduate and graduate students) introduces agent-based
+and individual-based computational modeling with applications to
+ecological, social, and behavioral sciences and engineering. It covers
+designing and programming models and using the mnodels to conduct
+experiments.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;syllabus-pdf-files-teaching-ees-4760-5760-syllabus-pdf&#34;&gt;&lt;a href=&#34;../files/teaching/EES_4760_5760_Syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;/h4&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
