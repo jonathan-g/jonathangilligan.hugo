@@ -30,4 +30,4 @@ and the geological record.
 
 <!--more-->
 
-#### [Syllabus (PDF)](https://www.jonathangilligan.org/files/teaching/EES_3310_5310_Syllabus.pdf)
+#### [Syllabus (PDF)](/files/teaching/EES_3310_5310_Syllabus.pdf)

@@ -15,4 +15,4 @@ experiments.
 
 <!--more-->
 
-#### [Syllabus (PDF)](http://www.jonathangilligan.org/files/teaching/EES_4760_5760_Syllabus.pdf)
+#### [Syllabus (PDF)](/files/teaching/EES_4760_5760_Syllabus.pdf)
