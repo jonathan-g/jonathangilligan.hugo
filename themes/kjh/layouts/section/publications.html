@@ -28,6 +28,7 @@
       <div class="unit-50">
         <h2>Publications</h2>
         <ul>
+          {{ $.Scratch.Set "pubs" (slice) }}
           {{ range $.Site.Data.publications.jg_pubs }}
           {{ $.Scratch.Set "pub" . }}
           {{ $year := index ($.Scratch.Get "pub") "issued" "date-parts" 0 0 }}
