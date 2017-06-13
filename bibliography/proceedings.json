@@ -1,0 +1,816 @@
+[
+  {
+    "DOI": "10.1109/WSC.2016.7822216",
+    "URL": "https://papers.ssrn.com/abstract=2807452",
+    "abstract": "Drought and water scarcity are growing challenges to agriculture around the world. Farmers can adapt through both individual and community-based collective actions. We draw on extensive field-work conducted with paddy farmers in rural Sri Lanka to study adaptations to water scarcity, including switching to less water-intensive crops, farming collectively on shared land, and individually turning to groundwater by digging wells. We explore how variability in climate affects agricultural decision-making at the community and individual levels using three types of decision-making, each characterized by an objective function: risk-averse expected utility, regret-adjusted expected utility, and prospect theory loss-aversion. We also assess how the introduction of individualized access to irrigation water with wells affects community-based drought mitigation practices. Preliminary results suggest that the growth of well-irrigation may produce sudden disruptions to community-based adaptations, but that this depends on the mental models farmers use to think about risk and make decisions under uncertainty.",
+    "author": [
+      {
+        "family": "Burchfield",
+        "given": "Emily K."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M."
+      }
+    ],
+    "collection-title": "WSC’16",
+    "container-title": "Proceedings of the 2016 winter simulation conference",
+    "editor": [
+      {
+        "family": "Roeder",
+        "given": "T.M.K."
+      },
+      {
+        "family": "Frazier",
+        "given": "P.I."
+      },
+      {
+        "family": "Szechtman",
+        "given": "R."
+      },
+      {
+        "family": "Zhou",
+        "given": "E."
+      },
+      {
+        "family": "Huschka",
+        "given": "T."
+      },
+      {
+        "family": "Chick",
+        "given": "S.E."
+      }
+    ],
+    "id": "burchfield:abm:2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "Agent-based models, Agriculture, Climate adaptation, common-pool resources, decision science, drought, Prospect Theory, Sustainability",
+    "page": "1678-1689",
+    "publisher": "IEEE Press",
+    "publisher-place": "Piscataway, NJ, USA",
+    "title": "Dynamics of individual and collective agricultural adaptation to water scarcity",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/WSC.2016.7822215",
+    "URL": "https://arxiv.org/abs/1603.08961",
+    "abstract": "Despite much scientific evidence, a large fraction of the American public doubts that greenhouse gases are causing global warming. We present a simulation model as a computational test-bed for climate prediction markets. Traders adapt their beliefs about future temperatures based on the profits of other traders in their social network. We simulate two alternative climate futures, in which global temperatures are primarily driven either by carbon dioxide or by solar irradiance. These represent, respectively, the scientific consensus and a hypothesis advanced by prominent skeptics. We conduct sensitivity analyses to determine how a variety of factors describing both the market and the physical climate may affect traders’ beliefs about the cause of global climate change. Market participation causes most traders to converge quickly toward believing the “true” climate model, suggesting that a climate market could be useful for building public consensus.",
+    "accessed": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Nay",
+        "given": "John J."
+      },
+      {
+        "family": "Van der Linden",
+        "given": "Martin"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M."
+      }
+    ],
+    "collection-title": "WSC’16",
+    "container-title": "Proceedings of the 2016 winter simulation conference",
+    "editor": [
+      {
+        "family": "Roeder",
+        "given": "T.M.K."
+      },
+      {
+        "family": "Frazier",
+        "given": "P.I."
+      },
+      {
+        "family": "Szechtman",
+        "given": "R."
+      },
+      {
+        "family": "Zhou",
+        "given": "E."
+      },
+      {
+        "family": "Huschka",
+        "given": "T."
+      },
+      {
+        "family": "Chick",
+        "given": "S.E."
+      }
+    ],
+    "id": "nay:prediction.market:2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative Finance - Economics",
+    "page": "1666-1677",
+    "publisher": "IEEE Press",
+    "publisher-place": "Piscataway, NJ, USA",
+    "title": "Betting and belief: Prediction markets and attribution of climate change",
+    "title-short": "Betting and Belief",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/WSC.2015.7408456",
+    "ISBN": "978-1-4673-9741-4",
+    "URL": "https://ieeexplore.ieee.org/document/7408456/",
+    "accessed": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M."
+      },
+      {
+        "family": "Brady",
+        "given": "Corey"
+      },
+      {
+        "family": "Camp",
+        "given": "Janey V."
+      },
+      {
+        "family": "Nay",
+        "given": "John J."
+      },
+      {
+        "family": "Sengupta",
+        "given": "Pratim"
+      }
+    ],
+    "collection-title": "WSC ’15",
+    "container-title": "Proceedings of the 2015 Winter Simulation Conference",
+    "editor": [
+      {
+        "family": "Yilmaz",
+        "given": "L."
+      },
+      {
+        "family": "Chan",
+        "given": "W.K.V."
+      },
+      {
+        "family": "Moon",
+        "given": "I."
+      },
+      {
+        "family": "Roeder",
+        "given": "T.M.K."
+      },
+      {
+        "family": "Macal",
+        "given": "C."
+      },
+      {
+        "family": "Rossetti",
+        "given": "M.D."
+      }
+    ],
+    "id": "gilligan:flood.partsim:2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "note": "00000",
+    "page": "3174-3175",
+    "publisher": "IEEE Press",
+    "publisher-place": "Piscataway, NJ, USA",
+    "title": "Participatory simulations of urban flooding for learning and decision support",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/WSC.2015.7408381",
+    "ISBN": "978-1-4673-9741-4",
+    "URL": "https://dl.acm.org/citation.cfm?id=2888619.2888935",
+    "accessed": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Nay",
+        "given": "John J."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M."
+      }
+    ],
+    "collection-title": "WSC ’15",
+    "container-title": "Proceedings of the 2015 winter simulation conference",
+    "editor": [
+      {
+        "family": "Yilmaz",
+        "given": "L."
+      },
+      {
+        "family": "Chan",
+        "given": "W.K.V."
+      },
+      {
+        "family": "Moon",
+        "given": "I."
+      },
+      {
+        "family": "Roeder",
+        "given": "T.M.K."
+      },
+      {
+        "family": "Macal",
+        "given": "C."
+      },
+      {
+        "family": "Rossetti",
+        "given": "M.D."
+      }
+    ],
+    "id": "nay:decision.models:2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "note": "00000",
+    "page": "2752-2763",
+    "publisher": "IEEE Press",
+    "publisher-place": "Piscataway, NJ, USA",
+    "title": "Data-driven dynamic decision models",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M."
+      },
+      {
+        "family": "Ackerly",
+        "given": "Brooke A."
+      },
+      {
+        "family": "Goodbred",
+        "given": "Steven L."
+      }
+    ],
+    "container-title": "Bridging the policy-action divide: Challenges and prospects for bangladesh",
+    "id": "gilligan:isee.bangladesh:2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "publisher": "Bangladesh Development Initiative",
+    "publisher-place": "Berkeley, CA",
+    "title": "Building resilience to environmental stress in coastal Bangladesh: An integrated social, environmental, and engineering perspective",
+    "title-short": "Building resilience to environmental stress in coastal Bangladesh",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "Kimberly G."
+      },
+      {
+        "family": "Syvitski",
+        "given": "James P.M."
+      },
+      {
+        "family": "Overeem",
+        "given": "Irina"
+      },
+      {
+        "family": "Higgins",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M."
+      }
+    ],
+    "collection-title": "IAHS publ.",
+    "container-title": "Deltas: Landforms, ecosystems and human activities",
+    "id": "rogers:farming.practices:2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "133-142",
+    "publisher": "Int’l. Assoc. Hydrolog. Sci.",
+    "publisher-place": "Gothenberg SE",
+    "title": "Farming practices and anthropogenic delta dynamics",
+    "type": "paper-conference",
+    "volume": "358"
+  },
+  {
+    "author": [
+      {
+        "family": "Sturmann",
+        "given": "Judit"
+      },
+      {
+        "family": "Marka",
+        "given": "Z"
+      },
+      {
+        "family": "Albert",
+        "given": "MM"
+      },
+      {
+        "family": "Albridge",
+        "given": "Royal G"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan M"
+      },
+      {
+        "family": "Luepke",
+        "given": "Gunter"
+      },
+      {
+        "family": "Singh",
+        "given": "SK"
+      },
+      {
+        "family": "Davidson",
+        "given": "Jeffrey L"
+      },
+      {
+        "family": "Husinsky",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Tolk",
+        "given": "Norman H"
+      }
+    ],
+    "container-title": "Nonresonant laser-matter interaction (nlmi-10)",
+    "id": "sturmann:fel.diamond:2001",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "206-211",
+    "publisher": "International Society for Optics; Photonics",
+    "title": "Infrared free-electron laser photoablation of diamond films",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobol",
+        "given": "Emil"
+      },
+      {
+        "family": "Sviridov",
+        "given": "Aleksandr"
+      },
+      {
+        "family": "Kitai",
+        "given": "Moshe"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Edwards",
+        "given": "Glenn S."
+      }
+    ],
+    "container-title": "International biomedical optics symposium",
+    "id": "sobol:tissue:2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "78",
+    "publisher": "SPIE",
+    "title": "Alteration of absorption coefficients of tissue water as a result of heating under IR FEL radiation with different wavelengths",
+    "type": "paper-conference",
+    "volume": "3925"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobol",
+        "given": "E."
+      },
+      {
+        "family": "Sviridov",
+        "given": "A."
+      },
+      {
+        "family": "Kitai",
+        "given": "M."
+      },
+      {
+        "family": "Edwards",
+        "given": "Glenn S."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Tolk",
+        "given": "Norman Henry"
+      }
+    ],
+    "container-title": "International biomedical optics symposium",
+    "id": "sobol:tissue.denaturation:1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "122-129",
+    "publisher": "SPIE",
+    "title": "Effect of wavelength on threshold and kinetics of tissue denaturation under laser radiation",
+    "type": "paper-conference",
+    "volume": "3601"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Elkins",
+        "given": "James W."
+      },
+      {
+        "family": "Fahey",
+        "given": "David W."
+      },
+      {
+        "family": "Dutton",
+        "given": "G. S."
+      },
+      {
+        "family": "Volk",
+        "given": "C. M."
+      },
+      {
+        "family": "Baring",
+        "given": "T. J."
+      },
+      {
+        "family": "Dunn",
+        "given": "R. E."
+      },
+      {
+        "family": "Myers",
+        "given": "R. C."
+      }
+    ],
+    "container-title": "Atmospheric effects of aviation project workshop",
+    "id": "gilligan:cl.budgets:1994",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "title": "Refinement of the total organic and inorganic chlorine budgets in the atmosphere with a new <i>in situ</i> instrument, airborne chromatograph for atmospheric trace species (<sc>acats-iv</sc>)",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Eichmann",
+        "given": "Ullrich"
+      },
+      {
+        "family": "Bergquist",
+        "given": "James C."
+      },
+      {
+        "family": "Bollinger",
+        "given": "John J."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Itano",
+        "given": "Wayne M."
+      },
+      {
+        "family": "Raizen",
+        "given": "J. G."
+      },
+      {
+        "family": "Wineland",
+        "given": "David J."
+      }
+    ],
+    "container-title": "Proceedings of the 11<sup>th</sup> international conference on laser science",
+    "id": "eichmann:interference:1993",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "43-48",
+    "title": "Interference in the resonance fluorescence of two trapped atoms",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Itano",
+        "given": "Wayne M."
+      },
+      {
+        "family": "Eichmann",
+        "given": "Ullrich"
+      },
+      {
+        "family": "Bergquist",
+        "given": "James C."
+      },
+      {
+        "family": "Bollinger",
+        "given": "John J."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Raizen",
+        "given": "Mark G."
+      },
+      {
+        "family": "Wineland",
+        "given": "David J."
+      }
+    ],
+    "container-title": "Proceedings of the 11<sup>th</sup> international conference on laser science",
+    "id": "itano:two.atoms:1993",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "410-419",
+    "title": "Light scattered from two atoms",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wineland",
+        "given": "David J."
+      },
+      {
+        "family": "Bergquist",
+        "given": "James C."
+      },
+      {
+        "family": "Bollinger",
+        "given": "John J."
+      },
+      {
+        "family": "Itano",
+        "given": "Wayne M."
+      },
+      {
+        "family": "Moore",
+        "given": "Fred L."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Raizen",
+        "given": "Mark G."
+      },
+      {
+        "family": "Heinzen",
+        "given": "Daniel J."
+      },
+      {
+        "family": "Weimer",
+        "given": "Carl S."
+      },
+      {
+        "family": "Manney",
+        "given": "C. H."
+      }
+    ],
+    "container-title": "Proceedings of the Enrico Fermi summer school on laser manipulation of atoms and ions, July 1991, Varenna, Italy",
+    "id": "wineland:trapped.ions:1991b",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "553-567",
+    "title": "Recent experiments on trapped ions at the National Institute of Standards and Technology",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wineland",
+        "given": "David J."
+      },
+      {
+        "family": "Bergquist",
+        "given": "James C."
+      },
+      {
+        "family": "Bollinger",
+        "given": "John J."
+      },
+      {
+        "family": "Itano",
+        "given": "Wayne M."
+      },
+      {
+        "family": "Moore",
+        "given": "Fred L."
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "Raizen",
+        "given": "Mark G."
+      },
+      {
+        "family": "Heinzen",
+        "given": "Daniel J."
+      },
+      {
+        "family": "Weimer",
+        "given": "Carl S."
+      },
+      {
+        "family": "Manney",
+        "given": "C. H."
+      }
+    ],
+    "container-title": "Proceedings of the Enrico Fermi summer school on laser manipulation of atoms and ions, July 1991, Varenna, Italy",
+    "id": "wineland:trapped.ions:1991a",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "539-551",
+    "title": "High-resolution spectroscopy of laser-cooled ions",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Eyler",
+        "given": "Edward Eugene"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      },
+      {
+        "family": "McCormack",
+        "given": "Elizabeth"
+      }
+    ],
+    "collection-title": "AIP conference proceedings",
+    "container-title": "Advances in laser spectroscopy iii",
+    "id": "eyler:multiphoton:1988",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "331-333",
+    "title": "Precise multiphoton spectroscopy of H2",
+    "type": "paper-conference",
+    "volume": "172"
+  },
+  {
+    "author": [
+      {
+        "family": "Eyler",
+        "given": "Edward Eugene"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      }
+    ],
+    "collection-title": "AIP conference proceedings",
+    "container-title": "Advances in laser spectroscopy ii",
+    "id": "eyler:multiphoton:1987",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "388-390",
+    "title": "Precise multiphoton spectroscopy of excited states of H2",
+    "type": "paper-conference",
+    "volume": "160"
+  },
+  {
+    "author": [
+      {
+        "family": "McCormack",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Eyler",
+        "given": "Edward Eugene"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan Mark"
+      }
+    ],
+    "collection-title": "Technical digest series",
+    "container-title": "Proceedings of the xv international conference on quantum electronics",
+    "id": "mccormack:multiphoton:1987",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "58-60",
+    "publisher": "Optical Society of America",
+    "title": "Precise photodissociation and multiphoton spectroscopy of H2",
+    "type": "paper-conference",
+    "volume": "21"
+  }
+]

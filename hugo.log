@@ -1,0 +1,77 @@
+INFO 2017/06/13 01:45:59 Using config file: 
+INFO 2017/06/13 01:45:59 using a UnionFS for static directory comprised of:
+INFO 2017/06/13 01:45:59 Base: F:\JG_Documents\web_sites\personal\jgilligan.hugo\themes\kjh\static
+INFO 2017/06/13 01:45:59 Overlay: F:\JG_Documents\web_sites\personal\jgilligan.hugo\static\
+INFO 2017/06/13 01:45:59 syncing static files to F:\JG_Documents\web_sites\personal\jgilligan.hugo\public\
+WARN 2017/06/13 01:45:59 No translation bundle found for default language "en"
+WARN 2017/06/13 01:45:59 Translation func for language en not found, use default.
+WARN 2017/06/13 01:45:59 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/06/13 01:45:59 Started building sites ...
+INFO 2017/06/13 01:45:59 found taxonomies: map[string]string{"category":"categories"}
+WARN 2017/06/13 01:45:59 [en] Unable to locate layout for "section": [section/403.html.html section/403.html 403/list.html.html 403/list.html _default/section.html.html _default/section.html _default/list.html.html _default/list.html indexes/403.html.html indexes/403.html _default/indexes.html.html _default/indexes.html theme/section/403.html.html theme/section/403.html theme/403/list.html.html theme/403/list.html theme/_default/section.html.html theme/_default/section.html theme/_default/list.html.html theme/_default/list.html theme/indexes/403.html.html theme/indexes/403.html theme/_default/indexes.html.html theme/_default/indexes.html]
+WARN 2017/06/13 01:45:59 [en] Unable to locate layout for "section": [section/404.html.html section/404.html 404/list.html.html 404/list.html _default/section.html.html _default/section.html _default/list.html.html _default/list.html indexes/404.html.html indexes/404.html _default/indexes.html.html _default/indexes.html theme/section/404.html.html theme/section/404.html theme/404/list.html.html theme/404/list.html theme/_default/section.html.html theme/_default/section.html theme/_default/list.html.html theme/_default/list.html theme/indexes/404.html.html theme/indexes/404.html theme/_default/indexes.html.html theme/_default/indexes.html]
+LOG:   2017/06/13 01:45:59 Built site for language en:
+LOG:   2017/06/13 01:45:59 0 draft content
+LOG:   2017/06/13 01:45:59 0 future content
+LOG:   2017/06/13 01:45:59 0 expired content
+LOG:   2017/06/13 01:45:59 4 regular pages created
+LOG:   2017/06/13 01:45:59 10 other pages created
+LOG:   2017/06/13 01:45:59 0 non-page files copied
+LOG:   2017/06/13 01:45:59 0 paginator pages created
+LOG:   2017/06/13 01:45:59 0 categories created
+LOG:   2017/06/13 01:45:59 total in 67 ms
+INFO 2017/06/13 01:46:50 Using config file: 
+INFO 2017/06/13 01:46:50 using a UnionFS for static directory comprised of:
+INFO 2017/06/13 01:46:50 Base: F:\JG_Documents\web_sites\personal\jgilligan.hugo\themes\kjh\static
+INFO 2017/06/13 01:46:50 Overlay: F:\JG_Documents\web_sites\personal\jgilligan.hugo\static\
+INFO 2017/06/13 01:46:50 syncing static files to F:\JG_Documents\web_sites\personal\jgilligan.hugo\public\
+WARN 2017/06/13 01:46:50 No translation bundle found for default language "en"
+WARN 2017/06/13 01:46:50 Translation func for language en not found, use default.
+WARN 2017/06/13 01:46:50 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/06/13 01:46:50 Started building sites ...
+INFO 2017/06/13 01:46:50 found taxonomies: map[string]string{"category":"categories"}
+WARN 2017/06/13 01:46:50 [en] Unable to locate layout for "section": [section/403.html.html section/403.html 403/list.html.html 403/list.html _default/section.html.html _default/section.html _default/list.html.html _default/list.html indexes/403.html.html indexes/403.html _default/indexes.html.html _default/indexes.html theme/section/403.html.html theme/section/403.html theme/403/list.html.html theme/403/list.html theme/_default/section.html.html theme/_default/section.html theme/_default/list.html.html theme/_default/list.html theme/indexes/403.html.html theme/indexes/403.html theme/_default/indexes.html.html theme/_default/indexes.html]
+WARN 2017/06/13 01:46:50 [en] Unable to locate layout for "section": [section/404.html.html section/404.html 404/list.html.html 404/list.html _default/section.html.html _default/section.html _default/list.html.html _default/list.html indexes/404.html.html indexes/404.html _default/indexes.html.html _default/indexes.html theme/section/404.html.html theme/section/404.html theme/404/list.html.html theme/404/list.html theme/_default/section.html.html theme/_default/section.html theme/_default/list.html.html theme/_default/list.html theme/indexes/404.html.html theme/indexes/404.html theme/_default/indexes.html.html theme/_default/indexes.html]
+LOG:   2017/06/13 01:46:50 Built site for language en:
+LOG:   2017/06/13 01:46:50 0 draft content
+LOG:   2017/06/13 01:46:50 0 future content
+LOG:   2017/06/13 01:46:50 0 expired content
+LOG:   2017/06/13 01:46:50 4 regular pages created
+LOG:   2017/06/13 01:46:50 10 other pages created
+LOG:   2017/06/13 01:46:50 0 non-page files copied
+LOG:   2017/06/13 01:46:50 0 paginator pages created
+LOG:   2017/06/13 01:46:50 0 categories created
+LOG:   2017/06/13 01:46:50 total in 51 ms
+INFO 2017/06/13 01:48:01 Using config file: 
+INFO 2017/06/13 01:48:01 using a UnionFS for static directory comprised of:
+INFO 2017/06/13 01:48:01 Base: F:\JG_Documents\web_sites\personal\jgilligan.hugo\themes\kjh\static
+INFO 2017/06/13 01:48:01 Overlay: F:\JG_Documents\web_sites\personal\jgilligan.hugo\static\
+INFO 2017/06/13 01:48:01 syncing static files to F:\JG_Documents\web_sites\personal\jgilligan.hugo\public\
+WARN 2017/06/13 01:48:02 No translation bundle found for default language "en"
+WARN 2017/06/13 01:48:02 Translation func for language en not found, use default.
+WARN 2017/06/13 01:48:02 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/06/13 01:48:02 Started building sites ...
+INFO 2017/06/13 01:48:02 found taxonomies: map[string]string{"category":"categories"}
+WARN 2017/06/13 01:48:02 [en] Unable to locate layout for "section": [section/403.html.html section/403.html 403/list.html.html 403/list.html _default/section.html.html _default/section.html _default/list.html.html _default/list.html indexes/403.html.html indexes/403.html _default/indexes.html.html _default/indexes.html theme/section/403.html.html theme/section/403.html theme/403/list.html.html theme/403/list.html theme/_default/section.html.html theme/_default/section.html theme/_default/list.html.html theme/_default/list.html theme/indexes/403.html.html theme/indexes/403.html theme/_default/indexes.html.html theme/_default/indexes.html]
+WARN 2017/06/13 01:48:02 [en] Unable to locate layout for "section": [section/404.html.html section/404.html 404/list.html.html 404/list.html _default/section.html.html _default/section.html _default/list.html.html _default/list.html indexes/404.html.html indexes/404.html _default/indexes.html.html _default/indexes.html theme/section/404.html.html theme/section/404.html theme/404/list.html.html theme/404/list.html theme/_default/section.html.html theme/_default/section.html theme/_default/list.html.html theme/_default/list.html theme/indexes/404.html.html theme/indexes/404.html theme/_default/indexes.html.html theme/_default/indexes.html]
+LOG:   2017/06/13 01:48:02 Built site for language en:
+LOG:   2017/06/13 01:48:02 0 draft content
+LOG:   2017/06/13 01:48:02 0 future content
+LOG:   2017/06/13 01:48:02 0 expired content
+LOG:   2017/06/13 01:48:02 4 regular pages created
+LOG:   2017/06/13 01:48:02 10 other pages created
+LOG:   2017/06/13 01:48:02 0 non-page files copied
+LOG:   2017/06/13 01:48:02 0 paginator pages created
+LOG:   2017/06/13 01:48:02 0 categories created
+LOG:   2017/06/13 01:48:02 total in 46 ms
+INFO 2017/06/13 01:53:05 Using config file: 
+INFO 2017/06/13 01:53:05 using a UnionFS for static directory comprised of:
+INFO 2017/06/13 01:53:05 Base: F:\JG_Documents\web_sites\personal\jgilligan.hugo\themes\kjh\static
+INFO 2017/06/13 01:53:05 Overlay: F:\JG_Documents\web_sites\personal\jgilligan.hugo\static\
+INFO 2017/06/13 01:53:05 syncing static files to F:\JG_Documents\web_sites\personal\jgilligan.hugo\public\
+WARN 2017/06/13 01:53:06 No translation bundle found for default language "en"
+WARN 2017/06/13 01:53:06 Translation func for language en not found, use default.
+WARN 2017/06/13 01:53:06 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/06/13 01:53:06 Started building sites ...
+INFO 2017/06/13 01:53:06 found taxonomies: map[string]string{"category":"categories"}
+ERROR 2017/06/13 01:53:06 Error while rendering "page": template: theme/publications/single.html:20:82: executing "theme/publications/single.html" at <safeHTML>: wrong number of args for safeHTML: want 1 got 0

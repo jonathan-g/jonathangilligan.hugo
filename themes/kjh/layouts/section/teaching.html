@@ -3,7 +3,7 @@
   <div id="topbar">
     <div class="wrapper">
       <header>
-        
+
         {{ partial "sidebar.html" . }}
 
         {{ $baseurl := .Site.BaseURL }}
@@ -24,7 +24,7 @@
           <div class="unit-90">
             <ul class="fa-ul">
               {{ range .Pages }}
-              <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"> 
+              <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">
                   <a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>
                   <p>{{ .Summary }}</p>
               </li>
@@ -35,7 +35,9 @@
         {{ end }}
       </div>
       <div class="unit-30">
-        <p><em>Some of the classes I have offered in recent years, including pointers to upcoming courses and other resources, when they are available. Classes are listed once but are typically taught more frequently than that.</em></p>
+        <p><em>Some of the classes I have offered in recent years, including pointers
+               to upcoming courses and other resources, when they are available.
+                Classes are listed only for the most recent time I have taught them.</em></p>
       </div>
     </div>
   </div>

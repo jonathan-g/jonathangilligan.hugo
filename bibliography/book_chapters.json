@@ -1,0 +1,125 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ackerly",
+        "given": "Brooke A."
+      },
+      {
+        "family": "Anam",
+        "given": "Mujibul"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan"
+      }
+    ],
+    "container-title": "Environment, migration and adaptation: Evidence and politics of climate change in bangladesh",
+    "editor": [
+      {
+        "family": "Mallick",
+        "given": "Bishawjit"
+      },
+      {
+        "family": "Etzold",
+        "given": "Benjamin"
+      }
+    ],
+    "id": "ackerly:political.economies:2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "27-39",
+    "publisher": "AHDPH",
+    "publisher-place": "Dhaka",
+    "title": "Environment, political economies, and livelihood change",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilligan",
+        "given": "Jonathan"
+      }
+    ],
+    "container-title": "Opposing viewpoints: Ethics",
+    "editor": [
+      {
+        "family": "Espejo",
+        "given": "R."
+      }
+    ],
+    "id": "gilligan:ethics.geological.time:2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "20-32",
+    "publisher": "Gale",
+    "title": "People should behave ethically for the sake of future generations",
+    "type": "chapter",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Ackerly",
+        "given": "Brooke A."
+      },
+      {
+        "family": "Anam",
+        "given": "Mujibul"
+      },
+      {
+        "family": "Gilligan",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Goodbred",
+        "given": "Steven"
+      }
+    ],
+    "container-title": "Climate change, migration, and human rights",
+    "editor": [
+      {
+        "family": "Manou",
+        "given": "Dimitra"
+      },
+      {
+        "family": "Baldwin",
+        "given": "Andrew"
+      },
+      {
+        "family": "Cubie",
+        "given": "Dug"
+      },
+      {
+        "family": "Mijr",
+        "given": "Anja"
+      },
+      {
+        "family": "Thorp",
+        "given": "Teresa"
+      }
+    ],
+    "id": "ackerly:migration:2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "status": "In press",
+    "title": "Climate and community: The human rights, livelihood, and migration impacts of climate change",
+    "title-short": "Climate and community",
+    "type": "chapter"
+  }
+]
