@@ -6,7 +6,7 @@
 	<header>
 		<nav class="navbar">
 			<ul>
-				<li class="hd"><span><a href="{{ $baseurl }}"><b>consequently.org</b></a></span></li>
+				<li class="hd"><span><a href="{{ $baseurl }}"><b>jonathangilligan.org</b></a></span></li>
 				<li><a href="{{ $baseurl }}/news">News</a></li>
 				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
 				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
@@ -19,7 +19,7 @@
 </div>
 </div>
 
-<div class="wrapper">		
+<div class="wrapper">
 
 <div class="units-row">
 
@@ -29,8 +29,8 @@
 	There is no page here at the address you requested. Perhaps try a search to find what you are looking for?
 </p>
 					<form method="get" action="https://duckduckgo.com/">
-				<input type="search" name="q" maxlength="255" placeholder="Search consequently.org">
-			<input type="hidden" name="sites" value="consequently.org"/>
+				<input type="search" name="q" maxlength="255" placeholder="Search jonathangilligan.org">
+			<input type="hidden" name="sites" value="jonathangilligan.org"/>
 			   <input type="hidden" name="ka" value="Alegreya"/>
 			   <input type="hidden" name="k7" value="#faf8f8"/>
 			   <input type="hidden" name="kj" value="#b33"/>
@@ -52,53 +52,53 @@
 
 
 
-<footer class="group">	
-<nav class="navbar navbar-right"><a href="news">&rarr; All News</a></nav> 
+<footer class="group">
+<nav class="navbar navbar-right"><a href="news">&rarr; All News</a></nav>
 </footer>
 
 <h2>Recent Writing</h2>
 <ul class="compact fa-ul">
         {{ range first 5 (where .Data.Pages.ByDate "Section" "writing").Reverse }}
-        <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }} 
+        <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
 <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
 {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>{{ end }}
         </li>
 		{{ end }}
 </ul>
-			
-<footer class="group">	
-<nav class="navbar navbar-right"><a href="writing">&rarr; All Writing</a></nav> 
+
+<footer class="group">
+<nav class="navbar navbar-right"><a href="writing">&rarr; All Writing</a></nav>
 </footer>
 
-		
+
 		<h2>Recent &amp; Upcoming Presentations</h2>
 	  <ul class="compact fa-ul">
         {{ range (where .Data.Pages.ByDate "Section" "presentation").Reverse }}
 	    {{ if (ge .Date.Unix now.Unix) }}
 		{{ if (le .Date.Unix (add now.Unix 10368000)) }}
         <li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><em>{{ .Title | safeHTML }}</em></a>, {{ .Params.host | safeHTML }} ({{ .Date.Format "2 January 2006" }}). {{ partial "comingsoon.html" . }}
-</li>		
+</li>
 		{{ end }}
 		{{ end }}
 		{{ if (ge now.Unix .Date.Unix ) }}
 	    {{ if (le now.Unix (add .Date.Unix 12368000)) }}
         <li><i class="fa-li fa fa-comment-o fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><em>{{ .Title | safeHTML }}</em></a>, {{ .Params.host | safeHTML }} ({{ .Date.Format "2 January 2006" }}).
-</li>		
+</li>
 		{{ end }}
 		{{ end }}
 		{{ end }}
 </ul>
-<footer class="group">	
-<nav class="navbar navbar-right"><a href="presentation">&rarr; All Presentations</a></nav> 
+<footer class="group">
+<nav class="navbar navbar-right"><a href="presentation">&rarr; All Presentations</a></nav>
 </footer>
-			
-<h2>Recent &amp; Upcoming Classes</h2>			
+
+<h2>Recent &amp; Upcoming Classes</h2>
 	  <ul class="compact fa-ul">
         {{ range (where .Data.Pages.ByDate "Section" "class").Reverse }}
 	    {{ if (ge .Date.Unix now.Unix) }}
 		{{ if (le .Date.Unix (add now.Unix 7776000)) }}
         <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.  {{ partial "comingsoon.html" . }}
-</li>		
+</li>
 		{{ end }}
 		{{ end }}
 		{{ end }}
@@ -107,7 +107,7 @@
 	    {{ if (le .Date.Unix now.Unix) }}
 		{{ if (le now.Unix (add .Date.Unix .Params.duration)) }}
         <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. {{ partial "nowon.html" . }}
-</li>		
+</li>
 		{{ end }}
 		{{ end }}
 		{{ end }}
@@ -117,18 +117,18 @@
 	    {{ if (le now.Unix (add $classend 10368000)) }}
 
         <li><i class="fa-li fa {{ if eq .Params.host "coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. <span class="badge badge-small">completed</span>
-</li>		
+</li>
 		{{ end }}
 		{{ end }}
 		{{ end }}
 </ul>
 
 
-<footer class="group">	
-<nav class="navbar navbar-right"><a href="class">&rarr; All Classes</a></nav> 
+<footer class="group">
+<nav class="navbar navbar-right"><a href="class">&rarr; All Classes</a></nav>
 </footer>
 </div>
-</div>	
+</div>
 
 </div><!-- /end .wrapper -->
 
