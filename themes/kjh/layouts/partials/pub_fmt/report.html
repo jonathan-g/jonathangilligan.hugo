@@ -1,0 +1,14 @@
+<i>{{- .Params.title | safeHTML -}}</i>
+
+<br/>
+{{ delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " }}
+
+<br/>
+{{- if isset .Params "publisher" }}
+  ({{ if isset .Params "publisher-place" | and (index .Params "publisher-place") }}
+    {{- index .Params "publisher-place" -}}:
+  {{ end }}
+  {{ .Params.publisher }})
+{{ end -}}
+
+{{- if isset .Params "ISBN" }}, ISBN: {{ .Params.ISBN }}{{ end -}}

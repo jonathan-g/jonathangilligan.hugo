@@ -1,0 +1,17 @@
+{{- .Params.title | safeHTML -}}
+
+<br/>
+{{ delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " }}
+
+<br/>
+{{ if isset .Params "container-title" | and (index .Params "container-title") -}}
+    <i>{{ index .Params "container-title" }}</i>
+{{- end -}}
+
+{{- if (isset .Params "volume") | and (not (eq .Params.volume "")) }}
+        <b> {{ .Params.volume }}</b>
+{{- end -}}
+
+{{- if (isset .Params "page") | and (not (eq .Params.page "")) -}}
+        , {{ .Params.page -}}
+{{ end -}}
