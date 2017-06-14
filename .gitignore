@@ -1,0 +1,5 @@
+.spyproject
+*.bak
+*.sav
+*.blg
+public/
