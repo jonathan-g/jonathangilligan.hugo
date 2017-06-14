@@ -1,5 +1,6 @@
 .spyproject
 *.bak
-*.sav
 *.blg
+*.log
+*.sav
 public/
