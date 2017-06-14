@@ -25,6 +25,7 @@ pub_type: paper-conference
 pub_url: https://papers.ssrn.com/abstract=2807452
 publisher: IEEE Press
 publisher-place: Piscataway, NJ, USA
+status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity
 ---
 Drought and water scarcity are growing challenges to agriculture around the world. Farmers can adapt through both individual and community-based collective actions. We draw on extensive field-work conducted with paddy farmers in rural Sri Lanka to study adaptations to water scarcity, including switching to less water-intensive crops, farming collectively on shared land, and individually turning to groundwater by digging wells. We explore how variability in climate affects agricultural decision-making at the community and individual levels using three types of decision-making, each characterized by an objective function: risk-averse expected utility, regret-adjusted expected utility, and prospect theory loss-aversion. We also assess how the introduction of individualized access to irrigation water with wells affects community-based drought mitigation practices. Preliminary results suggest that the growth of well-irrigation may produce sudden disruptions to community-based adaptations, but that this depends on the mental models farmers use to think about risk and make decisions under uncertainty.

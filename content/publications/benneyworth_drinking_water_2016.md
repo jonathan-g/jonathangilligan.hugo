@@ -24,6 +24,7 @@ note: " Featured by Taylor & Francis publishers as part of their observance of W
   \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
 page: 508-524
 pub_type: article-journal
+status: published
 title: 'Drinking water insecurity: Water quality and access in coastal south-western
   Bangladesh'
 volume: '26'

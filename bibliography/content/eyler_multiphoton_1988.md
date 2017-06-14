@@ -11,6 +11,7 @@ issued:
 - {year: '1988'}
 page: 331-333
 pub_type: paper-conference
+status: published
 title: Precise multiphoton spectroscopy of H2
 volume: '172'
 ---

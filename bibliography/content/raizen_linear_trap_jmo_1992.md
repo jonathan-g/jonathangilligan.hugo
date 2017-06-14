@@ -12,6 +12,7 @@ issued:
 - {year: '1992'}
 page: 233-242
 pub_type: article-journal
+status: published
 title: Linear trap for high-accuracy spectroscopy of stored ions
 volume: '39'
 ---

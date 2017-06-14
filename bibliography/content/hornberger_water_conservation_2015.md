@@ -15,6 +15,7 @@ issued:
 keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
 page: 4635-4649
 pub_type: article-journal
+status: published
 title: Water conservation and hydrological transitions in cities in the United States
 volume: '51'
 ---

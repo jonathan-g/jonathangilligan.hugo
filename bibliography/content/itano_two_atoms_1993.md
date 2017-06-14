@@ -14,5 +14,6 @@ issued:
 - {year: '1993'}
 page: 410-419
 pub_type: paper-conference
+status: published
 title: Light scattered from two atoms
 ---

@@ -16,6 +16,7 @@ issued:
 - {year: '2009'}
 page: 18452-18456
 pub_type: article-journal
+status: published
 title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
   emissions
 volume: '106'

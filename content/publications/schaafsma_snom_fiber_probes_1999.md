@@ -18,6 +18,7 @@ issued:
 - {year: '1999'}
 page: 77-81
 pub_type: article-journal
+status: published
 title: Singlemode chalcogenide fiber infrared SNOM probes
 volume: '77'
 ---

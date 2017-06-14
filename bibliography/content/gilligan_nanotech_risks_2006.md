@@ -9,6 +9,7 @@ issued:
 - {year: '2006'}
 page: 10924-10930
 pub_type: article-journal
+status: published
 title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
   risks'
 volume: '36'

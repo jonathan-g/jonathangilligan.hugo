@@ -9,6 +9,7 @@ issued:
 - {year: '1992'}
 page: 3676-3690
 pub_type: article-journal
+status: published
 title: Precise determinations of ionization potentials and $EF$ state energy levels
   of H$_2$, HD, and D$_2$
 volume: '46'

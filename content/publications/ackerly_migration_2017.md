@@ -1,4 +1,5 @@
 ---
+ISBN: 978-1138655942
 author:
 - {family: Ackerly, given: Brooke A.}
 - {family: Anam, given: Mujibul}
@@ -16,7 +17,9 @@ id: ackerly_migration_2017
 issued:
 - {year: '2017'}
 pub_type: chapter
-status: In press
+publisher: Routledge
+publisher-place: New York
+status: published
 title: 'Climate and community: The human rights, livelihood, and migration impacts
   of climate change'
 ---

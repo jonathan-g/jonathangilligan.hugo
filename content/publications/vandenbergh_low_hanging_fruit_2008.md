@@ -12,6 +12,7 @@ issued:
 - {year: '2008'}
 page: 1701-1758
 pub_type: article-journal
+status: published
 title: 'Individual carbon emissions: The low-hanging fruit'
 volume: '55'
 ---

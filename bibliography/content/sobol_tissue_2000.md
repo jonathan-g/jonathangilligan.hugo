@@ -13,6 +13,7 @@ issued:
 page: '78'
 pub_type: paper-conference
 publisher: SPIE
+status: published
 title: Alteration of absorption coefficients of tissue water as a result of heating
   under IR FEL radiation with different wavelengths
 volume: '3925'

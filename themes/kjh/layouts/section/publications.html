@@ -36,7 +36,7 @@
             <div class="unit-90">
               <ul class="compact fa-ul">
 	        {{ range .Pages.ByDate.Reverse }}
-                <li><i class="fa-li fa  fa-file fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ partial "publication" . }}
+                <li><i class="fa-li fa  {{ if eq .Params.pub_status "unpublished" }}fa-file-o {{ else if eq .Params.pub_type "book" }}fa-book {{ else if eq .Params.pub_type "patent" }}fa-flask {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ partial "publication" . }}
                   <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
                   {{ if isset .Params "file" }}
                   {{- range where .Params.file "desc" "full text" -}}

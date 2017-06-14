@@ -12,6 +12,7 @@ issued:
 - {year: '2014'}
 page: 1-26
 pub_type: article-journal
+status: published
 title: Accounting for political feasibility in climate instrument choice
 volume: '32'
 ---

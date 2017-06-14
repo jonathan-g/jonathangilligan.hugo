@@ -16,6 +16,7 @@ note: ' Selected by Environmental Law Institute to reprint as the featured cover
   of the 2010 summer reading issue for policymakers of Environmental Forum.'
 page: 547-554
 pub_type: article-journal
+status: published
 title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
   emissions reduction programs'
 volume: '40'

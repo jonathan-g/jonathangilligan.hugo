@@ -21,6 +21,7 @@ issued:
 - {year: '1998'}
 page: 676-679
 pub_type: article-journal
+status: published
 title: Molecular effects in measured sputtering yields on gold at near threshold energies
 volume: '62'
 ---

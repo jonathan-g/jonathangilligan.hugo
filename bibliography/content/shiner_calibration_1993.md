@@ -11,6 +11,7 @@ issued:
 - {year: '1993'}
 page: 4042-4045
 pub_type: article-journal
+status: published
 title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
   lines
 volume: '47'

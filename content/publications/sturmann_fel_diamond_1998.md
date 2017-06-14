@@ -15,6 +15,7 @@ issued:
 - {year: '1998'}
 page: 59-63
 pub_type: article-journal
+status: published
 title: Infrared wavelength-selective photodesorption on diamond surfaces
 volume: '129'
 ---

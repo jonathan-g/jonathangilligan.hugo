@@ -16,6 +16,7 @@ issued:
 - {year: '1997'}
 page: 25543-25564
 pub_type: article-journal
+status: published
 title: Evaluation of source gas lifetimes from stratospheric observations
 volume: '102'
 ---

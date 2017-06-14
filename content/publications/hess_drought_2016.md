@@ -18,6 +18,7 @@ issued:
 page: 807-827
 pub_type: article-journal
 publisher: Wiley Online Library
+status: published
 title: Drought, risk, and institutional politics in the american southwest
 volume: '31'
 ---

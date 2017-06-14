@@ -11,6 +11,7 @@ issued:
 - {year: '1989'}
 page: 2260-2263
 pub_type: article-journal
+status: published
 title: Measurement of high Rydberg states and the ionization potential of H$_2$
 volume: '39'
 ---

@@ -18,5 +18,6 @@ issued:
 page: 206-211
 pub_type: paper-conference
 publisher: International Society for Optics; Photonics
+status: published
 title: Infrared free-electron laser photoablation of diamond films
 ---

@@ -14,6 +14,7 @@ issued:
 - {year: '2003'}
 page: 216-222
 pub_type: article-journal
+status: published
 title: Time-resolved light scattering measurements of cartilage and cornea denaturation
   due to free-electron laser radiation
 volume: '8'

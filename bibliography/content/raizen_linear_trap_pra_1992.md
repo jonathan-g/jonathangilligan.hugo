@@ -12,6 +12,7 @@ issued:
 - {year: '1992'}
 page: 6493-6501
 pub_type: article-journal
+status: published
 title: Ionic crystals in a linear Paul trap
 volume: '45'
 ---

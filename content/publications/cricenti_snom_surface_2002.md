@@ -17,6 +17,7 @@ issued:
 - {year: '2002'}
 page: 183-192
 pub_type: article-journal
+status: published
 title: Surface characterisation by near-field microscopy and atomic force microscopy
 volume: '32'
 ---

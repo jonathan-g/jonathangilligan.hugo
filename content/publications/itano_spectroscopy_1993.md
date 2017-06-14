@@ -15,6 +15,7 @@ issued:
 - {year: '1993'}
 page: 211-220
 pub_type: article-journal
+status: published
 title: Ultra-high precision spectroscopy for fundamental physics
 volume: '78'
 ---

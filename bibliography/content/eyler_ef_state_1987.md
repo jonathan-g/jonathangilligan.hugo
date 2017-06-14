@@ -12,6 +12,7 @@ issued:
 - {year: '1987'}
 page: 3486-3489
 pub_type: article-journal
+status: published
 title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
 volume: '36'
 ---

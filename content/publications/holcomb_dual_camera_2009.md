@@ -16,6 +16,7 @@ issued:
 note: ' *Selected by the editors as the feature article of the month.*'
 page: 1355-1372
 pub_type: article-journal
+status: published
 title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
   and metabolism
 volume: '234'

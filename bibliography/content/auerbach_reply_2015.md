@@ -20,6 +20,7 @@ issued:
 page: 492-493
 pub_type: article-journal
 pub_url: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
+status: published
 title: "Reply to \u2018Tidal river management in Bangladesh\u2019"
 volume: '5'
 ---

@@ -17,5 +17,6 @@ issued:
 - {day: '27', month: '4', year: '2010'}
 number: 7,704,745 B2
 pub_type: patent
+status: published
 title: Apparatus and methods for monitoring the status of a metabolically active cell
 ---

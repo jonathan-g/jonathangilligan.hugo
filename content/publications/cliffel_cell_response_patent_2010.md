@@ -12,6 +12,7 @@ issued:
 - {day: '11', month: '5', year: '2010'}
 number: 7,713,733 B2
 pub_type: patent
+status: published
 title: Device and methods for detecting the response of a plurality of cells to at
   least one analyte of interest
 ---

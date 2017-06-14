@@ -16,6 +16,7 @@ issued:
 note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
 page: 17-20
 pub_type: article-journal
+status: published
 title: The behavioral wedge
 volume: '7'
 ---

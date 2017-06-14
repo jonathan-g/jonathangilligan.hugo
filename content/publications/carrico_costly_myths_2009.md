@@ -15,6 +15,7 @@ issued:
 - {year: '2009'}
 page: 2881-2888
 pub_type: article-journal
+status: published
 title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
   vehicles'
 volume: '37'

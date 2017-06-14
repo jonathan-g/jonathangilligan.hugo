@@ -15,6 +15,7 @@ issued:
 - {year: '2002'}
 page: 621-625
 pub_type: article-journal
+status: published
 title: Defect transition energies and the density of electronic states in hydrogenated
   amorphous silicon
 volume: '299'

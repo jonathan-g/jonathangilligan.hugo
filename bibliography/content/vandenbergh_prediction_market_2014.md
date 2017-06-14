@@ -12,6 +12,7 @@ issued:
 - {year: '2014'}
 page: 1962-2017
 pub_type: article-journal
+status: published
 title: 'Energy and climate change: A climate prediction market'
 volume: '61'
 ---

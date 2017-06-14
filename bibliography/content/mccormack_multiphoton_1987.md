@@ -12,6 +12,7 @@ issued:
 page: 58-60
 pub_type: paper-conference
 publisher: Optical Society of America
+status: published
 title: Precise photodissociation and multiphoton spectroscopy of H2
 volume: '21'
 ---

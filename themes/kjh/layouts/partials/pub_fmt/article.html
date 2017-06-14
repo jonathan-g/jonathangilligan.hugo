@@ -1,9 +1,7 @@
-{{- .Params.title | safeHTML -}}
+&ldquo;{{- .Params.title | safeHTML -}}&rdquo;
 
-<br/>
 {{ delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " }}
 
-<br/>
 {{ if isset .Params "container-title" | and (index .Params "container-title") -}}
     <i>{{ index .Params "container-title" }}</i>
 {{- end -}}
@@ -14,4 +12,4 @@
 
 {{- if (isset .Params "page") | and (not (eq .Params.page "")) -}}
         , {{ .Params.page -}}
-{{ end -}}
+{{- end -}}.

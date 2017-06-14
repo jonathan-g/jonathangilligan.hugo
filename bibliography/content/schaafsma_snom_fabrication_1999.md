@@ -17,6 +17,7 @@ issued:
 - {year: '1999'}
 page: 1381-1385
 pub_type: article-journal
+status: published
 title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
   infrared optical microscopy
 volume: '38'

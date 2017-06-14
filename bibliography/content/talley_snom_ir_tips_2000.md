@@ -17,6 +17,7 @@ issued:
 - {year: '2000'}
 page: 339-344
 pub_type: article-journal
+status: published
 title: Scanning near field infrared microscopy using chalcogenide fiber tips
 volume: '42'
 ---

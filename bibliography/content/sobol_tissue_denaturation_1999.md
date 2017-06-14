@@ -14,6 +14,7 @@ issued:
 page: 122-129
 pub_type: paper-conference
 publisher: SPIE
+status: published
 title: Effect of wavelength on threshold and kinetics of tissue denaturation under
   laser radiation
 volume: '3601'

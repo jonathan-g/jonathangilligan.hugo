@@ -25,6 +25,7 @@ issued:
 - {year: '1995'}
 page: 3057-3064
 pub_type: article-journal
+status: published
 title: Estimates of total organic and inorganic chlorine in the lower stratosphere
   from *in situ* measurements during <span style="font-variant:small-caps;">aase ii</span>
 volume: '100'

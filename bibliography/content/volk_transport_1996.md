@@ -19,6 +19,7 @@ issued:
 - {year: '1996'}
 page: 1763-1768
 pub_type: article-journal
+status: published
 title: Quantifying transport between the tropical and mid-latitude lower stratosphere
 volume: '272'
 ---

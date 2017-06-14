@@ -18,5 +18,6 @@ issued:
 - {year: '1991'}
 page: 539-551
 pub_type: paper-conference
+status: published
 title: High-resolution spectroscopy of laser-cooled ions
 ---

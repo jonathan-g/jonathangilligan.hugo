@@ -14,6 +14,7 @@ issued:
 page: 217-303
 pub_type: article-journal
 pub_url: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
+status: published
 title: Beyond gridlock
 volume: '40'
 ---

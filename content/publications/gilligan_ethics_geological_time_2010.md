@@ -11,6 +11,7 @@ issued:
 page: 20-32
 pub_type: chapter
 publisher: Gale
+status: published
 title: People should behave ethically for the sake of future generations
 volume: '2'
 ---

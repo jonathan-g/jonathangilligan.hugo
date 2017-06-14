@@ -15,6 +15,7 @@ issued:
 keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
 page: 563-575
 pub_type: article-journal
+status: published
 title: "Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881\u20132010"
 volume: '36'
 ---

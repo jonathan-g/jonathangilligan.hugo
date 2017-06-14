@@ -9,6 +9,7 @@ issued:
 - {year: '1991'}
 page: 6406-6409
 pub_type: article-journal
+status: published
 title: High-resolution three-photon spectroscopy and multiphoton interference in molecular
   hydrogen
 volume: '43'

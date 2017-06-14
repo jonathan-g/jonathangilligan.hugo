@@ -14,6 +14,7 @@ issued:
 - {year: '1999'}
 page: 1069-1072
 pub_type: article-journal
+status: published
 title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
   in metals and semiconductors
 volume: '44'

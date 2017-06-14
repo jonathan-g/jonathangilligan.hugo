@@ -21,6 +21,7 @@ issued:
 - {year: '2015'}
 page: 152-157
 pub_type: article-journal
+status: published
 title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
   delta plain
 volume: '5'

@@ -18,6 +18,7 @@ issued:
 - {year: '1997'}
 page: 689-696
 pub_type: article-journal
+status: published
 title: Photoexcitation spectroscopy and material alteration with free-electron laser
 volume: '91'
 ---

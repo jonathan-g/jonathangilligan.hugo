@@ -19,6 +19,7 @@ issued:
 - {year: '1998'}
 page: 241-247
 pub_type: article-journal
+status: published
 title: First experimental results with the free electron laser coupled to a scanning
   near-field optical microscope
 volume: '170'

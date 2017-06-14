@@ -17,6 +17,7 @@ issued:
 - {year: '1998'}
 page: 4224-4227
 pub_type: article-journal
+status: published
 title: Coupled electron-hole dynamics at the Si/SiO2 interface
 volume: '81'
 ---

@@ -15,5 +15,6 @@ issued:
 - {year: '1993'}
 page: 169-183
 pub_type: article-journal
+status: published
 title: Quantum measurements of trapped ions
 ---

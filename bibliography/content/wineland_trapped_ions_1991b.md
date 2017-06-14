@@ -18,6 +18,7 @@ issued:
 - {year: '1991'}
 page: 553-567
 pub_type: paper-conference
+status: published
 title: Recent experiments on trapped ions at the National Institute of Standards and
   Technology
 ---

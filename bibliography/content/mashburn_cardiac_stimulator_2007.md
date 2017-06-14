@@ -13,6 +13,7 @@ issued:
 - {year: '2007'}
 page: 104302-104309
 pub_type: article-journal
+status: published
 title: A high-voltage cardiac stimulator for field shocks of a whole heart in a bath
 volume: '78'
 ---

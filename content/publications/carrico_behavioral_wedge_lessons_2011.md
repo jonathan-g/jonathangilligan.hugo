@@ -15,6 +15,7 @@ issued:
 - {year: '2011'}
 page: 61-67
 pub_type: article-journal
+status: published
 title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
 volume: '2'
 ---

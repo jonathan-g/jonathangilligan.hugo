@@ -17,6 +17,7 @@ issued:
 - {year: '2001'}
 page: 446-450
 pub_type: article-journal
+status: published
 title: "Spectroscopic scanning near-field optical microscopy with a free electron\
   \ laser: CH$_2$\_bond imaging in diamond films"
 volume: '202'

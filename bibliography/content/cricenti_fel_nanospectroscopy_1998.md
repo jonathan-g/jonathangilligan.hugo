@@ -14,6 +14,7 @@ issued:
 - {year: '1998'}
 page: 151-153
 pub_type: article-journal
+status: published
 title: Free-electron-laser near-field nanospectroscopy
 volume: '73'
 ---

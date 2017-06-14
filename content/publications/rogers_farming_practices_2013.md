@@ -17,6 +17,7 @@ page: 133-142
 pub_type: paper-conference
 publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
 publisher-place: Gothenberg SE
+status: published
 title: Farming practices and anthropogenic delta dynamics
 volume: '358'
 ---

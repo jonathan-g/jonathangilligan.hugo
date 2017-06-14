@@ -14,5 +14,6 @@ issued:
 - {year: '1993'}
 page: 43-48
 pub_type: paper-conference
+status: published
 title: Interference in the resonance fluorescence of two trapped atoms
 ---

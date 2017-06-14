@@ -10,6 +10,7 @@ issued:
 - {year: '1987'}
 page: 388-390
 pub_type: paper-conference
+status: published
 title: Precise multiphoton spectroscopy of excited states of H2
 volume: '160'
 ---

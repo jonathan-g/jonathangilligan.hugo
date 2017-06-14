@@ -18,6 +18,7 @@ issued:
 - {year: '1999'}
 page: 317-329
 pub_type: article-journal
+status: published
 title: Interface applications of scanning near-field optical microscopy with a free
   electron laser
 volume: '175'

@@ -20,6 +20,7 @@ issued:
 - {year: '1998'}
 page: 550-553
 pub_type: article-journal
+status: published
 title: New molecular collisional interaction effect in low-energy sputtering
 volume: '81'
 ---

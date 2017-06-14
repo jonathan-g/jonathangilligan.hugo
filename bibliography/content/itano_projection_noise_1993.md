@@ -13,6 +13,7 @@ issued:
 - {year: '1993'}
 page: 3554-3570
 pub_type: article-journal
+status: published
 title: 'Quantum projection noise: Population fluctuations in two-level systems'
 volume: '47'
 ---

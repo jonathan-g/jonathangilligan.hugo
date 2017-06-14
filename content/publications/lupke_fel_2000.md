@@ -14,6 +14,7 @@ issued:
 - {year: '2000'}
 page: 349-364
 pub_type: article-journal
+status: published
 title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
   selective materials modification'
 volume: '14'

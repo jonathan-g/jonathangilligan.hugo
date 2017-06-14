@@ -14,6 +14,7 @@ issued:
 pub_type: paper-conference
 publisher: Bangladesh Development Initiative
 publisher-place: Berkeley, CA
+status: published
 title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated
   social, environmental, and engineering perspective'
 ---

@@ -1,5 +1,6 @@
 <footer id="footer">
-<section class="wrapper small">Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://imperavi.com/kube/">Kube</a>. &copy; Jonathan Gilligan 2017&ndash;{{ now.Format "2006" }}. 
+<section class="wrapper small">Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://imperavi.com/kube/">Kube</a>. &copy; Jonathan Gilligan 2017{{if gt now.Year 2017}}&ndash;{{ now.Format "2006" }}{{end}}.
+Web site design inspired by <a href="http://kieranhealy.org" target="_blank">K.J. Healy</a>.
 </section>
 </footer>
 
@@ -12,7 +13,7 @@
 
   (function() {
     var ga = document.createElement('script');
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
         'https://www') + '.google-analytics.com/ga.js';
     ga.setAttribute('async', 'true');
     document.documentElement.firstChild.appendChild(ga);

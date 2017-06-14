@@ -1,0 +1,7 @@
+<i>{{- .Params.title | safeHTML -}}</i>
+
+<br/>
+{{ delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " }}
+
+<br/>
+Patent #{{ .Params.number }}, issued {{ .Date.Format "2 Jan. 2006" }}.

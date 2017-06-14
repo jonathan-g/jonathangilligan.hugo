@@ -32,6 +32,7 @@ issued:
 - {year: '1996'}
 page: 347-350
 pub_type: article-journal
+status: published
 title: Airborne gas chromatograph for *in situ* measurements of long-lived species
   in the upper troposphere and lower stratosphere
 volume: '23'

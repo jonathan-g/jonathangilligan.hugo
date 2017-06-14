@@ -11,6 +11,7 @@ issued:
 - {year: '2011'}
 page: 401-431
 pub_type: article-journal
+status: published
 title: 'Macro-risks: The challenge for rational risk regulation'
 volume: '21'
 ---

@@ -15,6 +15,7 @@ issued:
 page: 465-469
 pub_type: article-journal
 pub_url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
+status: published
 title: Application of machine learning to the prediction of vegetation health
 volume: XLI-B2
 ---

@@ -48,9 +48,17 @@
 
           <h3>Recent Papers</h3>
           <ul class="compact fa-ul">
-            {{ range first 5 (where .Data.Pages.ByDate "Section" "publications").Reverse }}
-            <li> {{ partial "publication" . }}</li>
-	           {{ end }}
+            {{ range first 3 (where .Data.Pages.ByDate "Section" "publications").Reverse }}
+              <li><i class="fa-li fa  {{ if eq .Params.pub_status "unpublished" }}fa-file-o {{ else if eq .Params.pub_type "book" }}fa-book {{ else if eq .Params.pub_type "patent" }}fa-flask {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i>
+                {{ partial "publication_withyear" . }}
+                <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                {{ if isset .Params "file" }}
+                  {{- range where .Params.file "desc" "full text" -}}
+                  <a href="{{.Site.BaseURL}}files/pubs/pdfs/{{ index .file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  {{- end -}}
+                {{- end -}}
+              </li>
+	          {{ end }}
           </ul>
 
           <footer class="group">
@@ -62,7 +70,8 @@
             {{ range (where .Data.Pages.ByDate "Section" "teaching").Reverse }}
 	    {{ if (ge .Date.Unix now.Unix) }}
 	    {{ if (le .Date.Unix (add now.Unix 7776000)) }}
-            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.  {{ partial "comingsoon.html" . }}
+            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.
+            {{ partial "comingsoon.html" . }}
             </li>
 	    {{ end }}
 	    {{ end }}
@@ -71,7 +80,8 @@
             {{ range (where .Data.Pages.ByDate "Section" "teaching").Reverse }}
 	    {{ if (le .Date.Unix now.Unix) }}
 	    {{ if (le now.Unix (time .Params.enddate).Unix ) }}
-            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. {{ partial "nowon.html" . }}
+            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.
+            {{ partial "nowon.html" . }}
             </li>
 	    {{ end }}
 	    {{ end }}
@@ -81,7 +91,8 @@
 	    {{ if (ge now.Unix $classend ) }}
 	    {{ if (le now.Unix (add $classend 10368000)) }}
 
-            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. <span class="badge badge-small">completed</span>
+            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.
+            <span class="badge badge-small">completed</span>
             </li>
 	    {{ end }}
 	    {{ end }}
@@ -97,7 +108,7 @@
 
     </div><!-- /end .wrapper -->
 
-    <hr class="separator">
+    <hr class="separator" style="padding:0px;margin:0px;">
 
     {{ partial "whatisthis.html" . }}
 

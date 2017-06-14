@@ -14,6 +14,7 @@ issued:
 - {year: '1993'}
 page: 2359-2362
 pub_type: article-journal
+status: published
 title: "Young\u2019s interference experiment with light scattered from two atoms"
 volume: '70'
 ---
