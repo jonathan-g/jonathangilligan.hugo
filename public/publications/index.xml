@@ -1,12 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-      <title>Publication List on jonathangilligan.org </title>
+      <title>Publications on jonathangilligan.org </title>
     <link>https://www.jgilligan.org/publications/</link>
     <language>en-us</language>
     <author>Jonathan Gilligan</author>
     <rights>Copyright (c) Jonathan Gilligan.</rights>
-    <updated>Mon, 01 Jan 0001 00:00:00 CST</updated>
+    <updated>Sun, 01 Jan 2017 00:00:00 CST</updated>
+    
+    <item>
+      <title>Beyond politics: The private governance response to climate change</title>
+      <link>https://www.jgilligan.org/publications/vandenbergh_beyond_politics_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/vandenbergh_beyond_politics_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate and community: The human rights, livelihood, and migration impacts of climate change</title>
+      <link>https://www.jgilligan.org/publications/ackerly_migration_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/ackerly_migration_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural adaptation to drought in the sri lankan dry zone</title>
+      <link>https://www.jgilligan.org/publications/burchfield_agricultural_adaptation_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/burchfield_agricultural_adaptation_2016/</guid>
+      <description>&lt;p&gt;Droughts affect more people than any other natural disaster. Drought severity is not merely a function of precipitation; it emerges from a web of interrelations between human and natural systems. The impacts of drought are equally complex, shifting across temporal scales, economic sectors, and regions. Even in regions with similar hydroclimatic characteristics, there is tremendous variation in the effects of drought. This study combines satellite imagery, geospatial data, and qualitative data to identify the multi-scalar factors that drive variations in agricultural responses to drought. We analyzed eleven years of remotely sensed imagery to identify agricultural areas in which cultivation occurred during an extreme drought in Sri Lanka. We visited a subset of these communities and conducted interviews with officials and farmers to identify the factors that influenced agricultural adaptation. Results suggest that though structural factors such as infrastructural capacity and physical environment significantly affect agricultural adaptation, dynamic factors such as local control of water supply, perceived risk, community cohesion, and farmer experience explain significant variation in the adaptive capacity of agricultural systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of machine learning to the prediction of vegetation health</title>
+      <link>https://www.jgilligan.org/publications/burchfield_vegetation_health_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/burchfield_vegetation_health_2016/</guid>
+      <description>&lt;p&gt;This project applies machine learning techniques to remotely sensed imagery to train and validate predictive models of vegetation health in Bangladesh and Sri Lanka. For both locations, we downloaded and processed eleven years of imagery from multiple MODIS datasets which were combined and transformed into two-dimensional matrices. We applied a gradient boosted machines model to the lagged dataset values to forecast future values of the Enhanced Vegetation Index (EVI). The predictive power of raw spectral data MODIS products were compared across time periods and land use categories. Our models have significantly more predictive power on held-out datasets than a baseline. Though the tool was built to increase capacity to monitor vegetation health in data scarce regions like South Asia, users may include ancillary spatiotemporal datasets relevant to their region of interest to increase predictive power and to facilitate interpretation of model results. The tool can automatically update predictions as new MODIS data is made available by NASA. The tool is particularly well-suited for decision makers interested in understanding and predicting vegetation health dynamics in countries in which environmental data is scarce and cloud cover is a significant concern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Betting and belief: Prediction markets and attribution of climate change</title>
+      <link>https://www.jgilligan.org/publications/nay_prediction_market_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/nay_prediction_market_2016/</guid>
+      <description>&lt;p&gt;Despite much scientific evidence, a large fraction of the American public doubts that greenhouse gases are causing global warming. We present a simulation model as a computational test-bed for climate prediction markets. Traders adapt their beliefs about future temperatures based on the profits of other traders in their social network. We simulate two alternative climate futures, in which global temperatures are primarily driven either by carbon dioxide or by solar irradiance. These represent, respectively, the scientific consensus and a hypothesis advanced by prominent skeptics. We conduct sensitivity analyses to determine how a variety of factors describing both the market and the physical climate may affect traders&amp;#8217; beliefs about the cause of global climate change. Market participation causes most traders to converge quickly toward believing the &amp;#8220;true&amp;#8221; climate model, suggesting that a climate market could be useful for building public consensus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drinking water insecurity: Water quality and access in coastal south-western Bangladesh</title>
+      <link>https://www.jgilligan.org/publications/benneyworth_drinking_water_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/benneyworth_drinking_water_2016/</guid>
+      <description>&lt;p&gt;National drinking water assessments for Bangladesh do not reflect local variability, or temporal differences. This paper reports on the findings of an interdisciplinary investigation of drinking water insecurity in a rural coastal south-western Bangladesh. Drinking water quality is assessed by comparison of locally measured concentrations to national levels and water quality criteria; resident&amp;#8217;s access to potable water and their perceptions are based on local social surveys. Residents in the study area use groundwater far less than the national average; salinity and local rainwater scarcity necessitates the use of multiple water sources throughout the year. Groundwater concentrations of arsenic and specific conductivity (SpC) were greater than surface water (pond) concentrations; there was no statistically significant seasonal difference in mean concentrations in groundwater, but there was for ponds, with arsenic higher in the dry season. Average arsenic concentrations in local water drinking were 2&amp;#8211;4 times times the national average. All of the local groundwater samples exceeded the Bangladesh guidance for SpC, although the majority of residents surveyed did not perceive their water as having a &amp;#8220;bad&amp;#8221; or &amp;#8220;salty&amp;#8221; taste.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drought, risk, and institutional politics in the american southwest</title>
+      <link>https://www.jgilligan.org/publications/hess_drought_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/hess_drought_2016/</guid>
+      <description>&lt;p&gt;Although there are multiple causes of the water scarcity crisis in the American Southwest, it can be used as a model of the long-term problem of freshwater shortages that climate change will exacerbate. We examine the water-supply crisis for 22 cities in the extended Southwest of the United States and develop a unique, new measure of water conservation policies and programs. Convergent qualitative and quantitative analyses suggest that political conflicts play an important role in the transition of water-supply regimes toward higher levels of demand-reduction policies and programs. Qualitative analysis using institutional theory identifies the interaction of four types of motivating logics&amp;#8212;development, rural preservation, environmental, and urban consumer&amp;#8212;and shows how demand-reduction strategies can potentially satisfy all four. Quantitative analysis of the explanatory factors for the variation in the adoption of demand-reduction policies points to the overwhelming importance of political preferences as defined by Cook&amp;#8217;s Partisan Voting Index. We suggest that approaches to water-supply choices are influenced less by direct partisan disagreements than by broad preferences for a development logic based on supply-increase strategies and discomfort with demand-reduction strategies that clash with conservative beliefs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of individual and collective agricultural adaptation to water scarcity</title>
+      <link>https://www.jgilligan.org/publications/burchfield_abm_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/burchfield_abm_2016/</guid>
+      <description>&lt;p&gt;Drought and water scarcity are growing challenges to agriculture around the world. Farmers can adapt through both individual and community-based collective actions. We draw on extensive field-work conducted with paddy farmers in rural Sri Lanka to study adaptations to water scarcity, including switching to less water-intensive crops, farming collectively on shared land, and individually turning to groundwater by digging wells. We explore how variability in climate affects agricultural decision-making at the community and individual levels using three types of decision-making, each characterized by an objective function: risk-averse expected utility, regret-adjusted expected utility, and prospect theory loss-aversion. We also assess how the introduction of individualized access to irrigation water with wells affects community-based drought mitigation practices. Preliminary results suggest that the growth of well-irrigation may produce sudden disruptions to community-based adaptations, but that this depends on the mental models farmers use to think about risk and make decisions under uncertainty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881–2010</title>
+      <link>https://www.jgilligan.org/publications/gunda_drought_patterns_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/gunda_drought_patterns_2016/</guid>
+      <description>&lt;p&gt;A spatiotemporal analysis of two well-known agricultural drought indices, the Palmer Drought Severity Index (PDSI) and the Standardized Precipitation Index at a 9-month scale (SPI-9), is presented for Sri Lanka. The analysis was conducted based on monthly precipitation and temperature data from January 1881 to December 2010 using 13 stations distributed across the three climatic zones of the country. Principal component analysis shows that the first two principal components of PDSI and SPI-9 are spatially comparable and could physically represent the two main monsoons. A wavelet analysis of these principal components&amp;#8217; scores for both indices indicates a stronger association between the Northeastern monsoon and El-Ni&amp;#241;o in recent decades. Correlation analysis with agricultural metrics suggests that different indices might be appropriate for each of the climatic zones in Sri Lanka. PDSI correlated best with the intermediate zone districts; SPI-9 correlated best with the dry zone districts; but neither index correlated well with the wet zone districts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond gridlock</title>
+      <link>https://www.jgilligan.org/publications/vandenbergh_beyond_gridlock_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/vandenbergh_beyond_gridlock_2015/</guid>
+      <description>&lt;p&gt;This Article examines how private governance can bypass government gridlock on climate change and buy time for a national and international carbon price. A carbon price&amp;#8212;whether in the form of a carbon tax or a cap-and-trade program&amp;#8212;is the optimal government response but is unlikely to be implemented within the next decade. Likely government policies will reduce emissions by far less than needed to reduce the risk of significant climate disruption, but recent corporate carbon disclosure programs, supply chain contracting requirements, investor pressure, and other private initiatives demonstrate the viability of another approach. Private initiatives can reduce carbon emissions without the coercive power or resources of government by correcting market and behavioral failures and by drawing on the support for mitigation that exists in a subset of the population. The Article demonstrates how a private governance wedge of emissions reductions can be achieved by expanding current corporate and household private governance initiatives and by launching new initiatives that address climate beliefs, motivations, and behavior. Private initiatives can bypass ideological barriers and national boundaries, but implementing a private climate governance strategy will require relaxing the assumption that only governments can drive major emissions reductions over the next decade.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

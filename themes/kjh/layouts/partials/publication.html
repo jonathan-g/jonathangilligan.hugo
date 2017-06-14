@@ -1,47 +1,8 @@
-{{ $publication := . }}
-<li class="spread">
-    <a name="{{- $publication.id | plainify | urlize -}}"></a>
 
-    {{- if isset $publication "URL" | and $publication.URL -}}
-        <a href="{{ $publication.URL }}">{{- $publication.title -}}</a>
-    {{- else -}}
-        <a href="#">{{- $publication.title -}}</a>
-    {{- end }}
-
-    <br/>
-    {{ delimit (apply (apply  $publication.author "partial" "author" ".") "chomp" ".") ", " }}
-
-    <br/> Year: {{ $publication.year }}
-
-    <br/>
-    {{- if isset $publication "collection-title" | and (index $publication "collection-title") }}
-        {{ index $publication "collection-title" }}
-    {{- else -}}
-        {{- if isset $publication "collection-title" | and (index $publication "collection-title") }}
-        -
-        {{ end }}
-        {{ if isset $publication "container-title" | and (index $publication "container-title") }}
-            {{ index $publication "container-title" }}
-        {{- end -}}
-    {{ end -}}
-
-    {{- if (isset $publication "page") | and (not (eq $publication.page "")) }}
-        {{- $page :=  replaceRE "[^0-9-.]" "$1" $publication.page | chomp -}}
-        {{ if $page }}
-            page {{ $page -}}
-        {{ end }}
-    {{ end -}}
-
-    {{- if (isset $publication "number") | and $publication.number }}
-        {{ $publication.number -}},
-    {{ end -}}
-
-    {{ $publication.publisher }}
-    {{ if isset $publication "publisher-place" | and (index $publication "publisher-place") }}
-        ({{- index $publication "publisher-place" -}})
-    {{ end }}
-
-    {{- if (isset $publication "note") | and (not (eq $publication.note "")) }}
-        <a href="{{ .Site.BaseURL }}publication/{{ $publication.note | urlize }}">[...]</a>
-    {{ end -}}
-</li>
+{{- if eq .Params.pub_type "article-journal" }}{{ partial "pub_fmt/article" . -}}
+{{- else if eq .Params.pub_type "book" }}{{ partial "pub_fmt/book" . -}}
+{{- else if eq .Params.pub_type "chapter" }}{{ partial "pub_fmt/chapter" . -}}
+{{- else if eq .Params.pub_type "paper-conference" }}{{ partial "pub_fmt/inproceedings" . -}}
+{{- else if eq .Params.pub_type "patent" }}{{ partial "pub_fmt/patent" . -}}
+{{- else if eq .Params.pub_type "report" }}{{ partial "pub_fmt/report" . -}}
+{{- end -}}

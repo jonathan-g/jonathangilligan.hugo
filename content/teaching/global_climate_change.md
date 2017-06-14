@@ -5,7 +5,6 @@ enddate: "2017-12-07T00:00:00+05:00"
 publishdate: "2017-06-12"
 host: "Vanderbilt University"
 ---
-
 This course, for undergraduate and graduate students, has three major parts:
 
 1. We cover the __basic scientific

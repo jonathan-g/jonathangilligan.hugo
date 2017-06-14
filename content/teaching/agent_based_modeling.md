@@ -5,7 +5,6 @@ enddate: "2017-04-20T00:00:00+05:00"
 publishdate: "2017-06-12"
 host: "Vanderbilt University"
 ---
-
 This course (for undergraduate and graduate students) introduces agent-based
 and individual-based computational modeling with applications to
 ecological, social, and behavioral sciences and engineering. It covers

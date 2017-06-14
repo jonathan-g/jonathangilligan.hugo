@@ -13,19 +13,16 @@
 
   <div class="wrapper">
     <div class="units-row">
-      <div class="unit-centered unit-80">  
+      <div class="unit-centered unit-80">
         <article class="post" id="content">
-        <h3>{{ .Title }}</h3>  
+        <h3>{{ .Title }}</h3>
         {{ .Content }}
         </article>
       </div>
     </div>
   </div>
   <hr class="separator">
-  
+
   {{ partial "whatisthis.html" . }}
-  
+
   {{ partial "footer.html" . }}
-
-
-

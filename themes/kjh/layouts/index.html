@@ -49,7 +49,7 @@
           <h3>Recent Papers</h3>
           <ul class="compact fa-ul">
             {{ range first 5 (where .Data.Pages.ByDate "Section" "publications").Reverse }}
-            <li> Foo.</li>
+            <li> {{ partial "publication" . }}</li>
 	           {{ end }}
           </ul>
 

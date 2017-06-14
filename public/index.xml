@@ -77,37 +77,71 @@ experiments.&lt;/p&gt;
     </item>
     
     <item>
-      <title>403</title>
-      <link>https://www.jgilligan.org/403/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 CST</pubDate>
+      <title>Beyond politics: The private governance response to climate change</title>
+      <link>https://www.jgilligan.org/publications/vandenbergh_beyond_politics_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 CST</pubDate>
       <author>Jonathan Gilligan</author>
-      <guid>https://www.jgilligan.org/403/</guid>
-      <description>&lt;h2&gt;Sorry, you don&#39;t have permission to do that&lt;/h2&gt;
-
-
-</description>
-    </item>
-    
-    <item>
-      <title>404</title>
-      <link>https://www.jgilligan.org/404/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 CST</pubDate>
-      <author>Jonathan Gilligan</author>
-      <guid>https://www.jgilligan.org/404/</guid>
-      <description>&lt;h2&gt;404: File not found&lt;/h2&gt;
-
-&lt;h4&gt;Sorry, that doesn&#39;t seem to be here&lt;/h4&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s New</title>
-      <link>https://www.jgilligan.org/whats_new/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 CST</pubDate>
-      <author>Jonathan Gilligan</author>
-      <guid>https://www.jgilligan.org/whats_new/</guid>
+      <guid>https://www.jgilligan.org/publications/vandenbergh_beyond_politics_2017/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Climate and community: The human rights, livelihood, and migration impacts of climate change</title>
+      <link>https://www.jgilligan.org/publications/ackerly_migration_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/ackerly_migration_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural adaptation to drought in the sri lankan dry zone</title>
+      <link>https://www.jgilligan.org/publications/burchfield_agricultural_adaptation_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/burchfield_agricultural_adaptation_2016/</guid>
+      <description>&lt;p&gt;Droughts affect more people than any other natural disaster. Drought severity is not merely a function of precipitation; it emerges from a web of interrelations between human and natural systems. The impacts of drought are equally complex, shifting across temporal scales, economic sectors, and regions. Even in regions with similar hydroclimatic characteristics, there is tremendous variation in the effects of drought. This study combines satellite imagery, geospatial data, and qualitative data to identify the multi-scalar factors that drive variations in agricultural responses to drought. We analyzed eleven years of remotely sensed imagery to identify agricultural areas in which cultivation occurred during an extreme drought in Sri Lanka. We visited a subset of these communities and conducted interviews with officials and farmers to identify the factors that influenced agricultural adaptation. Results suggest that though structural factors such as infrastructural capacity and physical environment significantly affect agricultural adaptation, dynamic factors such as local control of water supply, perceived risk, community cohesion, and farmer experience explain significant variation in the adaptive capacity of agricultural systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of machine learning to the prediction of vegetation health</title>
+      <link>https://www.jgilligan.org/publications/burchfield_vegetation_health_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/burchfield_vegetation_health_2016/</guid>
+      <description>&lt;p&gt;This project applies machine learning techniques to remotely sensed imagery to train and validate predictive models of vegetation health in Bangladesh and Sri Lanka. For both locations, we downloaded and processed eleven years of imagery from multiple MODIS datasets which were combined and transformed into two-dimensional matrices. We applied a gradient boosted machines model to the lagged dataset values to forecast future values of the Enhanced Vegetation Index (EVI). The predictive power of raw spectral data MODIS products were compared across time periods and land use categories. Our models have significantly more predictive power on held-out datasets than a baseline. Though the tool was built to increase capacity to monitor vegetation health in data scarce regions like South Asia, users may include ancillary spatiotemporal datasets relevant to their region of interest to increase predictive power and to facilitate interpretation of model results. The tool can automatically update predictions as new MODIS data is made available by NASA. The tool is particularly well-suited for decision makers interested in understanding and predicting vegetation health dynamics in countries in which environmental data is scarce and cloud cover is a significant concern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Betting and belief: Prediction markets and attribution of climate change</title>
+      <link>https://www.jgilligan.org/publications/nay_prediction_market_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/nay_prediction_market_2016/</guid>
+      <description>&lt;p&gt;Despite much scientific evidence, a large fraction of the American public doubts that greenhouse gases are causing global warming. We present a simulation model as a computational test-bed for climate prediction markets. Traders adapt their beliefs about future temperatures based on the profits of other traders in their social network. We simulate two alternative climate futures, in which global temperatures are primarily driven either by carbon dioxide or by solar irradiance. These represent, respectively, the scientific consensus and a hypothesis advanced by prominent skeptics. We conduct sensitivity analyses to determine how a variety of factors describing both the market and the physical climate may affect traders&amp;#8217; beliefs about the cause of global climate change. Market participation causes most traders to converge quickly toward believing the &amp;#8220;true&amp;#8221; climate model, suggesting that a climate market could be useful for building public consensus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drinking water insecurity: Water quality and access in coastal south-western Bangladesh</title>
+      <link>https://www.jgilligan.org/publications/benneyworth_drinking_water_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/benneyworth_drinking_water_2016/</guid>
+      <description>&lt;p&gt;National drinking water assessments for Bangladesh do not reflect local variability, or temporal differences. This paper reports on the findings of an interdisciplinary investigation of drinking water insecurity in a rural coastal south-western Bangladesh. Drinking water quality is assessed by comparison of locally measured concentrations to national levels and water quality criteria; resident&amp;#8217;s access to potable water and their perceptions are based on local social surveys. Residents in the study area use groundwater far less than the national average; salinity and local rainwater scarcity necessitates the use of multiple water sources throughout the year. Groundwater concentrations of arsenic and specific conductivity (SpC) were greater than surface water (pond) concentrations; there was no statistically significant seasonal difference in mean concentrations in groundwater, but there was for ponds, with arsenic higher in the dry season. Average arsenic concentrations in local water drinking were 2&amp;#8211;4 times times the national average. All of the local groundwater samples exceeded the Bangladesh guidance for SpC, although the majority of residents surveyed did not perceive their water as having a &amp;#8220;bad&amp;#8221; or &amp;#8220;salty&amp;#8221; taste.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drought, risk, and institutional politics in the american southwest</title>
+      <link>https://www.jgilligan.org/publications/hess_drought_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 CST</pubDate>
+      <author>Jonathan Gilligan</author>
+      <guid>https://www.jgilligan.org/publications/hess_drought_2016/</guid>
+      <description>&lt;p&gt;Although there are multiple causes of the water scarcity crisis in the American Southwest, it can be used as a model of the long-term problem of freshwater shortages that climate change will exacerbate. We examine the water-supply crisis for 22 cities in the extended Southwest of the United States and develop a unique, new measure of water conservation policies and programs. Convergent qualitative and quantitative analyses suggest that political conflicts play an important role in the transition of water-supply regimes toward higher levels of demand-reduction policies and programs. Qualitative analysis using institutional theory identifies the interaction of four types of motivating logics&amp;#8212;development, rural preservation, environmental, and urban consumer&amp;#8212;and shows how demand-reduction strategies can potentially satisfy all four. Quantitative analysis of the explanatory factors for the variation in the adoption of demand-reduction policies points to the overwhelming importance of political preferences as defined by Cook&amp;#8217;s Partisan Voting Index. We suggest that approaches to water-supply choices are influenced less by direct partisan disagreements than by broad preferences for a development logic based on supply-increase strategies and discomfort with demand-reduction strategies that clash with conservative beliefs.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
