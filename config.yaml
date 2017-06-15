@@ -32,9 +32,9 @@ menu:
       - Name: "Teaching"
         URL: "/teaching"
         Weight: 5
-      - Name: "Blog"
-        URL: "/blog"
-        Weight: 6
+#      - Name: "Blog"
+#        URL: "/blog"
+#        Weight: 6
 permalinks:
   blog: /blog/archives/:year/:month/:day/:slug
   archive: /blog/archives/
