@@ -10,8 +10,7 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-# baseurl: "https://www.jgilligan.org/"
-baseurl: "http://tycoon-dip-40680.netlify.com/"
+baseurl: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
 title: "Jonathan Gilligan"
