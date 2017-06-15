@@ -1,11 +1,12 @@
+{{- $ := .dot -}}
 {{ partial "pub_fmt/article_title" . -}}
-{{ partial "pub_fmt/author_list" . }}.
+{{ partial "pub_fmt/authors" . | chomp }},
 in
-{{ if isset .Params "editor" -}}
-  {{ partial "pub_fmt/editor_list" . -}},
+{{ if isset $.Params "editor" -}}
+  {{ partial "pub_fmt/editors" . -}},
 {{ end -}}
 {{ partial "pub_fmt/container_title" . -}}
-{{- if (isset .Params "page") | and (not (eq .Params.page "")) -}}
-      ,  {{ .Params.page -}}
+{{- if (isset $.Params "page") | and (not (eq $.Params.page "")) -}}
+      ,  {{ $.Params.page -}}
 {{- end }}
 {{ partial "pub_fmt/publisher" . -}}.

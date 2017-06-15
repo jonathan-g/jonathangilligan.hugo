@@ -17,6 +17,8 @@ editor:
 - {family: Roeder, given: T.M.K.}
 - {family: Macal, given: C.}
 - {family: Rossetti, given: M.D.}
+file:
+- {desc: full text, file: Gilligan_2015_Flood_Partsim.pdf}
 id: gilligan_flood_partsim_2015
 issued:
 - {year: '2015'}

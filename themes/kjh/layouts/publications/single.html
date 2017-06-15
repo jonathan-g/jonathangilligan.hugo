@@ -18,10 +18,7 @@
     </div>
     <div class="units-row">
       <div class="unit-100">
-        {{ $.Scratch.Set "bib_with_year" 1   }}
-        {{ $.Scratch.Set "author_initials" 0 }}
-        {{ $.Scratch.Set "author_initials" 0 }}
-        {{ partial "publication" . }}
+        {{ partial "publication" (dict "dot" . "author_initials" 0 "editor_initials" 0 "bib_with_year" 1 "pub_loc" 0 "isbn" 1) }}
         <h4 style="padding-top:5px;"><b>Abstract:</b></h4>
         {{ .Content }}
         <hr>

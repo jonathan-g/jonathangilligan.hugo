@@ -7,7 +7,7 @@ author:
 - {family: Itano, given: Wayne M.}
 - {family: Wineland, given: David J.}
 - {family: Raizen, given: Mark G.}
-container-title: \#prl\#
+container-title: Physical Review Letters
 date: '1993-01-01'
 id: eichmann_two_slit_1993
 issued:

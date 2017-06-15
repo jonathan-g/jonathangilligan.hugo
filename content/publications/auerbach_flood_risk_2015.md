@@ -13,6 +13,8 @@ author:
 - {family: Ackerly, given: Brooke A.}
 container-title: Nature Climate Change
 date: '2015-01-01'
+file:
+- {desc: full text, file: Auerbach_2015_Bangladesh.pdf}
 id: auerbach_flood_risk_2015
 issue: '2'
 issued:

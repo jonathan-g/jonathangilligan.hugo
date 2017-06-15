@@ -1,5 +1,3 @@
-{{ if isset .Params "short_editor" -}}
-    {{- $editors := apply (apply .Params.short_editor "partial" "pub_fmt/author" ".") "chomp" "." -}}
-    {{- delimit $editors ", " -}}
-    {{- if gt (len $editors) 1 }} (eds.){{ else}} (ed.){{ end -}}
-{{- end -}}
+{{- $ := .dot -}}
+{{ $names := $.Params.short_editor }}
+{{ partial "pub_fmt/et_al" (dict "names" $names "cutoff" 3 )}}

@@ -1,5 +1,8 @@
-{{ if gt ($.Scratch.Get "author_initials") 0 -}}
-{{- partial "pub_fmt/short_author_list" . -}}
+{{- $ := .dot -}}
+{{- if gt .author_initials 0 -}}
+  {{- $names := $.Params.short_author -}}
+  {{- partial "pub_fmt/et_al" (dict "names" $names "cutoff" 3 ) -}}
 {{- else -}}
-{{- delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " -}}
+  {{- $names := $.Params.author -}}
+  {{- partial "pub_fmt/et_al" (dict "names" $names "cutoff" 3 ) -}}
 {{- end -}}

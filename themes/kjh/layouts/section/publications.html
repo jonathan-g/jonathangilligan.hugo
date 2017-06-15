@@ -28,9 +28,6 @@
     <div class="units-row">
       <div class="unit-50">
         <h2>Publications</h2>
-        {{ $.Scratch.Set "bib_with_year" 0 }}
-        {{ $.Scratch.Set "author_initials" 1 }}
-        {{ $.Scratch.Set "editor_initials" 1 }}
           {{ range (.Pages.GroupByDate "2006" "desc" ) }}
           <div class="units-row">
             <div class="unit-10">
@@ -39,14 +36,15 @@
             <div class="unit-90">
               <ul class="compact fa-ul">
 	        {{ range .Pages.ByDate.Reverse }}
-                <li><i class="fa-li fa  {{ if eq .Params.pub_status "unpublished" }}fa-file-o {{ else if eq .Params.pub_type "book" }}fa-book {{ else if eq .Params.pub_type "patent" }}fa-flask {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ partial "publication" . }}
+                <li><i class="fa-li fa  {{ if eq .Params.pub_status "unpublished" }}fa-file-o {{ else if eq .Params.pub_type "book" }}fa-book {{ else if eq .Params.pub_type "patent" }}fa-flask {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i>
+                {{ partial "publication" (dict "dot" . "author_initials" 1 "editor_initials" 1 "bib_with_year" 0) }}
                   <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
                   {{ if isset .Params "file" }}
                   {{- range where .Params.file "desc" "full text" -}}
                   <a href="{{.Site.BaseURL}}files/pubs/pdfs/{{ index .file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
                   {{- end -}}
                   {{ end }}
-                </li>
+              </li>
 	        {{ end }}
               </ul>
             </div>

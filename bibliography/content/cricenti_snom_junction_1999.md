@@ -8,7 +8,7 @@ author:
 - {family: Margaritondo, given: Giorgio}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Tolk, given: Norman Henry}
-container-title: \#pssa\#
+container-title: 'Physica Status Solidi A: Applied Research'
 date: '1999-01-01'
 id: cricenti_snom_junction_1999
 issued:

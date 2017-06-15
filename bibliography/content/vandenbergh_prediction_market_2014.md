@@ -5,6 +5,8 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: UCLA Law Review
 date: '2014-01-01'
+file:
+- {desc: full text, file: Vandenbergh_2014_Prediction_Market.pdf}
 id: vandenbergh_prediction_market_2014
 issued:
 - {year: '2014'}

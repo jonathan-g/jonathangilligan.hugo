@@ -5,7 +5,7 @@ author:
 - {family: Bergquist, given: James C.}
 - {family: Itano, given: Wayne M.}
 - {family: Wineland, given: David J.}
-container-title: \#pra\#
+container-title: Physical Review A
 date: '1992-01-01'
 id: raizen_linear_trap_pra_1992
 issued:

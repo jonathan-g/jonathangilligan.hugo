@@ -10,6 +10,8 @@ author:
 - {family: Hornberger, given: George M.}
 container-title: Sociological Forum
 date: '2016-01-01'
+file:
+- {desc: full text, file: Hess_2016_Drought_Southwest.pdf}
 id: hess_drought_2016
 issued:
 - {year: '2016'}

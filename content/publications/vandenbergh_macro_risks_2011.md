@@ -4,6 +4,8 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: Duke Environmental Law and Policy Forum
 date: '2011-01-01'
+file:
+- {desc: full text, file: Vandenbergh_2011_Macro_Risks.pdf}
 id: vandenbergh_macro_risks_2011
 issued:
 - {year: '2011'}

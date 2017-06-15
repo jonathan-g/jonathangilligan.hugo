@@ -9,6 +9,8 @@ date: '2015-01-01'
 editor:
 - {family: Mallick, given: Bishawjit}
 - {family: Etzold, given: Benjamin}
+file:
+- {desc: full text, file: Ackerly_2015_Political_Economies.pdf}
 id: ackerly_political_economies_2015
 issued:
 - {year: '2015'}

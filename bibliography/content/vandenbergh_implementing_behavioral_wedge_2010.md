@@ -7,6 +7,8 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: Environmental Law Reporter
 date: '2010-01-01'
+file:
+- {desc: full text, file: Vandenbergh_2010_Implementing_Behavioral_Wedge.pdf}
 id: vandenbergh_implementing_behavioral_wedge_2010
 issued:
 - {year: '2010'}

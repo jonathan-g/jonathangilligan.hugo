@@ -7,6 +7,8 @@ author:
 container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
   \ Sensing and Spatial Information Sciences"
 date: '2016-01-01'
+file:
+- {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
 id: burchfield_vegetation_health_2016
 issued:
 - {year: '2016'}

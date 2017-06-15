@@ -13,6 +13,8 @@ editor:
 - {family: Zhou, given: E.}
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
+file:
+- {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
 id: burchfield_abm_2016
 issued:
 - {year: '2016'}

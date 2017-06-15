@@ -5,6 +5,8 @@ author:
 - {family: Vandenbergh, given: Michael P.}
 container-title: Virginia Environmental Law Journal
 date: '2014-01-01'
+file:
+- {desc: full text, file: Gilligan_2014_Political_Feasibility.pdf}
 id: gilligan_political_feasibility_2014
 issued:
 - {year: '2014'}

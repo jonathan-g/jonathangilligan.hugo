@@ -14,6 +14,8 @@ author:
 - {family: Piya, given: Bhumika}
 container-title: International Journal of Environmental Health Research
 date: '2016-01-01'
+file:
+- {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
 id: benneyworth_drinking_water_2016
 issued:
 - {year: '2016'}

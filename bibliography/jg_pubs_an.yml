@@ -1639,7 +1639,7 @@ references:
   - year: '1999'
   title: Interface applications of scanning near-field optical microscopy with a free
     electron laser
-  container-title: \#pssa\#
+  container-title: 'Physica Status Solidi A: Applied Research'
   page: '317-329'
   volume: '175'
   status: published
@@ -1683,7 +1683,7 @@ references:
   - year: '1999'
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
     optical microscopy
-  container-title: \#pssa\#
+  container-title: 'Physica Status Solidi A: Applied Research'
   page: '345-349'
   volume: '175'
   status: published
@@ -1886,7 +1886,7 @@ references:
   issued:
   - year: '1998'
   title: Free-electron-laser near-field nanospectroscopy
-  container-title: \#apl\#
+  container-title: Applied Physics Letters
   page: '151-153'
   volume: '73'
   status: published
@@ -1929,7 +1929,7 @@ references:
   - year: '1998'
   title: First experimental results with the free electron laser coupled to a scanning
     near-field optical microscope
-  container-title: \#pssa\#
+  container-title: 'Physica Status Solidi A: Applied Research'
   page: '241-247'
   volume: '170'
   status: published
@@ -2044,7 +2044,7 @@ references:
   issued:
   - year: '1998'
   title: Coupled electron-hole dynamics at the Si/SiO2 interface
-  container-title: \#prl\#
+  container-title: Physical Review Letters
   page: '4224-4227'
   volume: '81'
   status: published
@@ -2081,7 +2081,7 @@ references:
   issued:
   - year: '1998'
   title: New molecular collisional interaction effect in low-energy sputtering
-  container-title: \#prl\#
+  container-title: Physical Review Letters
   page: '550-553'
   volume: '81'
   status: published
@@ -2205,7 +2205,7 @@ references:
   - year: '1996'
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
     in the upper troposphere and lower stratosphere
-  container-title: \#grl\#
+  container-title: Geophysical Research Letters
   page: '347-350'
   volume: '23'
   status: published
@@ -2289,7 +2289,7 @@ references:
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
     from *in situ* measurements during <span style="font-variant:small-caps;">aase
     ii</span>
-  container-title: \#jgr\#
+  container-title: Journal of Geophysical Research
   page: '3057-3064'
   volume: '100'
   status: published
@@ -2365,7 +2365,7 @@ references:
   issued:
   - year: '1993'
   title: Young’s interference experiment with light scattered from two atoms
-  container-title: \#prl\#
+  container-title: Physical Review Letters
   page: '2359-2362'
   volume: '70'
   status: published
@@ -2389,7 +2389,7 @@ references:
   - year: '1993'
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
   title-short: Quantum projection noise
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '3554-3570'
   volume: '47'
   status: published
@@ -2486,7 +2486,7 @@ references:
   - year: '1993'
   title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
     lines
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '4042-4045'
   volume: '47'
   status: published
@@ -2502,7 +2502,7 @@ references:
   - year: '1992'
   title: Precise determinations of ionization potentials and $EF$ state energy levels
     of H$_2$, HD, and D$_2$
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '3676-3690'
   volume: '46'
   status: published
@@ -2523,7 +2523,7 @@ references:
   issued:
   - year: '1992'
   title: Linear trap for high-accuracy spectroscopy of stored ions
-  container-title: \#jmo\#
+  container-title: Journal of Modern Optics
   page: '233-242'
   volume: '39'
   status: published
@@ -2544,7 +2544,7 @@ references:
   issued:
   - year: '1992'
   title: Ionic crystals in a linear Paul trap
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '6493-6501'
   volume: '45'
   status: published
@@ -2572,7 +2572,7 @@ references:
   - year: '1991'
   title: High-resolution three-photon spectroscopy and multiphoton interference in
     molecular hydrogen
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '6406-6409'
   volume: '43'
   status: published
@@ -2654,7 +2654,7 @@ references:
   issued:
   - year: '1989'
   title: Measurement of high Rydberg states and the ionization potential of H$_2$
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '2260-2263'
   volume: '39'
   status: published
@@ -2693,7 +2693,7 @@ references:
   issued:
   - year: '1987'
   title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
-  container-title: \#pra\#
+  container-title: Physical Review A
   page: '3486-3489'
   volume: '36'
   status: published

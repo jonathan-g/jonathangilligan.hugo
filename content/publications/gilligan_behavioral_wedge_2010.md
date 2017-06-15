@@ -8,6 +8,8 @@ author:
 - {family: Vandenbergh, given: Michael}
 container-title: Significance
 date: '2010-01-01'
+file:
+- {desc: full text, file: Gilligan_2010_Behavioral_Wedge.pdf}
 id: gilligan_behavioral_wedge_2010
 issued:
 - {year: '2010'}

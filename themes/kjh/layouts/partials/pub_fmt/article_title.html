@@ -1,1 +1,2 @@
-&ldquo;{{- .Params.title | safeHTML -}},&rdquo;
+{{- $ := .dot -}}
+&ldquo;{{- $.Params.title | safeHTML -}},&rdquo;

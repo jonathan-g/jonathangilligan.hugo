@@ -6,6 +6,8 @@ author:
 - {family: Gilligan, given: Jonathan}
 container-title: Water Resources Research
 date: '2015-01-01'
+file:
+- {desc: full text, file: Hornberger_2015_Water_Conservation.pdf}
 id: hornberger_water_conservation_2015
 issue: '6'
 issued:

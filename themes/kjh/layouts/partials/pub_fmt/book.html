@@ -1,3 +1,4 @@
-{{ partial "pub_fmt/book_title" . -}}.
-{{ partial "pub_fmt/author_list" . }}
-{{ partial "pub_fmt/publisher" . -}}.
+{{- $ := .dot -}}
+{{ partial "pub_fmt/book_title" . | chomp -}}.
+{{ partial "pub_fmt/authors" . | chomp -}}.
+{{ partial "pub_fmt/publisher" . | chomp -}}.

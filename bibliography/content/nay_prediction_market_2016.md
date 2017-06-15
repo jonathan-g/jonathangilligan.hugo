@@ -14,6 +14,8 @@ editor:
 - {family: Zhou, given: E.}
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
+file:
+- {desc: full text, file: Nay_2016_Betting_Belief.pdf}
 id: nay_prediction_market_2016
 issued:
 - {year: '2016'}

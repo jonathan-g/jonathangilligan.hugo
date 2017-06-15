@@ -96,6 +96,8 @@ references:
   - {family: Donato, given: Katherine}
   - {family: Piya, given: Bhumika}
   container-title: International Journal of Environmental Health Research
+  file:
+  - {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
   id: benneyworth:drinking.water:2016
   issued:
   - {year: '2016'}
@@ -137,6 +139,8 @@ references:
   - {family: Zhou, given: E.}
   - {family: Huschka, given: T.}
   - {family: Chick, given: S.E.}
+  file:
+  - {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
   id: burchfield:abm:2016
   issued:
   - {year: '2016'}
@@ -170,6 +174,8 @@ references:
   - {family: Burchfield, given: Emily K}
   - {family: Gilligan, given: Jonathan}
   container-title: Applied Geography
+  file:
+  - {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
   id: burchfield:agricultural.adaptation:2016
   issued:
   - {year: '2016'}
@@ -207,6 +213,8 @@ references:
   - {family: Gilligan, given: Jonathan}
   container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
     \ Sensing and Spatial Information Sciences"
+  file:
+  - {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
   id: burchfield:vegetation.health:2016
   issued:
   - {year: '2016'}
@@ -238,6 +246,8 @@ references:
   - {family: Hornberger, given: George M.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: International Journal of Climatology
+  file:
+  - {desc: Full Text, file: Gunda_2015_Agricultural_Drought.pdf}
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
@@ -277,6 +287,8 @@ references:
   - {family: Gilligan, given: Jonathan}
   - {family: Hornberger, given: George M.}
   container-title: Sociological Forum
+  file:
+  - {desc: full text, file: Hess_2016_Drought_Southwest.pdf}
   id: hess:drought:2016
   issued:
   - {year: '2016'}
@@ -316,6 +328,8 @@ references:
   - {family: Zhou, given: E.}
   - {family: Huschka, given: T.}
   - {family: Chick, given: S.E.}
+  file:
+  - {desc: full text, file: Nay_2016_Betting_Belief.pdf}
   id: nay:prediction.market:2016
   issued:
   - {year: '2016'}
@@ -350,6 +364,8 @@ references:
   editor:
   - {family: Mallick, given: Bishawjit}
   - {family: Etzold, given: Benjamin}
+  file:
+  - {desc: full text, file: Ackerly_2015_Political_Economies.pdf}
   id: ackerly:political.economies:2015
   issued:
   - {year: '2015'}
@@ -389,6 +405,8 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Ackerly, given: Brooke A.}
   container-title: Nature Climate Change
+  file:
+  - {desc: full text, file: Auerbach_2015_Bangladesh.pdf}
   id: auerbach:flood.risk:2015
   issue: '2'
   issued:
@@ -454,6 +472,8 @@ references:
   - {family: Roeder, given: T.M.K.}
   - {family: Macal, given: C.}
   - {family: Rossetti, given: M.D.}
+  file:
+  - {desc: full text, file: Gilligan_2015_Flood_Partsim.pdf}
   id: gilligan:flood.partsim:2015
   issued:
   - {year: '2015'}
@@ -488,6 +508,8 @@ references:
   - {family: Hess, given: David J.}
   - {family: Gilligan, given: Jonathan}
   container-title: Water Resources Research
+  file:
+  - {desc: full text, file: Hornberger_2015_Water_Conservation.pdf}
   id: hornberger:water.conservation:2015
   issue: '6'
   issued:
@@ -527,6 +549,8 @@ references:
   - {family: Roeder, given: T.M.K.}
   - {family: Macal, given: C.}
   - {family: Rossetti, given: M.D.}
+  file:
+  - {desc: full text, file: Nay_2015_Dynamic_Decision_Models.pdf}
   id: nay:decision.models:2015
   issued:
   - {year: '2015'}
@@ -560,6 +584,8 @@ references:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Columbia Journal of Environmental Law
+  file:
+  - {desc: full text, file: Vandenbergh_2015_Beyond_Gridlock.pdf}
   id: vandenbergh:beyond.gridlock:2015
   issue: '2'
   issued:
@@ -592,6 +618,8 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Vandenbergh, given: Michael P.}
   container-title: Virginia Environmental Law Journal
+  file:
+  - {desc: full text, file: Gilligan_2014_Political_Feasibility.pdf}
   id: gilligan:political.feasibility:2014
   issued:
   - {year: '2014'}
@@ -631,6 +659,8 @@ references:
   - {family: Toner, given: Kaitlin E.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: UCLA Law Review
+  file:
+  - {desc: full text, file: Vandenbergh_2014_Prediction_Market.pdf}
   id: vandenbergh:prediction.market:2014
   issued:
   - {year: '2014'}
@@ -662,6 +692,8 @@ references:
   - {family: Goodbred, given: Steven L.}
   container-title: 'Bridging the policy-action divide: Challenges and prospects for
     Bangladesh'
+  file:
+  - {desc: full text, file: Gilligan_2013_Building_Resilience.pdf}
   id: gilligan:isee.bangladesh:2013
   issued:
   - {month: '2', year: '2013'}
@@ -689,6 +721,8 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   collection-title: IAHS publ.
   container-title: 'Deltas: Landforms, ecosystems and human activities'
+  file:
+  - {desc: full text, file: Rogers_2013_Farming_Practices.pdf}
   id: rogers:farming.practices:2013
   issued:
   - {year: '2013'}
@@ -740,6 +774,8 @@ references:
   - {family: Dietz, given: Thomas}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Journal of Energy & Environmental Law
+  file:
+  - {desc: full text, file: Carrico_2011_Key_Lessons.pdf}
   id: carrico:behavioral.wedge.lessons:2011
   issued:
   - {year: '2011'}
@@ -768,6 +804,8 @@ references:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Duke Environmental Law and Policy Forum
+  file:
+  - {desc: full text, file: Vandenbergh_2011_Macro_Risks.pdf}
   id: vandenbergh:macro.risks:2011
   issued:
   - {year: '2011'}
@@ -836,6 +874,8 @@ references:
   - {family: Stern, given: Paul}
   - {family: Vandenbergh, given: Michael}
   container-title: Significance
+  file:
+  - {desc: full text, file: Gilligan_2010_Behavioral_Wedge.pdf}
   id: gilligan:behavioral.wedge:2010
   issued:
   - {year: '2010'}
@@ -869,6 +909,8 @@ references:
   - {family: Dietz, given: Thomas}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Environmental Science & Technology
+  file:
+  - {desc: full text, file: Stern_2010_Design_Principles.pdf}
   id: stern:design.principles:2010
   issued:
   - {year: '2010'}
@@ -887,6 +929,8 @@ references:
   - {family: Dietz, given: Thomas}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Environmental Law Reporter
+  file:
+  - {desc: full text, file: Vandenbergh_2010_Implementing_Behavioral_Wedge.pdf}
   id: vandenbergh:implementing.behavioral.wedge:2010
   issued:
   - {year: '2010'}
@@ -921,6 +965,8 @@ references:
   - {family: Gilligan, given: Jonathan}
   - {family: Wallston, given: Kenneth A.}
   container-title: Energy Policy
+  file:
+  - {desc: full text, file: Carrico_2009_Costly_Myths.pdf}
   id: carrico:costly.myths:2009
   issued:
   - {year: '2009'}
@@ -949,6 +995,9 @@ references:
   - {family: Stern, given: Paul}
   - {family: Vandenbergh, given: Michael}
   container-title: PNAS
+  file:
+  - {desc: full text, file: Dietz_2009_Behavioral_Wedge.pdf}
+  - {desc: supporting information, file: Dietz_2009_Behavioral_Wedge_Supporting_Info.pdf}
   id: dietz:behavioral.wedge:2009
   issued:
   - {year: '2009'}
@@ -982,6 +1031,8 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Sidorov, given: Venyamin Y.}
   container-title: Experimental Biology and Medicine
+  file:
+  - {desc: full text, file: Holcomb_2009_Dual_Camera.pdf}
   id: holcomb:dual.camera:2009
   issued:
   - {year: '2009'}
@@ -1013,6 +1064,8 @@ references:
   - {family: Barkenbus, given: Jack}
   - {family: Gilligan, given: Jonathan Mark}
   container-title: UCLA Law Review
+  file:
+  - {desc: full text, file: Vandenbergh_2008_Low_Hanging_Fruit.pdf}
   id: vandenbergh:low.hanging.fruit:2008
   issued:
   - {year: '2008'}
@@ -1329,7 +1382,7 @@ references:
   - {family: Spajer, given: M.}
   - {family: Courjon, given: D.}
   - {family: Aggarwal, given: I. D.}
-  container-title: \#pssa\#
+  container-title: 'Physica Status Solidi A: Applied Research'
   id: cricenti:snom.interface:1999
   issued:
   - {year: '1999'}
@@ -1356,7 +1409,7 @@ references:
   - {family: Margaritondo, given: Giorgio}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
-  container-title: \#pssa\#
+  container-title: 'Physica Status Solidi A: Applied Research'
   id: cricenti:snom.junction:1999
   issued:
   - {year: '1999'}
@@ -1513,7 +1566,7 @@ references:
   - {family: Tolk, given: Norman Henry}
   - {family: Coluzza, given: C.}
   - {family: Margaritondo, given: G.}
-  container-title: \#apl\#
+  container-title: Applied Physics Letters
   id: cricenti:fel.nanospectroscopy:1998
   issued:
   - {year: '1998'}
@@ -1544,7 +1597,7 @@ references:
   - {family: Aggarwal, given: I. D.}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
-  container-title: \#pssa\#
+  container-title: 'Physica Status Solidi A: Applied Research'
   id: cricenti:fel.snom:1998
   issued:
   - {year: '1998'}
@@ -1616,7 +1669,7 @@ references:
   - {family: Roy, given: P. K.}
   - {family: Margaritondo, given: G.}
   - {family: Lucovsky, given: G.}
-  container-title: \#prl\#
+  container-title: Physical Review Letters
   id: wang:electron.hole:1998
   issued:
   - {year: '1998'}
@@ -1639,7 +1692,7 @@ references:
   - {family: Tully, given: J. C.}
   - {family: Betz, given: G.}
   - {family: Husinsky, given: W.}
-  container-title: \#prl\#
+  container-title: Physical Review Letters
   id: yao:sputtering:1998
   issued:
   - {year: '1998'}
@@ -1714,7 +1767,7 @@ references:
   - {family: Fraser, given: P. J.}
   - {family: Steele, given: L. P.}
   - {family: Lucarelli, given: M. P.}
-  container-title: \#grl\#
+  container-title: Geophysical Research Letters
   id: elkins:acats:1996
   issued:
   - {year: '1996'}
@@ -1765,7 +1818,7 @@ references:
   - {family: Montzka, given: S. A.}
   - {family: Boering, given: K. A.}
   - {family: Salawitch, given: R. J.}
-  container-title: \#jgr\#
+  container-title: Journal of Geophysical Research
   id: woodbridge:cfc.conc:1995
   issued:
   - {year: '1995'}
@@ -1818,7 +1871,7 @@ references:
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
   - {family: Raizen, given: Mark G.}
-  container-title: \#prl\#
+  container-title: Physical Review Letters
   id: eichmann:two-slit:1993
   issued:
   - {year: '1993'}
@@ -1834,7 +1887,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Moore, given: Fred L.}
   - {family: Raizen, given: Mark G.}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: itano:projection.noise:1993
   issued:
   - {year: '1993'}
@@ -1900,7 +1953,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Cook, given: B. M.}
   - {family: Lichten, given: William}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: shiner:calibration:1993
   issued:
   - {year: '1993'}
@@ -1913,7 +1966,7 @@ references:
 - author:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: gilligan:hydrogen.ip:1992
   issued:
   - {year: '1992'}
@@ -1929,7 +1982,7 @@ references:
   - {family: Bergquist, given: James C.}
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
-  container-title: \#jmo\#
+  container-title: Journal of Modern Optics
   id: raizen:linear.trap.jmo:1992
   issued:
   - {year: '1992'}
@@ -1944,7 +1997,7 @@ references:
   - {family: Bergquist, given: James C.}
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: raizen:linear.trap.pra:1992
   issued:
   - {year: '1992'}
@@ -1966,7 +2019,7 @@ references:
 - author:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: gilligan:three.photon:1991
   issued:
   - {year: '1991'}
@@ -2022,7 +2075,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Cornaggia, given: Christian}
   - {family: Eyler, given: Edward Eugene}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: mccormack:hydrogen.ip:1989
   issued:
   - {year: '1989'}
@@ -2051,7 +2104,7 @@ references:
   - {family: McCormack, given: Elizabeth}
   - {family: Nussenzweig, given: "Andr\xE9"}
   - {family: Pollack, given: Edward}
-  container-title: \#pra\#
+  container-title: Physical Review A
   id: eyler:ef.state:1987
   issued:
   - {year: '1987'}

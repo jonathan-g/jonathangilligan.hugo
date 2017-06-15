@@ -10,7 +10,7 @@ author:
 - {family: Roy, given: P. K.}
 - {family: Margaritondo, given: G.}
 - {family: Lucovsky, given: G.}
-container-title: \#prl\#
+container-title: Physical Review Letters
 date: '1998-01-01'
 id: wang_electron_hole_1998
 issued:

@@ -6,6 +6,8 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: International Journal of Climatology
 date: '2016-01-01'
+file:
+- {desc: Full Text, file: Gunda_2015_Agricultural_Drought.pdf}
 id: gunda_drought_patterns_2016
 issue: '2'
 issued:

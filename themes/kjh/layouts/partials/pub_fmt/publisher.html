@@ -1,11 +1,14 @@
-{{- if isset .Params "publisher" }}
-  ({{ if isset .Params "publisher-place" | and (index .Params "publisher-place") }}
-    {{- index .Params "publisher-place" -}}:
-  {{ end -}}
-  {{- .Params.publisher -}}
-  {{- if gt ($.Scratch.Get "bib_with_year") 0 }}
-  {{ .Date.Format "2006" -}}
+{{- $ := .dot -}}
+{{- $pl := .pub_loc -}}
+{{- $isbn := .isbn}}
+{{- if isset $.Params "publisher" }}
+({{- if gt $pl 0 | and (isset $.Params "publisher-place") | and (index $.Params "publisher-place") -}}
+    {{- index $.Params "publisher-place" -}}:
+ {{ end -}}
+  {{- $.Params.publisher -}}
+  {{- if gt .bib_with_year 0 }}
+  {{ $.Date.Format "2006" -}}
   {{- end -}})
 {{- end -}}
 
-{{- if isset .Params "isbn" }}, ISBN: {{ .Params.isbn }}{{ end -}}
+{{- if gt $isbn 0 | and (isset $.Params "isbn") }}, ISBN: {{ $.Params.isbn }}{{ end -}}

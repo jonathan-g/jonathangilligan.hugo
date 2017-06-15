@@ -1,8 +1,9 @@
+{{- $ := .dot -}}
 {{ partial "pub_fmt/article_title" . }}
-{{ partial "pub_fmt/author_list" . -}}.
-{{ partial "pub_fmt/container_title" . -}},
+{{ partial "pub_fmt/authors" . | chomp -}}.
+{{ partial "pub_fmt/container_title" . | chomp -}},
 {{ partial "pub_fmt/volume" . -}}
 {{- partial "pub_fmt/pages" . -}}
-{{- if gt ($.Scratch.Get "bib_with_year") 0 }}
-  ({{- .Date.Format "2006" }})
+{{- if gt .bib_with_year 0 }}
+  ({{- $.Date.Format "2006" }})
 {{- end -}}

@@ -4,7 +4,7 @@ author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Cornaggia, given: Christian}
 - {family: Eyler, given: Edward Eugene}
-container-title: \#pra\#
+container-title: Physical Review A
 date: '1989-01-01'
 id: mccormack_hydrogen_ip_1989
 issued:

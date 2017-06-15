@@ -8,6 +8,8 @@ author:
 - {family: Wallston, given: Kenneth A.}
 container-title: Energy Policy
 date: '2009-01-01'
+file:
+- {desc: full text, file: Carrico_2009_Costly_Myths.pdf}
 id: carrico_costly_myths_2009
 issued:
 - {year: '2009'}

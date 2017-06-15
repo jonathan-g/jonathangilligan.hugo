@@ -1,3 +1,4 @@
+
 {{ partial "header.html" . }}
 <body lang="en" itemscope itemtype="https://schema.org/Article">
   <div id="topbar">
@@ -15,28 +16,16 @@
 <div class="units-row">
 
 <div class="unit-50">
-<h2>404: Page Not Found</h2>
+<h2>What's New on the Site</h2>
 <p class="big">
-	There is no page here at the address you requested. Perhaps try a search to find what you are looking for?
+	What's new on the site.
 </p>
-					<form method="get" action="https://duckduckgo.com/">
-				<input type="search" name="q" maxlength="255" placeholder="Search jonathangilligan.org">
-			<input type="hidden" name="sites" value="jonathangilligan.org"/>
-			   <input type="hidden" name="ka" value="Alegreya"/>
-			   <input type="hidden" name="k7" value="#faf8f8"/>
-			   <input type="hidden" name="kj" value="#b33"/>
-			   <input type="hidden" name="ky" value="#fafafa"/>
-			   <input type="hidden" name="kx" value="b"/>
-			   <input type="hidden" name="ko" value="-1"/>
-			   <input type="hidden" name="k1" value="-1"/>
-			   <input type="hidden" name="kt" value="Alegreya Sans"/>
-			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form>
 </div>
 
 <div class="unit-50">
 <h3>Recent Papers</h3>
 <ul class="compact fa-ul">
-	{{ range first 3 (where $.Data.Pages.ByDate "Section" "publications").Reverse }}
+	{{ range first 3 (where $.Site.Pages.ByDate "Section" "publications").Reverse }}
 		<li><i class="fa-li fa  {{ if eq .Params.pub_status "unpublished" }}fa-file-o {{ else if eq .Params.pub_type "book" }}fa-book {{ else if eq .Params.pub_type "patent" }}fa-flask {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i>
     {{ partial "publication" (dict "dot" . "author_initials" 1 "editor_initials" 1 "bib_with_year" 1 "pub_loc" 0 "isbn" 0) }}
 			<a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
@@ -55,7 +44,7 @@
 
 <h3>Current Teaching</h3>
 <ul class="compact fa-ul">
-	{{ range (where $.Data.Pages.ByDate "Section" "teaching").Reverse }}
+	{{ range (where $.Site.Pages.ByDate "Section" "teaching").Reverse }}
 {{ if (ge .Date.Unix now.Unix) }}
 {{ if (le .Date.Unix (add now.Unix 7776000)) }}
 	<li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.
@@ -65,7 +54,7 @@
 {{ end }}
 {{ end }}
 
-{{ range (where $.Data.Pages.ByDate "Section" "teaching").Reverse }}
+{{ range (where $.Site.Pages.ByDate "Section" "teaching").Reverse }}
 {{ if (le .Date.Unix now.Unix) }}
 {{ if (le now.Unix (time .Params.enddate).Unix ) }}
 	<li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.
@@ -75,7 +64,7 @@
 {{ end }}
 {{ end }}
 
-{{ range (where $.Data.Pages.ByDate "Section" "teaching").Reverse }}
+{{ range (where $.Site.Pages.ByDate "Section" "teaching").Reverse }}
 {{ if (le .Date.Unix now.Unix) }}
 {{ $classend := (time .Params.enddate).Unix }}
 {{ if (ge now.Unix $classend ) }}

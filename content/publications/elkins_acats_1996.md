@@ -25,7 +25,7 @@ author:
 - {family: Fraser, given: P. J.}
 - {family: Steele, given: L. P.}
 - {family: Lucarelli, given: M. P.}
-container-title: \#grl\#
+container-title: Geophysical Research Letters
 date: '1996-01-01'
 id: elkins_acats_1996
 issued:

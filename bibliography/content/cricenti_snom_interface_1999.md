@@ -11,7 +11,7 @@ author:
 - {family: Spajer, given: M.}
 - {family: Courjon, given: D.}
 - {family: Aggarwal, given: I. D.}
-container-title: \#pssa\#
+container-title: 'Physica Status Solidi A: Applied Research'
 date: '1999-01-01'
 id: cricenti_snom_interface_1999
 issued:

@@ -8,6 +8,8 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: Journal of Energy & Environmental Law
 date: '2011-01-01'
+file:
+- {desc: full text, file: Carrico_2011_Key_Lessons.pdf}
 id: carrico_behavioral_wedge_lessons_2011
 issued:
 - {year: '2011'}

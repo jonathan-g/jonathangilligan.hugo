@@ -5,6 +5,8 @@ author:
 - {family: Gilligan, given: Jonathan}
 container-title: Applied Geography
 date: '2016-01-01'
+file:
+- {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
 id: burchfield_agricultural_adaptation_2016
 issued:
 - {year: '2016'}

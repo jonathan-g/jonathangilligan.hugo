@@ -5,6 +5,8 @@ author:
 - {family: Gilligan, given: Jonathan Mark}
 container-title: UCLA Law Review
 date: '2008-01-01'
+file:
+- {desc: full text, file: Vandenbergh_2008_Low_Hanging_Fruit.pdf}
 id: vandenbergh_low_hanging_fruit_2008
 issued:
 - {year: '2008'}
