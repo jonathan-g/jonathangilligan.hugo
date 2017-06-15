@@ -14,7 +14,6 @@
   <div class="wrapper">
     <div class="units-row">
       <div class="unit-100">
-        <p><a href="/files/cv/gilligan_cv.pdf"><em>Curriculum Vitae</em></a><a href="/files/cv/gilligan_cv.pdf" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a></p>
         <p>Much of my research has centered on understanding environmental stress in coupled human-natural systems.
         I work in interdisciplinary teams of social &amp; behavioral scientists, natural scientists, and engineers, and my focus is often on using statistical tools and
         computational modeling to integrate the societal, natural, and constructed aspects.
@@ -29,7 +28,7 @@
       <div class="unit-50">
         <h2>Research</h2>
         <ul>
-          {{ range where .Data.Pages.ByWeight "Params.weight" ">" 0 }} 
+          {{ range where .Data.Pages.ByWeight "Params.weight" ">" 0 }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</li>
           {{ end }}
         </ul>
