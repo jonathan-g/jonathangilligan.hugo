@@ -8,6 +8,8 @@ issued:
 - {year: '1991'}
 pub_type: thesis
 publisher: Yale University
+short_author:
+- {family: Gilligan, given: J. M.}
 title: Precise multiphoton spectroscopy of the H2, HD, and D2 molecules and a new
   determination of the ionization potential of HD
 ---

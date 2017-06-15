@@ -11,6 +11,10 @@ issued:
 page: 20-32
 pub_type: chapter
 publisher: Gale
+short_author:
+- {family: Gilligan, given: J.}
+short_editor:
+- {family: Espejo, given: R.}
 status: published
 title: People should behave ethically for the sake of future generations
 volume: '2'

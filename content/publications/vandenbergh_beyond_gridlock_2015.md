@@ -5,8 +5,6 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: Columbia Journal of Environmental Law
 date: '2015-01-01'
-file:
-- {desc: full text, file: Vandenbergh_2015_Beyond_Gridlock.pdf}
 id: vandenbergh_beyond_gridlock_2015
 issue: '2'
 issued:
@@ -14,6 +12,9 @@ issued:
 page: 217-303
 pub_type: article-journal
 pub_url: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
+short_author:
+- {family: Vandenbergh, given: M. P.}
+- {family: Gilligan, given: J. M.}
 status: published
 title: Beyond gridlock
 volume: '40'

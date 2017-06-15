@@ -14,8 +14,6 @@ author:
 - {family: Piya, given: Bhumika}
 container-title: International Journal of Environmental Health Research
 date: '2016-01-01'
-file:
-- {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
 id: benneyworth_drinking_water_2016
 issued:
 - {year: '2016'}
@@ -24,6 +22,18 @@ note: " Featured by Taylor & Francis publishers as part of their observance of W
   \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
 page: 508-524
 pub_type: article-journal
+short_author:
+- {family: Benneyworth, given: L.}
+- {family: Gilligan, given: J.}
+- {family: Ayers, given: J. C.}
+- {family: Goodbred, given: S.}
+- {family: George, given: G.}
+- {family: Carrico, given: A.}
+- {family: Karim, given: Md R.}
+- {family: Akter, given: F.}
+- {family: Fry, given: D.}
+- {family: Donato, given: K.}
+- {family: Piya, given: B.}
 status: published
 title: 'Drinking water insecurity: Water quality and access in coastal south-western
   Bangladesh'

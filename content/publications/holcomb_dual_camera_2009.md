@@ -8,14 +8,19 @@ author:
 - {family: Sidorov, given: Venyamin Y.}
 container-title: Experimental Biology and Medicine
 date: '2009-01-01'
-file:
-- {desc: full text, file: Holcomb_2009_Dual_Camera.pdf}
 id: holcomb_dual_camera_2009
 issued:
 - {year: '2009'}
 note: ' *Selected by the editors as the feature article of the month.*'
 page: 1355-1372
 pub_type: article-journal
+short_author:
+- {family: Holcomb, given: M. R.}
+- {family: Woods, given: M. C.}
+- {family: Uzelac, given: I.}
+- {family: Wikswo, given: J. P.}
+- {family: Gilligan, given: J. M.}
+- {family: Sidorov, given: V. Y.}
 status: published
 title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
   and metabolism

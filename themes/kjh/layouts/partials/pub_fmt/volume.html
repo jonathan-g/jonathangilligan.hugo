@@ -1,0 +1,3 @@
+{{- if (isset .Params "volume") | and (not (eq .Params.volume "")) }}
+        <b> {{ .Params.volume }}</b>
+{{- end -}}

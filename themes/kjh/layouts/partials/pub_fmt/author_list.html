@@ -1,0 +1,5 @@
+{{ if gt ($.Scratch.Get "author_initials") 0 -}}
+{{- partial "pub_fmt/short_author_list" . -}}
+{{- else -}}
+{{- delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " -}}
+{{- end -}}

@@ -17,6 +17,17 @@ issued:
 - {year: '2002'}
 page: 183-192
 pub_type: article-journal
+short_author:
+- {family: Cricenti, given: A.}
+- {family: Generosi, given: R.}
+- {family: Luce, given: M.}
+- {family: Perfetti, given: P.}
+- {family: Margaritondo, given: G.}
+- {family: Talley, given: D.}
+- {family: Sanghera, given: J.S.}
+- {family: Aggarwal, given: I.D.}
+- {family: Gilligan, given: J. M.}
+- {family: Tolk, given: N. H.}
 status: published
 title: Surface characterisation by near-field microscopy and atomic force microscopy
 volume: '32'

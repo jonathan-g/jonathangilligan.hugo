@@ -14,8 +14,6 @@ editor:
 - {family: Zhou, given: E.}
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
-file:
-- {desc: full text, file: Nay_2016_Betting_Belief.pdf}
 id: nay_prediction_market_2016
 issued:
 - {year: '2016'}
@@ -26,6 +24,17 @@ pub_type: paper-conference
 pub_url: https://arxiv.org/abs/1603.08961
 publisher: IEEE Press
 publisher-place: Piscataway, NJ, USA
+short_author:
+- {family: Nay, given: J. J.}
+- {family: Van der Linden, given: M.}
+- {family: Gilligan, given: J. M.}
+short_editor:
+- {family: Roeder, given: T.M.K.}
+- {family: Frazier, given: P.I.}
+- {family: Szechtman, given: R.}
+- {family: Zhou, given: E.}
+- {family: Huschka, given: T.}
+- {family: Chick, given: S.E.}
 status: published
 title: 'Betting and belief: Prediction markets and attribution of climate change'
 ---

@@ -9,8 +9,6 @@ date: '2015-01-01'
 editor:
 - {family: Mallick, given: Bishawjit}
 - {family: Etzold, given: Benjamin}
-file:
-- {desc: full text, file: Ackerly_2015_Political_Economies.pdf}
 id: ackerly_political_economies_2015
 issued:
 - {year: '2015'}
@@ -18,6 +16,13 @@ page: 27-39
 pub_type: chapter
 publisher: AHDPH
 publisher-place: Dhaka
+short_author:
+- {family: Ackerly, given: B. A.}
+- {family: Anam, given: M.}
+- {family: Gilligan, given: J.}
+short_editor:
+- {family: Mallick, given: B.}
+- {family: Etzold, given: B.}
 status: published
 title: Environment, political economies, and livelihood change
 ---

@@ -8,14 +8,18 @@ author:
 - {family: Vandenbergh, given: Michael}
 container-title: Significance
 date: '2010-01-01'
-file:
-- {desc: full text, file: Gilligan_2010_Behavioral_Wedge.pdf}
 id: gilligan_behavioral_wedge_2010
 issued:
 - {year: '2010'}
 note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
 page: 17-20
 pub_type: article-journal
+short_author:
+- {family: Gilligan, given: J.}
+- {family: Dietz, given: T.}
+- {family: Gardner, given: G.}
+- {family: Stern, given: P.}
+- {family: Vandenbergh, given: M.}
 status: published
 title: The behavioral wedge
 volume: '7'

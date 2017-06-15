@@ -7,14 +7,16 @@ author:
 container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
   \ Sensing and Spatial Information Sciences"
 date: '2016-01-01'
-file:
-- {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
 id: burchfield_vegetation_health_2016
 issued:
 - {year: '2016'}
 page: 465-469
 pub_type: article-journal
 pub_url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
+short_author:
+- {family: Burchfield, given: E.}
+- {family: Nay, given: J. J.}
+- {family: Gilligan, given: J.}
 status: published
 title: Application of machine learning to the prediction of vegetation health
 volume: XLI-B2

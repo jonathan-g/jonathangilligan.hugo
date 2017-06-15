@@ -9,8 +9,11 @@ issued:
 - {year: '2006'}
 page: 10924-10930
 pub_type: article-journal
+short_author:
+- {family: Gilligan, given: J. M.}
 status: published
 title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
   risks'
 volume: '36'
 ---
+Risk assessment is one tool of legal and policy decisionmaking, and one that may play a large role in establishing nanotechnology policy and regulations. In this Article, I analyze different methods of risk assessment and applies these methods to nanotechnology. I challenge the notion that people perceive and react to risk in a logical way, postulating that both experts and laypeople are susceptible to irrationality when it comes to risk perception. I conclude with a determination that a singular approach to risk management of nanotechnology may not be enough; rather, multiple risk management methods should be utilized depending on qualitative assessments of different nanotechnologies.

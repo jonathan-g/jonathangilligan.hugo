@@ -1,0 +1,9 @@
+{{ if gt ($.Scratch.Get "editor_initials") 0 -}}
+  {{- partial "pub_fmt/short_editor_list" . -}}
+{{- else -}}
+  {{ if isset .Params "editor" -}}
+      {{- $editors := apply (apply .Params.editor "partial" "pub_fmt/author" ".") "chomp" "." -}}
+      {{- delimit $editors ", " -}}
+      {{- if gt (len $editors) 1 }} (eds.){{ else}} (ed.){{ end -}}
+  {{- end -}}
+{{- end -}}

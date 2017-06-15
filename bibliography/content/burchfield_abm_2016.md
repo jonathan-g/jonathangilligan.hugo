@@ -13,8 +13,6 @@ editor:
 - {family: Zhou, given: E.}
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
-file:
-- {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
 id: burchfield_abm_2016
 issued:
 - {year: '2016'}
@@ -25,6 +23,16 @@ pub_type: paper-conference
 pub_url: https://papers.ssrn.com/abstract=2807452
 publisher: IEEE Press
 publisher-place: Piscataway, NJ, USA
+short_author:
+- {family: Burchfield, given: E. K.}
+- {family: Gilligan, given: J. M.}
+short_editor:
+- {family: Roeder, given: T.M.K.}
+- {family: Frazier, given: P.I.}
+- {family: Szechtman, given: R.}
+- {family: Zhou, given: E.}
+- {family: Huschka, given: T.}
+- {family: Chick, given: S.E.}
 status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity
 ---

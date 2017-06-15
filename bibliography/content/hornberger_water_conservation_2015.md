@@ -6,8 +6,6 @@ author:
 - {family: Gilligan, given: Jonathan}
 container-title: Water Resources Research
 date: '2015-01-01'
-file:
-- {desc: full text, file: Hornberger_2015_Water_Conservation.pdf}
 id: hornberger_water_conservation_2015
 issue: '6'
 issued:
@@ -15,6 +13,10 @@ issued:
 keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
 page: 4635-4649
 pub_type: article-journal
+short_author:
+- {family: Hornberger, given: G. M.}
+- {family: Hess, given: D. J.}
+- {family: Gilligan, given: J.}
 status: published
 title: Water conservation and hydrological transitions in cities in the United States
 volume: '51'

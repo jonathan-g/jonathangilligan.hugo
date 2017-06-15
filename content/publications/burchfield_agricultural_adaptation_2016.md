@@ -5,8 +5,6 @@ author:
 - {family: Gilligan, given: Jonathan}
 container-title: Applied Geography
 date: '2016-01-01'
-file:
-- {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
 id: burchfield_agricultural_adaptation_2016
 issued:
 - {year: '2016'}
@@ -15,6 +13,9 @@ page: 92-100
 pub_type: article-journal
 pub_url: https://www.sciencedirect.com/science/article/pii/S0143622816306063
 publisher: Elsevier
+short_author:
+- {family: Burchfield, given: E. K}
+- {family: Gilligan, given: J.}
 status: published
 title: Agricultural adaptation to drought in the Sri Lankan dry zone
 volume: '77'

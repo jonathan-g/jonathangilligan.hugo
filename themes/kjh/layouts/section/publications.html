@@ -28,6 +28,9 @@
     <div class="units-row">
       <div class="unit-50">
         <h2>Publications</h2>
+        {{ $.Scratch.Set "bib_with_year" 0 }}
+        {{ $.Scratch.Set "author_initials" 1 }}
+        {{ $.Scratch.Set "editor_initials" 1 }}
           {{ range (.Pages.GroupByDate "2006" "desc" ) }}
           <div class="units-row">
             <div class="unit-10">

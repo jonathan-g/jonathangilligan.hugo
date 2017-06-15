@@ -1,26 +1,11 @@
-{{- .Params.title | safeHTML -}}
-
-{{ delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " }}
-
-{{ if isset .Params "container-title" | and (index .Params "container-title") -}}
-  in
-    {{ if isset .Params "editor" -}}
-      {{- $editors := apply (apply .Params.editor "partial" "pub_fmt/author" ".") "chomp" "." -}}
-      {{- delimit $editors ", " -}}
-      {{- if gt (len $editors) 1 }} (eds.){{ else}} (ed.){{ end }},
-    {{ end -}}
-  <i>{{ index .Params "container-title" }}</i>
-{{- end -}}
-
+{{ partial "pub_fmt/article_title" . -}}
+{{ partial "pub_fmt/author_list" . }}.
+in
+{{ if isset .Params "editor" -}}
+  {{ partial "pub_fmt/editor_list" . -}},
+{{ end -}}
+{{ partial "pub_fmt/container_title" . -}}
 {{- if (isset .Params "page") | and (not (eq .Params.page "")) -}}
       ,  {{ .Params.page -}}
-{{- end -}}
-
-{{- if isset .Params "publisher" }}
-  ({{ if isset .Params "publisher-place" | and (index .Params "publisher-place") }}
-    {{- index .Params "publisher-place" -}}:
-{{ end -}}
-{{- .Params.publisher }})
-{{- end -}}
-
-{{- if isset .Params "isbn" }}, ISBN: {{ .Params.isbn }}{{ end -}}.
+{{- end }}
+{{ partial "pub_fmt/publisher" . -}}.

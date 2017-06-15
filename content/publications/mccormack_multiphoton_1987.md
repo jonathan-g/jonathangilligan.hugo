@@ -12,6 +12,10 @@ issued:
 page: 58-60
 pub_type: paper-conference
 publisher: Optical Society of America
+short_author:
+- {family: McCormack, given: E.}
+- {family: Eyler, given: E. E.}
+- {family: Gilligan, given: J. M.}
 status: published
 title: Precise photodissociation and multiphoton spectroscopy of H2
 volume: '21'

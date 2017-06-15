@@ -14,6 +14,13 @@ issued:
 - {year: '2003'}
 page: 216-222
 pub_type: article-journal
+short_author:
+- {family: Sobol, given: E.}
+- {family: Sviridov, given: A.}
+- {family: Kitai, given: M.}
+- {family: Gilligan, given: J. M.}
+- {family: Edwards, given: G. S.}
+- {family: Tolk, given: N. H.}
 status: published
 title: Time-resolved light scattering measurements of cartilage and cornea denaturation
   due to free-electron laser radiation

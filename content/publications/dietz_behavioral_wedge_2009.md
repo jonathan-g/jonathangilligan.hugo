@@ -8,14 +8,17 @@ author:
 - {family: Vandenbergh, given: Michael}
 container-title: PNAS
 date: '2009-01-01'
-file:
-- {desc: full text, file: Dietz_2009_Behavioral_Wedge.pdf}
-- {desc: supporting information, file: Dietz_2009_Behavioral_Wedge_Supporting_Info.pdf}
 id: dietz_behavioral_wedge_2009
 issued:
 - {year: '2009'}
 page: 18452-18456
 pub_type: article-journal
+short_author:
+- {family: Dietz, given: T.}
+- {family: Gardner, given: G.}
+- {family: Gilligan, given: J.}
+- {family: Stern, given: P.}
+- {family: Vandenbergh, given: M.}
 status: published
 title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
   emissions

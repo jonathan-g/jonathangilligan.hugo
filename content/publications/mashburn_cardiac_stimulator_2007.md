@@ -13,6 +13,13 @@ issued:
 - {year: '2007'}
 page: 104302-104309
 pub_type: article-journal
+short_author:
+- {family: Mashburn, given: D. N.}
+- {family: Hinkson, given: S.J.}
+- {family: Woods, given: M. C.}
+- {family: Gilligan, given: J. M.}
+- {family: Holcomb, given: M. R.}
+- {family: Wikswo, given: J. P.}
 status: published
 title: A high-voltage cardiac stimulator for field shocks of a whole heart in a bath
 volume: '78'

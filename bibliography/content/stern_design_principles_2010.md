@@ -8,13 +8,17 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: Environmental Science & Technology
 date: '2010-01-01'
-file:
-- {desc: full text, file: Stern_2010_Design_Principles.pdf}
 id: stern_design_principles_2010
 issued:
 - {year: '2010'}
 page: 4847-4848
 pub_type: article-journal
+short_author:
+- {family: Stern, given: P. C.}
+- {family: Gardner, given: G. T.}
+- {family: Vandenbergh, given: M. P.}
+- {family: Dietz, given: T.}
+- {family: Gilligan, given: J. M.}
 status: published
 title: Design principles for carbon emissions reduction programs
 volume: '44'

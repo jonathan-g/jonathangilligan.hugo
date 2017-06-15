@@ -17,8 +17,6 @@ editor:
 - {family: Roeder, given: T.M.K.}
 - {family: Macal, given: C.}
 - {family: Rossetti, given: M.D.}
-file:
-- {desc: full text, file: Gilligan_2015_Flood_Partsim.pdf}
 id: gilligan_flood_partsim_2015
 issued:
 - {year: '2015'}
@@ -27,6 +25,19 @@ pub_type: paper-conference
 pub_url: https://ieeexplore.ieee.org/document/7408456/
 publisher: IEEE Press
 publisher-place: Piscataway, NJ, USA
+short_author:
+- {family: Gilligan, given: J. M.}
+- {family: Brady, given: C.}
+- {family: Camp, given: J. V.}
+- {family: Nay, given: J. J.}
+- {family: Sengupta, given: P.}
+short_editor:
+- {family: Yilmaz, given: L.}
+- {family: Chan, given: W.K.V.}
+- {family: Moon, given: I.}
+- {family: Roeder, given: T.M.K.}
+- {family: Macal, given: C.}
+- {family: Rossetti, given: M.D.}
 status: published
 title: Participatory simulations of urban flooding for learning and decision support
 ---

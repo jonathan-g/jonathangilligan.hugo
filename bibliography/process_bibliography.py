@@ -17,7 +17,7 @@ def preprocess(infile, outfile):
     original = open(infile)
     modified = open(outfile, 'w')
     lines = original.readlines()
-    lines = [ re.sub('^( *)author\\+an', '\\1author_an', li) for li in lines ]
+    lines = [ re.sub('^( *)[Aa]uthor\\+[Aa][Nn]', '\\1author_an', li) for li in lines ]
     modified.writelines(lines)
 
 def call_citeproc(source, target):
@@ -65,8 +65,9 @@ def gen_refs(bibfile):
 clean_expr = re.compile('[^a-zA-z0-9]+')
 
 def gen_items(bib):
-    output_keys = ['title', 'author',
-                   'container-title', 'collection-title', 'editor',
+    output_keys = ['title', 'author', 'short_author',
+                   'container-title', 'collection-title',
+                   'editor', 'short_editor',
                    'publisher-place', 'publisher',
                    'genre', 'status',
                    'volume', 'issue', 'page', 'number',
@@ -80,6 +81,10 @@ def gen_items(bib):
         os.mkdir('content')
     for item in bib:
         key = clean_expr.sub('_', item['id'])
+        if 'author' in item.keys():
+            item['short_author'] = [ {'family':n['family'], 'given':re.sub('\\b([A-Z])[a-z][a-z]+\\b', '\\1.', n['given'])} for n in item['author'] ]
+        if 'editor' in item.keys():
+            item['short_editor'] = [ {'family':n['family'], 'given':re.sub('\\b([A-Z])[a-z][a-z]+\\b', '\\1.', n['given'])} for n in item['editor'] ]
         header_items = dict([(k, v) for (k, v) in item.items() if k in output_keys])
         header_items['id'] = key
         dd = header_items['issued'][0]
@@ -136,4 +141,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

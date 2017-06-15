@@ -14,6 +14,14 @@ issued:
 - {year: '1993'}
 page: 410-419
 pub_type: paper-conference
+short_author:
+- {family: Itano, given: W. M.}
+- {family: Eichmann, given: U.}
+- {family: Bergquist, given: J. C.}
+- {family: Bollinger, given: J. J.}
+- {family: Gilligan, given: J. M.}
+- {family: Raizen, given: M. G.}
+- {family: Wineland, given: D. J.}
 status: published
 title: Light scattered from two atoms
 ---

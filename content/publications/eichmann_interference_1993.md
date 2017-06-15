@@ -14,6 +14,14 @@ issued:
 - {year: '1993'}
 page: 43-48
 pub_type: paper-conference
+short_author:
+- {family: Eichmann, given: U.}
+- {family: Bergquist, given: J. C.}
+- {family: Bollinger, given: J. J.}
+- {family: Gilligan, given: J. M.}
+- {family: Itano, given: W. M.}
+- {family: Raizen, given: J. G.}
+- {family: Wineland, given: D. J.}
 status: published
 title: Interference in the resonance fluorescence of two trapped atoms
 ---

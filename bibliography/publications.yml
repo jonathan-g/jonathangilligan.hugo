@@ -1,4 +1,66 @@
 references:
+- ISBN: 978-1316632482
+  abstract: Private sector action provides one of the most promising opportunities
+    to reduce the risks of climate change, buying time while governments move slowly
+    or even oppose climate mitigation. Starting with the insight that much of the
+    resistance to climate mitigation is grounded in concern about the role of government,
+    this books draws on law, policy, social science, and climate science to demonstrate
+    how private initiatives are already bypassing government inaction in the US and
+    around the globe. It makes a persuasive case that private governance can reduce
+    global carbon emissions by a billion tons per year over the next decade. Combining
+    an examination of the growth of private climate initiatives over the last decade,
+    a theory of why private actors are motivated to reduce emissions, and a review
+    of viable next steps, this book speaks to scholars, business and advocacy group
+    managers, philanthropists, policymakers, and anyone interested in climate change.
+  author:
+  - {family: Vandenbergh, given: Michael P.}
+  - {family: Gilligan, given: Jonathan M.}
+  id: vandenbergh:beyond.politics:2017
+  issued:
+  - {day: '31', month: '10', year: '2017'}
+  note: 'Manuscript: 287 pp.'
+  publisher: Cambridge University Press
+  publisher-place: New York, NY
+  status: in press
+  title: 'Beyond politics: The private governance response to climate change'
+  title-short: Beyond politics
+  type: book
+- ISBN: 978-1138655942
+  abstract: Climate change is a global problem. However, between the global forces
+    of climate change and the individual challenges of meeting basic needs, communities
+    are the context in which people experience the effects of climate change and seek
+    to adapt to its impact on their livelihoods. Such adaptation may include permanent
+    migration, and this has certainly been one of the foci of international relations
+    and security politics related to climate change. Of course, such migration will
+    have human rights consequences; and there are also human rights causes of some
+    of this migration, particularly as parts of the planet where people have made
+    their homes and livelihoods become uninhabitable. Of equal importance are the
+    problems related to climate change effects that do not cause mass migration but
+    also have human rights causes and consequences. In this chaopter, we use a study
+    in rural Bangladesh to demonstrate the import of the human rights considerations
+    of this second, community-level, impact of climate change on human rights.
+  author:
+  - {family: Ackerly, given: Brooke A.}
+  - {family: Anam, given: Mujibul}
+  - {family: Gilligan, given: Jonathan}
+  - {family: Goodbred, given: Steven}
+  container-title: Climate change, migration, and human rights
+  editor:
+  - {family: Manou, given: Dimitra}
+  - {family: Baldwin, given: Andrew}
+  - {family: Cubie, given: Dug}
+  - {family: Mijr, given: Anja}
+  - {family: Thorp, given: Teresa}
+  id: ackerly:migration:2017
+  issued:
+  - {year: '2017'}
+  publisher: Routledge
+  publisher-place: New York
+  status: published
+  title: 'Climate and community: The human rights, livelihood, and migration impacts
+    of climate change'
+  title-short: Climate and community
+  type: chapter
 - DOI: 10.1080/09603123.2016.1194383
   ISSN: 0960-3123
   PMID: '27277537'
@@ -34,8 +96,6 @@ references:
   - {family: Donato, given: Katherine}
   - {family: Piya, given: Bhumika}
   container-title: International Journal of Environmental Health Research
-  file:
-  - {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
   id: benneyworth:drinking.water:2016
   issued:
   - {year: '2016'}
@@ -77,8 +137,6 @@ references:
   - {family: Zhou, given: E.}
   - {family: Huschka, given: T.}
   - {family: Chick, given: S.E.}
-  file:
-  - {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
   id: burchfield:abm:2016
   issued:
   - {year: '2016'}
@@ -90,6 +148,38 @@ references:
   status: published
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
   type: paper-conference
+- DOI: 10.1016/j.apgeog.2016.10.003
+  URL: https://www.sciencedirect.com/science/article/pii/S0143622816306063
+  abstract: Droughts affect more people than any other natural disaster. Drought severity
+    is not merely a function of precipitation; it emerges from a web of interrelations
+    between human and natural systems. The impacts of drought are equally complex,
+    shifting across temporal scales, economic sectors, and regions. Even in regions
+    with similar hydroclimatic characteristics, there is tremendous variation in the
+    effects of drought. This study combines satellite imagery, geospatial data, and
+    qualitative data to identify the multi-scalar factors that drive variations in
+    agricultural responses to drought. We analyzed eleven years of remotely sensed
+    imagery to identify agricultural areas in which cultivation occurred during an
+    extreme drought in Sri Lanka. We visited a subset of these communities and conducted
+    interviews with officials and farmers to identify the factors that influenced
+    agricultural adaptation. Results suggest that though structural factors such as
+    infrastructural capacity and physical environment significantly affect agricultural
+    adaptation, dynamic factors such as local control of water supply, perceived risk,
+    community cohesion, and farmer experience explain significant variation in the
+    adaptive capacity of agricultural systems.
+  author:
+  - {family: Burchfield, given: Emily K}
+  - {family: Gilligan, given: Jonathan}
+  container-title: Applied Geography
+  id: burchfield:agricultural.adaptation:2016
+  issued:
+  - {year: '2016'}
+  keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
+  page: 92-100
+  publisher: Elsevier
+  status: published
+  title: Agricultural adaptation to drought in the Sri Lankan dry zone
+  type: article-journal
+  volume: '77'
 - DOI: 10.5194/isprs-archives-XLI-B2-465-2016
   ISSN: 1682-1750
   URL: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
@@ -117,8 +207,6 @@ references:
   - {family: Gilligan, given: Jonathan}
   container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
     \ Sensing and Spatial Information Sciences"
-  file:
-  - {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
   id: burchfield:vegetation.health:2016
   issued:
   - {year: '2016'}
@@ -150,8 +238,6 @@ references:
   - {family: Hornberger, given: George M.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: International Journal of Climatology
-  file:
-  - {desc: Full Text, file: Gunda_2015_Agricultural_Drought.pdf}
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
@@ -191,15 +277,13 @@ references:
   - {family: Gilligan, given: Jonathan}
   - {family: Hornberger, given: George M.}
   container-title: Sociological Forum
-  file:
-  - {desc: full text, file: Hess_2016_Drought_Southwest.pdf}
   id: hess:drought:2016
   issued:
   - {year: '2016'}
   page: 807-827
   publisher: Wiley Online Library
   status: published
-  title: Drought, risk, and institutional politics in the american southwest
+  title: Drought, risk, and institutional politics in the American Southwest
   type: article-journal
   volume: '31'
 - DOI: 10.1109/WSC.2016.7822215
@@ -232,8 +316,6 @@ references:
   - {family: Zhou, given: E.}
   - {family: Huschka, given: T.}
   - {family: Chick, given: S.E.}
-  file:
-  - {desc: full text, file: Nay_2016_Betting_Belief.pdf}
   id: nay:prediction.market:2016
   issued:
   - {year: '2016'}
@@ -268,8 +350,6 @@ references:
   editor:
   - {family: Mallick, given: Bishawjit}
   - {family: Etzold, given: Benjamin}
-  file:
-  - {desc: full text, file: Ackerly_2015_Political_Economies.pdf}
   id: ackerly:political.economies:2015
   issued:
   - {year: '2015'}
@@ -309,8 +389,6 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Ackerly, given: Brooke A.}
   container-title: Nature Climate Change
-  file:
-  - {desc: full text, file: Auerbach_2015_Bangladesh.pdf}
   id: auerbach:flood.risk:2015
   issue: '2'
   issued:
@@ -376,8 +454,6 @@ references:
   - {family: Roeder, given: T.M.K.}
   - {family: Macal, given: C.}
   - {family: Rossetti, given: M.D.}
-  file:
-  - {desc: full text, file: Gilligan_2015_Flood_Partsim.pdf}
   id: gilligan:flood.partsim:2015
   issued:
   - {year: '2015'}
@@ -412,8 +488,6 @@ references:
   - {family: Hess, given: David J.}
   - {family: Gilligan, given: Jonathan}
   container-title: Water Resources Research
-  file:
-  - {desc: full text, file: Hornberger_2015_Water_Conservation.pdf}
   id: hornberger:water.conservation:2015
   issue: '6'
   issued:
@@ -453,8 +527,6 @@ references:
   - {family: Roeder, given: T.M.K.}
   - {family: Macal, given: C.}
   - {family: Rossetti, given: M.D.}
-  file:
-  - {desc: full text, file: Nay_2015_Dynamic_Decision_Models.pdf}
   id: nay:decision.models:2015
   issued:
   - {year: '2015'}
@@ -488,8 +560,6 @@ references:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Columbia Journal of Environmental Law
-  file:
-  - {desc: full text, file: Vandenbergh_2015_Beyond_Gridlock.pdf}
   id: vandenbergh:beyond.gridlock:2015
   issue: '2'
   issued:
@@ -522,8 +592,6 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Vandenbergh, given: Michael P.}
   container-title: Virginia Environmental Law Journal
-  file:
-  - {desc: full text, file: Gilligan_2014_Political_Feasibility.pdf}
   id: gilligan:political.feasibility:2014
   issued:
   - {year: '2014'}
@@ -563,8 +631,6 @@ references:
   - {family: Toner, given: Kaitlin E.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: UCLA Law Review
-  file:
-  - {desc: full text, file: Vandenbergh_2014_Prediction_Market.pdf}
   id: vandenbergh:prediction.market:2014
   issued:
   - {year: '2014'}
@@ -574,14 +640,28 @@ references:
   title-short: Energy and climate change
   type: article-journal
   volume: '61'
-- author:
+- abstract: "Environmental vulnerability in Bangladesh\u2014especially vulnerability\
+    \ to climate change\u2014is too often treated in isolation from the social, economic,\
+    \ and political contexts in which communities and their inhabitants make their\
+    \ livelihood. We propose that resilience and vulnerability to environmental stress\
+    \ are best understood in terms of a modification of Ostrom\u2019s socioecological\
+    \ systems paradigm that we call \u201Cmultiple dynamic equilibria:\u201Dmultiple\
+    \ dynamic equilibria: livelihoods in vulnerable regions are shaped by multiple\
+    \ overlapping patterns of interaction between the physical environment in which\
+    \ people live and the social, economic, and political environments in which they\
+    \ interact, within their communities, with other communities, and external actors.\
+    \ Translating policy goals into effective action requires understanding these\
+    \ interactions at multiple levels.We report on a new transdisciplinary project\
+    \ that draws geoscientists, engineers, and social scientists together to investigate\
+    \ the interactions between communities and the environment in the southwestern\
+    \ coastal region of Bangladesh and understand the dynamics of vulnerability and\
+    \ resilience."
+  author:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Ackerly, given: Brooke A.}
   - {family: Goodbred, given: Steven L.}
   container-title: 'Bridging the policy-action divide: Challenges and prospects for
     Bangladesh'
-  file:
-  - {desc: full text, file: Gilligan_2013_Building_Resilience.pdf}
   id: gilligan:isee.bangladesh:2013
   issued:
   - {month: '2', year: '2013'}
@@ -609,8 +689,6 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   collection-title: IAHS publ.
   container-title: 'Deltas: Landforms, ecosystems and human activities'
-  file:
-  - {desc: full text, file: Rogers_2013_Farming_Practices.pdf}
   id: rogers:farming.practices:2013
   issued:
   - {year: '2013'}
@@ -634,7 +712,7 @@ references:
     \ measures to reduce energy use and carbon emissions and can serve as an entry\
     \ point for more detailed studies of the literature.An effective response to the\
     \ climate change problem will require substantial reductions in energy demand\
-    \ in addition to new developments in low-carbon energy supplies.1 The individual\
+    \ in addition to new developments in low-carbon energy supplies. The individual\
     \ and household sector presents a major opportunity: the sector accounts for roughly\
     \ 40 Despite this opportunity, recent regulatory and policy efforts are only beginning\
     \ to direct substantial attention to the individual and household sector. Findings\
@@ -662,8 +740,6 @@ references:
   - {family: Dietz, given: Thomas}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Journal of Energy & Environmental Law
-  file:
-  - {desc: full text, file: Carrico_2011_Key_Lessons.pdf}
   id: carrico:behavioral.wedge.lessons:2011
   issued:
   - {year: '2011'}
@@ -692,8 +768,6 @@ references:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Duke Environmental Law and Policy Forum
-  file:
-  - {desc: full text, file: Vandenbergh_2011_Macro_Risks.pdf}
   id: vandenbergh:macro.risks:2011
   issued:
   - {year: '2011'}
@@ -703,6 +777,52 @@ references:
   title-short: Macro-risks
   type: article-journal
   volume: '21'
+- abstract: An apparatus and methods for detecting at least one analyte of interest
+    either produced or consumed by a plurality of cell. In one embodiment of the present
+    invention, the method includes the steps of providing a housing defining a chamber,
+    placing a plurality of cells in the chamber, and simultaneously detecting at least
+    two analytes of interest either produced or consumed by the plurality of cells
+    in the chamber.
+  author:
+  - {family: Cliffel, given: David}
+  - {family: Baudenbacher, given: Franz J.}
+  - {family: Wikswo, given: John P.}
+  - {family: Eklund, given: Sven}
+  - {family: Balcarcel, given: Robert R.}
+  - {family: Gilligan, given: Jonathan Mark}
+  id: cliffel:cell.response.patent:2010
+  issued:
+  - {day: '11', month: '5', year: '2010'}
+  number: 7,713,733 B2
+  status: published
+  title: Device and methods for detecting the response of a plurality of cells to
+    at least one analyte of interest
+  type: patent
+- abstract: An apparatus and methods for monitoring the status of a cell that consumes
+    oxygen. In one embodiment of the present invention, the method includes the steps
+    of confining the cell in a sensing volume, measuring dynamically intracellular
+    or extracellular signaling of the cell, and determining the status of the cell
+    from the measured intracellular or extracellular signaling of the cell.
+  author:
+  - {family: Baudenbacher, given: Franz J.}
+  - {family: Wikswo, given: John P.}
+  - {family: Balcarcel, given: Robert R.}
+  - {family: Cliffel, given: David}
+  - {family: Eklund, given: Sven}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: McGuinness, given: Owen}
+  - {family: Monroe, given: Todd}
+  - {family: Prokop, given: Ales}
+  - {family: Stremler, given: Michael}
+  - {family: Werdich, given: Andreas}
+  id: baudenbacher:cell.monitoring.patent:2010
+  issued:
+  - {day: '27', month: '4', year: '2010'}
+  number: 7,704,745 B2
+  status: published
+  title: Apparatus and methods for monitoring the status of a metabolically active
+    cell
+  type: patent
 - DOI: 10.1111/j.1740-9713.2010.00405.x
   abstract: When nations fail to agree, can individual citizens make a difference?
     The third of our post-Copenhagen features is by Jonathan Gilligan, Thomas Dietz,
@@ -716,8 +836,6 @@ references:
   - {family: Stern, given: Paul}
   - {family: Vandenbergh, given: Michael}
   container-title: Significance
-  file:
-  - {desc: full text, file: Gilligan_2010_Behavioral_Wedge.pdf}
   id: gilligan:behavioral.wedge:2010
   issued:
   - {year: '2010'}
@@ -727,6 +845,20 @@ references:
   title: The behavioral wedge
   type: article-journal
   volume: '7'
+- author:
+  - {family: Gilligan, given: Jonathan}
+  container-title: 'Opposing viewpoints: Ethics'
+  editor:
+  - {family: Espejo, given: R.}
+  id: gilligan:ethics.geological.time:2010
+  issued:
+  - {year: '2010'}
+  page: 20-32
+  publisher: Gale
+  status: published
+  title: People should behave ethically for the sake of future generations
+  type: chapter
+  volume: '2'
 - DOI: 10.1021/es100896p
   abstract: The goal, articulated by President Obama in 2009, of reducing U.S. carbon
     emissions 17
@@ -737,8 +869,6 @@ references:
   - {family: Dietz, given: Thomas}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Environmental Science & Technology
-  file:
-  - {desc: full text, file: Stern_2010_Design_Principles.pdf}
   id: stern:design.principles:2010
   issued:
   - {year: '2010'}
@@ -757,8 +887,6 @@ references:
   - {family: Dietz, given: Thomas}
   - {family: Gilligan, given: Jonathan M.}
   container-title: Environmental Law Reporter
-  file:
-  - {desc: full text, file: Vandenbergh_2010_Implementing_Behavioral_Wedge.pdf}
   id: vandenbergh:implementing.behavioral.wedge:2010
   issued:
   - {year: '2010'}
@@ -793,8 +921,6 @@ references:
   - {family: Gilligan, given: Jonathan}
   - {family: Wallston, given: Kenneth A.}
   container-title: Energy Policy
-  file:
-  - {desc: full text, file: Carrico_2009_Costly_Myths.pdf}
   id: carrico:costly.myths:2009
   issued:
   - {year: '2009'}
@@ -823,9 +949,6 @@ references:
   - {family: Stern, given: Paul}
   - {family: Vandenbergh, given: Michael}
   container-title: PNAS
-  file:
-  - {desc: full text, file: Dietz_2009_Behavioral_Wedge.pdf}
-  - {desc: supporting information, file: Dietz_2009_Behavioral_Wedge_Supporting_Info.pdf}
   id: dietz:behavioral.wedge:2009
   issued:
   - {year: '2009'}
@@ -859,8 +982,6 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Sidorov, given: Venyamin Y.}
   container-title: Experimental Biology and Medicine
-  file:
-  - {desc: full text, file: Holcomb_2009_Dual_Camera.pdf}
   id: holcomb:dual.camera:2009
   issued:
   - {year: '2009'}
@@ -892,8 +1013,6 @@ references:
   - {family: Barkenbus, given: Jack}
   - {family: Gilligan, given: Jonathan Mark}
   container-title: UCLA Law Review
-  file:
-  - {desc: full text, file: Vandenbergh_2008_Low_Hanging_Fruit.pdf}
   id: vandenbergh:low.hanging.fruit:2008
   issued:
   - {year: '2008'}
@@ -937,7 +1056,16 @@ references:
     bath
   type: article-journal
   volume: '78'
-- author:
+- abstract: Risk assessment is one tool of legal and policy decisionmaking, and one
+    that may play a large role in establishing nanotechnology policy and regulations.
+    In this Article, I analyze different methods of risk assessment and applies these
+    methods to nanotechnology. I challenge the notion that people perceive and react
+    to risk in a logical way, postulating that both experts and laypeople are susceptible
+    to irrationality when it comes to risk perception. I conclude with a determination
+    that a singular approach to risk management of nanotechnology may not be enough;
+    rather, multiple risk management methods should be utilized depending on qualitative
+    assessments of different nanotechnologies.
+  author:
   - {family: Gilligan, given: Jonathan Mark}
   container-title: Environmental Law Reporter
   id: gilligan:nanotech.risks:2006
@@ -1008,7 +1136,14 @@ references:
   title: Surface characterisation by near-field microscopy and atomic force microscopy
   type: article-journal
   volume: '32'
-- author:
+- abstract: Using photoluminescence excitation (PLE) spectroscopy, we report detailed
+    measurements of the fundamental absorption threshold below the optical gap in
+    hydrogenated amorphous silicon (a-Si:H). These measurements suggest that the density
+    of neutral defects is much greater than the densities of charged defects in intrinsic
+    a-Si:H. The positions and widths of the corresponding transition energies are
+    determined and agree with two models proposed to describe the density of states
+    in a-Si:H.
+  author:
   - {family: Mensing, given: G.}
   - {family: Gilligan, given: J.}
   - {family: Hari, given: P.}
@@ -1060,7 +1195,19 @@ references:
     laser
   type: article-journal
   volume: '202'
-- author:
+- abstract: We report first IR free-electron laser experiments to compare and elucidate
+    the effects of surface-localized vibrational excitation versus bulk vibrational
+    excitation on the ablation of polycrystalline diamond. The measured ablation yield
+    values as a function of laser intensity indicate the existence of two separate
+    thresholds. The lower intensity thresholds is identified as the ablation threshold,
+    and the higher intensity threshold is associated with the formation of a plasma
+    plume. The wavelength dependences of both thresholds indicate that eh C-H absorption
+    occurring at surfaces and grain boundaries does not play a significant role in
+    the ablation process. However, both thresholds are lower when the laser is resonant
+    with the two-phonon bulk absorption band. These findings are consistent with the
+    model that a rapid laser- induced phase transition to graphite is responsible
+    for the low-intensity ablation of diamond at and above the first threshold.
+  author:
   - {family: Sturmann, given: Judit}
   - {family: Marka, given: Z}
   - {family: Albert, given: MM}
@@ -1099,7 +1246,17 @@ references:
   title-short: Materials science at the WM Keck free electron laser
   type: article-journal
   volume: '14'
-- author:
+- abstract: 'The effect of temperature dependent shift of water absorption band, known
+    for pure water, has been examined, for the first time, for tissue water, using
+    the IR Free Electron Laser radiation. Cooling kinetics of cartilage and cornea
+    irradiated was measured with a fluorimeter. We have modified the computation algorithm
+    to calculate the optical properties from these measurements more precisely. Temperature
+    dependence of the absorption coefficient of tissue water is studied, for both
+    sides of water absorption bands at 3.0 and 6.1 micrometers . It is shown that
+    cooling kinetics for samples irradiated with small laser intensity is the same,
+    for both wavelengths of each pair: 6.2 and 6.0; 6.35 and 5.92; 3.22 and 2.81;
+    3.15 and 2.87 micrometers .'
+  author:
   - {family: Sobol, given: Emil}
   - {family: Sviridov, given: Aleksandr}
   - {family: Kitai, given: Moshe}
@@ -1116,7 +1273,15 @@ references:
     under IR FEL radiation with different wavelengths
   type: paper-conference
   volume: '3925'
-- author:
+- abstract: Chalcogenide glass optical fibers were fabricated into functional apertured
+    probes for near field scanning infrared microscopy. Probe fiber tips were chemically
+    etched and aluminum coated for the purpose of simultaneously collecting near field
+    shear force and optical signals. Surface topography and infrared optical reflectivity
+    data were obtained using the tips in a scanning near field microscope while illuminating
+    an integrated microcircuit with the output from a free electron laser operating
+    at a $\lambda$ of 4.7 $\mu$m. Approximately 25 nm topographical and 100 nm optical
+    lateral resolution were observed.
+  author:
   - {family: Talley, given: David B.}
   - {family: Shaw, given: L.B.}
   - {family: Sanghera, given: J.S.}
@@ -1136,26 +1301,23 @@ references:
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   type: article-journal
   volume: '42'
-- author:
-  - {family: Cricenti, given: Antonio}
-  - {family: Generosi, given: Renato}
-  - {family: Herold, given: George}
-  - {family: Chiaradia, given: P.}
-  - {family: Perfetti, given: P.}
-  - {family: Margaritondo, given: Giorgio}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  container-title: 'Physica Status Solidi A: Applied Research'
-  id: cricenti:snom.junction:1999
-  issued:
-  - {year: '1999'}
-  page: 345-349
-  status: published
-  title: Chemical contrast observed at a III-V heterostructure by scanning near-field
-    optical microscopy
-  type: article-journal
-  volume: '175'
-- author:
+- abstract: The study of semiconductor interfaces and of solid interfaces in general
+    requires novel instrument capable to investigate the lateral fluctuations of properties
+    on a microscopic scale. We present the first result of a major effort in that
+    framework, whose main objective is the exploitation of the unique characteristics
+    of free electron laser (FEL) infrared sources. The background was provided by
+    our previous development of FEL-based techniques to measure interface barriers
+    with high accuracy and reliability. Quite recently, we were able to implement
+    similar investigations with high lateral resolution. The key elements were the
+    use of a small-tip optics fiber and its coupling with a scanning module; in this
+    way, we achieved and verified the condition of near-field microscopy including
+    a lateral resolution much below the wavelength value. Our discussion includes
+    a presentation of the first scanning near-field optical microscopy (SNOM) images
+    obtained with an FEL and data on small and microscopic-scale fluctuations of semiconductor
+    interface barriers. The likely development of this exciting new field will also
+    be discussed, in particular considering the new proposals for powerful FELs in
+    the low-wavelength spectral range.
+  author:
   - {family: Cricenti, given: A.}
   - {family: Generosi, given: R.}
   - {family: Perfetti, given: P.}
@@ -1167,7 +1329,7 @@ references:
   - {family: Spajer, given: M.}
   - {family: Courjon, given: D.}
   - {family: Aggarwal, given: I. D.}
-  container-title: 'Physica Status Solidi A: Applied Research'
+  container-title: \#pssa\#
   id: cricenti:snom.interface:1999
   issued:
   - {year: '1999'}
@@ -1177,7 +1339,44 @@ references:
     electron laser
   type: article-journal
   volume: '175'
-- author:
+- abstract: We observed chemical contrast with subwavelength resolution on a III-V
+    heterostructure by a scanning near-field optical microscope (SNOM) working in
+    the external reflection mode and coupled with a Free Electron Laser (FEL). SNOM
+    reflectivity images revealed features that were not present in the corresponding
+    shear-force (topology) images and are due to localized lateral changes in the
+    optical properties of the sample. The data indicate an optical spatial resolution
+    well below the diffraction limit of lambda/2 with most optical images having better
+    lateral resolution than topographic images.
+  author:
+  - {family: Cricenti, given: Antonio}
+  - {family: Generosi, given: Renato}
+  - {family: Herold, given: George}
+  - {family: Chiaradia, given: P.}
+  - {family: Perfetti, given: P.}
+  - {family: Margaritondo, given: Giorgio}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Tolk, given: Norman Henry}
+  container-title: \#pssa\#
+  id: cricenti:snom.junction:1999
+  issued:
+  - {year: '1999'}
+  page: 345-349
+  status: published
+  title: Chemical contrast observed at a III-V heterostructure by scanning near-field
+    optical microscopy
+  type: article-journal
+  volume: '175'
+- abstract: Studies of nonlinear, energy-selective material interactions localized
+    at surfaces, heterointerfaces, impurities, and defects in solids are described.
+    Particular reference is made to a new molecular interaction effect caused by transfer
+    of surface energy by low-energy collisions, a new noncontact nonlinear optical
+    method of studying electron and hole dynamics at a heterointerface, and a new
+    approach using a free-electron laser developed at Vanderbilt University to activate
+    hydrogen-passivated dopants in silicon. In each case the unique characteristics
+    of particle and photon beams, optimized for the technology, were used to extend
+    the range of applications of these new energy-selective techniques to solve fundamental
+    and applied problems.
+  author:
   - {family: Marka, given: Z.}
   - {family: Cheney, given: C. P.}
   - {family: Wang, given: W.}
@@ -1195,7 +1394,15 @@ references:
     in metals and semiconductors
   type: article-journal
   volume: '44'
-- author:
+- abstract: We fabricate scanning near-field optical microscope (IR-SNOM) probe tips
+    made from singlemode chalcogenide fiber and test them using a standard SNOM setup
+    and free-electron laser. SEM micrographs, showing tips with submicrometer physical
+    dimensions, demonstrate the feasibility of the thermal micropipette puller process
+    used to create the tips. Topographical data obtained using a shear-force near-field
+    microscope exhibit spatial resolution in the range of 80 to 100 nm. Optical data
+    in the IR (near 3.5 $\mu$m), using the probe tips in collection mode, indicate
+    an optical spatial resolution of approximately $\lambda/15$.
+  author:
   - {family: Schaafsma, given: D. T.}
   - {family: Mossadegh, given: R.}
   - {family: Sanghera, given: J. S.}
@@ -1216,7 +1423,17 @@ references:
     infrared optical microscopy
   type: article-journal
   volume: '38'
-- author:
+- abstract: "We have fabricated and tested infrared scanning near-field optical microscope\
+    \ (IR-SNOM) probe tips made from singlemode chalcogenide fiber. The process used\
+    \ to create the tips was similar to conventional micropipette-puller techniques,\
+    \ with some modifications to allow for the lower melting temperature and tensile\
+    \ strength of the chalcogenide fiber. SEM micrographs, showing tips with sub-micrometer\
+    \ physical dimensions, demonstrate the feasibility of this process. Topographical\
+    \ data obtained using a shear-force near-field microscope exhibits spatial resolution\
+    \ in the range 80\u2013100 nm. Optical data in the infrared (near 3.5$\\mu$m),\
+    \ using the probe tips in collection mode, indicates an optical spatial resolution\
+    \ approximately $\\lambda/15$."
+  author:
   - {family: Schaafsma, given: D. T.}
   - {family: Mossadegh, given: R.}
   - {family: Sanghera, given: J. S.}
@@ -1237,7 +1454,33 @@ references:
   title: Singlemode chalcogenide fiber infrared SNOM probes
   type: article-journal
   volume: '77'
-- author:
+- abstract: We consider the denaturation process as an alteration in ordered organization
+    of tissue structure and study the threshold and kinetics of laser-induced denaturation
+    in cartilage and cornea undergoing irradiation from a free electron laser (FEL)
+    in the wavelength range 2.2 - 8.5 (mu) . Light-scattering by cartilage samples
+    was measured in real- time during FEL irradiation using a 630-nm diode laser and
+    a diode array with time resolution of 10 ms. We found that denaturation threshold
+    is slightly lower than that for cartilage, and both depend on laser wavelength.
+    A strong inverse correlation between denaturation thresholds and the absorption
+    spectrum of the tissue is observed. Only for the wavelength region near the 3
+    (mu) water absorption band was the denaturation threshold not inversely proportional
+    to the absorption coefficient. We believe this was because the radiation penetration
+    depth was very small in this high- absorption region, so tissue denaturation occurred
+    only in a layer too thin to produce significant light scattering. ATR spectra
+    of 2.4 mm thick cartilage samples was measured before and after irradiation at
+    6.0 and 2.2 (mu) . At 6.0 (mu) , where the absorption is high, the spectrum of
+    the irradiated (front) surface showed changes, while the spectrum of the back
+    surface was identical to that before irradiation. This difference results from
+    dramatic denaturation (with chemical bond breaking) at the front surface due to
+    laser heating in a small absorption depth. For 2.2 (mu) irradiation, where the
+    absorption is small, the spectra of the front and back of the irradiated sample
+    were unchanged from before irradiation, while light scattering alteration shown
+    the denaturation process began, for laser fluences above the denaturation threshold.
+    This indicates that the absorption is too small to produce deep denaturation of
+    the tissue with dramatic alteration of structure. Thus, we have shown that light
+    scattering is useful for measuring denaturation thresholds and kinetics for biotissues
+    except where the initial absorptivity is very high.
+  author:
   - {family: Sobol, given: E.}
   - {family: Sviridov, given: A.}
   - {family: Kitai, given: M.}
@@ -1255,7 +1498,40 @@ references:
     laser radiation
   type: paper-conference
   volume: '3601'
-- author:
+- abstract: First experiments at the Vanderbilt free electron lasers measured the
+    local reflectivity of a PtSi/Si system. The reflectivity in the scanning near-field
+    optical microscope images revealed features that were not present in the corresponding
+    shear-force (topology) images and which were due to localized changes in the bulk
+    properties of the sample. The size of the smallest detected features clearly demonstrated
+    that near-field conditions were reached. The use of different photon wavelengths
+    (0.653, 1.2, and 2.4 $\mu$m) enabled us to probe regions of different depth.
+  author:
+  - {family: Cricenti, given: A.}
+  - {family: Generosi, given: R.}
+  - {family: Perfetti, given: P.}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Tolk, given: Norman Henry}
+  - {family: Coluzza, given: C.}
+  - {family: Margaritondo, given: G.}
+  container-title: \#apl\#
+  id: cricenti:fel.nanospectroscopy:1998
+  issued:
+  - {year: '1998'}
+  page: 151-153
+  status: published
+  title: Free-electron-laser near-field nanospectroscopy
+  type: article-journal
+  volume: '73'
+- abstract: First experiments of coupling a free electron laser to a scanning near-field
+    optical microscope (SNOM) are presented. To address the question of how important
+    such spectroscopy can be for near-field infrared microscopy, we acquired images
+    of the same region of the sample under investigation at several photon wavelengths.
+    SNOM reflectivity images revealed features that were not present in the corresponding
+    shear-force (topology) ones and which were due to localized changes in the bulk
+    properties of the sample. Optical data in the infrared (near 3.5 $\mu$m), using
+    the probe tips in collection mode, indicates an optical spatial resolution well
+    below the classical limit of $\lambda/2$.
+  author:
   - {family: Cricenti, given: A.}
   - {family: Generosi, given: R.}
   - {family: Barchesi, given: C.}
@@ -1268,7 +1544,7 @@ references:
   - {family: Aggarwal, given: I. D.}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
-  container-title: 'Physica Status Solidi A: Applied Research'
+  container-title: \#pssa\#
   id: cricenti:fel.snom:1998
   issued:
   - {year: '1998'}
@@ -1278,24 +1554,15 @@ references:
     near-field optical microscope
   type: article-journal
   volume: '170'
-- author:
-  - {family: Cricenti, given: A.}
-  - {family: Generosi, given: R.}
-  - {family: Perfetti, given: P.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Coluzza, given: C.}
-  - {family: Margaritondo, given: G.}
-  container-title: Applied Physics Letters
-  id: cricenti:fel.nanospectroscopy:1998
-  issued:
-  - {year: '1998'}
-  page: 151-153
-  status: published
-  title: Free-electron-laser near-field nanospectroscopy
-  type: article-journal
-  volume: '73'
-- author:
+- abstract: 'We We report first studies of photodesorption from diamond films using
+    the Vanderbilt Free-Electron Laser at two infrared wavelengths: 3.5 micron, corresponding
+    to localized absorption by C-H bonds at grain boundaries, and 5 micron, corresponding
+    to two-phonon absorption by the bulk diamond. At 3.5 micron we observe two photodesorption
+    thresholds at fluences well below the onset of ablation. In contrast, at 5 micron,
+    a single photodesorption threshold is identified at a fluence which is close to
+    the second fluence threshold, obseved at 3.5 micron. These experiments shed light
+    on the physics of wavelength selective desorption through non-electronic channels.'
+  author:
   - {family: Sturmann, given: J.}
   - {family: Albridge, given: R. G.}
   - {family: Barnes, given: A. V.}
@@ -1349,7 +1616,7 @@ references:
   - {family: Roy, given: P. K.}
   - {family: Margaritondo, given: G.}
   - {family: Lucovsky, given: G.}
-  container-title: Physical Review Letters
+  container-title: \#prl\#
   id: wang:electron.hole:1998
   issued:
   - {year: '1998'}
@@ -1372,7 +1639,7 @@ references:
   - {family: Tully, given: J. C.}
   - {family: Betz, given: G.}
   - {family: Husinsky, given: W.}
-  container-title: Physical Review Letters
+  container-title: \#prl\#
   id: yao:sputtering:1998
   issued:
   - {year: '1998'}
@@ -1447,7 +1714,7 @@ references:
   - {family: Fraser, given: P. J.}
   - {family: Steele, given: L. P.}
   - {family: Lucarelli, given: M. P.}
-  container-title: Geophysical Research Letters
+  container-title: \#grl\#
   id: elkins:acats:1996
   issued:
   - {year: '1996'}
@@ -1498,7 +1765,7 @@ references:
   - {family: Montzka, given: S. A.}
   - {family: Boering, given: K. A.}
   - {family: Salawitch, given: R. J.}
-  container-title: Journal of Geophysical Research
+  container-title: \#jgr\#
   id: woodbridge:cfc.conc:1995
   issued:
   - {year: '1995'}
@@ -1551,7 +1818,7 @@ references:
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
   - {family: Raizen, given: Mark G.}
-  container-title: Physical Review Letters
+  container-title: \#prl\#
   id: eichmann:two-slit:1993
   issued:
   - {year: '1993'}
@@ -1565,27 +1832,9 @@ references:
   - {family: Bergquist, given: James C.}
   - {family: Bollinger, given: John J.}
   - {family: Gilligan, given: Jonathan Mark}
-  - {family: Heinzen, given: Daniel J.}
   - {family: Moore, given: Fred L.}
   - {family: Raizen, given: Mark G.}
-  - {family: Wineland, given: David J.}
-  container-title: Hyperfine Interactions
-  id: itano:spectroscopy:1993
-  issued:
-  - {year: '1993'}
-  page: 211-220
-  status: published
-  title: Ultra-high precision spectroscopy for fundamental physics
-  type: article-journal
-  volume: '78'
-- author:
-  - {family: Itano, given: Wayne M.}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Moore, given: Fred L.}
-  - {family: Raizen, given: Mark G.}
-  container-title: Physical Review A
+  container-title: \#pra\#
   id: itano:projection.noise:1993
   issued:
   - {year: '1993'}
@@ -1614,6 +1863,24 @@ references:
   type: article-journal
 - author:
   - {family: Itano, given: Wayne M.}
+  - {family: Bergquist, given: James C.}
+  - {family: Bollinger, given: John J.}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Heinzen, given: Daniel J.}
+  - {family: Moore, given: Fred L.}
+  - {family: Raizen, given: Mark G.}
+  - {family: Wineland, given: David J.}
+  container-title: Hyperfine Interactions
+  id: itano:spectroscopy:1993
+  issued:
+  - {year: '1993'}
+  page: 211-220
+  status: published
+  title: Ultra-high precision spectroscopy for fundamental physics
+  type: article-journal
+  volume: '78'
+- author:
+  - {family: Itano, given: Wayne M.}
   - {family: Eichmann, given: Ullrich}
   - {family: Bergquist, given: James C.}
   - {family: Bollinger, given: John J.}
@@ -1633,7 +1900,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Cook, given: B. M.}
   - {family: Lichten, given: William}
-  container-title: Physical Review A
+  container-title: \#pra\#
   id: shiner:calibration:1993
   issued:
   - {year: '1993'}
@@ -1646,7 +1913,7 @@ references:
 - author:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
-  container-title: Physical Review A
+  container-title: \#pra\#
   id: gilligan:hydrogen.ip:1992
   issued:
   - {year: '1992'}
@@ -1662,22 +1929,7 @@ references:
   - {family: Bergquist, given: James C.}
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
-  container-title: Physical Review A
-  id: raizen:linear.trap.pra:1992
-  issued:
-  - {year: '1992'}
-  page: 6493-6501
-  status: published
-  title: Ionic crystals in a linear Paul trap
-  type: article-journal
-  volume: '45'
-- author:
-  - {family: Raizen, given: Mark G.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Bergquist, given: James C.}
-  - {family: Itano, given: Wayne M.}
-  - {family: Wineland, given: David J.}
-  container-title: Journal of Modern Optics
+  container-title: \#jmo\#
   id: raizen:linear.trap.jmo:1992
   issued:
   - {year: '1992'}
@@ -1686,6 +1938,21 @@ references:
   title: Linear trap for high-accuracy spectroscopy of stored ions
   type: article-journal
   volume: '39'
+- author:
+  - {family: Raizen, given: Mark G.}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Bergquist, given: James C.}
+  - {family: Itano, given: Wayne M.}
+  - {family: Wineland, given: David J.}
+  container-title: \#pra\#
+  id: raizen:linear.trap.pra:1992
+  issued:
+  - {year: '1992'}
+  page: 6493-6501
+  status: published
+  title: Ionic crystals in a linear Paul trap
+  type: article-journal
+  volume: '45'
 - author:
   - {family: Gilligan, given: Jonathan Mark}
   genre: PhD thesis
@@ -1699,7 +1966,7 @@ references:
 - author:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
-  container-title: Physical Review A
+  container-title: \#pra\#
   id: gilligan:three.photon:1991
   issued:
   - {year: '1991'}
@@ -1722,13 +1989,12 @@ references:
   - {family: Manney, given: C. H.}
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  id: wineland:trapped.ions:1991b
+  id: wineland:trapped.ions:1991a
   issued:
   - {year: '1991'}
-  page: 553-567
+  page: 539-551
   status: published
-  title: Recent experiments on trapped ions at the National Institute of Standards
-    and Technology
+  title: High-resolution spectroscopy of laser-cooled ions
   type: paper-conference
 - author:
   - {family: Wineland, given: David J.}
@@ -1743,19 +2009,20 @@ references:
   - {family: Manney, given: C. H.}
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  id: wineland:trapped.ions:1991a
+  id: wineland:trapped.ions:1991b
   issued:
   - {year: '1991'}
-  page: 539-551
+  page: 553-567
   status: published
-  title: High-resolution spectroscopy of laser-cooled ions
+  title: Recent experiments on trapped ions at the National Institute of Standards
+    and Technology
   type: paper-conference
 - author:
   - {family: McCormack, given: Elizabeth}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Cornaggia, given: Christian}
   - {family: Eyler, given: Edward Eugene}
-  container-title: Physical Review A
+  container-title: \#pra\#
   id: mccormack:hydrogen.ip:1989
   issued:
   - {year: '1989'}
@@ -1784,7 +2051,7 @@ references:
   - {family: McCormack, given: Elizabeth}
   - {family: Nussenzweig, given: "Andr\xE9"}
   - {family: Pollack, given: Edward}
-  container-title: Physical Review A
+  container-title: \#pra\#
   id: eyler:ef.state:1987
   issued:
   - {year: '1987'}
@@ -1821,123 +2088,3 @@ references:
   title: Precise photodissociation and multiphoton spectroscopy of H2
   type: paper-conference
   volume: '21'
-- DOI: 10.1016/j.apgeog.2016.10.003
-  URL: https://www.sciencedirect.com/science/article/pii/S0143622816306063
-  abstract: Droughts affect more people than any other natural disaster. Drought severity
-    is not merely a function of precipitation; it emerges from a web of interrelations
-    between human and natural systems. The impacts of drought are equally complex,
-    shifting across temporal scales, economic sectors, and regions. Even in regions
-    with similar hydroclimatic characteristics, there is tremendous variation in the
-    effects of drought. This study combines satellite imagery, geospatial data, and
-    qualitative data to identify the multi-scalar factors that drive variations in
-    agricultural responses to drought. We analyzed eleven years of remotely sensed
-    imagery to identify agricultural areas in which cultivation occurred during an
-    extreme drought in Sri Lanka. We visited a subset of these communities and conducted
-    interviews with officials and farmers to identify the factors that influenced
-    agricultural adaptation. Results suggest that though structural factors such as
-    infrastructural capacity and physical environment significantly affect agricultural
-    adaptation, dynamic factors such as local control of water supply, perceived risk,
-    community cohesion, and farmer experience explain significant variation in the
-    adaptive capacity of agricultural systems.
-  author:
-  - {family: Burchfield, given: Emily K}
-  - {family: Gilligan, given: Jonathan}
-  container-title: Applied Geography
-  file:
-  - {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
-  id: burchfield:agricultural.adaptation:2016
-  issued:
-  - {year: '2016'}
-  keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
-  page: 92-100
-  publisher: Elsevier
-  status: published
-  title: Agricultural adaptation to drought in the Sri Lankan dry zone
-  type: article-journal
-  volume: '77'
-- author:
-  - {family: Gilligan, given: Jonathan}
-  container-title: 'Opposing viewpoints: Ethics'
-  editor:
-  - {family: Espejo, given: R.}
-  id: gilligan:ethics.geological.time:2010
-  issued:
-  - {year: '2010'}
-  page: 20-32
-  publisher: Gale
-  status: published
-  title: People should behave ethically for the sake of future generations
-  type: chapter
-  volume: '2'
-- ISBN: 978-1138655942
-  author:
-  - {family: Ackerly, given: Brooke A.}
-  - {family: Anam, given: Mujibul}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Goodbred, given: Steven}
-  container-title: Climate change, migration, and human rights
-  editor:
-  - {family: Manou, given: Dimitra}
-  - {family: Baldwin, given: Andrew}
-  - {family: Cubie, given: Dug}
-  - {family: Mijr, given: Anja}
-  - {family: Thorp, given: Teresa}
-  id: ackerly:migration:2017
-  issued:
-  - {year: '2017'}
-  publisher: Routledge
-  publisher-place: New York
-  status: published
-  title: 'Climate and community: The human rights, livelihood, and migration impacts
-    of climate change'
-  title-short: Climate and community
-  type: chapter
-- ISBN: 978-1316632482
-  author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Gilligan, given: Jonathan M.}
-  id: vandenbergh:beyond.politics:2017
-  issued:
-  - {day: '31', month: '10', year: '2017'}
-  note: 'Manuscript: 287 pp.'
-  publisher: Cambridge University Press
-  publisher-place: New York, NY
-  status: in press
-  title: 'Beyond politics: The private governance response to climate change'
-  title-short: Beyond politics
-  type: book
-- author:
-  - {family: Cliffel, given: David}
-  - {family: Baudenbacher, given: Franz J.}
-  - {family: Wikswo, given: John P.}
-  - {family: Eklund, given: Sven}
-  - {family: Balcarcel, given: Robert R.}
-  - {family: Gilligan, given: Jonathan Mark}
-  id: cliffel:cell.response.patent:2010
-  issued:
-  - {day: '11', month: '5', year: '2010'}
-  number: 7,713,733 B2
-  status: published
-  title: Device and methods for detecting the response of a plurality of cells to
-    at least one analyte of interest
-  type: patent
-- author:
-  - {family: Baudenbacher, given: Franz J.}
-  - {family: Wikswo, given: John P.}
-  - {family: Balcarcel, given: Robert R.}
-  - {family: Cliffel, given: David}
-  - {family: Eklund, given: Sven}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: McGuinness, given: Owen}
-  - {family: Monroe, given: Todd}
-  - {family: Prokop, given: Ales}
-  - {family: Stremler, given: Michael}
-  - {family: Werdich, given: Andreas}
-  id: baudenbacher:cell.monitoring.patent:2010
-  issued:
-  - {day: '27', month: '4', year: '2010'}
-  number: 7,704,745 B2
-  status: published
-  title: Apparatus and methods for monitoring the status of a metabolically active
-    cell
-  type: patent

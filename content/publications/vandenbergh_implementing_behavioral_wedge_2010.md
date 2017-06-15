@@ -7,8 +7,6 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container-title: Environmental Law Reporter
 date: '2010-01-01'
-file:
-- {desc: full text, file: Vandenbergh_2010_Implementing_Behavioral_Wedge.pdf}
 id: vandenbergh_implementing_behavioral_wedge_2010
 issued:
 - {year: '2010'}
@@ -16,6 +14,12 @@ note: ' Selected by Environmental Law Institute to reprint as the featured cover
   of the 2010 summer reading issue for policymakers of Environmental Forum.'
 page: 547-554
 pub_type: article-journal
+short_author:
+- {family: Vandenbergh, given: M. P.}
+- {family: Stern, given: P. C.}
+- {family: Gardner, given: G. T.}
+- {family: Dietz, given: T.}
+- {family: Gilligan, given: J. M.}
 status: published
 title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
   emissions reduction programs'

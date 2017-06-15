@@ -17,6 +17,17 @@ issued:
 - {year: '2001'}
 page: 446-450
 pub_type: article-journal
+short_author:
+- {family: Cricenti, given: A.}
+- {family: Generosi, given: R.}
+- {family: Luce, given: M.}
+- {family: Perfetti, given: P.}
+- {family: Margaritondo, given: G.}
+- {family: Talley, given: D.}
+- {family: Sanghera, given: J.S.}
+- {family: Aggarwal, given: I.D.}
+- {family: Gilligan, given: J. M.}
+- {family: Tolk, given: N. H.}
 status: published
 title: "Spectroscopic scanning near-field optical microscopy with a free electron\
   \ laser: CH$_2$\_bond imaging in diamond films"

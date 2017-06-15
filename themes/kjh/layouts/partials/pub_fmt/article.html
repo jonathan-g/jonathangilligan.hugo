@@ -1,15 +1,8 @@
-&ldquo;{{- .Params.title | safeHTML -}}&rdquo;
-
-{{ delimit (apply (apply  .Params.author "partial" "pub_fmt/author" ".") "chomp" ".") ", " }}
-
-{{ if isset .Params "container-title" | and (index .Params "container-title") -}}
-    <i>{{ index .Params "container-title" }}</i>
+{{ partial "pub_fmt/article_title" . }}
+{{ partial "pub_fmt/author_list" . -}}.
+{{ partial "pub_fmt/container_title" . -}},
+{{ partial "pub_fmt/volume" . -}}
+{{- partial "pub_fmt/pages" . -}}
+{{- if gt ($.Scratch.Get "bib_with_year") 0 }}
+  ({{- .Date.Format "2006" }})
 {{- end -}}
-
-{{- if (isset .Params "volume") | and (not (eq .Params.volume "")) }}
-        <b> {{ .Params.volume }}</b>
-{{- end -}}
-
-{{- if (isset .Params "page") | and (not (eq .Params.page "")) -}}
-        , {{ .Params.page -}}
-{{- end -}}.

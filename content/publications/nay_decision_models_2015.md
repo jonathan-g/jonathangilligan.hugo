@@ -14,8 +14,6 @@ editor:
 - {family: Roeder, given: T.M.K.}
 - {family: Macal, given: C.}
 - {family: Rossetti, given: M.D.}
-file:
-- {desc: full text, file: Nay_2015_Dynamic_Decision_Models.pdf}
 id: nay_decision_models_2015
 issued:
 - {year: '2015'}
@@ -24,6 +22,16 @@ pub_type: paper-conference
 pub_url: https://dl.acm.org/citation.cfm?id=2888619.2888935
 publisher: IEEE Press
 publisher-place: Piscataway, NJ, USA
+short_author:
+- {family: Nay, given: J. J.}
+- {family: Gilligan, given: J. M.}
+short_editor:
+- {family: Yilmaz, given: L.}
+- {family: Chan, given: W.K.V.}
+- {family: Moon, given: I.}
+- {family: Roeder, given: T.M.K.}
+- {family: Macal, given: C.}
+- {family: Rossetti, given: M.D.}
 status: published
 title: Data-driven dynamic decision models
 ---

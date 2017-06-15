@@ -14,6 +14,14 @@ issued:
 - {year: '2000'}
 page: 349-364
 pub_type: article-journal
+short_author:
+- {family: Lupke, given: G.}
+- {family: Cheney, given: C. P.}
+- {family: Sturman, given: J.}
+- {family: Keay, given: J. C.}
+- {family: Gilligan, given: J. M.}
+- {family: Feldman, given: L. C.}
+- {family: Tolk, given: N. H.}
 status: published
 title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
   selective materials modification'
