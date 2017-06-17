@@ -1,6 +1,0 @@
-{{- $clear := .Get "clear" | default "(/\\*(?sU).*\\*/)|(//.*)" -}}
-{{- $replace := .Get "replace" | default "(\n|\t)+" -}}
-{{- $replacewith := .Get "replacewith" | default "\n" -}}
-<pre class="language-{{- .Get "lang" }} {{ if gt (len ((.Get "linenumbers") | default "")) 0 -}}line-numbers{{- end -}}" {{ if eq (.Get "lang") "agentspeak" -}}data-language="AgentSpeak(L++)"{{- end }} {{ if (.Get "id") -}}id="source-{{- .Get "id" -}}"{{- end }}><code class="language-{{- .Get "lang" -}}">
-{{ replaceRE $replace $replacewith (replaceRE $clear "" .Inner) }}
-</code></pre>

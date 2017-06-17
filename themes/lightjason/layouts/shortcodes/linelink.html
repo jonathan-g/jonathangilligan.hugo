@@ -1,2 +1,0 @@
-{{- $link := delimit (slice (.Get 0) "#source-" (.Get 1) "." (replaceRE "[[:space:]]+" "" (.Get 2))) "" -}}
-<a href="{{- $link -}}">{{- default (delimit (slice "line" (index .Params 2)) " ") (index .Params 3) -}}</a>

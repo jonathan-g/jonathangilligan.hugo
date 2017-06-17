@@ -1,3 +1,0 @@
-<div class="teletype" {{ if (.Get "id") -}}id="teletype-{{- .Get "id" -}}"{{- end }} style="height: {{- (.Get "height") | default "10em" -}}; width: {{- (.Get "width") | default "100%" -}};" data-prefix="{{- (delimit (slice (.Get "prefix") " ") "") | default "" -}}">
-	{{- .Inner -}}
-</div>
