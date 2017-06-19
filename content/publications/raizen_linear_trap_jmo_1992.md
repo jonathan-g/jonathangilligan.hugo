@@ -5,7 +5,7 @@ author:
 - {family: Bergquist, given: James C.}
 - {family: Itano, given: Wayne M.}
 - {family: Wineland, given: David J.}
-container-title: Journal of Modern Optics
+container_title: Journal of Modern Optics
 date: '1992-01-01'
 id: raizen_linear_trap_jmo_1992
 issued:

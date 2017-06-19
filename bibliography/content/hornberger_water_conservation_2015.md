@@ -4,7 +4,7 @@ author:
 - {family: Hornberger, given: George M.}
 - {family: Hess, given: David J.}
 - {family: Gilligan, given: Jonathan}
-container-title: Water Resources Research
+container_title: Water Resources Research
 date: '2015-01-01'
 file:
 - {desc: full text, file: Hornberger_2015_Water_Conservation.pdf}

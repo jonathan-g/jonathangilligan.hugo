@@ -2,7 +2,7 @@
 author:
 - {family: Vandenbergh, given: Michael P.}
 - {family: Gilligan, given: Jonathan M.}
-container-title: Duke Environmental Law and Policy Forum
+container_title: Duke Environmental Law and Policy Forum
 date: '2011-01-01'
 file:
 - {desc: full text, file: Vandenbergh_2011_Macro_Risks.pdf}
@@ -14,6 +14,7 @@ pub_type: article-journal
 short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Gilligan, given: J. M.}
+short_title: Macro risks
 status: published
 title: 'Macro-risks: The challenge for rational risk regulation'
 volume: '21'

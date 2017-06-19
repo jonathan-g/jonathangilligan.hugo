@@ -6,7 +6,7 @@ author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Holcomb, given: Mark R.}
 - {family: Wikswo, given: John P.}
-container-title: Review of Scientific Instruments
+container_title: Review of Scientific Instruments
 date: '2007-01-01'
 id: mashburn_cardiac_stimulator_2007
 issued:
@@ -20,6 +20,7 @@ short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Holcomb, given: M. R.}
 - {family: Wikswo, given: J. P.}
+short_title: High-voltage cardiac stimulator
 status: published
 title: A high-voltage cardiac stimulator for field shocks of a whole heart in a bath
 volume: '78'

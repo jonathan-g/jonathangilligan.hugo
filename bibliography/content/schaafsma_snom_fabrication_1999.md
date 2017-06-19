@@ -10,7 +10,7 @@ author:
 - {family: Cricenti, given: A.}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Tolk, given: Norman Henry}
-container-title: Optical Engineering
+container_title: Optical Engineering
 date: '1999-01-01'
 id: schaafsma_snom_fabrication_1999
 issued:

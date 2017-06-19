@@ -8,7 +8,7 @@ author:
 - {family: Baring, given: T. J.}
 - {family: Dunn, given: R. E.}
 - {family: Myers, given: R. C.}
-container-title: Atmospheric effects of aviation project workshop
+container_title: Atmospheric effects of aviation project workshop
 date: '1994-01-01'
 id: gilligan_cl_budgets_1994
 issued:

@@ -161,6 +161,7 @@ references:
   issued:
   - year: '2016'
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
+  title-short: Agricultural adaptation to water scarcity
   container-title: Proceedings of the 2016 winter simulation conference
   collection-title: WSC’16
   publisher: IEEE Press
@@ -196,6 +197,7 @@ references:
   issued:
   - year: '2016'
   title: Agricultural adaptation to drought in the Sri Lankan dry zone
+  title-short: Agricultural adaptation to drought
   container-title: Applied Geography
   publisher: Elsevier
   page: '92-100'
@@ -237,6 +239,7 @@ references:
     month: '7'
     day: '6'
   title: Application of machine learning to the prediction of vegetation health
+  title-short: Prediction of vegetation health
   container-title: ISPRS—International Archives of the Photogrammetry, Remote Sensing
     and Spatial Information Sciences
   page: '465-469'
@@ -278,7 +281,7 @@ references:
     month: '2'
     day: '12'
   title: 'Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881–2010'
-  title-short: Spatiotemporal patterns of agricultural drought in Sri Lanka
+  title-short: Patterns of drought in Sri Lanka
   container-title: International Journal of Climatology
   page: '563-575'
   volume: '36'
@@ -464,6 +467,7 @@ references:
   - year: '2015'
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
     delta plain
+  title-short: Flood risk of natural and embanked landscapes
   container-title: Nature Climate Change
   page: '152-157'
   volume: '5'
@@ -714,6 +718,7 @@ references:
   issued:
   - year: '2014'
   title: Accounting for political feasibility in climate instrument choice
+  title-short: Accounting for political feasibility
   container-title: Virginia Environmental Law Journal
   page: '1-26'
   volume: '32'
@@ -750,7 +755,7 @@ references:
   issued:
   - year: '2014'
   title: 'Energy and climate change: A climate prediction market'
-  title-short: Energy and climate change
+  title-short: A climate prediction market
   container-title: UCLA Law Review
   page: '1962-2017'
   volume: '61'
@@ -796,7 +801,7 @@ references:
     month: '2'
   title: 'Building resilience to environmental stress in coastal Bangladesh: An
     integrated social, environmental, and engineering perspective'
-  title-short: Building resilience to environmental stress in coastal Bangladesh
+  title-short: Resilience to environmental stress in bangladesh
   container-title: 'Bridging the policy-action divide: Challenges and prospects
     for Bangladesh'
   publisher: Bangladesh Development Initiative
@@ -870,7 +875,7 @@ references:
   - year: '2011'
   title: 'Energy and climate change: Key lessons for implementing the behavioral
     wedge'
-  title-short: Energy and climate change
+  title-short: Key lessons for implementing the behavioral wedge
   container-title: Journal of Energy & Environmental Law
   page: '61-67'
   volume: '2'
@@ -917,7 +922,7 @@ references:
   issued:
   - year: '2011'
   title: 'Macro-risks: The challenge for rational risk regulation'
-  title-short: Macro-risks
+  title-short: Macro risks
   container-title: Duke Environmental Law and Policy Forum
   page: '401-431'
   volume: '21'
@@ -999,6 +1004,7 @@ references:
     day: '27'
   title: Apparatus and methods for monitoring the status of a metabolically active
     cell
+  title-short: Monitoring a metabolically active cell
   status: published
   abstract: An apparatus and methods for monitoring the status of a cell that consumes
     oxygen. In one embodiment of the present invention, the method includes the steps
@@ -1046,6 +1052,7 @@ references:
   issued:
   - year: '2010'
   title: People should behave ethically for the sake of future generations
+  title-short: Ethics and future generations
   container-title: 'Opposing viewpoints: Ethics'
   publisher: Gale
   page: '20-32'
@@ -1068,6 +1075,7 @@ references:
   issued:
   - year: '2010'
   title: Design principles for carbon emissions reduction programs
+  title-short: Design principles for emissions reduction programs
   container-title: Environmental Science & Technology
   page: '4847-4848'
   volume: '44'
@@ -1159,6 +1167,7 @@ references:
   - year: '2009'
   title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
     emissions
+  title-short: Behavioral wedge
   container-title: PNAS
   page: '18452-18456'
   volume: '106'
@@ -1194,6 +1203,7 @@ references:
   - year: '2009'
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
     and metabolism
+  title-short: Dual-camera system
   container-title: Experimental Biology and Medicine
   page: '1355-1372'
   volume: '234'
@@ -1268,6 +1278,7 @@ references:
   - year: '2007'
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
     bath
+  title-short: High-voltage cardiac stimulator
   container-title: Review of Scientific Instruments
   page: '104302-104309'
   volume: '78'
@@ -1298,7 +1309,7 @@ references:
   - year: '2006'
   title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
     risks'
-  title-short: Flexibility, clarity, and legitimacy
+  title-short: Managing nanotechnology risks
   container-title: Environmental Law Reporter
   page: '10924-10930'
   volume: '36'
@@ -1333,6 +1344,7 @@ references:
   - year: '2003'
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
     due to free-electron laser radiation
+  title-short: Cornea and cartilege denaturation
   container-title: Journal of Biomedical Optics
   page: '216-222'
   volume: '8'
@@ -1384,6 +1396,7 @@ references:
   issued:
   - year: '2002'
   title: Surface characterisation by near-field microscopy and atomic force microscopy
+  title-short: Surface characterisation by near-field microscopy
   container-title: Advances in Science and Technology
   page: '183-192'
   volume: '32'
@@ -1412,6 +1425,7 @@ references:
   - year: '2002'
   title: Defect transition energies and the density of electronic states in hydrogenated
     amorphous silicon
+  title-short: Defects in amorphous silicon
   container-title: Journal of Non-Crystalline Solids
   page: '621-625'
   volume: '299'
@@ -1451,8 +1465,7 @@ references:
   - year: '2001'
   title: 'Spectroscopic scanning near-field optical microscopy with a free electron
     laser: CH$_2$ bond imaging in diamond films'
-  title-short: Spectroscopic scanning near-field optical microscopy with a free electron
-    laser
+  title-short: Spectroscopic near-field microscopy
   container-title: Journal of Microscopy
   page: '446-450'
   volume: '202'

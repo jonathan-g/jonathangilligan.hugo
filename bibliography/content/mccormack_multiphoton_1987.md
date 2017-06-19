@@ -3,8 +3,8 @@ author:
 - {family: McCormack, given: Elizabeth}
 - {family: Eyler, given: Edward Eugene}
 - {family: Gilligan, given: Jonathan Mark}
-collection-title: Technical digest series
-container-title: Proceedings of the xv international conference on quantum electronics
+collection_title: Technical digest series
+container_title: Proceedings of the xv international conference on quantum electronics
 date: '1987-01-01'
 id: mccormack_multiphoton_1987
 issued:

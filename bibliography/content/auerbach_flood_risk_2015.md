@@ -11,7 +11,7 @@ author:
 - {family: Small, given: Christopher}
 - {family: Gilligan, given: Jonathan M.}
 - {family: Ackerly, given: Brooke A.}
-container-title: Nature Climate Change
+container_title: Nature Climate Change
 date: '2015-01-01'
 file:
 - {desc: full text, file: Auerbach_2015_Bangladesh.pdf}
@@ -32,6 +32,7 @@ short_author:
 - {family: Small, given: C.}
 - {family: Gilligan, given: J. M.}
 - {family: Ackerly, given: B. A.}
+short_title: Flood risk of natural and embanked landscapes
 status: published
 title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
   delta plain

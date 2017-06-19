@@ -4,8 +4,8 @@ ISBN: 978-1-4673-9741-4
 author:
 - {family: Nay, given: John J.}
 - {family: Gilligan, given: Jonathan M.}
-collection-title: "WSC \u201915"
-container-title: Proceedings of the 2015 winter simulation conference
+collection_title: "WSC \u201915"
+container_title: Proceedings of the 2015 winter simulation conference
 date: '2015-01-01'
 editor:
 - {family: Yilmaz, given: L.}
@@ -23,7 +23,7 @@ page: 2752-2763
 pub_type: paper-conference
 pub_url: https://dl.acm.org/citation.cfm?id=2888619.2888935
 publisher: IEEE Press
-publisher-place: Piscataway, NJ, USA
+publisher_place: Piscataway, NJ, USA
 short_author:
 - {family: Nay, given: J. J.}
 - {family: Gilligan, given: J. M.}

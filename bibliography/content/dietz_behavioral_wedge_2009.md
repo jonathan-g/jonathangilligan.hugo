@@ -6,7 +6,7 @@ author:
 - {family: Gilligan, given: Jonathan}
 - {family: Stern, given: Paul}
 - {family: Vandenbergh, given: Michael}
-container-title: PNAS
+container_title: PNAS
 date: '2009-01-01'
 file:
 - {desc: full text, file: Dietz_2009_Behavioral_Wedge.pdf}
@@ -22,6 +22,7 @@ short_author:
 - {family: Gilligan, given: J.}
 - {family: Stern, given: P.}
 - {family: Vandenbergh, given: M.}
+short_title: Behavioral wedge
 status: published
 title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
   emissions

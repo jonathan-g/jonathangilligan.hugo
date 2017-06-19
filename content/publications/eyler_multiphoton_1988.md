@@ -3,8 +3,8 @@ author:
 - {family: Eyler, given: Edward Eugene}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: McCormack, given: Elizabeth}
-collection-title: AIP conference proceedings
-container-title: Advances in laser spectroscopy iii
+collection_title: AIP conference proceedings
+container_title: Advances in laser spectroscopy iii
 date: '1988-01-01'
 id: eyler_multiphoton_1988
 issued:

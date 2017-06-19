@@ -5,8 +5,8 @@ author:
 - {family: Overeem, given: Irina}
 - {family: Higgins, given: Stephanie}
 - {family: Gilligan, given: Jonathan M.}
-collection-title: IAHS publ.
-container-title: 'Deltas: Landforms, ecosystems and human activities'
+collection_title: IAHS publ.
+container_title: 'Deltas: Landforms, ecosystems and human activities'
 date: '2013-01-01'
 file:
 - {desc: full text, file: Rogers_2013_Farming_Practices.pdf}
@@ -16,7 +16,7 @@ issued:
 page: 133-142
 pub_type: paper-conference
 publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
-publisher-place: Gothenberg SE
+publisher_place: Gothenberg SE
 short_author:
 - {family: Rogers, given: K. G.}
 - {family: Syvitski, given: J. P.M.}

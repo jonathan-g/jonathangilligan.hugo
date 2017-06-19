@@ -2,8 +2,8 @@
 author:
 - {family: Eyler, given: Edward Eugene}
 - {family: Gilligan, given: Jonathan Mark}
-collection-title: AIP conference proceedings
-container-title: Advances in laser spectroscopy ii
+collection_title: AIP conference proceedings
+container_title: Advances in laser spectroscopy ii
 date: '1987-01-01'
 id: eyler_multiphoton_1987
 issued:

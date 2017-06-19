@@ -2,7 +2,7 @@
 author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Eyler, given: Edward Eugene}
-container-title: Physical Review A
+container_title: Physical Review A
 date: '1992-01-01'
 id: gilligan_hydrogen_ip_1992
 issued:

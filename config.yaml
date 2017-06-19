@@ -1,6 +1,6 @@
 ---
 MetaDataFormat: "yaml"
-theme: "kjh"
+theme: "hugo-finite"
 contentdir: "content"
 layoutdir: "layouts"
 datadir: "data"
@@ -14,9 +14,11 @@ baseurl: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
 title: "Jonathan Gilligan"
+copyright: "&copy; 2017 Jonathan Gilligan"
 canonifyUrls: true
 relativeUrls: true
 enableRobotsTXT: true
+ignoreFiles: [ "~$", "^\\.", "\\.#" ]
 menu:
   main:
       - Name: "What's New"
@@ -46,4 +48,52 @@ blackfriday:
 googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Gilligan"
-...
+  bio_name: "Jonathan Gilligan"
+  bio_twitter: "jg_environ"
+  math: false
+  organization: "Vanderbilt University"
+  avatar: "avatar.jpg"
+  front_page_img: "jg/jg_sundarbans.jpg"
+  email: "jonathan.gilligan@vanderbilt.edu"
+  address:
+    - "Department of Earth &amp; Environmental Sciences,"
+    - "Vanderbilt University<br/>"
+    - "2301 Vanderbilt PL,"
+    - "PMB 351805,<br/>"
+    - "Nashville,"
+    - "TN"
+    - "37235-1805"
+  social:
+    email:
+      icon: "envelope"
+      icon_pack: "fa"
+      link: "mailto:jonathan.gilligan@vanderbilt.edu"
+      text: "jonathan.gilligan@vanderbilt.edu"
+    twitter:
+      icon: "twitter"
+      icon_pack: "fa"
+      link: "https://twitter.com/jg_environ"
+      text: "@jg_environ"
+      on_site: "Twitter"
+    github:
+      icon: "github"
+      icon_pack: "fa"
+      link: "https://github.com/jonathan-g"
+      text: "jonathan-g"
+      on_site: "GitHub"
+    orcid:
+      icon: "orcid"
+      icon_pack: "ai"
+      link: "https://orcid.org/0000-0003-1375-6686"
+      text: "0000-0003-1375-6686"
+      site: "ORCID"
+    ssrn:
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061"
+      text: "954061"
+      site: "SSRN ID:"
+    google_scholar:
+      icon: "google-scholar"
+      icon_pack: "ai"
+      link: "https://scholar.google.com/citations?hl=en&user=B8RVAU0AAAAJ"
+      text: "Google Scholar"
+---

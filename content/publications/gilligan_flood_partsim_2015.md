@@ -7,8 +7,8 @@ author:
 - {family: Camp, given: Janey V.}
 - {family: Nay, given: John J.}
 - {family: Sengupta, given: Pratim}
-collection-title: "WSC \u201915"
-container-title: Proceedings of the 2015 Winter Simulation Conference
+collection_title: "WSC \u201915"
+container_title: Proceedings of the 2015 Winter Simulation Conference
 date: '2015-01-01'
 editor:
 - {family: Yilmaz, given: L.}
@@ -26,7 +26,7 @@ page: 3174-3175
 pub_type: paper-conference
 pub_url: https://ieeexplore.ieee.org/document/7408456/
 publisher: IEEE Press
-publisher-place: Piscataway, NJ, USA
+publisher_place: Piscataway, NJ, USA
 short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Brady, given: C.}

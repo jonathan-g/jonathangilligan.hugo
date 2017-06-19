@@ -1,4 +1,9 @@
-<em>Much of my research has been about mathematics and law.  I have this
-elegant proof of an interesting theorem, but this web page is too
-small to contain it.</em>
-<hr />
+{{- if $.Site.Params.cv_file -}}
+{{- $.Scratch.Set "cv" $.Site.Params.cv_file -}}
+{{- else -}}
+{{- $.Scratch.Set "cv" "cv.pdf" -}}
+{{- end -}}
+<p><em>Curriculum Vitae</em>
+<a href="/files/cv/{{ $.Scratch.Get "cv" }}" class="button hollow small pub-link"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a></p>
+<br/>
+{{ template "site_templates/research_overview.html" . }}

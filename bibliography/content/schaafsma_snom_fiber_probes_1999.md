@@ -11,7 +11,7 @@ author:
 - {family: Perfetti, given: P.}
 - {family: Cricenti, given: A.}
 - {family: Margaritondo, given: G.}
-container-title: Ultramicroscopy
+container_title: Ultramicroscopy
 date: '1999-01-01'
 id: schaafsma_snom_fiber_probes_1999
 issued:

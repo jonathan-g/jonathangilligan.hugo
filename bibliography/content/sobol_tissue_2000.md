@@ -5,7 +5,7 @@ author:
 - {family: Kitai, given: Moshe}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Edwards, given: Glenn S.}
-container-title: International biomedical optics symposium
+container_title: International biomedical optics symposium
 date: '2000-01-01'
 id: sobol_tissue_2000
 issued:

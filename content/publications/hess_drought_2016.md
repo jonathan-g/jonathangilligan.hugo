@@ -8,7 +8,7 @@ author:
 - {family: Worland, given: Scott}
 - {family: Gilligan, given: Jonathan}
 - {family: Hornberger, given: George M.}
-container-title: Sociological Forum
+container_title: Sociological Forum
 date: '2016-01-01'
 file:
 - {desc: full text, file: Hess_2016_Drought_Southwest.pdf}

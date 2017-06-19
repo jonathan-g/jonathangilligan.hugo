@@ -10,10 +10,11 @@ issued:
 note: 'Manuscript: 287 pp.'
 pub_type: book
 publisher: Cambridge University Press
-publisher-place: New York, NY
+publisher_place: New York, NY
 short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Gilligan, given: J. M.}
+short_title: Beyond politics
 status: in press
 title: 'Beyond politics: The private governance response to climate change'
 ---

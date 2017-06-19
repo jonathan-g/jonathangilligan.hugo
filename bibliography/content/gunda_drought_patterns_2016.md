@@ -4,7 +4,7 @@ author:
 - {family: Gunda, given: Thushara}
 - {family: Hornberger, given: George M.}
 - {family: Gilligan, given: Jonathan M.}
-container-title: International Journal of Climatology
+container_title: International Journal of Climatology
 date: '2016-01-01'
 file:
 - {desc: Full Text, file: Gunda_2015_Agricultural_Drought.pdf}
@@ -19,6 +19,7 @@ short_author:
 - {family: Gunda, given: T.}
 - {family: Hornberger, given: G. M.}
 - {family: Gilligan, given: J. M.}
+short_title: Patterns of drought in Sri Lanka
 status: published
 title: "Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881\u20132010"
 volume: '36'

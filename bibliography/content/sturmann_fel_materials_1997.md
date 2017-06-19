@@ -11,7 +11,7 @@ author:
 - {family: Tolk, given: Norman Henry}
 - {family: Davidson, given: J. L.}
 - {family: Margaritondo, given: G.}
-container-title: Acta Physica Polonica A
+container_title: Acta Physica Polonica A
 date: '1997-01-01'
 id: sturmann_fel_materials_1997
 issued:

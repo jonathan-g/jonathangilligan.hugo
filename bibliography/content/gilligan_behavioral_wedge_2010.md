@@ -6,7 +6,7 @@ author:
 - {family: Gardner, given: Gerald}
 - {family: Stern, given: Paul}
 - {family: Vandenbergh, given: Michael}
-container-title: Significance
+container_title: Significance
 date: '2010-01-01'
 file:
 - {desc: full text, file: Gilligan_2010_Behavioral_Wedge.pdf}

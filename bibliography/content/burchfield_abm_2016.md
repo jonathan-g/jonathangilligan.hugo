@@ -3,8 +3,8 @@ DOI: 10.1109/WSC.2016.7822216
 author:
 - {family: Burchfield, given: Emily K.}
 - {family: Gilligan, given: Jonathan M.}
-collection-title: "WSC\u201916"
-container-title: Proceedings of the 2016 winter simulation conference
+collection_title: "WSC\u201916"
+container_title: Proceedings of the 2016 winter simulation conference
 date: '2016-01-01'
 editor:
 - {family: Roeder, given: T.M.K.}
@@ -24,7 +24,7 @@ page: 1678-1689
 pub_type: paper-conference
 pub_url: https://papers.ssrn.com/abstract=2807452
 publisher: IEEE Press
-publisher-place: Piscataway, NJ, USA
+publisher_place: Piscataway, NJ, USA
 short_author:
 - {family: Burchfield, given: E. K.}
 - {family: Gilligan, given: J. M.}
@@ -35,6 +35,7 @@ short_editor:
 - {family: Zhou, given: E.}
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
+short_title: Agricultural adaptation to water scarcity
 status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity
 ---

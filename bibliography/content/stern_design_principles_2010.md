@@ -6,7 +6,7 @@ author:
 - {family: Vandenbergh, given: Michael P.}
 - {family: Dietz, given: Thomas}
 - {family: Gilligan, given: Jonathan M.}
-container-title: Environmental Science & Technology
+container_title: Environmental Science & Technology
 date: '2010-01-01'
 file:
 - {desc: full text, file: Stern_2010_Design_Principles.pdf}
@@ -21,6 +21,7 @@ short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Dietz, given: T.}
 - {family: Gilligan, given: J. M.}
+short_title: Design principles for emissions reduction programs
 status: published
 title: Design principles for carbon emissions reduction programs
 volume: '44'

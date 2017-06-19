@@ -13,7 +13,7 @@ author:
 - {family: Tully, given: J. C.}
 - {family: Betz, given: G.}
 - {family: Husinsky, given: W.}
-container-title: Physical Review Letters
+container_title: Physical Review Letters
 date: '1998-01-01'
 id: yao_sputtering_1998
 issued:

@@ -4,7 +4,7 @@ author:
 - {family: Burchfield, given: Emily}
 - {family: Nay, given: John J.}
 - {family: Gilligan, given: Jonathan}
-container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
+container_title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
   \ Sensing and Spatial Information Sciences"
 date: '2016-01-01'
 file:
@@ -19,6 +19,7 @@ short_author:
 - {family: Burchfield, given: E.}
 - {family: Nay, given: J. J.}
 - {family: Gilligan, given: J.}
+short_title: Prediction of vegetation health
 status: published
 title: Application of machine learning to the prediction of vegetation health
 volume: XLI-B2

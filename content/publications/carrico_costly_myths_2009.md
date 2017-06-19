@@ -6,7 +6,7 @@ author:
 - {family: Vandenbergh, given: Michael P.}
 - {family: Gilligan, given: Jonathan}
 - {family: Wallston, given: Kenneth A.}
-container-title: Energy Policy
+container_title: Energy Policy
 date: '2009-01-01'
 file:
 - {desc: full text, file: Carrico_2009_Costly_Myths.pdf}
@@ -21,6 +21,7 @@ short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Gilligan, given: J.}
 - {family: Wallston, given: K. A.}
+short_title: Costly myths
 status: published
 title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
   vehicles'

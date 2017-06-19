@@ -6,7 +6,7 @@ author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Moore, given: Fred L.}
 - {family: Raizen, given: Mark G.}
-container-title: Physical Review A
+container_title: Physical Review A
 date: '1993-01-01'
 id: itano_projection_noise_1993
 issued:
@@ -20,6 +20,7 @@ short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Moore, given: F. L.}
 - {family: Raizen, given: M. G.}
+short_title: Quantum projection noise
 status: published
 title: 'Quantum projection noise: Population fluctuations in two-level systems'
 volume: '47'

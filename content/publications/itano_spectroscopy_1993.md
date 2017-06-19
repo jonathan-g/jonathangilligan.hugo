@@ -8,7 +8,7 @@ author:
 - {family: Moore, given: Fred L.}
 - {family: Raizen, given: Mark G.}
 - {family: Wineland, given: David J.}
-container-title: Hyperfine Interactions
+container_title: Hyperfine Interactions
 date: '1993-01-01'
 id: itano_spectroscopy_1993
 issued:

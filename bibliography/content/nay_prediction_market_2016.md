@@ -4,8 +4,8 @@ author:
 - {family: Nay, given: John J.}
 - {family: Van der Linden, given: Martin}
 - {family: Gilligan, given: Jonathan M.}
-collection-title: "WSC\u201916"
-container-title: Proceedings of the 2016 winter simulation conference
+collection_title: "WSC\u201916"
+container_title: Proceedings of the 2016 winter simulation conference
 date: '2016-01-01'
 editor:
 - {family: Roeder, given: T.M.K.}
@@ -25,7 +25,7 @@ page: 1666-1677
 pub_type: paper-conference
 pub_url: https://arxiv.org/abs/1603.08961
 publisher: IEEE Press
-publisher-place: Piscataway, NJ, USA
+publisher_place: Piscataway, NJ, USA
 short_author:
 - {family: Nay, given: J. J.}
 - {family: Van der Linden, given: M.}
@@ -37,6 +37,7 @@ short_editor:
 - {family: Zhou, given: E.}
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
+short_title: Betting and belief
 status: published
 title: 'Betting and belief: Prediction markets and attribution of climate change'
 ---

@@ -8,7 +8,7 @@ author:
 - {family: Moore, given: Fred L.}
 - {family: Raizen, given: Mark G.}
 - {family: Wineland, given: David J.}
-container-title: Vistas in Astronomy
+container_title: Vistas in Astronomy
 date: '1993-01-01'
 id: itano_quantum_measurements_1993
 issued:

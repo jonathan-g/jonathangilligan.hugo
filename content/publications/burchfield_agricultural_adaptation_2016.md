@@ -3,7 +3,7 @@ DOI: 10.1016/j.apgeog.2016.10.003
 author:
 - {family: Burchfield, given: Emily K}
 - {family: Gilligan, given: Jonathan}
-container-title: Applied Geography
+container_title: Applied Geography
 date: '2016-01-01'
 file:
 - {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
@@ -18,6 +18,7 @@ publisher: Elsevier
 short_author:
 - {family: Burchfield, given: E. K}
 - {family: Gilligan, given: J.}
+short_title: Agricultural adaptation to drought
 status: published
 title: Agricultural adaptation to drought in the Sri Lankan dry zone
 volume: '77'

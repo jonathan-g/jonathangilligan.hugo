@@ -7,7 +7,7 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 - {family: Feldman, given: Leondard C.}
 - {family: Tolk, given: Norman H.}
-container-title: Condensed Matter Theories
+container_title: Condensed Matter Theories
 date: '2000-01-01'
 id: lupke_fel_2000
 issued:
@@ -22,6 +22,7 @@ short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Feldman, given: L. C.}
 - {family: Tolk, given: N. H.}
+short_title: Materials science at the WM Keck free electron laser
 status: published
 title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
   selective materials modification'

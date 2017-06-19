@@ -7,7 +7,7 @@ author:
 - {family: Gilligan, given: Jonathan}
 - {family: Yao, given: Y.}
 - {family: Tolk, given: Norman Henry}
-container-title: 'Soviet Physics: Technical Physics'
+container_title: 'Soviet Physics: Technical Physics'
 date: '1999-01-01'
 id: marka_fel_modification_1999
 issued:

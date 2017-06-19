@@ -6,7 +6,7 @@ author:
 - {family: Wikswo, given: J. P.}
 - {family: Gilligan, given: Jonathan M.}
 - {family: Sidorov, given: Venyamin Y.}
-container-title: Experimental Biology and Medicine
+container_title: Experimental Biology and Medicine
 date: '2009-01-01'
 file:
 - {desc: full text, file: Holcomb_2009_Dual_Camera.pdf}
@@ -23,6 +23,7 @@ short_author:
 - {family: Wikswo, given: J. P.}
 - {family: Gilligan, given: J. M.}
 - {family: Sidorov, given: V. Y.}
+short_title: Dual-camera system
 status: published
 title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
   and metabolism

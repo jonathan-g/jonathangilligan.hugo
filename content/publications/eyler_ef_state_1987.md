@@ -5,7 +5,7 @@ author:
 - {family: McCormack, given: Elizabeth}
 - {family: Nussenzweig, given: "Andr\xE9"}
 - {family: Pollack, given: Edward}
-container-title: Physical Review A
+container_title: Physical Review A
 date: '1987-01-01'
 id: eyler_ef_state_1987
 issued:

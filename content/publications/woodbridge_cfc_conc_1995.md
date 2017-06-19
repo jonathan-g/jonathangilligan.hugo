@@ -18,7 +18,7 @@ author:
 - {family: Montzka, given: S. A.}
 - {family: Boering, given: K. A.}
 - {family: Salawitch, given: R. J.}
-container-title: Journal of Geophysical Research
+container_title: Journal of Geophysical Research
 date: '1995-01-01'
 id: woodbridge_cfc_conc_1995
 issued:

@@ -10,7 +10,7 @@ author:
 - {family: Heinzen, given: Daniel J.}
 - {family: Weimer, given: Carl S.}
 - {family: Manney, given: C. H.}
-container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
+container_title: Proceedings of the Enrico Fermi summer school on laser manipulation
   of atoms and ions, July 1991, Varenna, Italy
 date: '1991-01-01'
 id: wineland_trapped_ions_1991a

@@ -7,7 +7,7 @@ author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Raizen, given: Mark G.}
 - {family: Wineland, given: David J.}
-container-title: Proceedings of the 11^th^ international conference on laser science
+container_title: Proceedings of the 11^th^ international conference on laser science
 date: '1993-01-01'
 id: itano_two_atoms_1993
 issued:

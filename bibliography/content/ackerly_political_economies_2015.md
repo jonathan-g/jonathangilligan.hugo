@@ -3,7 +3,7 @@ author:
 - {family: Ackerly, given: Brooke A.}
 - {family: Anam, given: Mujibul}
 - {family: Gilligan, given: Jonathan}
-container-title: 'Environment, migration and adaptation: Evidence and politics of
+container_title: 'Environment, migration and adaptation: Evidence and politics of
   climate change in bangladesh'
 date: '2015-01-01'
 editor:
@@ -17,7 +17,7 @@ issued:
 page: 27-39
 pub_type: chapter
 publisher: AHDPH
-publisher-place: Dhaka
+publisher_place: Dhaka
 short_author:
 - {family: Ackerly, given: B. A.}
 - {family: Anam, given: M.}

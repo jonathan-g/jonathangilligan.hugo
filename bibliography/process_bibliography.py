@@ -66,9 +66,10 @@ clean_expr = re.compile('[^a-zA-z0-9]+')
 
 def gen_items(bib):
     output_keys = ['title', 'author', 'short_author',
-                   'container-title', 'collection-title',
+                   'short_title',
+                   'container_title', 'collection_title',
                    'editor', 'short_editor',
-                   'publisher-place', 'publisher',
+                   'publisher_place', 'publisher',
                    'genre', 'status',
                    'volume', 'issue', 'page', 'number',
                    'ISBN', 'DOI', # 'URL',
@@ -81,6 +82,14 @@ def gen_items(bib):
         os.mkdir('content')
     for item in bib:
         key = clean_expr.sub('_', item['id'])
+        if 'title-short' in item.keys():
+            item['short_title'] = item['title-short']
+        if 'container-title' in item.keys():
+            item['container_title'] = item['container-title']
+        if 'collection-title' in item.keys():
+            item['collection_title'] = item['collection-title']
+        if 'publisher-place' in item.keys():
+            item['publisher_place'] = item['publisher-place']
         if 'author' in item.keys():
             item['short_author'] = [ {'family':n['family'], 'given':re.sub('\\b([A-Z])[a-z][a-z]+\\b', '\\1.', n['given'])} for n in item['author'] ]
         if 'editor' in item.keys():

@@ -12,7 +12,7 @@ author:
 - {family: Fry, given: David}
 - {family: Donato, given: Katherine}
 - {family: Piya, given: Bhumika}
-container-title: International Journal of Environmental Health Research
+container_title: International Journal of Environmental Health Research
 date: '2016-01-01'
 file:
 - {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
@@ -36,6 +36,7 @@ short_author:
 - {family: Fry, given: D.}
 - {family: Donato, given: K.}
 - {family: Piya, given: B.}
+short_title: Drinking water insecurity
 status: published
 title: 'Drinking water insecurity: Water quality and access in coastal south-western
   Bangladesh'

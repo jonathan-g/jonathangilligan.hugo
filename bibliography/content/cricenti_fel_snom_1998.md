@@ -12,7 +12,7 @@ author:
 - {family: Aggarwal, given: I. D.}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Tolk, given: Norman Henry}
-container-title: 'Physica Status Solidi A: Applied Research'
+container_title: 'Physica Status Solidi A: Applied Research'
 date: '1998-01-01'
 id: cricenti_fel_snom_1998
 issued:

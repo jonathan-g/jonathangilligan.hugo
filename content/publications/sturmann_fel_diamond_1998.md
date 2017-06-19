@@ -8,7 +8,7 @@ author:
 - {family: Lupke, given: G.}
 - {family: Ueda, given: A.}
 - {family: Tolk, given: Norman Henry}
-container-title: Applied Surface Science
+container_title: Applied Surface Science
 date: '1998-01-01'
 id: sturmann_fel_diamond_1998
 issued:

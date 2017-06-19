@@ -10,7 +10,7 @@ author:
 - {family: Margaritondo, given: Giorgio}
 - {family: Gilligan, given: Jonathan M.}
 - {family: Tolk, given: Norman H.}
-container-title: Materials Letters
+container_title: Materials Letters
 date: '2000-01-01'
 id: talley_snom_ir_tips_2000
 issued:

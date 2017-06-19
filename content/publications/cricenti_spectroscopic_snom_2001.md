@@ -10,7 +10,7 @@ author:
 - {family: Aggarwal, given: I.D.}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Tolk, given: Norman Henry}
-container-title: Journal of Microscopy
+container_title: Journal of Microscopy
 date: '2001-01-01'
 id: cricenti_spectroscopic_snom_2001
 issued:
@@ -28,6 +28,7 @@ short_author:
 - {family: Aggarwal, given: I.D.}
 - {family: Gilligan, given: J. M.}
 - {family: Tolk, given: N. H.}
+short_title: Spectroscopic near-field microscopy
 status: published
 title: "Spectroscopic scanning near-field optical microscopy with a free electron\
   \ laser: CH$_2$\_bond imaging in diamond films"

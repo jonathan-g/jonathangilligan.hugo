@@ -29,6 +29,7 @@ short_author:
 - {family: Prokop, given: A.}
 - {family: Stremler, given: M.}
 - {family: Werdich, given: A.}
+short_title: Monitoring a metabolically active cell
 status: published
 title: Apparatus and methods for monitoring the status of a metabolically active cell
 ---

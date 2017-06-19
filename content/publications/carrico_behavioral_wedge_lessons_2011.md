@@ -6,7 +6,7 @@ author:
 - {family: Gardner, given: Gerald T.}
 - {family: Dietz, given: Thomas}
 - {family: Gilligan, given: Jonathan M.}
-container-title: Journal of Energy & Environmental Law
+container_title: Journal of Energy & Environmental Law
 date: '2011-01-01'
 file:
 - {desc: full text, file: Carrico_2011_Key_Lessons.pdf}
@@ -22,6 +22,7 @@ short_author:
 - {family: Gardner, given: G. T.}
 - {family: Dietz, given: T.}
 - {family: Gilligan, given: J. M.}
+short_title: Key lessons for implementing the behavioral wedge
 status: published
 title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
 volume: '2'

@@ -7,7 +7,7 @@ author:
 - {family: Tolk, given: Norman Henry}
 - {family: Coluzza, given: C.}
 - {family: Margaritondo, given: G.}
-container-title: Applied Physics Letters
+container_title: Applied Physics Letters
 date: '1998-01-01'
 id: cricenti_fel_nanospectroscopy_1998
 issued:

@@ -1,7 +1,7 @@
 ---
 author:
 - {family: Gilligan, given: Jonathan}
-container-title: 'Opposing viewpoints: Ethics'
+container_title: 'Opposing viewpoints: Ethics'
 date: '2010-01-01'
 editor:
 - {family: Espejo, given: R.}
@@ -15,6 +15,7 @@ short_author:
 - {family: Gilligan, given: J.}
 short_editor:
 - {family: Espejo, given: R.}
+short_title: Ethics and future generations
 status: published
 title: People should behave ethically for the sake of future generations
 volume: '2'

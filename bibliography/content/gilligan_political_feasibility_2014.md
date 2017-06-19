@@ -3,7 +3,7 @@ DOI: 10.2139/ssrn.2220788
 author:
 - {family: Gilligan, given: Jonathan M.}
 - {family: Vandenbergh, given: Michael P.}
-container-title: Virginia Environmental Law Journal
+container_title: Virginia Environmental Law Journal
 date: '2014-01-01'
 file:
 - {desc: full text, file: Gilligan_2014_Political_Feasibility.pdf}
@@ -15,6 +15,7 @@ pub_type: article-journal
 short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Vandenbergh, given: M. P.}
+short_title: Accounting for political feasibility
 status: published
 title: Accounting for political feasibility in climate instrument choice
 volume: '32'

@@ -5,7 +5,7 @@ author:
 - {family: Anam, given: Mujibul}
 - {family: Gilligan, given: Jonathan}
 - {family: Goodbred, given: Steven}
-container-title: Climate change, migration, and human rights
+container_title: Climate change, migration, and human rights
 date: '2017-01-01'
 editor:
 - {family: Manou, given: Dimitra}
@@ -18,7 +18,7 @@ issued:
 - {year: '2017'}
 pub_type: chapter
 publisher: Routledge
-publisher-place: New York
+publisher_place: New York
 short_author:
 - {family: Ackerly, given: B. A.}
 - {family: Anam, given: M.}
@@ -30,6 +30,7 @@ short_editor:
 - {family: Cubie, given: D.}
 - {family: Mijr, given: A.}
 - {family: Thorp, given: T.}
+short_title: Climate and community
 status: published
 title: 'Climate and community: The human rights, livelihood, and migration impacts
   of climate change'

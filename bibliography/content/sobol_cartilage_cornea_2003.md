@@ -6,7 +6,7 @@ author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Edwards, given: Glenn S.}
 - {family: Tolk, given: Norman Henry}
-container-title: Journal of Biomedical Optics
+container_title: Journal of Biomedical Optics
 date: '2003-01-01'
 id: sobol_cartilage_cornea_2003
 issue: '2'
@@ -21,6 +21,7 @@ short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Edwards, given: G. S.}
 - {family: Tolk, given: N. H.}
+short_title: Cornea and cartilege denaturation
 status: published
 title: Time-resolved light scattering measurements of cartilage and cornea denaturation
   due to free-electron laser radiation

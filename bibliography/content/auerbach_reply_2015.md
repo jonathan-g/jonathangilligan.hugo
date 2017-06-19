@@ -11,7 +11,7 @@ author:
 - {family: Small, given: C.}
 - {family: Gilligan, given: J. M.}
 - {family: Ackerly, given: B. A.}
-container-title: Nature Climate Change
+container_title: Nature Climate Change
 date: '2015-01-01'
 id: auerbach_reply_2015
 issue: '6'

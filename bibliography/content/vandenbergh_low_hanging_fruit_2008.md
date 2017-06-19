@@ -3,7 +3,7 @@ author:
 - {family: Vandenbergh, given: Michael P.}
 - {family: Barkenbus, given: Jack}
 - {family: Gilligan, given: Jonathan Mark}
-container-title: UCLA Law Review
+container_title: UCLA Law Review
 date: '2008-01-01'
 file:
 - {desc: full text, file: Vandenbergh_2008_Low_Hanging_Fruit.pdf}
@@ -16,6 +16,7 @@ short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Barkenbus, given: J.}
 - {family: Gilligan, given: J. M.}
+short_title: Individual carbon emissions
 status: published
 title: 'Individual carbon emissions: The low-hanging fruit'
 volume: '55'

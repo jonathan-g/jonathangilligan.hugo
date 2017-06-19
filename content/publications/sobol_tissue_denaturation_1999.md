@@ -6,7 +6,7 @@ author:
 - {family: Edwards, given: Glenn S.}
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Tolk, given: Norman Henry}
-container-title: International biomedical optics symposium
+container_title: International biomedical optics symposium
 date: '1999-01-01'
 id: sobol_tissue_denaturation_1999
 issued:

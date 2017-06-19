@@ -14,7 +14,7 @@ author:
 - {family: Tully, given: J.}
 - {family: Betz, given: G.}
 - {family: Husinsky, given: W.}
-container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
+container_title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
 date: '1998-01-01'
 id: tolk_gold_sputtering_1998
 issued:

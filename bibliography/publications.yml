@@ -151,6 +151,7 @@ references:
   publisher-place: Piscataway, NJ, USA
   status: published
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
+  title-short: Agricultural adaptation to water scarcity
   type: paper-conference
 - DOI: 10.1016/j.apgeog.2016.10.003
   URL: https://www.sciencedirect.com/science/article/pii/S0143622816306063
@@ -184,6 +185,7 @@ references:
   publisher: Elsevier
   status: published
   title: Agricultural adaptation to drought in the Sri Lankan dry zone
+  title-short: Agricultural adaptation to drought
   type: article-journal
   volume: '77'
 - DOI: 10.5194/isprs-archives-XLI-B2-465-2016
@@ -221,6 +223,7 @@ references:
   page: 465-469
   status: published
   title: Application of machine learning to the prediction of vegetation health
+  title-short: Prediction of vegetation health
   type: article-journal
   volume: XLI-B2
 - DOI: 10.1002/joc.4365
@@ -257,7 +260,7 @@ references:
   status: published
   title: "Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881\u2013\
     2010"
-  title-short: Spatiotemporal patterns of agricultural drought in Sri Lanka
+  title-short: Patterns of drought in Sri Lanka
   type: article-journal
   volume: '36'
 - DOI: 10.1111/socf.12274
@@ -415,6 +418,7 @@ references:
   status: published
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
     delta plain
+  title-short: Flood risk of natural and embanked landscapes
   type: article-journal
   volume: '5'
 - DOI: 10.1038/nclimate2620
@@ -626,6 +630,7 @@ references:
   page: 1-26
   status: published
   title: Accounting for political feasibility in climate instrument choice
+  title-short: Accounting for political feasibility
   type: article-journal
   volume: '32'
 - abstract: 'Much of energy policy is driven by concerns about climate change. Views
@@ -667,7 +672,7 @@ references:
   page: 1962-2017
   status: published
   title: 'Energy and climate change: A climate prediction market'
-  title-short: Energy and climate change
+  title-short: A climate prediction market
   type: article-journal
   volume: '61'
 - abstract: "Environmental vulnerability in Bangladesh\u2014especially vulnerability\
@@ -702,7 +707,7 @@ references:
   status: published
   title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated
     social, environmental, and engineering perspective'
-  title-short: Building resilience to environmental stress in coastal Bangladesh
+  title-short: Resilience to environmental stress in bangladesh
   type: paper-conference
 - abstract: Deltas are dynamic landforms that have been the foci of agri- and aquacultural
     development by humans for millennia. The dynamics of deltas are governed by changes
@@ -782,7 +787,7 @@ references:
   page: 61-67
   status: published
   title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
-  title-short: Energy and climate change
+  title-short: Key lessons for implementing the behavioral wedge
   type: article-journal
   volume: '2'
 - abstract: Drawing on the recent financial crisis, we introduce the concept of macro-risk.
@@ -812,7 +817,7 @@ references:
   page: 401-431
   status: published
   title: 'Macro-risks: The challenge for rational risk regulation'
-  title-short: Macro-risks
+  title-short: Macro risks
   type: article-journal
   volume: '21'
 - abstract: An apparatus and methods for detecting at least one analyte of interest
@@ -860,6 +865,7 @@ references:
   status: published
   title: Apparatus and methods for monitoring the status of a metabolically active
     cell
+  title-short: Monitoring a metabolically active cell
   type: patent
 - DOI: 10.1111/j.1740-9713.2010.00405.x
   abstract: When nations fail to agree, can individual citizens make a difference?
@@ -897,6 +903,7 @@ references:
   publisher: Gale
   status: published
   title: People should behave ethically for the sake of future generations
+  title-short: Ethics and future generations
   type: chapter
   volume: '2'
 - DOI: 10.1021/es100896p
@@ -917,6 +924,7 @@ references:
   page: 4847-4848
   status: published
   title: Design principles for carbon emissions reduction programs
+  title-short: Design principles for emissions reduction programs
   type: article-journal
   volume: '44'
 - abstract: The time is ripe to identify additional politically viable, low-cost,
@@ -1005,6 +1013,7 @@ references:
   status: published
   title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
     emissions
+  title-short: Behavioral wedge
   type: article-journal
   volume: '106'
 - abstract: Fluorescence imaging has become a common modality in cardiac electrodynamics.
@@ -1041,6 +1050,7 @@ references:
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
     and metabolism
+  title-short: Dual-camera system
   type: article-journal
   volume: '234'
 - abstract: "The individual and household sector generates roughly 30 to 40 percent\
@@ -1107,6 +1117,7 @@ references:
   status: published
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
     bath
+  title-short: High-voltage cardiac stimulator
   type: article-journal
   volume: '78'
 - abstract: Risk assessment is one tool of legal and policy decisionmaking, and one
@@ -1129,7 +1140,7 @@ references:
   status: published
   title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
     risks'
-  title-short: Flexibility, clarity, and legitimacy
+  title-short: Managing nanotechnology risks
   type: article-journal
   volume: '36'
 - PMID: '12683847'
@@ -1167,6 +1178,7 @@ references:
   status: published
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
     due to free-electron laser radiation
+  title-short: Cornea and cartilege denaturation
   type: article-journal
   volume: '8'
 - author:
@@ -1187,6 +1199,7 @@ references:
   page: 183-192
   status: published
   title: Surface characterisation by near-field microscopy and atomic force microscopy
+  title-short: Surface characterisation by near-field microscopy
   type: article-journal
   volume: '32'
 - abstract: Using photoluminescence excitation (PLE) spectroscopy, we report detailed
@@ -1213,6 +1226,7 @@ references:
   status: published
   title: Defect transition energies and the density of electronic states in hydrogenated
     amorphous silicon
+  title-short: Defects in amorphous silicon
   type: article-journal
   volume: '299'
 - PMID: '11309110'
@@ -1244,8 +1258,7 @@ references:
   status: published
   title: "Spectroscopic scanning near-field optical microscopy with a free electron\
     \ laser: CH$_2$\_bond imaging in diamond films"
-  title-short: Spectroscopic scanning near-field optical microscopy with a free electron
-    laser
+  title-short: Spectroscopic near-field microscopy
   type: article-journal
   volume: '202'
 - abstract: We report first IR free-electron laser experiments to compare and elucidate
