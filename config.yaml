@@ -1,6 +1,6 @@
 ---
 MetaDataFormat: "yaml"
-theme: "hugo-finite"
+theme: "hugo-finisterre"
 contentdir: "content"
 layoutdir: "layouts"
 datadir: "data"

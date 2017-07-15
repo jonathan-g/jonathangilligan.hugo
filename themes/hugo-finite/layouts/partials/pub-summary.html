@@ -1,8 +1,0 @@
-<i class="fa-li fa  {{ partial "pub-icon" . }} fa-fw pub-icon"></i>
-{{ partial "publication" (dict "dot" . "author_initials" 1 "editor_initials" 1 "bib_with_year" 0 "isbn" 0 "doi" 0) }}
-  <span><a href="{{ .Permalink }}" class="button hollow small pub-link">Abstract</a>
-  {{ if isset .Params "file" }}
-  {{- range where .Params.file "desc" "full text" -}}
-  <a href="{{.Site.BaseURL}}files/pubs/pdfs/{{ index .file }}" class="button hollow small pub-link"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
-  {{- end -}}
-  {{ end }}</span>

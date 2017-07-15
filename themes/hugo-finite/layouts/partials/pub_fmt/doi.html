@@ -1,4 +1,0 @@
-{{- $ := .dot -}}
-{{- if isset $.Params "doi" }}
-doi: <a href="https://doi.org/{{ $.Params.doi | safeHTML }}" target="blank_">{{ $.Params.doi }}</a>
-{{- end -}}
