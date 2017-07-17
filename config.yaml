@@ -12,6 +12,7 @@ pygmentsStyle: "zenburn"
 baseURL: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
+  tag: "tags"
 title: "Jonathan Gilligan"
 copyright: "&copy; 2017 Jonathan Gilligan"
 canonifyUrls: true
@@ -22,20 +23,23 @@ ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$"]
 menu:
   main:
       - Name: "What's New"
-        URL: "/whats_new"
+        URL: "/whats_new/"
         Weight: 2
       - Name: "Research"
-        URL: "/research"
+        URL: "/research/"
         Weight: 3
       - Name: "Publications"
-        URL: "/publications"
+        URL: "/publications/"
         Weight: 4
       - Name: "Teaching"
-        URL: "/teaching"
+        URL: "/teaching/"
         Weight: 5
       - Name: "Blog"
-        URL: "/post"
+        URL: "/post/"
         Weight: 6
+      - Name: "About"
+        URL: "/about/"
+        Weight: 7
 permalinks:
   post: /post/:year/:month/:day/:slug
 blackfriday:
@@ -114,3 +118,6 @@ params:
       icon_pack: "fa"
       text: "jonathan_gilligan"
       on_site: "Skype"
+taxonomies:
+  - category: "categories"
+  - tag:      "tags"
