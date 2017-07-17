@@ -78,35 +78,41 @@ params:
       link: "mailto:jonathan.gilligan@vanderbilt.edu"
       text: "jonathan.gilligan@vanderbilt.edu"
     twitter:
-      priority: 3
+      priority: 4
       icon: "twitter"
       icon_pack: "fa"
       link: "https://twitter.com/jg_environ"
       text: "@jg_environ"
       on_site: "Twitter"
     github:
-      priority: 7
-      icon: "github-alt"
+      priority: 8
+      icon: "github"
       icon_pack: "fa"
       link: "https://github.com/jonathan-g"
       text: "jonathan-g"
       on_site: "GitHub"
     orcid:
-      priority: 5
+      priority: 6
       icon: "orcid"
       icon_pack: "ai"
       link: "https://orcid.org/0000-0003-1375-6686"
       text: "0000-0003-1375-6686"
       site: "ORCID:"
     ssrn:
-      priority: 6
+      priority: 7
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061"
       text: "954061"
       site: "SSRN ID:"
     google_scholar:
-      priority: 4
+      priority: 5
       icon: "google-scholar"
       icon_pack: "ai"
       link: "https://scholar.google.com/citations?user=B8RVAU0AAAAJ"
       text: "Google Scholar"
+    skype:
+      priority: 3
+      icon: "skype"
+      icon_pack: "fa"
+      text: "jonathan_gilligan"
+      on_site: "Skype"
 ---
