@@ -16,12 +16,19 @@ import time
 
 def fix_files(dir):
     scratch_dir = os.path.join(dir, 'scratch')
+    print "Scratch dir = ", scratch_dir
     if not os.path.isdir(scratch_dir):
         os.mkdir(scratch_dir)
-    for f in os.listdir(dir):
+    for f in os.listdir(dir):        
         dest = f.lower()
-        os.rename(os.path.join(dir, f), os.path.join(scratch_dir, dest))
-        os.rename(os.path.join(scratch_dir, dest), os.path.join(dir, dest))
+	src_file = os.path.join(dir, f)
+	dest_file = os.path.join(scratch_dir, dest)
+	if os.path.isfile(src_file):
+	  print "Moving ", src_file, " to ", dest_file
+          os.rename(src_file, dest_file)
+	  redest_file = os.path.join(dir, dest)
+	  print "Moving ", dest_file, " to ", redest_file
+          os.rename(dest_file, redest_file)
     time.sleep(0.5)
     os.rmdir(scratch_dir)
 
@@ -64,7 +71,7 @@ def preprocess(infile, outfile):
 def main():
     try:
         fix_files('pdfs')
-    except WindowsError, e:
+    except RuntimeError, e:
         print e
     finally:
         pass
