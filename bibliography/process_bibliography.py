@@ -188,13 +188,6 @@ def move_pdf_files(src = 'pdfs', dest = '../static/files/pubs/pdfs'):
             shutil.copyfile(src_file, dest_file)
 
 def main():
-    try:
-        fix_files('pdfs')
-    except WindowsError, e:
-        print e
-    finally:
-        pass
-    process_file_refs('jg_pubs.bib', 'jg_pubs.bib')
     preprocess('jg_pubs.bib', 'jg_pubs_an.bib')
     bib = gen_refs('jg_pubs_an.bib')
     gen_items(bib['references'])
