@@ -4,7 +4,7 @@ author:
 - {family: Eyler, given: Edward Eugene}
 - {family: Gilligan, given: Jonathan Mark}
 collection_title: Technical digest series
-container_title: Proceedings of the xv international conference on quantum electronics
+container_title: Proceedings of the XV International Conference on Quantum Electronics
 date: '1987-01-01'
 id: mccormack_multiphoton_1987
 issued:
@@ -17,6 +17,6 @@ short_author:
 - {family: Eyler, given: E. E.}
 - {family: Gilligan, given: J. M.}
 status: published
-title: Precise photodissociation and multiphoton spectroscopy of H2
+title: Precise photodissociation and multiphoton spectroscopy of $\ce{H2}$
 volume: '21'
 ---

@@ -19,6 +19,6 @@ short_author:
 - {family: Nussenzweig, given: "A.\xE9"}
 - {family: Pollack, given: E.}
 status: published
-title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
+title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
 volume: '36'
 ---

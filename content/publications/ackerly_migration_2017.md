@@ -1,12 +1,12 @@
 ---
-ISBN: 978-1138655942
+ISBN: '9781138655942'
 author:
 - {family: Ackerly, given: Brooke A.}
 - {family: Anam, given: Mujibul}
 - {family: Gilligan, given: Jonathan}
 - {family: Goodbred, given: Steven}
 container_title: Climate change, migration, and human rights
-date: '2017-01-01'
+date: '2017-06-01'
 editor:
 - {family: Manou, given: Dimitra}
 - {family: Baldwin, given: Andrew}
@@ -15,7 +15,8 @@ editor:
 - {family: Thorp, given: Teresa}
 id: ackerly_migration_2017
 issued:
-- {year: '2017'}
+- {day: '1', month: '6', year: '2017'}
+page: 189-202
 pub_type: chapter
 publisher: Routledge
 publisher_place: New York

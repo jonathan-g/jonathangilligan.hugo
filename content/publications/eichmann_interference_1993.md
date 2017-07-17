@@ -7,7 +7,7 @@ author:
 - {family: Itano, given: Wayne M.}
 - {family: Raizen, given: J. G.}
 - {family: Wineland, given: David J.}
-container_title: Proceedings of the 11^th^ international conference on laser science
+container_title: Proceedings of the 11^th^ International Conference on Laser Science
 date: '1993-01-01'
 id: eichmann_interference_1993
 issued:

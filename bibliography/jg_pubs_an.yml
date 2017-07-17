@@ -29,7 +29,7 @@ references:
     a theory of why private actors are motivated to reduce emissions, and a review
     of viable next steps, this book speaks to scholars, business and advocacy group
     managers, philanthropists, policymakers, and anyone interested in climate change.
-  ISBN: '978-1316632482'
+  ISBN: '9781316632482'
 
 - id: ackerly:migration:2017
   type: chapter
@@ -55,12 +55,15 @@ references:
     given: Teresa
   issued:
   - year: '2017'
+    month: '6'
+    day: '1'
   title: 'Climate and community: The human rights, livelihood, and migration impacts
     of climate change'
   title-short: Climate and community
   container-title: Climate change, migration, and human rights
   publisher: Routledge
   publisher-place: New York
+  page: '189-202'
   status: published
   abstract: Climate change is a global problem. However, between the global forces
     of climate change and the individual challenges of meeting basic needs, communities
@@ -75,7 +78,7 @@ references:
     also have human rights causes and consequences. In this chaopter, we use a study
     in rural Bangladesh to demonstrate the import of the human rights considerations
     of this second, community-level, impact of climate change on human rights.
-  ISBN: '978-1138655942'
+  ISBN: '9781138655942'
 
 - id: benneyworth:drinking.water:2016
   type: article-journal
@@ -104,6 +107,8 @@ references:
     given: Bhumika
   issued:
   - year: '2016'
+    month: '6'
+    day: '1'
   accessed:
   - year: '2016'
     month: '6'
@@ -160,9 +165,11 @@ references:
     given: S.E.
   issued:
   - year: '2016'
+    month: '12'
+    day: '1'
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
   title-short: Agricultural adaptation to water scarcity
-  container-title: Proceedings of the 2016 winter simulation conference
+  container-title: Proceedings of the 2016 Winter Simulation Conference
   collection-title: WSC’16
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -196,6 +203,8 @@ references:
     given: Jonathan
   issued:
   - year: '2016'
+    month: '10'
+    day: '1'
   title: Agricultural adaptation to drought in the Sri Lankan dry zone
   title-short: Agricultural adaptation to drought
   container-title: Applied Geography
@@ -234,6 +243,8 @@ references:
     given: Jonathan
   issued:
   - year: '2016'
+    month: '8'
+    day: '1'
   accessed:
   - year: '2016'
     month: '7'
@@ -276,6 +287,8 @@ references:
     given: Jonathan M.
   issued:
   - year: '2016'
+    month: '4'
+    day: '1'
   accessed:
   - year: '2016'
     month: '2'
@@ -324,6 +337,8 @@ references:
     given: George M.
   issued:
   - year: '2016'
+    month: '7'
+    day: '1'
   title: Drought, risk, and institutional politics in the American Southwest
   container-title: Sociological Forum
   publisher: Wiley Online Library
@@ -373,13 +388,15 @@ references:
     given: S.E.
   issued:
   - year: '2016'
+    month: '12'
+    day: '2'
   accessed:
   - year: '2016'
     month: '7'
     day: '14'
   title: 'Betting and belief: Prediction markets and attribution of climate change'
   title-short: Betting and belief
-  container-title: Proceedings of the 2016 winter simulation conference
+  container-title: Proceedings of the 2016 Winter Simulation Conference
   collection-title: WSC’16
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -420,7 +437,7 @@ references:
   - year: '2015'
   title: Environment, political economies, and livelihood change
   container-title: 'Environment, migration and adaptation: Evidence and politics
-    of climate change in bangladesh'
+    of climate change in Bangladesh'
   publisher: AHDPH
   publisher-place: Dhaka
   page: '27-39'
@@ -651,7 +668,7 @@ references:
     month: '2'
     day: '25'
   title: Data-driven dynamic decision models
-  container-title: Proceedings of the 2015 winter simulation conference
+  container-title: Proceedings of the 2015 Winter Simulation Conference
   collection-title: WSC ’15
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -1464,7 +1481,7 @@ references:
   issued:
   - year: '2001'
   title: 'Spectroscopic scanning near-field optical microscopy with a free electron
-    laser: CH$_2$ bond imaging in diamond films'
+    laser: $\ce{CH2}$ bond imaging in diamond films'
   title-short: Spectroscopic near-field microscopy
   container-title: Journal of Microscopy
   page: '446-450'
@@ -2056,7 +2073,7 @@ references:
     given: G.
   issued:
   - year: '1998'
-  title: Coupled electron-hole dynamics at the Si/SiO2 interface
+  title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
   container-title: Physical Review Letters
   page: '4224-4227'
   volume: '81'
@@ -2354,7 +2371,7 @@ references:
   issued:
   - year: '1993'
   title: Interference in the resonance fluorescence of two trapped atoms
-  container-title: Proceedings of the 11^th^ international conference on laser science
+  container-title: Proceedings of the 11^th^ International Conference on Laser Science
   page: '43-48'
   status: published
 
@@ -2480,7 +2497,7 @@ references:
   issued:
   - year: '1993'
   title: Light scattered from two atoms
-  container-title: Proceedings of the 11^th^ international conference on laser science
+  container-title: Proceedings of the 11^th^ International Conference on Laser Science
   page: '410-419'
   status: published
 
@@ -2497,8 +2514,8 @@ references:
     given: William
   issued:
   - year: '1993'
-  title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
-    lines
+  title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
+    of several iodine lines
   container-title: Physical Review A
   page: '4042-4045'
   volume: '47'
@@ -2514,7 +2531,7 @@ references:
   issued:
   - year: '1992'
   title: Precise determinations of ionization potentials and $EF$ state energy levels
-    of H$_2$, HD, and D$_2$
+    of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
   container-title: Physical Review A
   page: '3676-3690'
   volume: '46'
@@ -2569,10 +2586,34 @@ references:
     given: Jonathan Mark
   issued:
   - year: '1991'
-  title: Precise multiphoton spectroscopy of the H2, HD, and D2 molecules and a new
-    determination of the ionization potential of HD
+  title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
+    molecules and a new determination of the ionization potential of $\ce{HD}$
   publisher: Yale University
   genre: PhD thesis
+  abstract: In recent years, advances in theoretical treatments have made molecular
+    hydrogen attractive for studies of fundamental physics in molecules. The relativistic
+    and radiative corrections to the ground-state binding energy have been calculated,
+    but few measurements have been able to test these predictions. With frequency-tripled
+    pulse-amplified light from a continuous-wave single-frequency dye laser, it is
+    possible to make precise measurements of two-photon transitions in the deep ultraviolet.
+    Several two-photon transitions from the ground state to the $EF$ state of the
+    stable isotopes of molecular hydrogen were measured with accuracies around $0.015~\text{cm}^{-1}$.
+    Saturated absorption spectra of $\ce{I2}$ were acquired simultaneously to allow
+    the accuracy to be improved to $0.003~\text{cm}^{-1}$ in the future by measuring
+    the absolute frequencies of visible transitions in $\ce{I2}$. A second experiment
+    used laser double resonance to measure the energies of transitions in $\ce{HD}$
+    from the $EF$ state to singlet Rydberg $p$ states ranging from $n=40$ to 80. A
+    quantum defect analysis of these transitions was used to extrapolate to the series
+    limit. Combining the series limit with the measured $EF$ state energy gives a
+    value of $124\,568.479(19)~\text{cm}^{-1}$ for the ionization potential, in good
+    agreement with *ab initio* calculations. The measurements of transitions to the
+    $EF$ state in  allows a previous measurement of the ionization potential of $\ce{D2}$
+    to be improved by a factor of four to $\pm 0.027~\text{cm}^{-1}$. The ionization
+    potentials of $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ have now been measured with
+    accuracies of $0.014--0.027~\text{cm}^{-1}$. These accuracies are better than
+    those of the *ab initio* calculations. The agreement between the measurements
+    and the *ab initio* values confirms the calculated relativistic and radiative
+    corrections.
 
 - id: gilligan:three.photon:1991
   type: article-journal
@@ -2666,7 +2707,7 @@ references:
     given: Edward Eugene
   issued:
   - year: '1989'
-  title: Measurement of high Rydberg states and the ionization potential of H$_2$
+  title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
   container-title: Physical Review A
   page: '2260-2263'
   volume: '39'
@@ -2683,8 +2724,8 @@ references:
     given: Elizabeth
   issued:
   - year: '1988'
-  title: Precise multiphoton spectroscopy of H2
-  container-title: Advances in laser spectroscopy iii
+  title: Precise multiphoton spectroscopy of $\ce{H2}$
+  container-title: Advances in laser spectroscopy III
   collection-title: AIP conference proceedings
   page: '331-333'
   volume: '172'
@@ -2705,7 +2746,7 @@ references:
     given: Edward
   issued:
   - year: '1987'
-  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
+  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
   container-title: Physical Review A
   page: '3486-3489'
   volume: '36'
@@ -2720,8 +2761,8 @@ references:
     given: Jonathan Mark
   issued:
   - year: '1987'
-  title: Precise multiphoton spectroscopy of excited states of H2
-  container-title: Advances in laser spectroscopy ii
+  title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
+  container-title: Advances in laser spectroscopy II
   collection-title: AIP conference proceedings
   page: '388-390'
   volume: '160'
@@ -2738,8 +2779,8 @@ references:
     given: Jonathan Mark
   issued:
   - year: '1987'
-  title: Precise photodissociation and multiphoton spectroscopy of H2
-  container-title: Proceedings of the xv international conference on quantum electronics
+  title: Precise photodissociation and multiphoton spectroscopy of $\ce{H2}$
+  container-title: Proceedings of the XV International Conference on Quantum Electronics
   collection-title: Technical digest series
   publisher: Optical Society of America
   page: '58-60'

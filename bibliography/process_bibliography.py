@@ -78,6 +78,7 @@ def gen_items(bib):
                    'note',
                    'file'
                    ]
+    title_keys = ['title', 'short_title', 'container_title', 'collection_title']
     if not os.path.exists('content'):
         os.mkdir('content')
     for item in bib:
@@ -95,6 +96,9 @@ def gen_items(bib):
         if 'editor' in item.keys():
             item['short_editor'] = [ {'family':n['family'], 'given':re.sub('\\b([A-Z])[a-z][a-z]+\\b', '\\1.', n['given'])} for n in item['editor'] ]
         header_items = dict([(k, v) for (k, v) in item.items() if k in output_keys])
+        # for tk in title_keys:
+        #     if (tk in header_items.keys()):
+        #         header_items[tk] = re.sub('\\^([^\\^]+)\\^', '<sup>\\1</sup>', header_items[tk])
         header_items['id'] = key
         dd = header_items['issued'][0]
         y = int(dd['year'])

@@ -5,8 +5,8 @@ author:
 - {family: Van der Linden, given: Martin}
 - {family: Gilligan, given: Jonathan M.}
 collection_title: "WSC\u201916"
-container_title: Proceedings of the 2016 winter simulation conference
-date: '2016-01-01'
+container_title: Proceedings of the 2016 Winter Simulation Conference
+date: '2016-12-02'
 editor:
 - {family: Roeder, given: T.M.K.}
 - {family: Frazier, given: P.I.}
@@ -18,7 +18,7 @@ file:
 - {desc: full text, file: Nay_2016_Betting_Belief.pdf}
 id: nay_prediction_market_2016
 issued:
-- {year: '2016'}
+- {day: '2', month: '12', year: '2016'}
 keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
   Finance - Economics
 page: 1666-1677

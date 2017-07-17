@@ -17,7 +17,7 @@ short_author:
 - {family: Cook, given: B. M.}
 - {family: Lichten, given: W.}
 status: published
-title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
-  lines
+title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
+  of several iodine lines
 volume: '47'
 ---

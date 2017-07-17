@@ -17,6 +17,6 @@ short_author:
 - {family: Cornaggia, given: C.}
 - {family: Eyler, given: E. E.}
 status: published
-title: Measurement of high Rydberg states and the ionization potential of H$_2$
+title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
 volume: '39'
 ---

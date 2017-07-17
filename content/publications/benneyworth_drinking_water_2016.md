@@ -13,12 +13,12 @@ author:
 - {family: Donato, given: Katherine}
 - {family: Piya, given: Bhumika}
 container_title: International Journal of Environmental Health Research
-date: '2016-01-01'
+date: '2016-06-01'
 file:
 - {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
 id: benneyworth_drinking_water_2016
 issued:
-- {year: '2016'}
+- {day: '1', month: '6', year: '2016'}
 note: " Featured by Taylor & Francis publishers as part of their observance of World\
   \ Water Day 2017. T&F opened free access to the article and published an accompanying\
   \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."

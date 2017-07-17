@@ -31,7 +31,7 @@ short_author:
 short_title: Spectroscopic near-field microscopy
 status: published
 title: "Spectroscopic scanning near-field optical microscopy with a free electron\
-  \ laser: CH$_2$\_bond imaging in diamond films"
+  \ laser: $\\ce{CH2}$\_bond imaging in diamond films"
 volume: '202'
 ---
 Hydrogen chemistry in thin films and biological systems is one of the most difficult experimental problems in today&#8217;s science and technology. We successfully tested a novel solution, based on the spectroscopic version of scanning near-field optical microscopy&#160;(SNOM). The tunable infrared radiation of the Vanderbilt free-electron laser enabled us to reveal clearly hydrogen-decorated grain boundaries on nominally hydrogen-free diamond films. The images were obtained by SNOM detection of reflected 3.5&#160;micron photons, corresponding to the C-H stretch absorption, and reached a lateral resolution of 0.2&#160;micron, well below the $\lambda/2$ ($\lambda$ = wavelength) limit of classical microscopy.

@@ -14,6 +14,6 @@ short_author:
 - {family: Eyler, given: E. E.}
 status: published
 title: Precise determinations of ionization potentials and $EF$ state energy levels
-  of H$_2$, HD, and D$_2$
+  of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
 volume: '46'
 ---

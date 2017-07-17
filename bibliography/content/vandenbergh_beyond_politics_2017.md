@@ -1,5 +1,5 @@
 ---
-ISBN: 978-1316632482
+ISBN: '9781316632482'
 author:
 - {family: Vandenbergh, given: Michael P.}
 - {family: Gilligan, given: Jonathan M.}

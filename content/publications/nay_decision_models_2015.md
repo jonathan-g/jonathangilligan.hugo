@@ -5,7 +5,7 @@ author:
 - {family: Nay, given: John J.}
 - {family: Gilligan, given: Jonathan M.}
 collection_title: "WSC \u201915"
-container_title: Proceedings of the 2015 winter simulation conference
+container_title: Proceedings of the 2015 Winter Simulation Conference
 date: '2015-01-01'
 editor:
 - {family: Yilmaz, given: L.}

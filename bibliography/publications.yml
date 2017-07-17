@@ -1,5 +1,5 @@
 references:
-- ISBN: 978-1316632482
+- ISBN: '9781316632482'
   abstract: Private sector action provides one of the most promising opportunities
     to reduce the risks of climate change, buying time while governments move slowly
     or even oppose climate mitigation. Starting with the insight that much of the
@@ -25,7 +25,7 @@ references:
   title: 'Beyond politics: The private governance response to climate change'
   title-short: Beyond politics
   type: book
-- ISBN: 978-1138655942
+- ISBN: '9781138655942'
   abstract: Climate change is a global problem. However, between the global forces
     of climate change and the individual challenges of meeting basic needs, communities
     are the context in which people experience the effects of climate change and seek
@@ -53,7 +53,8 @@ references:
   - {family: Thorp, given: Teresa}
   id: ackerly:migration:2017
   issued:
-  - {year: '2017'}
+  - {day: '1', month: '6', year: '2017'}
+  page: 189-202
   publisher: Routledge
   publisher-place: New York
   status: published
@@ -100,7 +101,7 @@ references:
   - {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
   id: benneyworth:drinking.water:2016
   issued:
-  - {year: '2016'}
+  - {day: '1', month: '6', year: '2016'}
   note: " Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
@@ -131,7 +132,7 @@ references:
   - {family: Burchfield, given: Emily K.}
   - {family: Gilligan, given: Jonathan M.}
   collection-title: "WSC\u201916"
-  container-title: Proceedings of the 2016 winter simulation conference
+  container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
   - {family: Roeder, given: T.M.K.}
   - {family: Frazier, given: P.I.}
@@ -143,7 +144,7 @@ references:
   - {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
   id: burchfield:abm:2016
   issued:
-  - {year: '2016'}
+  - {day: '1', month: '12', year: '2016'}
   keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
     decision science, drought, Prospect Theory, Sustainability
   page: 1678-1689
@@ -179,7 +180,7 @@ references:
   - {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
   id: burchfield:agricultural.adaptation:2016
   issued:
-  - {year: '2016'}
+  - {day: '1', month: '10', year: '2016'}
   keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
   page: 92-100
   publisher: Elsevier
@@ -219,7 +220,7 @@ references:
   - {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
   id: burchfield:vegetation.health:2016
   issued:
-  - {year: '2016'}
+  - {day: '1', month: '8', year: '2016'}
   page: 465-469
   status: published
   title: Application of machine learning to the prediction of vegetation health
@@ -254,7 +255,7 @@ references:
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
-  - {year: '2016'}
+  - {day: '1', month: '4', year: '2016'}
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
   page: 563-575
   status: published
@@ -294,7 +295,7 @@ references:
   - {desc: full text, file: Hess_2016_Drought_Southwest.pdf}
   id: hess:drought:2016
   issued:
-  - {year: '2016'}
+  - {day: '1', month: '7', year: '2016'}
   page: 807-827
   publisher: Wiley Online Library
   status: published
@@ -323,7 +324,7 @@ references:
   - {family: Van der Linden, given: Martin}
   - {family: Gilligan, given: Jonathan M.}
   collection-title: "WSC\u201916"
-  container-title: Proceedings of the 2016 winter simulation conference
+  container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
   - {family: Roeder, given: T.M.K.}
   - {family: Frazier, given: P.I.}
@@ -335,7 +336,7 @@ references:
   - {desc: full text, file: Nay_2016_Betting_Belief.pdf}
   id: nay:prediction.market:2016
   issued:
-  - {year: '2016'}
+  - {day: '2', month: '12', year: '2016'}
   keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
     Finance - Economics
   page: 1666-1677
@@ -363,7 +364,7 @@ references:
   - {family: Anam, given: Mujibul}
   - {family: Gilligan, given: Jonathan}
   container-title: 'Environment, migration and adaptation: Evidence and politics of
-    climate change in bangladesh'
+    climate change in Bangladesh'
   editor:
   - {family: Mallick, given: Bishawjit}
   - {family: Etzold, given: Benjamin}
@@ -545,7 +546,7 @@ references:
   - {family: Nay, given: John J.}
   - {family: Gilligan, given: Jonathan M.}
   collection-title: "WSC \u201915"
-  container-title: Proceedings of the 2015 winter simulation conference
+  container-title: Proceedings of the 2015 Winter Simulation Conference
   editor:
   - {family: Yilmaz, given: L.}
   - {family: Chan, given: W.K.V.}
@@ -1257,7 +1258,7 @@ references:
   page: 446-450
   status: published
   title: "Spectroscopic scanning near-field optical microscopy with a free electron\
-    \ laser: CH$_2$\_bond imaging in diamond films"
+    \ laser: $\\ce{CH2}$\_bond imaging in diamond films"
   title-short: Spectroscopic near-field microscopy
   type: article-journal
   volume: '202'
@@ -1688,7 +1689,7 @@ references:
   - {year: '1998'}
   page: 4224-4227
   status: published
-  title: Coupled electron-hole dynamics at the Si/SiO2 interface
+  title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
   type: article-journal
   volume: '81'
 - author:
@@ -1868,7 +1869,7 @@ references:
   - {family: Itano, given: Wayne M.}
   - {family: Raizen, given: J. G.}
   - {family: Wineland, given: David J.}
-  container-title: Proceedings of the 11^th^ international conference on laser science
+  container-title: Proceedings of the 11^th^ International Conference on Laser Science
   id: eichmann:interference:1993
   issued:
   - {year: '1993'}
@@ -1953,7 +1954,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Raizen, given: Mark G.}
   - {family: Wineland, given: David J.}
-  container-title: Proceedings of the 11^th^ international conference on laser science
+  container-title: Proceedings of the 11^th^ International Conference on Laser Science
   id: itano:two.atoms:1993
   issued:
   - {year: '1993'}
@@ -1972,8 +1973,8 @@ references:
   - {year: '1993'}
   page: 4042-4045
   status: published
-  title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
-    lines
+  title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
+    of several iodine lines
   type: article-journal
   volume: '47'
 - author:
@@ -1986,7 +1987,7 @@ references:
   page: 3676-3690
   status: published
   title: Precise determinations of ionization potentials and $EF$ state energy levels
-    of H$_2$, HD, and D$_2$
+    of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
   type: article-journal
   volume: '46'
 - author:
@@ -2019,15 +2020,39 @@ references:
   title: Ionic crystals in a linear Paul trap
   type: article-journal
   volume: '45'
-- author:
+- abstract: "In recent years, advances in theoretical treatments have made molecular\
+    \ hydrogen attractive for studies of fundamental physics in molecules. The relativistic\
+    \ and radiative corrections to the ground-state binding energy have been calculated,\
+    \ but few measurements have been able to test these predictions. With frequency-tripled\
+    \ pulse-amplified light from a continuous-wave single-frequency dye laser, it\
+    \ is possible to make precise measurements of two-photon transitions in the deep\
+    \ ultraviolet. Several two-photon transitions from the ground state to the $EF$\
+    \ state of the stable isotopes of molecular hydrogen were measured with accuracies\
+    \ around $0.015~\\text{cm}^{-1}$. Saturated absorption spectra of $\\ce{I2}$ were\
+    \ acquired simultaneously to allow the accuracy to be improved to $0.003~\\text{cm}^{-1}$\
+    \ in the future by measuring the absolute frequencies of visible transitions in\
+    \ $\\ce{I2}$. A second experiment used laser double resonance to measure the energies\
+    \ of transitions in $\\ce{HD}$ from the $EF$ state to singlet Rydberg $p$ states\
+    \ ranging from $n=40$ to 80. A quantum defect analysis of these transitions was\
+    \ used to extrapolate to the series limit. Combining the series limit with the\
+    \ measured $EF$ state energy gives a value of $124\\,568.479(19)~\\text{cm}^{-1}$\
+    \ for the ionization potential, in good agreement with *ab initio* calculations.\
+    \ The measurements of transitions to the $EF$ state in \_allows a previous measurement\
+    \ of the ionization potential of $\\ce{D2}$ to be improved by a factor of four\
+    \ to $\\pm 0.027~\\text{cm}^{-1}$. The ionization potentials of $\\ce{H2}$, $\\\
+    ce{D2}$, and $\\ce{HD}$ have now been measured with accuracies of $0.014--0.027~\\\
+    text{cm}^{-1}$. These accuracies are better than those of the *ab initio* calculations.\
+    \ The agreement between the measurements and the *ab initio* values confirms the\
+    \ calculated relativistic and radiative corrections."
+  author:
   - {family: Gilligan, given: Jonathan Mark}
   genre: PhD thesis
   id: gilligan:dissertation:1991
   issued:
   - {year: '1991'}
   publisher: Yale University
-  title: Precise multiphoton spectroscopy of the H2, HD, and D2 molecules and a new
-    determination of the ionization potential of HD
+  title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
+    molecules and a new determination of the ionization potential of $\ce{HD}$
   type: thesis
 - author:
   - {family: Gilligan, given: Jonathan Mark}
@@ -2094,7 +2119,7 @@ references:
   - {year: '1989'}
   page: 2260-2263
   status: published
-  title: Measurement of high Rydberg states and the ionization potential of H$_2$
+  title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
   type: article-journal
   volume: '39'
 - author:
@@ -2102,13 +2127,13 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: McCormack, given: Elizabeth}
   collection-title: AIP conference proceedings
-  container-title: Advances in laser spectroscopy iii
+  container-title: Advances in laser spectroscopy III
   id: eyler:multiphoton:1988
   issued:
   - {year: '1988'}
   page: 331-333
   status: published
-  title: Precise multiphoton spectroscopy of H2
+  title: Precise multiphoton spectroscopy of $\ce{H2}$
   type: paper-conference
   volume: '172'
 - author:
@@ -2123,20 +2148,20 @@ references:
   - {year: '1987'}
   page: 3486-3489
   status: published
-  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
+  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
   type: article-journal
   volume: '36'
 - author:
   - {family: Eyler, given: Edward Eugene}
   - {family: Gilligan, given: Jonathan Mark}
   collection-title: AIP conference proceedings
-  container-title: Advances in laser spectroscopy ii
+  container-title: Advances in laser spectroscopy II
   id: eyler:multiphoton:1987
   issued:
   - {year: '1987'}
   page: 388-390
   status: published
-  title: Precise multiphoton spectroscopy of excited states of H2
+  title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
   type: paper-conference
   volume: '160'
 - author:
@@ -2144,13 +2169,13 @@ references:
   - {family: Eyler, given: Edward Eugene}
   - {family: Gilligan, given: Jonathan Mark}
   collection-title: Technical digest series
-  container-title: Proceedings of the xv international conference on quantum electronics
+  container-title: Proceedings of the XV International Conference on Quantum Electronics
   id: mccormack:multiphoton:1987
   issued:
   - {year: '1987'}
   page: 58-60
   publisher: Optical Society of America
   status: published
-  title: Precise photodissociation and multiphoton spectroscopy of H2
+  title: Precise photodissociation and multiphoton spectroscopy of $\ce{H2}$
   type: paper-conference
   volume: '21'

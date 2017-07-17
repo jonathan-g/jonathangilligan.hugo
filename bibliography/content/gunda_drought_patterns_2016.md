@@ -5,13 +5,13 @@ author:
 - {family: Hornberger, given: George M.}
 - {family: Gilligan, given: Jonathan M.}
 container_title: International Journal of Climatology
-date: '2016-01-01'
+date: '2016-04-01'
 file:
 - {desc: Full Text, file: Gunda_2015_Agricultural_Drought.pdf}
 id: gunda_drought_patterns_2016
 issue: '2'
 issued:
-- {year: '2016'}
+- {day: '1', month: '4', year: '2016'}
 keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
 page: 563-575
 pub_type: article-journal
