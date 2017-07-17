@@ -6,7 +6,7 @@ author:
 container_title: Virginia Environmental Law Journal
 date: '2014-01-01'
 file:
-- {desc: full text, file: Gilligan_2014_Political_Feasibility.pdf}
+- {desc: full text, file: gilligan_2014_political_feasibility.pdf}
 id: gilligan_political_feasibility_2014
 issued:
 - {year: '2014'}

@@ -14,7 +14,7 @@ author:
 container_title: Nature Climate Change
 date: '2015-01-01'
 file:
-- {desc: full text, file: Auerbach_2015_Bangladesh.pdf}
+- {desc: full text, file: auerbach_2015_bangladesh.pdf}
 id: auerbach_flood_risk_2015
 issue: '2'
 issued:

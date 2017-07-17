@@ -6,7 +6,7 @@ author:
 container_title: UCLA Law Review
 date: '2008-01-01'
 file:
-- {desc: full text, file: Vandenbergh_2008_Low_Hanging_Fruit.pdf}
+- {desc: full text, file: vandenbergh_2008_low_hanging_fruit.pdf}
 id: vandenbergh_low_hanging_fruit_2008
 issued:
 - {year: '2008'}

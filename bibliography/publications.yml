@@ -98,7 +98,7 @@ references:
   - {family: Piya, given: Bhumika}
   container-title: International Journal of Environmental Health Research
   file:
-  - {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
+  - {desc: full text, file: benneyworth_2016_drinking_water.pdf}
   id: benneyworth:drinking.water:2016
   issued:
   - {day: '1', month: '6', year: '2016'}
@@ -141,7 +141,7 @@ references:
   - {family: Huschka, given: T.}
   - {family: Chick, given: S.E.}
   file:
-  - {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
+  - {desc: full text, file: burchfield_2016_collective_adaptation.pdf}
   id: burchfield:abm:2016
   issued:
   - {day: '1', month: '12', year: '2016'}
@@ -177,7 +177,7 @@ references:
   - {family: Gilligan, given: Jonathan}
   container-title: Applied Geography
   file:
-  - {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
+  - {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
   id: burchfield:agricultural.adaptation:2016
   issued:
   - {day: '1', month: '10', year: '2016'}
@@ -217,7 +217,7 @@ references:
   container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
     \ Sensing and Spatial Information Sciences"
   file:
-  - {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
+  - {desc: full text, file: burchfield_2016_vegetation_health.pdf}
   id: burchfield:vegetation.health:2016
   issued:
   - {day: '1', month: '8', year: '2016'}
@@ -251,7 +251,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: International Journal of Climatology
   file:
-  - {desc: full text, file: Gunda_2016_Agricultural_Drought.pdf}
+  - {desc: full text, file: gunda_2016_agricultural_drought.pdf}
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
@@ -292,7 +292,7 @@ references:
   - {family: Hornberger, given: George M.}
   container-title: Sociological Forum
   file:
-  - {desc: full text, file: Hess_2016_Drought_Southwest.pdf}
+  - {desc: full text, file: hess_2016_drought_southwest.pdf}
   id: hess:drought:2016
   issued:
   - {day: '1', month: '7', year: '2016'}
@@ -333,7 +333,7 @@ references:
   - {family: Huschka, given: T.}
   - {family: Chick, given: S.E.}
   file:
-  - {desc: full text, file: Nay_2016_Betting_Belief.pdf}
+  - {desc: full text, file: nay_2016_betting_belief.pdf}
   id: nay:prediction.market:2016
   issued:
   - {day: '2', month: '12', year: '2016'}
@@ -369,7 +369,7 @@ references:
   - {family: Mallick, given: Bishawjit}
   - {family: Etzold, given: Benjamin}
   file:
-  - {desc: full text, file: Ackerly_2015_Political_Economies.pdf}
+  - {desc: full text, file: ackerly_2015_political_economies.pdf}
   id: ackerly:political.economies:2015
   issued:
   - {year: '2015'}
@@ -410,7 +410,7 @@ references:
   - {family: Ackerly, given: Brooke A.}
   container-title: Nature Climate Change
   file:
-  - {desc: full text, file: Auerbach_2015_Bangladesh.pdf}
+  - {desc: full text, file: auerbach_2015_bangladesh.pdf}
   id: auerbach:flood.risk:2015
   issue: '2'
   issued:
@@ -478,7 +478,7 @@ references:
   - {family: Macal, given: C.}
   - {family: Rossetti, given: M.D.}
   file:
-  - {desc: full text, file: Gilligan_2015_Flood_Partsim.pdf}
+  - {desc: full text, file: gilligan_2015_flood_partsim.pdf}
   id: gilligan:flood.partsim:2015
   issued:
   - {year: '2015'}
@@ -514,7 +514,7 @@ references:
   - {family: Gilligan, given: Jonathan}
   container-title: Water Resources Research
   file:
-  - {desc: full text, file: Hornberger_2015_Water_Conservation.pdf}
+  - {desc: full text, file: hornberger_2015_water_conservation.pdf}
   id: hornberger:water.conservation:2015
   issue: '6'
   issued:
@@ -555,7 +555,7 @@ references:
   - {family: Macal, given: C.}
   - {family: Rossetti, given: M.D.}
   file:
-  - {desc: full text, file: Nay_2015_Dynamic_Decision_Models.pdf}
+  - {desc: full text, file: nay_2015_dynamic_decision_models.pdf}
   id: nay:decision.models:2015
   issued:
   - {year: '2015'}
@@ -590,7 +590,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: Columbia Journal of Environmental Law
   file:
-  - {desc: full text, file: Vandenbergh_2015_Beyond_Gridlock.pdf}
+  - {desc: full text, file: vandenbergh_2015_beyond_gridlock.pdf}
   id: vandenbergh:beyond.gridlock:2015
   issue: '2'
   issued:
@@ -624,7 +624,7 @@ references:
   - {family: Vandenbergh, given: Michael P.}
   container-title: Virginia Environmental Law Journal
   file:
-  - {desc: full text, file: Gilligan_2014_Political_Feasibility.pdf}
+  - {desc: full text, file: gilligan_2014_political_feasibility.pdf}
   id: gilligan:political.feasibility:2014
   issued:
   - {year: '2014'}
@@ -666,7 +666,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: UCLA Law Review
   file:
-  - {desc: full text, file: Vandenbergh_2014_Prediction_Market.pdf}
+  - {desc: full text, file: vandenbergh_2014_prediction_market.pdf}
   id: vandenbergh:prediction.market:2014
   issued:
   - {year: '2014'}
@@ -699,7 +699,7 @@ references:
   container-title: 'Bridging the policy-action divide: Challenges and prospects for
     Bangladesh'
   file:
-  - {desc: full text, file: Gilligan_2013_Building_Resilience.pdf}
+  - {desc: full text, file: gilligan_2013_building_resilience.pdf}
   id: gilligan:isee.bangladesh:2013
   issued:
   - {month: '2', year: '2013'}
@@ -728,7 +728,7 @@ references:
   collection-title: IAHS publ.
   container-title: 'Deltas: Landforms, ecosystems and human activities'
   file:
-  - {desc: full text, file: Rogers_2013_Farming_Practices.pdf}
+  - {desc: full text, file: rogers_2013_farming_practices.pdf}
   id: rogers:farming.practices:2013
   issued:
   - {year: '2013'}
@@ -781,7 +781,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: Journal of Energy & Environmental Law
   file:
-  - {desc: full text, file: Carrico_2011_Key_Lessons.pdf}
+  - {desc: full text, file: carrico_2011_key_lessons.pdf}
   id: carrico:behavioral.wedge.lessons:2011
   issued:
   - {year: '2011'}
@@ -811,7 +811,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: Duke Environmental Law and Policy Forum
   file:
-  - {desc: full text, file: Vandenbergh_2011_Macro_Risks.pdf}
+  - {desc: full text, file: vandenbergh_2011_macro_risks.pdf}
   id: vandenbergh:macro.risks:2011
   issued:
   - {year: '2011'}
@@ -882,7 +882,7 @@ references:
   - {family: Vandenbergh, given: Michael}
   container-title: Significance
   file:
-  - {desc: full text, file: Gilligan_2010_Behavioral_Wedge.pdf}
+  - {desc: full text, file: gilligan_2010_behavioral_wedge.pdf}
   id: gilligan:behavioral.wedge:2010
   issued:
   - {year: '2010'}
@@ -898,7 +898,7 @@ references:
   editor:
   - {family: Espejo, given: R.}
   file:
-  - {desc: full text, file: Gilligan_2010_Ethics_in_Geologic_Time.pdf}
+  - {desc: full text, file: gilligan_2010_ethics_in_geologic_time.pdf}
   id: gilligan:ethics.geological.time:2010
   issued:
   - {year: '2010'}
@@ -920,7 +920,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: Environmental Science & Technology
   file:
-  - {desc: full text, file: Stern_2010_Design_Principles.pdf}
+  - {desc: full text, file: stern_2010_design_principles.pdf}
   id: stern:design.principles:2010
   issued:
   - {year: '2010'}
@@ -941,7 +941,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: Environmental Law Reporter
   file:
-  - {desc: full text, file: Vandenbergh_2010_Implementing_Behavioral_Wedge.pdf}
+  - {desc: full text, file: vandenbergh_2010_implementing_behavioral_wedge.pdf}
   id: vandenbergh:implementing.behavioral.wedge:2010
   issued:
   - {year: '2010'}
@@ -977,7 +977,7 @@ references:
   - {family: Wallston, given: Kenneth A.}
   container-title: Energy Policy
   file:
-  - {desc: full text, file: Carrico_2009_Costly_Myths.pdf}
+  - {desc: full text, file: carrico_2009_costly_myths.pdf}
   id: carrico:costly.myths:2009
   issued:
   - {year: '2009'}
@@ -1007,8 +1007,8 @@ references:
   - {family: Vandenbergh, given: Michael}
   container-title: PNAS
   file:
-  - {desc: full text, file: Dietz_2009_Behavioral_Wedge.pdf}
-  - {desc: supporting information, file: Dietz_2009_Behavioral_Wedge_Supporting_Info.pdf}
+  - {desc: full text, file: dietz_2009_behavioral_wedge.pdf}
+  - {desc: supporting information, file: dietz_2009_behavioral_wedge_supporting_info.pdf}
   id: dietz:behavioral.wedge:2009
   issued:
   - {year: '2009'}
@@ -1044,7 +1044,7 @@ references:
   - {family: Sidorov, given: Venyamin Y.}
   container-title: Experimental Biology and Medicine
   file:
-  - {desc: full text, file: Holcomb_2009_Dual_Camera.pdf}
+  - {desc: full text, file: holcomb_2009_dual_camera.pdf}
   id: holcomb:dual.camera:2009
   issued:
   - {year: '2009'}
@@ -1078,7 +1078,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   container-title: UCLA Law Review
   file:
-  - {desc: full text, file: Vandenbergh_2008_Low_Hanging_Fruit.pdf}
+  - {desc: full text, file: vandenbergh_2008_low_hanging_fruit.pdf}
   id: vandenbergh:low.hanging.fruit:2008
   issued:
   - {year: '2008'}
@@ -1136,7 +1136,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   container-title: Environmental Law Reporter
   file:
-  - {desc: full text, file: Gilligan_2006_Nanotechnology.pdf}
+  - {desc: full text, file: gilligan_2006_nanotechnology.pdf}
   id: gilligan:nanotech.risks:2006
   issue: '12'
   issued:

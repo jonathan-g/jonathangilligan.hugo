@@ -15,7 +15,7 @@ editor:
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
 file:
-- {desc: full text, file: Nay_2016_Betting_Belief.pdf}
+- {desc: full text, file: nay_2016_betting_belief.pdf}
 id: nay_prediction_market_2016
 issued:
 - {day: '2', month: '12', year: '2016'}

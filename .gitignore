@@ -4,3 +4,4 @@
 *.log
 *.sav
 public/
+*.pyc

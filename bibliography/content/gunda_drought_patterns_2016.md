@@ -7,7 +7,7 @@ author:
 container_title: International Journal of Climatology
 date: '2016-04-01'
 file:
-- {desc: full text, file: Gunda_2016_Agricultural_Drought.pdf}
+- {desc: full text, file: gunda_2016_agricultural_drought.pdf}
 id: gunda_drought_patterns_2016
 issue: '2'
 issued:

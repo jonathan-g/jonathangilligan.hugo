@@ -8,7 +8,7 @@ container_title: "ISPRS\u2014International Archives of the Photogrammetry, Remot
   \ Sensing and Spatial Information Sciences"
 date: '2016-08-01'
 file:
-- {desc: full text, file: Burchfield_2016_Vegetation_Health.pdf}
+- {desc: full text, file: burchfield_2016_vegetation_health.pdf}
 id: burchfield_vegetation_health_2016
 issued:
 - {day: '1', month: '8', year: '2016'}

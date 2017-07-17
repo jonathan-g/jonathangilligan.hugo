@@ -18,7 +18,7 @@ editor:
 - {family: Macal, given: C.}
 - {family: Rossetti, given: M.D.}
 file:
-- {desc: full text, file: Gilligan_2015_Flood_Partsim.pdf}
+- {desc: full text, file: gilligan_2015_flood_partsim.pdf}
 id: gilligan_flood_partsim_2015
 issued:
 - {year: '2015'}

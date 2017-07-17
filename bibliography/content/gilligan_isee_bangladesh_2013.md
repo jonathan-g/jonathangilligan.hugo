@@ -7,7 +7,7 @@ container_title: 'Bridging the policy-action divide: Challenges and prospects fo
   Bangladesh'
 date: '2013-02-01'
 file:
-- {desc: full text, file: Gilligan_2013_Building_Resilience.pdf}
+- {desc: full text, file: gilligan_2013_building_resilience.pdf}
 id: gilligan_isee_bangladesh_2013
 issued:
 - {month: '2', year: '2013'}

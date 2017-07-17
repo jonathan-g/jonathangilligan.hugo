@@ -6,7 +6,7 @@ author:
 container_title: Applied Geography
 date: '2016-10-01'
 file:
-- {desc: full text, file: Burchfield_2016_Agricultural_Adaptation.pdf}
+- {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
 id: burchfield_agricultural_adaptation_2016
 issued:
 - {day: '1', month: '10', year: '2016'}

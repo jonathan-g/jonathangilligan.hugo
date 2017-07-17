@@ -4,7 +4,7 @@ author:
 container_title: Environmental Law Reporter
 date: '2006-01-01'
 file:
-- {desc: full text, file: Gilligan_2006_Nanotechnology.pdf}
+- {desc: full text, file: gilligan_2006_nanotechnology.pdf}
 id: gilligan_nanotech_risks_2006
 issue: '12'
 issued:

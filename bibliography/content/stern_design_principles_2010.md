@@ -9,7 +9,7 @@ author:
 container_title: Environmental Science & Technology
 date: '2010-01-01'
 file:
-- {desc: full text, file: Stern_2010_Design_Principles.pdf}
+- {desc: full text, file: stern_2010_design_principles.pdf}
 id: stern_design_principles_2010
 issued:
 - {year: '2010'}

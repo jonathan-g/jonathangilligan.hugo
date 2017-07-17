@@ -8,7 +8,7 @@ author:
 container_title: Environmental Law Reporter
 date: '2010-01-01'
 file:
-- {desc: full text, file: Vandenbergh_2010_Implementing_Behavioral_Wedge.pdf}
+- {desc: full text, file: vandenbergh_2010_implementing_behavioral_wedge.pdf}
 id: vandenbergh_implementing_behavioral_wedge_2010
 issued:
 - {year: '2010'}

@@ -9,7 +9,7 @@ author:
 container_title: Experimental Biology and Medicine
 date: '2009-01-01'
 file:
-- {desc: full text, file: Holcomb_2009_Dual_Camera.pdf}
+- {desc: full text, file: holcomb_2009_dual_camera.pdf}
 id: holcomb_dual_camera_2009
 issued:
 - {year: '2009'}

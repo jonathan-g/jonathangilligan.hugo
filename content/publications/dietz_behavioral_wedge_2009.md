@@ -9,8 +9,8 @@ author:
 container_title: PNAS
 date: '2009-01-01'
 file:
-- {desc: full text, file: Dietz_2009_Behavioral_Wedge.pdf}
-- {desc: supporting information, file: Dietz_2009_Behavioral_Wedge_Supporting_Info.pdf}
+- {desc: full text, file: dietz_2009_behavioral_wedge.pdf}
+- {desc: supporting information, file: dietz_2009_behavioral_wedge_supporting_info.pdf}
 id: dietz_behavioral_wedge_2009
 issued:
 - {year: '2009'}

@@ -15,7 +15,7 @@ editor:
 - {family: Macal, given: C.}
 - {family: Rossetti, given: M.D.}
 file:
-- {desc: full text, file: Nay_2015_Dynamic_Decision_Models.pdf}
+- {desc: full text, file: nay_2015_dynamic_decision_models.pdf}
 id: nay_decision_models_2015
 issued:
 - {year: '2015'}

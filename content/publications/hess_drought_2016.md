@@ -11,7 +11,7 @@ author:
 container_title: Sociological Forum
 date: '2016-07-01'
 file:
-- {desc: full text, file: Hess_2016_Drought_Southwest.pdf}
+- {desc: full text, file: hess_2016_drought_southwest.pdf}
 id: hess_drought_2016
 issued:
 - {day: '1', month: '7', year: '2016'}

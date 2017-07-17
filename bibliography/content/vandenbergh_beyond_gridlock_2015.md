@@ -6,7 +6,7 @@ author:
 container_title: Columbia Journal of Environmental Law
 date: '2015-01-01'
 file:
-- {desc: full text, file: Vandenbergh_2015_Beyond_Gridlock.pdf}
+- {desc: full text, file: vandenbergh_2015_beyond_gridlock.pdf}
 id: vandenbergh_beyond_gridlock_2015
 issue: '2'
 issued:

@@ -9,7 +9,7 @@ collection_title: IAHS publ.
 container_title: 'Deltas: Landforms, ecosystems and human activities'
 date: '2013-01-01'
 file:
-- {desc: full text, file: Rogers_2013_Farming_Practices.pdf}
+- {desc: full text, file: rogers_2013_farming_practices.pdf}
 id: rogers_farming_practices_2013
 issued:
 - {year: '2013'}

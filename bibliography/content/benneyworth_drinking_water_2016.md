@@ -15,7 +15,7 @@ author:
 container_title: International Journal of Environmental Health Research
 date: '2016-06-01'
 file:
-- {desc: full text, file: Benneyworth_2016_Drinking_Water.pdf}
+- {desc: full text, file: benneyworth_2016_drinking_water.pdf}
 id: benneyworth_drinking_water_2016
 issued:
 - {day: '1', month: '6', year: '2016'}

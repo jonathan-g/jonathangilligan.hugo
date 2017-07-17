@@ -14,7 +14,7 @@ editor:
 - {family: Huschka, given: T.}
 - {family: Chick, given: S.E.}
 file:
-- {desc: full text, file: Burchfield_2016_Collective_Adaptation.pdf}
+- {desc: full text, file: burchfield_2016_collective_adaptation.pdf}
 id: burchfield_abm_2016
 issued:
 - {day: '1', month: '12', year: '2016'}
