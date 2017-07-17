@@ -51,6 +51,7 @@ params:
   AuthorName: "Jonathan Gilligan"
   bio_name: "Jonathan Gilligan"
   bio_twitter: "jg_environ"
+  cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
   mathjax: true
   mhchem: true
