@@ -5,6 +5,8 @@ container_title: 'Opposing viewpoints: Ethics'
 date: '2010-01-01'
 editor:
 - {family: Espejo, given: R.}
+file:
+- {desc: full text, file: Gilligan_2010_Ethics_in_Geologic_Time.pdf}
 id: gilligan_ethics_geological_time_2010
 issued:
 - {year: '2010'}

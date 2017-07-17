@@ -251,7 +251,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   container-title: International Journal of Climatology
   file:
-  - {desc: Full Text, file: Gunda_2015_Agricultural_Drought.pdf}
+  - {desc: full text, file: Gunda_2016_Agricultural_Drought.pdf}
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
@@ -897,6 +897,8 @@ references:
   container-title: 'Opposing viewpoints: Ethics'
   editor:
   - {family: Espejo, given: R.}
+  file:
+  - {desc: full text, file: Gilligan_2010_Ethics_in_Geologic_Time.pdf}
   id: gilligan:ethics.geological.time:2010
   issued:
   - {year: '2010'}
@@ -1133,6 +1135,8 @@ references:
   author:
   - {family: Gilligan, given: Jonathan Mark}
   container-title: Environmental Law Reporter
+  file:
+  - {desc: full text, file: Gilligan_2006_Nanotechnology.pdf}
   id: gilligan:nanotech.risks:2006
   issue: '12'
   issued:

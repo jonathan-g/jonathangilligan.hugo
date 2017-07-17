@@ -10,7 +10,7 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseurl: "https://www.jonathangilligan.org/"
+baseURL: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
 title: "Jonathan Gilligan"
