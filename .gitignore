@@ -6,3 +6,5 @@
 public/
 *.pyc
 .Rproj.user
+.RData
+.Rhistory
