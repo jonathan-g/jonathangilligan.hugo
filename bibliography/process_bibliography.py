@@ -14,6 +14,7 @@ import re
 import cgi
 import string
 import time
+import sys
 
 def fix_files(dir):
     scratch_dir = os.path.join(dir, 'scratch')
@@ -188,8 +189,10 @@ def move_pdf_files(src = 'pdfs', dest = '../static/files/pubs/pdfs'):
             shutil.copyfile(src_file, dest_file)
 
 def main():
-    preprocess('jg_pubs.bib', 'jg_pubs_an.bib')
-    bib = gen_refs('jg_pubs_an.bib')
+    source = sys.argv[1]
+    intermediate = os.path.splitext(source)[0] + "_an" + ".bib"
+    preprocess(source, intermediate)
+    bib = gen_refs(intermediate)
     gen_items(bib['references'])
     move_md_files()
     move_pdf_files()
