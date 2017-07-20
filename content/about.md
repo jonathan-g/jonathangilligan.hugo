@@ -63,7 +63,7 @@ The following bio may be used in media releases without further permission.
 
      USA
 
-* Fedex/UPS/etc.:
+* Deliveries (Fedex/UPS/etc.):
 
     Department of Earth & Environmental Sciences
 
