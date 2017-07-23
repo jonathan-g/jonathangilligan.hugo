@@ -20,6 +20,9 @@ tags:
   - climate change
 ---
 
+<div style="margin-bottom:1em;">
+<i>This article was originally published on <a href="https://theconversation.com/government-action-isnt-enough-for-climate-change-the-private-sector-can-cut-billions-of-tons-of-carbon-79728" target-"_blank"><b>The Conversation</b></a></i>
+</div>
 
 With President Trump's announcement to pull the United States out of the Paris Agreement, many other countries around the world---and cities and states within the U.S.---are stepping up their commitments to address climate change.
 

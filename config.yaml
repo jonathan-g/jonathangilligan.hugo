@@ -39,13 +39,13 @@ menu:
         Weight: 7
       - Name: "About"
         URL: "/about/"
-        Weight: 8
+        Weight: 9
       - Name: "Creative"
         URL: "/creative/"
         Weight: 6
       - Name: "In The News"
         URL: "/news/"
-        Weight: 2.5
+        Weight: 8
 permalinks:
   post: /post/:year/:month/:day/:slug
 blackfriday:
