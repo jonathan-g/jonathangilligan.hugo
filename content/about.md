@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-| [Biography](#biography) | [Academic/Professional Data](#academic-professional-data) | [Contact Info](#contact-info) | [Calendar](#my-schedule) | [Trivia](#trivia) |
+| <span class="button">[Biography](#biography)</span> | <span class="button">[Academic/Professional Data](#academic-professional-data)</span> | <span class="button">[Contact Info](#contact-info)</span> | <span class="button">[Calendar](#my-schedule)</span> | <span class="button">[Trivia](#trivia)</span> |
 |----|----|----|----|----|
 
 ## Biography
@@ -15,7 +15,7 @@ The following bio may be used in media releases without further permission.
 >
 > In 2017, Gilligan and Michael Vandenbergh received the [Morrison Prize](https://news.vanderbilt.edu/2017/02/09/gilligan-vandenbergh-win-morrison-prize-for-climate-change-article/), awarded by the program in Law and Sustainability at Arizona State University to the highest-impact paper on sustainability law and policy published in the previous year.
 >
-> He is the author of one book and over 75 scholarly articles. He is also co-author, with Carol Gilligan, of the play, "The Scarlet Letter" and the opera libretto, "Pearl".
+> He is the author of one book and over 75 scholarly articles. He is also co-author, with Carol Gilligan, of the play "The Scarlet Letter" and the libretto for the opera "Pearl".
 
 
 ## Academic/Professional Data:
@@ -27,8 +27,7 @@ The following bio may be used in media releases without further permission.
   <li><i class="fa-li fa fa-github" style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
 </ul>
 
-
-<h4><a href="/files/cv/gilligan_cv.pdf" target="_blank">Curriculum Vitae</a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a> </h4>
+<h4 style="margin-top:1em;"><a href="/files/cv/gilligan_cv.pdf" target="_blank">Curriculum Vitae</a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a> </h4>
 
 ---
 

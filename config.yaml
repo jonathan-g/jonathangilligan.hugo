@@ -22,9 +22,6 @@ ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Aut
 
 menu:
   main:
-      - Name: "What's New"
-        URL: "/whats_new/"
-        Weight: 2
       - Name: "Research"
         URL: "/research/"
         Weight: 3
