@@ -1,4 +1,3 @@
----
 MetaDataFormat: "yaml"
 theme: "hugo-finisterre"
 contentdir: "content"
@@ -13,33 +12,42 @@ pygmentsStyle: "zenburn"
 baseURL: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
+  tag: "tags"
 title: "Jonathan Gilligan"
 copyright: "&copy; 2017 Jonathan Gilligan"
 canonifyUrls: true
 relativeUrls: true
 enableRobotsTXT: true
-ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
 
 menu:
   main:
       - Name: "What's New"
-        URL: "/whats_new"
+        URL: "/whats_new/"
         Weight: 2
       - Name: "Research"
-        URL: "/research"
+        URL: "/research/"
         Weight: 3
       - Name: "Publications"
-        URL: "/publications"
+        URL: "/publications/"
         Weight: 4
       - Name: "Teaching"
-        URL: "/teaching"
+        URL: "/teaching/"
         Weight: 5
-#      - Name: "Blog"
-#        URL: "/blog"
-#        Weight: 6
+      - Name: "Blog"
+        URL: "/post/"
+        Weight: 7
+      - Name: "About"
+        URL: "/about/"
+        Weight: 9
+      - Name: "Creative"
+        URL: "/creative/"
+        Weight: 6
+      - Name: "In The News"
+        URL: "/news/"
+        Weight: 8
 permalinks:
-  blog: /blog/archives/:year/:month/:day/:slug
-  archive: /blog/archives/
+  post: /post/:year/:month/:day/:slug
 blackfriday:
   smartypants: true
   angledQuotes: false
@@ -56,7 +64,7 @@ params:
   mathjax: true
   mhchem: true
   avatar: "avatar.jpg"
-  front_page_img: "jg/jg_sundarbans.jpg"
+  front_page_img: "jg/jg_kokilmoni_deck_2010_large.jpg"
   email: "jonathan.gilligan@vanderbilt.edu"
   address:
     - "<a href=\"https://www.vanderbilt.edu/ees\">Department of Earth &amp; Environmental Sciences</a>,"
@@ -116,4 +124,6 @@ params:
       icon_pack: "fa"
       text: "jonathan_gilligan"
       on_site: "Skype"
----
+taxonomies:
+  - category: "categories"
+  - tag:      "tags"

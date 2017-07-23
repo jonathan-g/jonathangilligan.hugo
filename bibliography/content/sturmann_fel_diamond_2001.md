@@ -10,7 +10,7 @@ author:
 - {family: Davidson, given: Jeffrey L}
 - {family: Husinsky, given: Wolfgang}
 - {family: Tolk, given: Norman H}
-container_title: Nonresonant laser-matter interaction (nLMI-10)
+container_title: Nonresonant laser-matter interaction (nlmi-10)
 date: '2001-01-01'
 id: sturmann_fel_diamond_2001
 issued:

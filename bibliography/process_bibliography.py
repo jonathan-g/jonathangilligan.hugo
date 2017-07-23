@@ -14,6 +14,7 @@ import re
 import cgi
 import string
 import time
+import sys
 
 def fix_files(dir):
     scratch_dir = os.path.join(dir, 'scratch')
@@ -75,7 +76,7 @@ def extract_file_link(filestr):
     return d
 
 def merge(bitem, yitem):
-    fields = ['file', 'title_md', 'booktitle_md', 'note_md']
+    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon']
 
     for f in fields:
         if f in bitem.fields.keys():
@@ -118,7 +119,8 @@ def gen_items(bib):
                    'issued',
                    'keyword',
                    'note',
-                   'file'
+                   'file',
+                   'amazon',
                    ]
     title_keys = ['title', 'short_title', 'container_title', 'collection_title']
     if not os.path.exists('content'):
@@ -188,8 +190,10 @@ def move_pdf_files(src = 'pdfs', dest = '../static/files/pubs/pdfs'):
             shutil.copyfile(src_file, dest_file)
 
 def main():
-    preprocess('jg_pubs.bib', 'jg_pubs_an.bib')
-    bib = gen_refs('jg_pubs_an.bib')
+    source = sys.argv[1]
+    intermediate = os.path.splitext(source)[0] + "_an" + ".bib"
+    preprocess(source, intermediate)
+    bib = gen_refs(intermediate)
     gen_items(bib['references'])
     move_md_files()
     move_pdf_files()

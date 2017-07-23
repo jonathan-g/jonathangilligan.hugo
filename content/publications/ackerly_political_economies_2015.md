@@ -1,4 +1,5 @@
 ---
+amazon: https://www.amazon.com/Environment-Migration-Adaptation-Evidence-Bangladesh/dp/9849103795/
 author:
 - {family: Ackerly, given: Brooke A.}
 - {family: Anam, given: Mujibul}
