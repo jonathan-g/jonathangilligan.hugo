@@ -5,3 +5,5 @@
 *.sav
 public/
 *.pyc
+.Rproj.user
+.Rhistory
