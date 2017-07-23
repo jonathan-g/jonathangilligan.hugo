@@ -1,5 +1,6 @@
 ---
 ISBN: '9781316632482'
+amazon: https://www.amazon.com/Beyond-Politics-Governance-Response-Business/dp/1316632482/
 author:
 - {family: Vandenbergh, given: Michael P.}
 - {family: Gilligan, given: Jonathan M.}

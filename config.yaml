@@ -18,7 +18,7 @@ copyright: "&copy; 2017 Jonathan Gilligan"
 canonifyUrls: true
 relativeUrls: true
 enableRobotsTXT: true
-ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
 
 menu:
   main:
@@ -36,10 +36,16 @@ menu:
         Weight: 5
       - Name: "Blog"
         URL: "/post/"
-        Weight: 6
+        Weight: 7
       - Name: "About"
         URL: "/about/"
-        Weight: 7
+        Weight: 8
+      - Name: "Creative"
+        URL: "/creative/"
+        Weight: 6
+      - Name: "In The News"
+        URL: "/news/"
+        Weight: 2.5
 permalinks:
   post: /post/:year/:month/:day/:slug
 blackfriday:
@@ -58,7 +64,7 @@ params:
   mathjax: true
   mhchem: true
   avatar: "avatar.jpg"
-  front_page_img: "jg/jg_sundarbans.jpg"
+  front_page_img: "jg/jg_kokilmoni_deck_2010_large.jpg"
   email: "jonathan.gilligan@vanderbilt.edu"
   address:
     - "<a href=\"https://www.vanderbilt.edu/ees\">Department of Earth &amp; Environmental Sciences</a>,"

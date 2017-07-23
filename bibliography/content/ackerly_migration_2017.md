@@ -1,5 +1,6 @@
 ---
 ISBN: '9781138655942'
+amazon: https://www.amazon.com/Climate-Change-Migration-Human-Rights/dp/1138655945/
 author:
 - {family: Ackerly, given: Brooke A.}
 - {family: Anam, given: Mujibul}

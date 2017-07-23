@@ -76,7 +76,7 @@ def extract_file_link(filestr):
     return d
 
 def merge(bitem, yitem):
-    fields = ['file', 'title_md', 'booktitle_md', 'note_md']
+    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon']
 
     for f in fields:
         if f in bitem.fields.keys():
@@ -119,7 +119,8 @@ def gen_items(bib):
                    'issued',
                    'keyword',
                    'note',
-                   'file'
+                   'file',
+                   'amazon',
                    ]
     title_keys = ['title', 'short_title', 'container_title', 'collection_title']
     if not os.path.exists('content'):
