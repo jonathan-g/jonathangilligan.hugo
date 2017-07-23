@@ -1,9 +1,0 @@
-{{- if $.Site.Params.cv_file -}}
-{{- $.Scratch.Set "cv" $.Site.Params.cv_file -}}
-{{- else -}}
-{{- $.Scratch.Set "cv" "cv.pdf" -}}
-{{- end -}}
-{{ template "site_templates/research_overview.html" . }}
-<p style="padding-top:1.5ex;"><em><strong>Curriculum Vitae</strong></em>
-<a href="/files/cv/{{ $.Scratch.Get "cv" }}" target="blank_" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;PDF</a></p>
-<br/>
