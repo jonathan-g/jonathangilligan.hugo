@@ -63,6 +63,10 @@ params:
   avatar: "avatar.jpg"
   front_page_img: "jg/jg_kokilmoni_deck_2010_large.jpg"
   email: "jonathan.gilligan@vanderbilt.edu"
+  post_count: 3
+  news_count: 3
+  news_current_months: 3
+  news_post_count: 5
   address:
     - "<a href=\"https://www.vanderbilt.edu/ees\">Department of Earth &amp; Environmental Sciences</a>,"
     - "<a href=\"https://www.vanderbilt.edu/\">Vanderbilt University</a><br/>"

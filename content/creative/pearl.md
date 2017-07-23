@@ -19,10 +19,10 @@ banner:
   img: "pearl.jpg"
 ---
 
-### Excerpts:
+## Excerpts:
 
 
-* **The "A" Aria:** [Pearl and Hester]
+#### **The "A" Aria:** [Pearl and Hester]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7P1uA0BBJHA" frameborder="0" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ banner:
 
 ---
 
-* **"How Can Sin Be Love?"** (Wilson)
+#### **"How Can Sin Be Love?"** (Wilson)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ2fZUhd3KM" frameborder="0" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ---
 
-* **"O Reverend Wilson"** (Dimmesdale)
+#### **"O Reverend Wilson"** (Dimmesdale)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wDApiWU-os" frameborder="0" allowfullscreen></iframe>
 
@@ -46,7 +46,7 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ---
 
-* **"I Will Lead You Home"** [Chillingworth]
+#### **"I Will Lead You Home"** [Chillingworth]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yT3P5gMYQas" frameborder="0" allowfullscreen></iframe>
 
