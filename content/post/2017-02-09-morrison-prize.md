@@ -8,11 +8,34 @@ categories:
   - "beyond politics"
   - "private governance"
   - "prizes and awards"
+  - "behavioral wedge"
 tags:
   - "Michael Vandenbergh"
   - "Beyond Politics"
   - "Beyond Gridlock"
   - "private governance"
+keywords:
+  - climate change
+  - global warming
+  - climate policy
+  - greenhouse gas emissions
+  - CO2 emissions
+  - carbon dioxide emissions
+  - private governance
+  - Beyond Politics
+  - Beyond Gridlock
+  - Paris gap
+  - greenhouse gas emissions reductions
+  - greenhouse gas mitigation
+  - Morrison Prize
+  - Jonathan Gilligan
+  - Michael Vandenbergh
+  - Vanderbilt Climate Change Research Network
+  - Vanderbilt Institute for Energy and Environment
+  - sustainability
+  - sustainability policy
+  - environmental law and policy
+  - behavioral wedge
 ---
 
 The Program on Law and Sustainability at the Sandra Day O'Connor College of Law

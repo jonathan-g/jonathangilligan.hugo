@@ -17,6 +17,29 @@ performances:
     credits: "Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Olivia Marchione (child soprano), John Demler (baritone), Jack Brown (baritone), Sara Jobin (piano, conductor, producer)"
 banner:
   image: "pearl.jpg"
+keywords:
+  - Pearl
+  - Scarlet Letter
+  - Nathaniel Hawthorne
+  - Hester Prynne
+  - Arthur Dimmesdale
+  - Dimmesdale
+  - opera
+  - contemporary opera
+  - feminist
+  - Puritan
+  - New England
+  - female composers
+  - Carol Gilligan
+  - Jonathan Gilligan
+  - Amy Scurria
+  - Sara Jobin
+  - Maureen O'Flynn
+  - John Bellemer
+  - Marnie Breckenridge
+  - John Cheek
+  - Michael Corvino
+  - Olivia Marchione
 ---
 
 ## Excerpts:

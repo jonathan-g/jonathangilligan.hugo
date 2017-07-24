@@ -17,6 +17,15 @@ tags:
   - climate change
   - land use
   - sea-level rise
+keywords:
+  - Bangladesh
+  - climate change
+  - global warming
+  - sea-level rise
+  - polder
+  - tidal river mismanagement
+  - flood risk
+  - land-use
 ---
 
 Bangladesh uniquely interests U.S. climate change researchers for a pair of reasons: Its place on the globe makes it particularly vulnerable to devastating weather events, and it's a predominantly Muslim nation that maintains a secular, pro-Western outlook.

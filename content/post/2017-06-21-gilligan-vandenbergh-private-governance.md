@@ -13,16 +13,42 @@ categories:
   - Beyond Gridlock
   - private governance
   - climate change
+  - climate policy
   - greenhouse gases
   - Vanderbilt Climate Change Research Network
 tags:
   - climate change
+  - climate policy
   - private governance
   - Paris agreement
   - greenhouse gases
   - green business
   - Michael Vandenbergh
   - The Conversation
+  - "behavioral wedge"
+keywords:
+  - climate change
+  - global warming
+  - climate policy
+  - greenhouse gas emissions
+  - CO2 emissions
+  - carbon dioxide emissions
+  - private governance
+  - Beyond Politics
+  - Beyond Gridlock
+  - Paris gap
+  - greenhouse gas emissions reductions
+  - greenhouse gas mitigation
+  - Jonathan Gilligan
+  - Michael Vandenbergh
+  - Vanderbilt Climate Change Research Network
+  - Vanderbilt Institute for Energy and Environment
+  - sustainability
+  - sustainability policy
+  - environmental law and policy
+  - Walmart
+  - Paris Agreement
+  - behavioral wedge
 ---
 
 <div style="margin-bottom:1em;">

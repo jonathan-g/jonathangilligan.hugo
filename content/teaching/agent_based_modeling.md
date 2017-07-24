@@ -4,6 +4,13 @@ date: "2017-01-10T00:00:00+05:00"
 enddate: "2017-04-20T00:00:00+05:00"
 publishdate: "2017-06-12"
 host: "Vanderbilt University"
+keywords:
+  - agent-based modeling
+  - individual-based modeling
+  - NetLogo
+  - Vanderbilt University
+  - teaching
+  - course
 ---
 This course (for undergraduate and graduate students) introduces agent-based
 and individual-based computational modeling with applications to

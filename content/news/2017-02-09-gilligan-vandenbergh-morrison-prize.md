@@ -12,10 +12,33 @@ categories:
   - private governance
   - prizes and awards
   - Vanderbilt Climate Change Research Network
+  - behavioral wedge
 tags:
   - Michael Vandenbergh
   - Beyond Gridlock
   - private governance
+  - behavioral wedge
+keywords:
+  - climate change
+  - climate policy
+  - greenhouse gas emissions
+  - CO2 emissions
+  - carbon dioxide emissions
+  - private governance
+  - Beyond Politics
+  - Beyond Gridlock
+  - Paris gap
+  - greenhouse gas emissions reductions
+  - greenhouse gas mitigation
+  - Morrison Prize
+  - Jonathan Gilligan
+  - Michael Vandenbergh
+  - Vanderbilt Climate Change Research Network
+  - Vanderbilt Institute for Energy and Environment
+  - sustainability
+  - sustainability policy
+  - environmental law and policy
+  - behavioral wedge
 ---
 
 Research examining the role that private governance can play in bypassing government gridlock on climate change has earned a pair of Vanderbilt University professors this year's $10,000 Morrison Prize, which recognizes the most impactful sustainability-related legal academic article published in North America during the previous year.

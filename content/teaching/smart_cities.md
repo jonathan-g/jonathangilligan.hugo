@@ -4,6 +4,14 @@ date: "2018-01-08T00:00:00+05:00"
 enddate: "2018-04-23T00:00:00+05:00"
 publishdate: "2017-06-13"
 host: "Vanderbilt University"
+keywords:
+  - smart cities
+  - big data
+  - environmental
+  - individual-based modeling
+  - Vanderbilt University
+  - teaching
+  - course
 ---
 A _University Course_ offered under the auspices of the Vanderbilt Strategic Plan, this team-taught, project-based course will integrate technological and socio-economic approaches to challenges facing metropolitan areas experiencing unprecedented growth. It will address the infrastructure and resources needed for sustainable development and to maintain quality of life.
 

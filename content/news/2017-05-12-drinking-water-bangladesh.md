@@ -18,6 +18,11 @@ tags:
   - Bangladesh
   - water security
   - drinking water
+keywords:
+  - Bangladesh
+  - water security
+  - drinking water
+  - arsenic
 ---
 
 According to the latest national assessment, 85 percent of the people in Bangladesh have access to safe drinking water. However, a multiyear, interdisciplinary study of water use in one of the country's rural areas conducted by a team of Vanderbilt University researchers has uncovered two major problems not reflected in the national statistics.

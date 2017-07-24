@@ -4,6 +4,14 @@ date: "2017-08-23T00:00:00+05:00"
 enddate: "2017-12-07T00:00:00+05:00"
 publishdate: "2017-06-12"
 host: "Vanderbilt University"
+keywords:
+  - climate change
+  - global warming
+  - climate policy
+  - cap-and-trade
+  - Vanderbilt University
+  - teaching
+  - course
 ---
 This course, for undergraduate and graduate students, has three major parts:
 
