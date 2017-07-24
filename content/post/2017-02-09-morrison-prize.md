@@ -17,9 +17,9 @@ tags:
 
 The Program on Law and Sustainability at the Sandra Day O'Connor College of Law
 at Arizona State University has awarded the
-<a href="http://conferences.asucollegeoflaw.com/sustainabilityconference2017/morrison-prize-contest/" target="_blank">Morrison Prize</a> to
+[Morrison Prize](http://conferences.asucollegeoflaw.com/sustainabilityconference2017/morrison-prize-contest/) to
 Mike Vandenbergh and me for our article
-"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2533643" target="_blank">Beyond Gridlock</a>,"
+"[Beyond Gridlock](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2533643),"
 **40** Columbia Environmental Law Journal, 217--303 (2015). The Morrison prize
 recognizes the paper published in the previous year in North America that is
 "likely to have the most significant positive long-term impact on the advancement

@@ -2,8 +2,8 @@
 title: "About me"
 ---
 
-| <span class="button">[Biography](#biography)</span> | <span class="button">[Academic/Professional Data](#academic-professional-data)</span> | <span class="button">[Contact Info](#contact-info)</span> | <span class="button">[Calendar](#my-schedule)</span> | <span class="button">[Trivia](#trivia)</span> |
-|----|----|----|----|----|
+<span class="button">[Biography](#biography)</span> <span class="button">[Academic/Professional Data](#academic-professional-data)</span> <span class="button">[Contact Info](#contact-info)</span>  <span class="button">[Calendar](#my-schedule)</span> <span class="button">[Trivia](#trivia)</span>
+
 
 ## Biography
 

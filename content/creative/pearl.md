@@ -16,7 +16,7 @@ performances:
     description: "Concert performance at Shakespeare & Company (Lenox, MA)"
     credits: "Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Olivia Marchione (child soprano), John Demler (baritone), Jack Brown (baritone), Sara Jobin (piano, conductor, producer)"
 banner:
-  img: "pearl.jpg"
+  image: "pearl.jpg"
 ---
 
 ## Excerpts:
@@ -56,4 +56,4 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ### Review
 
-* Liane Carter, "<a href="http://www.classical-scene.com/2012/08/17/opera-experiment/" target="_blank">A Bold Opera Experiment</a>," The Boston Musical Intelligencer. Aug. 17, 2012.
+* Liane Carter, "[A Bold Opera Experiment](http://www.classical-scene.com/2012/08/17/opera-experiment/)," The Boston Musical Intelligencer. Aug. 17, 2012.

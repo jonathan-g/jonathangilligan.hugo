@@ -14,7 +14,7 @@ and present research results at national and international conferences.
 
 ## Recently Graduated Students
 
-- __<a href="https://ekburchfield.wordpress.com/" target="_blank">"Emily K. Burchfield</a>__ graduated with her Ph.D. in 2017.
+- __[Emily K. Burchfield](https://ekburchfield.wordpress.com/)__ graduated with her Ph.D. in 2017.
   Her graduate studies focused on combining intensive computational methods of
   geospatial analysis with satellite remote-sensing imagery and on-the-ground
   research on farmers coping with water scarcity in Bangladesh. Emily made
@@ -24,7 +24,7 @@ and present research results at national and international conferences.
     Emily is now an Assistant Professor at Utah State University's Department
 of Environment and Society.
 
-- __<a href="http://johnjnay.com" target="_blank">John J. Nay</a>__ graduated with his Ph.D. in 2017.
+- __[John J. Nay](http://johnjnay.com)__ graduated with his Ph.D. in 2017.
   His graduate studies focused on computational decision science, combining
   machine learning, behavioral economics, and field work in Sri Lanka and
   Bangladesh. John applied machine learning tools and agent-based modeling
@@ -32,7 +32,7 @@ of Environment and Society.
   use in playing  games to analyzing law and policy.
 
     While he was still a graduate student, John founded a company,
-    <a href="https://www.skoposlabs.com" target="_blank">Skopos Labs</a>, which applies artificial
+    [Skopos Labs](https://www.skoposlabs.com), which applies artificial
     intelligence to predicting which bills before the U.S. Congress.
 
     John divides his time between being CEO of Skopos Labs and

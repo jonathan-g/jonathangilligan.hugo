@@ -29,7 +29,7 @@ It was a move environmentalists found disappointing, at best. But Vanderbilt Uni
 
 They point to the example of Walmart, which reduced carbon emissions worldwide by more than 20 million metric tons by focusing on efficiency in its global supply chain. Google agreed to locate its massive data center in Clarksville, Tennessee, only after the Tennessee Valley Authority agreed to supply it with renewable power.
 
-"There are a billion tons per year of additional emissions reductions that could be achieved over the next decade from private sector action," said Michael Vandenbergh, the David Daniels Allen Distinguished Professor of Law. "I don't use the word ‘voluntary' because sometimes the reductions are in response to pressures from an investor or a major customer."
+"There are a billion tons per year of additional emissions reductions that could be achieved over the next decade from private sector action," said Michael Vandenbergh, the David Daniels Allen Distinguished Professor of Law. "I don't use the word 'voluntary' because sometimes the reductions are in response to pressures from an investor or a major customer."
 
 Vandenbergh serves as director of Vanderbilt's Climate Change Research Network, which includes affiliates from schools and departments across the university. He and others in the network said they saw huge potential for studying the role of corporate and human behavior and of messaging in energy policy.
 
@@ -39,7 +39,7 @@ Often, Americans who resist fixes to climate change are motivated by concern abo
 
 Their research also looks at getting individuals to modify simple behaviors---for instance, understanding that many Americans believe myths about the benefits of idling their cars, leading them to waste money and emit additional air pollution. Vandenbergh and Gilligan won the Morrison Prize for the most effective sustainability-related legal academic article published in North America last year.
 
-Vandenbergh and post-doctoral social psychology researcher Alexander Maki recently finished an online study that showed conservative Americans – the least likely to support policy to slow climate change---are more open to reducing carbon emissions when policies are presented through the lens of private governance.
+Vandenbergh and post-doctoral social psychology researcher Alexander Maki recently finished an online study that showed conservative Americans---the least likely to support policy to slow climate change---are more open to reducing carbon emissions when policies are presented through the lens of private governance.
 
 Participants first were asked what they thought about private governance and federal policies surrounding climate change. Then they were randomized and asked to read about a public cap and trade policy, federal regulations or private climate governance. After reading about one of the policy approaches, they again reported their policy views.
 

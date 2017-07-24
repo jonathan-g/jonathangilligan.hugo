@@ -45,12 +45,14 @@ menu:
         Weight: 8
 permalinks:
   post: /post/:year/:month/:day/:slug
+  news: /ness/:year/:month/:day/:slug
 blackfriday:
   smartypants: true
   angledQuotes: false
   fractions: false
   smartDashes: true
   latexDashes: true
+  hrefTargetBlank: true
 googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Gilligan"
