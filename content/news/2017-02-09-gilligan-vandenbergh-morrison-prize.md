@@ -20,6 +20,7 @@ tags:
   - behavioral wedge
 keywords:
   - climate change
+  - global warming
   - climate policy
   - greenhouse gas emissions
   - CO2 emissions

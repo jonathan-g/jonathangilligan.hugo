@@ -22,27 +22,27 @@ tags:
   - Paris agreement
   - greenhouse gases
   - climate change
-  keywords:
-    - climate change
-    - global warming
-    - climate policy
-    - greenhouse gas emissions
-    - CO2 emissions
-    - carbon dioxide emissions
-    - private governance
-    - Beyond Politics
-    - Beyond Gridlock
-    - Paris gap
-    - greenhouse gas emissions reductions
-    - greenhouse gas mitigation
-    - Jonathan Gilligan
-    - Michael Vandenbergh
-    - Vanderbilt Climate Change Research Network
-    - Vanderbilt Institute for Energy and Environment
-    - sustainability
-    - sustainability policy
-    - environmental law and policy
-    - behavioral wedge
+keywords:
+  - climate change
+  - global warming
+  - climate policy
+  - greenhouse gas emissions
+  - CO2 emissions
+  - carbon dioxide emissions
+  - private governance
+  - Beyond Politics
+  - Beyond Gridlock
+  - Paris gap
+  - greenhouse gas emissions reductions
+  - greenhouse gas mitigation
+  - Jonathan Gilligan
+  - Michael Vandenbergh
+  - Vanderbilt Climate Change Research Network
+  - Vanderbilt Institute for Energy and Environment
+  - sustainability
+  - sustainability policy
+  - environmental law and policy
+  - behavioral wedge
 ---
 
 President Donald Trump's announcement on Thursday that the U.S. will withdraw from the Paris Climate Agreement phases out U.S. commitments to achieve carbon reduction targets and make financial contributions to slow climate change.
