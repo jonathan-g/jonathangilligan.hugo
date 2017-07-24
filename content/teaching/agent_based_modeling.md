@@ -21,4 +21,6 @@ experiments.
 
 <!--more-->
 
+---
+
 #### [Syllabus (PDF)](/files/teaching/EES_4760_5760_Syllabus.pdf)
