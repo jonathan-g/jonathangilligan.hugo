@@ -9,13 +9,13 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseURL: "https://www.jonathangilligan.org/"
+baseURL: "http://jonathan.pages.jgilligan.org/"
 indexes:
   category: "categories"
   tag: "tags"
 title: "Jonathan Gilligan"
 copyright: "&copy; 2017 Jonathan Gilligan"
-canonifyUrls: true
+canonifyUrls: false
 relativeUrls: true
 enableRobotsTXT: true
 ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
