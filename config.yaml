@@ -9,7 +9,7 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseURL: "http://jonathan.pages.jgilligan.org/"
+baseURL: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
   tag: "tags"
