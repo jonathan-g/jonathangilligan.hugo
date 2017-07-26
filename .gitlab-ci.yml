@@ -1,11 +1,14 @@
-image: publysher/hugo
+image: jojomi/hugo
 
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  
 pages:
   script:
-  - hugo
+  - rm -rf public
+  - hugo --ignoreCache
   artifacts:
     paths:
     - public
   only:
-  - master
-  
+  - jonathan.pages.jgilligan.org 

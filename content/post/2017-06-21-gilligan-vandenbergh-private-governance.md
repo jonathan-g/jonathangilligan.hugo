@@ -4,6 +4,7 @@ authors:
   - Jonathan Gilligan
   - Michael Vandenbergh
 date: '2017-06-21'
+weight: 5
 banner:
   image: "walmart-truck.jpg"
   credit: "Walmart/flickr, CC-BY-SA"
@@ -49,15 +50,15 @@ keywords:
   - Walmart
   - Paris Agreement
   - behavioral wedge
+pub_note: "This article was originally published on **[The Conversation](https://theconversation.com/government-action-isnt-enough-for-climate-change-the-private-sector-can-cut-billions-of-tons-of-carbon-79728)**"
 ---
-
-<div style="margin-bottom:1em;">
-<i>This article was originally published on <a href="https://theconversation.com/government-action-isnt-enough-for-climate-change-the-private-sector-can-cut-billions-of-tons-of-carbon-79728" target-"_blank"><b>The Conversation</b></a></i>
-</div>
 
 With President Trump's announcement to pull the United States out of the Paris Agreement, many other [countries](https://theconversation.com/trumps-exit-of-paris-climate-accord-strengthens-china-and-europe-78653) around the world---and cities and states within the U.S.---are stepping up their commitments to address climate change.
 
 But one thing is clear: Even if all the remaining participating nations do their part, governments alone can't substantially reduce the risk of [catastrophic](https://www.epa.gov/sites/production/files/2014-12/documents/incorporating_catastrophic_climate-change_into_policy_analysis.pdf) climate change.
+
+
+<!--more-->
 
 We've studied the role of the [private sector in addressing climate change](http://www.powells.com/book/beyond-politics-9781316632482), and we're convinced that the next stage is going to require more than just political agreement. What is needed is a concerted effort to mobilize private action---not just corporations but also religious and civic organizations, colleges and universities, investors and households---to help narrow the gap that remains after the Paris Agreement.
 
