@@ -45,7 +45,7 @@ menu:
         Weight: 8
 permalinks:
   post: /post/:year/:month/:day/:slug
-  news: /ness/:year/:month/:day/:slug
+  news: /news/:year/:month/:day/:slug
 blackfriday:
   smartypants: true
   angledQuotes: false
@@ -69,7 +69,7 @@ params:
   pubs_count: 4
   teach_count: 2
   post_count: 2
-  news_count: 2
+  news_count: 1
   news_current_months: 12
   news_post_count: 2
   address:
