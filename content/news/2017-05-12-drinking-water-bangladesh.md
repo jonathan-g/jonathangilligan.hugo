@@ -4,6 +4,7 @@ author: David Salisbury
 publication: "Research News at Vanderbilt"
 pub_link: "https://news.vanderbilt.edu/2017/05/12/national-assessment-overstates-public-access-to-safe-drinking-water-in-bangladesh/"
 date: '2017-05-12'
+weight: 1
 slug: "drinking-water-bangladesh"
 banner:
   image: "bangladeshi_woman_drawing_water.jpg"
