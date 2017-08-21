@@ -4,12 +4,12 @@ author:
 - {family: Burchfield, given: Emily K}
 - {family: Gilligan, given: Jonathan}
 container_title: Applied Geography
-date: '2016-10-01'
+date: '2016-12-31'
 file:
 - {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
 id: burchfield_agricultural_adaptation_2016
 issued:
-- {day: '1', month: '10', year: '2016'}
+- {day: '31', month: '12', year: '2016'}
 keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
 page: 92-100
 pub_type: article-journal
