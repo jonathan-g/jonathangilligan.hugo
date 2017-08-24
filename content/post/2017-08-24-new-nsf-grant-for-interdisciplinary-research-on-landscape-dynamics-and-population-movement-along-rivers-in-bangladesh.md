@@ -29,6 +29,10 @@ Foundation.
 This project will study interactions between natural processes and human 
 activities along Bangladesh's rivers, with a focus on landscape dynamics
 and population movements.
+I am very excited to get to work on this with a team of amazing and 
+inspiring colleagues.
+
+## Abstract
 
 This interdisciplinary research project will examine the relationships among river and coastal processes,
 landscape dynamics, and human activities and migration in a densely populated river delta. It will
@@ -80,6 +84,8 @@ Although the bulk of the project will focus on dynamic interactions among biophy
 systems in the Ganges-Brahmaputra-Meghna Delta of Bangladesh, project findings will have relevance
 for other densely settled deltas around the world, including the Mississippi River delta of the southern
 U.S. 
+
+### Credit
 
 This project is supported by the NSF Dynamics of Coupled Natural and Human Systems (CNH)
 Program, grant #[1716909](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1716909).
