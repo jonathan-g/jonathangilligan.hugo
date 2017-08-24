@@ -89,6 +89,10 @@ U.S.
 
 This project is supported by the NSF Dynamics of Coupled Natural and Human Systems (CNH)
 Program, grant #[1716909](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1716909).
-The lead Principal Investigator is Kimberly Rogers at the University of Colorado,
-Boulder, and my fellow co-principal investigators are Amanda Carrico, also at
-CU, Katharine Donato at Georgetown, and Carol Wilson at LSU. 
+The lead Principal Investigator is 
+[Kimberly Rogers](https://instaar.colorado.edu/people/kimberly-g-rogers/) at the 
+University of Colorado, Boulder, and my fellow co-principal investigators are 
+[Amanda Carrico](http://www.colorado.edu/envs/amanda-carrico), also at CU, 
+[Katharine Donato](https://isim.georgetown.edu/katharine_donato) at Georgetown, 
+and 
+[Carol Wilson](https://www.lsu.edu/science/geology/people/faculty/wilson.php) at LSU. 
