@@ -20,10 +20,12 @@ tags:
 ---
 I am co-principal investigator on a new research project, 
 "[Socioecological System Dynamics Related to Livelihood, Human Migration, and 
-Landscape Evolution](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1716909&HistoricalAwards=false)" 
+Landscape Evolution](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1716909)" 
 that just received funding from the National Science
 Foundation.
+
 <!--more-->
+
 This project will study interactions between natural processes and human 
 activities along Bangladesh's rivers, with a focus on landscape dynamics
 and population movements.
@@ -80,7 +82,7 @@ for other densely settled deltas around the world, including the Mississippi Riv
 U.S. 
 
 This project is supported by the NSF Dynamics of Coupled Natural and Human Systems (CNH)
-Program, grant #[1716909](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1716909&HistoricalAwards=false).
+Program, grant #[1716909](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1716909).
 The lead Principal Investigator is Kimberly Rogers at the University of Colorado,
 Boulder, and my fellow co-principal investigators are Amanda Carrico, also at
 CU, Katharine Donato at Georgetown, and Carol Wilson at LSU. 
