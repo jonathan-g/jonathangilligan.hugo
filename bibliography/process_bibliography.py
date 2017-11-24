@@ -5,27 +5,28 @@ Created on Tue Jun 13 18:52:00 2017
 @author: Jonathan Gilligan
 """
 # import pybtex as pt
-import pybtex.database as ptd
-import yaml
 import os
 import glob
-import shutil
-import re
-import cgi
-import string
 import time
 import sys
+import shutil
+import subprocess
+import re
+import html
+import yaml
+# import string
+import pybtex.database as ptd
 
-def fix_files(dir):
-    scratch_dir = os.path.join(dir, 'scratch')
-    if not os.path.isdir(scratch_dir):
-        os.mkdir(scratch_dir)
-    for f in os.listdir(dir):
+def fix_files(path):
+    scratch_path = os.path.join(path, 'scratch')
+    if not os.path.isdir(scratch_path):
+        os.mkdir(scratch_path)
+    for f in os.listdir(path):
         dest = f.lower()
-        os.rename(os.path.join(dir, f), os.path.join(scratch_dir, dest))
-        os.rename(os.path.join(scratch_dir, dest), os.path.join(dir, dest))
+        os.rename(os.path.join(path, f), os.path.join(scratch_path, dest))
+        os.rename(os.path.join(scratch_path, dest), os.path.join(path, dest))
     time.sleep(0.5)
-    os.rmdir(scratch_dir)
+    os.rmdir(scratch_path)
 
 def fix_file_ref(s):
     m = re.match("^(?P<prefix>[a-z ]+:)(?P<file>[^:]+)(?P<suffix>:.*$)", s)
@@ -40,24 +41,24 @@ def fix_file_refs(s):
     m = re.match("^(?P<prefix> *file *= *\\{)(?P<files>[^}]*)(?P<suffix>\\}.*$)", s)
     if m is not None:
         matches = m.groupdict()
-        files = [ fix_file_ref(f) for f in string.split(matches['files'], ';') ]
-        res = matches['prefix'] + string.join(files,';') + matches['suffix'] + '\n'
+        files = [ fix_file_ref(f) for f in matches['files'].split(';') ]
+        res = matches['prefix'] + ';'.join(files) + matches['suffix'] + '\n'
         return res
     else:
         return s
 
 def process_file_refs(infile, outfile):
-    with open(infile) as input:
-        lines = input.readlines()
+    with open(infile, encoding="utf-8") as source:
+        lines = source.readlines()
     processed_lines = [ fix_file_refs(li) for li in lines ]
-    with open(outfile, 'w') as output:
-        output.writelines(processed_lines)
+    with open(outfile, 'w', encoding="utf-8") as sink:
+        s.writelines(processed_lines)
 
 def preprocess(infile, outfile):
-    original = open(infile)
+    original = open(infile, encoding="utf-8")
     lines = original.readlines()
     original.close()
-    modified = open(outfile, 'w')
+    modified = open(outfile, 'w', encoding="utf-8")
     lines = [ re.sub('^( *)[Aa]uthor\\+[Aa][Nn]', '\\1author_an', li) for li in lines ]
     lines = [ fix_file_refs(li) for li in lines ]
     modified.writelines(lines)
@@ -76,7 +77,7 @@ def extract_file_link(filestr):
     return d
 
 def merge(bitem, yitem):
-    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon']
+    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon', 'preprint']
 
     for f in fields:
         if f in bitem.fields.keys():
@@ -96,13 +97,13 @@ def gen_refs(bibfile):
     call_citeproc(bibfile, target)
 
     bib = ptd.parse_file(bibfile)
-    ybib = yaml.load(open(target))
+    ybib = yaml.load(open(target, encoding = 'utf-8'))
 
     for yitem in ybib['references']:
         bitem = bib.entries.get(yitem['id'])
         yitem = merge(bitem, yitem)
 
-    yaml.dump(ybib, open('publications.yml', 'w'))
+    yaml.dump(ybib, open('publications.yml', 'w', encoding="utf-8"))
     return ybib
 
 clean_expr = re.compile('[^a-zA-z0-9]+')
@@ -116,13 +117,14 @@ def gen_items(bib):
                    'genre', 'status',
                    'volume', 'issue', 'page', 'number',
                    'ISBN', 'DOI', # 'URL',
+                   'preprint',
                    'issued',
                    'keyword',
                    'note',
                    'file',
                    'amazon',
                    ]
-    title_keys = ['title', 'short_title', 'container_title', 'collection_title']
+    # title_keys = ['title', 'short_title', 'container_title', 'collection_title']
     if not os.path.exists('content'):
         os.mkdir('content')
     for item in bib:
@@ -155,8 +157,10 @@ def gen_items(bib):
         header_items['date'] = ("%04d-%02d-%02d" % (y, m, d))
         if 'URL' in item.keys():
             header_items['pub_url'] = item['URL']
+        if 'preprint' in item.keys():
+            header_items['preprint_url'] = item['preprint']
         header_items['pub_type'] = item['type']
-        outfile = open(os.path.join('content', key + '.md'), 'w')
+        outfile = open(os.path.join('content', key + '.md'), 'w', encoding="utf-8")
         outfile.write('---\n')
         yaml.dump(header_items, outfile)
         outfile.write('---\n')
@@ -166,7 +170,7 @@ def gen_items(bib):
         elif 'abstract' in item.keys():
             abstract = item['abstract']
         if abstract is not None:
-            abstract = cgi.escape(abstract).encode('ascii', 'xmlcharrefreplace')
+            abstract = html.escape(abstract).encode('ascii', 'xmlcharrefreplace').decode('utf-8')
             outfile.write(abstract + '\n')
         outfile.close()
 
@@ -189,10 +193,38 @@ def move_pdf_files(src = 'pdfs', dest = '../static/files/pubs/pdfs'):
         if os.path.isfile(src_file):
             shutil.copyfile(src_file, dest_file)
 
+def decode_version(s):
+    def next_version(ss):
+        m = re.search('(?P<major>\\d+)(?P<minor>(\\.\\d+)*)$', ss)
+        return [m.groupdict()['major'], m.groupdict()['minor']]
+    version = []
+    minor = s
+    while(len(minor) > 0):
+        major, minor = next_version(minor)
+        version.append(int(major))
+    return version
+
+def pandoc_version_check():
+    version_check = subprocess.run(['pandoc-citeproc', '--version'],
+                                   stdout = subprocess.PIPE, stderr = subprocess.PIPE)
+    if (version_check.returncode != 0):
+        sys.stderr.writelines(['Error running pandoc-citeproc:',
+                               version_check.stderr.strip().decode('utf-8')])
+        return None
+    version = decode_version(version_check.stdout.strip().decode('utf-8'))
+    return (version[0] > 0 or version[1] >= 11)
+
 def main():
     source = sys.argv[1]
-    intermediate = os.path.splitext(source)[0] + "_an" + ".bib"
-    preprocess(source, intermediate)
+    version_ok = pandoc_version_check()
+    if version_ok is None:
+        sys.stderr.write("Error: Could not find pandoc-citeproc. Try instlling pandoc.")
+        return(1)
+    if version_ok:
+        intermediate = source
+    else:
+        intermediate = os.path.splitext(source)[0] + "_an" + ".bib"
+        preprocess(source, intermediate)
     bib = gen_refs(intermediate)
     gen_items(bib['references'])
     move_md_files()

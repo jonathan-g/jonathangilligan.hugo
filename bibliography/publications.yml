@@ -1,31 +1,29 @@
 references:
-- ISBN: '9781316632482'
-  abstract: Private sector action provides one of the most promising opportunities
-    to reduce the risks of climate change, buying time while governments move slowly
-    or even oppose climate mitigation. Starting with the insight that much of the
-    resistance to climate mitigation is grounded in concern about the role of government,
-    this books draws on law, policy, social science, and climate science to demonstrate
-    how private initiatives are already bypassing government inaction in the US and
-    around the globe. It makes a persuasive case that private governance can reduce
-    global carbon emissions by a billion tons per year over the next decade. Combining
-    an examination of the growth of private climate initiatives over the last decade,
-    a theory of why private actors are motivated to reduce emissions, and a review
-    of viable next steps, this book speaks to scholars, business and advocacy group
-    managers, philanthropists, policymakers, and anyone interested in climate change.
-  amazon: https://www.amazon.com/Beyond-Politics-Governance-Response-Business/dp/1316632482/
+- abstract: 'Drought threatens food and water security around the world, and this
+    threat is likely to become more severe under climate change. High resolution predictive
+    information can help farmers, water managers, and others to manage the effects
+    of drought. We have created an open source tool to produce short-term forecasts
+    of vegetation health at high spatial resolution, using data that are global in
+    coverage. The tool automates downloading and processing Moderate Resolution Imaging
+    Spectroradiometer (MODIS) datasets, and training gradient-boosted machine models
+    on hundreds of millions of observations to predict future values of the Enhanced
+    Vegetation Index. We compared the predictive power of different sets of variables
+    (raw spectral MODIS data and Level-3 MODIS products) in two regions with distinct
+    agro-ecological systems, climates, and cloud coverage: Sri Lanka and California.
+    Our tool provides considerably greater predictive power on held-out datasets than
+    simpler baseline models.'
   author:
-  - {family: Vandenbergh, given: Michael P.}
+  - {family: Nay, given: John J.}
+  - {family: Burchfield, given: Emily K.}
   - {family: Gilligan, given: Jonathan M.}
-  id: vandenbergh:beyond.politics:2017
+  container-title: International Journal of Remote Sensing
+  id: nay:vegetation.health:2018
   issued:
-  - {day: '31', month: '10', year: '2017'}
-  note: 'Manuscript: 287 pp.'
-  publisher: Cambridge University Press
-  publisher-place: New York, NY
-  status: in press
-  title: 'Beyond politics: The private governance response to climate change'
-  title-short: Beyond politics
-  type: book
+  - {year: '2018'}
+  preprint: https://arxiv.org/abs/1602.06335
+  status: Accepted for publication; in press
+  title: A machine-learning approach to forecasting remotely sensed vegetation health
+  type: article-journal
 - ISBN: '9781138655942'
   abstract: Climate change is a global problem. However, between the global forces
     of climate change and the individual challenges of meeting basic needs, communities
@@ -64,6 +62,57 @@ references:
     of climate change'
   title-short: Climate and community
   type: chapter
+- URL: http://issues.org/34-1/forum-36/
+  abstract: It is important to keep outright falsehoods out of journalism and the
+    scientific literature. Creationism and fear-mongering about vaccine safety do
+    not deserve equal time with biological and medical science. But in matters of
+    regulatory science, where there is not a clear consensus on methods and where
+    it is impossible to strictly separate factual judgments from political ones, the
+    literature on science in policy offers strong support for keeping discourse open
+    and free, even though it may become heated. But it also calls on individual scientists
+    to consider how the results of their research and their public statements about
+    it are likely to be used.
+  author:
+  - {family: Gilligan, given: Jonathan M.}
+  container-title: Issues in Science and Technology
+  file:
+  - {desc: full text, file: gilligan_2017_science_cops.pdf}
+  id: gilligan:science.police:2017
+  issue: 1, Fall
+  issued:
+  - {day: '1', month: '10', year: '2017'}
+  note: Commentary invited by the editor
+  page: 6-8
+  title: Are cops on the science beat?
+  type: article-journal
+  volume: '34'
+- ISBN: 978-1107181229 (hardcover), 978-1316632482 (paper)
+  abstract: Private sector action provides one of the most promising opportunities
+    to reduce the risks of climate change, buying time while governments move slowly
+    or even oppose climate mitigation. Starting with the insight that much of the
+    resistance to climate mitigation is grounded in concern about the role of government,
+    this books draws on law, policy, social science, and climate science to demonstrate
+    how private initiatives are already bypassing government inaction in the US and
+    around the globe. It makes a persuasive case that private governance can reduce
+    global carbon emissions by a billion tons per year over the next decade. Combining
+    an examination of the growth of private climate initiatives over the last decade,
+    a theory of why private actors are motivated to reduce emissions, and a review
+    of viable next steps, this book speaks to scholars, business and advocacy group
+    managers, philanthropists, policymakers, and anyone interested in climate change.
+  amazon: https://www.amazon.com/dp/B075V8QVYD/
+  author:
+  - {family: Vandenbergh, given: Michael P.}
+  - {family: Gilligan, given: Jonathan M.}
+  id: vandenbergh:beyond.politics:2017
+  issued:
+  - {day: '30', month: '11', year: '2017'}
+  note: 494 pp.
+  publisher: Cambridge University Press
+  publisher-place: New York, NY
+  status: In press; publication date 30 November, 2017
+  title: 'Beyond politics: The private governance response to climate change'
+  title-short: Beyond politics
+  type: book
 - DOI: 10.1080/09603123.2016.1194383
   ISSN: 0960-3123
   PMID: '27277537'
@@ -257,7 +306,7 @@ references:
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
-  - {day: '1', month: '4', year: '2016'}
+  - {month: '2', year: '2016'}
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
   page: 563-575
   status: published
@@ -316,9 +365,9 @@ references:
     \ advanced by prominent skeptics. We conduct sensitivity analyses to determine\
     \ how a variety of factors describing both the market and the physical climate\
     \ may affect traders\u2019 beliefs about the cause of global climate change. Market\
-    \ participation causes most traders to converge quickly toward believing the \u201C\
-    true\u201D climate model, suggesting that a climate market could be useful for\
-    \ building public consensus."
+    \ participation causes most traders to converge quickly toward believing the \"\
+    true\" climate model, suggesting that a climate market could be useful for building\
+    \ public consensus."
   accessed:
   - {day: '14', month: '7', year: '2016'}
   author:
@@ -518,7 +567,7 @@ references:
   container-title: Water Resources Research
   file:
   - {desc: full text, file: hornberger_2015_water_conservation.pdf}
-  id: hornberger:water.conservation:2015
+  id: hornberger:hydrological.transitions:2015
   issue: '6'
   issued:
   - {year: '2015'}
@@ -703,7 +752,7 @@ references:
     Bangladesh'
   file:
   - {desc: full text, file: gilligan_2013_building_resilience.pdf}
-  id: gilligan:isee.bangladesh:2013
+  id: gilligan:resilience:2013
   issued:
   - {month: '2', year: '2013'}
   publisher: Bangladesh Development Initiative
@@ -757,7 +806,7 @@ references:
     \ climate change problem will require substantial reductions in energy demand\
     \ in addition to new developments in low-carbon energy supplies. The individual\
     \ and household sector presents a major opportunity: the sector accounts for roughly\
-    \ 40 Despite this opportunity, recent regulatory and policy efforts are only beginning\
+    \ 40Despite this opportunity, recent regulatory and policy efforts are only beginning\
     \ to direct substantial attention to the individual and household sector. Findings\
     \ from the social sciences provide valuable insights into how to capitalize on\
     \ this opportunity, yet policymakers often have little time to develop new polices\
@@ -824,27 +873,6 @@ references:
   title-short: Macro risks
   type: article-journal
   volume: '21'
-- abstract: An apparatus and methods for detecting at least one analyte of interest
-    either produced or consumed by a plurality of cell. In one embodiment of the present
-    invention, the method includes the steps of providing a housing defining a chamber,
-    placing a plurality of cells in the chamber, and simultaneously detecting at least
-    two analytes of interest either produced or consumed by the plurality of cells
-    in the chamber.
-  author:
-  - {family: Cliffel, given: David}
-  - {family: Baudenbacher, given: Franz J.}
-  - {family: Wikswo, given: John P.}
-  - {family: Eklund, given: Sven}
-  - {family: Balcarcel, given: Robert R.}
-  - {family: Gilligan, given: Jonathan Mark}
-  id: cliffel:cell.response.patent:2010
-  issued:
-  - {day: '11', month: '5', year: '2010'}
-  number: 7,713,733 B2
-  status: published
-  title: Device and methods for detecting the response of a plurality of cells to
-    at least one analyte of interest
-  type: patent
 - abstract: An apparatus and methods for monitoring the status of a cell that consumes
     oxygen. In one embodiment of the present invention, the method includes the steps
     of confining the cell in a sensing volume, measuring dynamically intracellular
@@ -862,7 +890,7 @@ references:
   - {family: Prokop, given: Ales}
   - {family: Stremler, given: Michael}
   - {family: Werdich, given: Andreas}
-  id: baudenbacher:cell.monitoring.patent:2010
+  id: baudenbacher:patent.cell.monitor:2010
   issued:
   - {day: '27', month: '4', year: '2010'}
   number: 7,704,745 B2
@@ -870,6 +898,27 @@ references:
   title: Apparatus and methods for monitoring the status of a metabolically active
     cell
   title-short: Monitoring a metabolically active cell
+  type: patent
+- abstract: An apparatus and methods for detecting at least one analyte of interest
+    either produced or consumed by a plurality of cell. In one embodiment of the present
+    invention, the method includes the steps of providing a housing defining a chamber,
+    placing a plurality of cells in the chamber, and simultaneously detecting at least
+    two analytes of interest either produced or consumed by the plurality of cells
+    in the chamber.
+  author:
+  - {family: Cliffel, given: David}
+  - {family: Baudenbacher, given: Franz J.}
+  - {family: Wikswo, given: John P.}
+  - {family: Eklund, given: Sven}
+  - {family: Balcarcel, given: Robert R.}
+  - {family: Gilligan, given: Jonathan Mark}
+  id: cliffel:patent.cell.response:2010
+  issued:
+  - {day: '11', month: '5', year: '2010'}
+  number: 7,713,733 B2
+  status: published
+  title: Device and methods for detecting the response of a plurality of cells to
+    at least one analyte of interest
   type: patent
 - DOI: 10.1111/j.1740-9713.2010.00405.x
   abstract: When nations fail to agree, can individual citizens make a difference?
@@ -902,7 +951,7 @@ references:
   - {family: Espejo, given: R.}
   file:
   - {desc: full text, file: gilligan_2010_ethics_in_geologic_time.pdf}
-  id: gilligan:ethics.geological.time:2010
+  id: gilligan:future.generations:2010
   issued:
   - {year: '2010'}
   page: 20-32
@@ -1059,22 +1108,21 @@ references:
   title-short: Dual-camera system
   type: article-journal
   volume: '234'
-- abstract: "The individual and household sector generates roughly 30 to 40 percent\
-    \ of U.S. greenhouse gas emissions and is a potential source of prompt and large\
-    \ emissions reductions. Yet the assumption that only extensive government regulation\
-    \ will generate substantial reductions from the sector is a barrier to change,\
-    \ particularly in a political environment hostile to regulation. This Article\
-    \ demonstrates that prompt and large reductions can be achieved without relying\
-    \ predominantly on regulatory measures. The Article identifies seven \u201Clow-hanging\
-    \ fruit:\u201D actions that have the potential to achieve large reductions at\
-    \ less than half the cost of the leading current federal legislation, require\
-    \ limited up-front government expenditures, generate net savings for the individual,\
-    \ and do not confront other barriers. The seven actions discussed in this Article\
-    \ not only meet these criteria, but also will generate roughly 150 million tons\
-    \ in emissions reductions and several billion dollars in net social savings. The\
-    \ Article concludes that the actions identified here are only a beginning, and\
-    \ it identifies changes that will be necessary by policymakers and academicians\
-    \ if these and other low-hanging fruit are to be picked."
+- abstract: The individual and household sector generates roughly 30 to 40 percent
+    of U.S. greenhouse gas emissions and is a potential source of prompt and large
+    emissions reductions. Yet the assumption that only extensive government regulation
+    will generate substantial reductions from the sector is a barrier to change, particularly
+    in a political environment hostile to regulation. This Article demonstrates that
+    prompt and large reductions can be achieved without relying predominantly on regulatory
+    measures. The Article identifies seven "low-hanging fruit:" actions that have
+    the potential to achieve large reductions at less than half the cost of the leading
+    current federal legislation, require limited up-front government expenditures,
+    generate net savings for the individual, and do not confront other barriers. The
+    seven actions discussed in this Article not only meet these criteria, but also
+    will generate roughly 150 million tons in emissions reductions and several billion
+    dollars in net social savings. The Article concludes that the actions identified
+    here are only a beginning, and it identifies changes that will be necessary by
+    policymakers and academicians if these and other low-hanging fruit are to be picked.
   author:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Barkenbus, given: Jack}
@@ -1201,7 +1249,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Tolk, given: Norman H.}
   container-title: Advances in Science and Technology
-  id: cricenti:snom.surface:2002
+  id: cricenti:surface.characterization:2002
   issued:
   - {year: '2002'}
   page: 183-192
@@ -1227,7 +1275,7 @@ references:
   - {family: Tolk, given: N.}
   - {family: Taylor, given: P.C.}
   container-title: Journal of Non-Crystalline Solids
-  id: mensing:defects:2002
+  id: mensing:defect.energies:2002
   issued:
   - {year: '2002'}
   page: 621-625
@@ -1259,7 +1307,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: Journal of Microscopy
-  id: cricenti:spectroscopic.snom:2001
+  id: cricenti:diamond:2001
   issued:
   - {year: '2001'}
   page: 446-450
@@ -1293,7 +1341,7 @@ references:
   - {family: Husinsky, given: Wolfgang}
   - {family: Tolk, given: Norman H}
   container-title: Nonresonant laser-matter interaction (nlmi-10)
-  id: sturmann:fel.diamond:2001
+  id: sturmann:photoablation:2001
   issued:
   - {year: '2001'}
   page: 206-211
@@ -1337,7 +1385,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Edwards, given: Glenn S.}
   container-title: International biomedical optics symposium
-  id: sobol:tissue:2000
+  id: sobol:tissue.water:2000
   issued:
   - {year: '2000'}
   page: '78'
@@ -1367,7 +1415,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Tolk, given: Norman H.}
   container-title: Materials Letters
-  id: talley:snom.ir.tips:2000
+  id: talley:snom.tips:2000
   issued:
   - {year: '2000'}
   page: 339-344
@@ -1375,6 +1423,33 @@ references:
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   type: article-journal
   volume: '42'
+- abstract: We observed chemical contrast with subwavelength resolution on a III-V
+    heterostructure by a scanning near-field optical microscope (SNOM) working in
+    the external reflection mode and coupled with a Free Electron Laser (FEL). SNOM
+    reflectivity images revealed features that were not present in the corresponding
+    shear-force (topology) images and are due to localized lateral changes in the
+    optical properties of the sample. The data indicate an optical spatial resolution
+    well below the diffraction limit of lambda/2 with most optical images having better
+    lateral resolution than topographic images.
+  author:
+  - {family: Cricenti, given: Antonio}
+  - {family: Generosi, given: Renato}
+  - {family: Herold, given: George}
+  - {family: Chiaradia, given: P.}
+  - {family: Perfetti, given: P.}
+  - {family: Margaritondo, given: Giorgio}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Tolk, given: Norman Henry}
+  container-title: 'Physica Status Solidi A: Applied Research'
+  id: cricenti:heterostructure:1999
+  issued:
+  - {year: '1999'}
+  page: 345-349
+  status: published
+  title: Chemical contrast observed at a III-V heterostructure by scanning near-field
+    optical microscopy
+  type: article-journal
+  volume: '175'
 - abstract: The study of semiconductor interfaces and of solid interfaces in general
     requires novel instrument capable to investigate the lateral fluctuations of properties
     on a microscopic scale. We present the first result of a major effort in that
@@ -1404,40 +1479,13 @@ references:
   - {family: Courjon, given: D.}
   - {family: Aggarwal, given: I. D.}
   container-title: 'Physica Status Solidi A: Applied Research'
-  id: cricenti:snom.interface:1999
+  id: cricenti:interface:1999
   issued:
   - {year: '1999'}
   page: 317-329
   status: published
   title: Interface applications of scanning near-field optical microscopy with a free
     electron laser
-  type: article-journal
-  volume: '175'
-- abstract: We observed chemical contrast with subwavelength resolution on a III-V
-    heterostructure by a scanning near-field optical microscope (SNOM) working in
-    the external reflection mode and coupled with a Free Electron Laser (FEL). SNOM
-    reflectivity images revealed features that were not present in the corresponding
-    shear-force (topology) images and are due to localized lateral changes in the
-    optical properties of the sample. The data indicate an optical spatial resolution
-    well below the diffraction limit of lambda/2 with most optical images having better
-    lateral resolution than topographic images.
-  author:
-  - {family: Cricenti, given: Antonio}
-  - {family: Generosi, given: Renato}
-  - {family: Herold, given: George}
-  - {family: Chiaradia, given: P.}
-  - {family: Perfetti, given: P.}
-  - {family: Margaritondo, given: Giorgio}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  container-title: 'Physica Status Solidi A: Applied Research'
-  id: cricenti:snom.junction:1999
-  issued:
-  - {year: '1999'}
-  page: 345-349
-  status: published
-  title: Chemical contrast observed at a III-V heterostructure by scanning near-field
-    optical microscopy
   type: article-journal
   volume: '175'
 - abstract: Studies of nonlinear, energy-selective material interactions localized
@@ -1459,7 +1507,7 @@ references:
   - {family: Yao, given: Y.}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Soviet Physics: Technical Physics'
-  id: marka:fel.modification:1999
+  id: marka:nanoscale:1999
   issued:
   - {year: '1999'}
   page: 1069-1072
@@ -1488,7 +1536,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: Optical Engineering
-  id: schaafsma:snom.fabrication:1999
+  id: schaafsma:snom.tip.fabrication:1999
   issued:
   - {year: '1999'}
   page: 1381-1385
@@ -1520,7 +1568,7 @@ references:
   - {family: Cricenti, given: A.}
   - {family: Margaritondo, given: G.}
   container-title: Ultramicroscopy
-  id: schaafsma:snom.fiber.probes:1999
+  id: schaafsma:snom.tips:1999
   issued:
   - {year: '1999'}
   page: 77-81
@@ -1572,30 +1620,6 @@ references:
     laser radiation
   type: paper-conference
   volume: '3601'
-- abstract: First experiments at the Vanderbilt free electron lasers measured the
-    local reflectivity of a PtSi/Si system. The reflectivity in the scanning near-field
-    optical microscope images revealed features that were not present in the corresponding
-    shear-force (topology) images and which were due to localized changes in the bulk
-    properties of the sample. The size of the smallest detected features clearly demonstrated
-    that near-field conditions were reached. The use of different photon wavelengths
-    (0.653, 1.2, and 2.4 $\mu$m) enabled us to probe regions of different depth.
-  author:
-  - {family: Cricenti, given: A.}
-  - {family: Generosi, given: R.}
-  - {family: Perfetti, given: P.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Coluzza, given: C.}
-  - {family: Margaritondo, given: G.}
-  container-title: Applied Physics Letters
-  id: cricenti:fel.nanospectroscopy:1998
-  issued:
-  - {year: '1998'}
-  page: 151-153
-  status: published
-  title: Free-electron-laser near-field nanospectroscopy
-  type: article-journal
-  volume: '73'
 - abstract: First experiments of coupling a free electron laser to a scanning near-field
     optical microscope (SNOM) are presented. To address the question of how important
     such spectroscopy can be for near-field infrared microscopy, we acquired images
@@ -1628,6 +1652,30 @@ references:
     near-field optical microscope
   type: article-journal
   volume: '170'
+- abstract: First experiments at the Vanderbilt free electron lasers measured the
+    local reflectivity of a PtSi/Si system. The reflectivity in the scanning near-field
+    optical microscope images revealed features that were not present in the corresponding
+    shear-force (topology) images and which were due to localized changes in the bulk
+    properties of the sample. The size of the smallest detected features clearly demonstrated
+    that near-field conditions were reached. The use of different photon wavelengths
+    (0.653, 1.2, and 2.4 $\mu$m) enabled us to probe regions of different depth.
+  author:
+  - {family: Cricenti, given: A.}
+  - {family: Generosi, given: R.}
+  - {family: Perfetti, given: P.}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Tolk, given: Norman Henry}
+  - {family: Coluzza, given: C.}
+  - {family: Margaritondo, given: G.}
+  container-title: Applied Physics Letters
+  id: cricenti:nanospectroscopy:1998
+  issued:
+  - {year: '1998'}
+  page: 151-153
+  status: published
+  title: Free-electron-laser near-field nanospectroscopy
+  type: article-journal
+  volume: '73'
 - abstract: 'We We report first studies of photodesorption from diamond films using
     the Vanderbilt Free-Electron Laser at two infrared wavelengths: 3.5 micron, corresponding
     to localized absorption by C-H bonds at grain boundaries, and 5 micron, corresponding
@@ -1646,7 +1694,7 @@ references:
   - {family: Ueda, given: A.}
   - {family: Tolk, given: Norman Henry}
   container-title: Applied Surface Science
-  id: sturmann:fel.diamond:1998
+  id: sturmann:diamond:1998
   issued:
   - {year: '1998'}
   page: 59-63
@@ -1670,7 +1718,7 @@ references:
   - {family: Betz, given: G.}
   - {family: Husinsky, given: W.}
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
-  id: tolk:gold.sputtering:1998
+  id: tolk:sputtering:1998
   issued:
   - {year: '1998'}
   page: 676-679
@@ -1735,7 +1783,7 @@ references:
   - {family: Davidson, given: J. L.}
   - {family: Margaritondo, given: G.}
   container-title: Acta Physica Polonica A
-  id: sturmann:fel.materials:1997
+  id: sturmann:spectroscopy:1997
   issued:
   - {year: '1997'}
   page: 689-696
@@ -1846,8 +1894,7 @@ references:
   page: 3057-3064
   status: published
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
-    from *in situ* measurements during <span style="font-variant:small-caps;">aase
-    ii</span>
+    from *in situ* measurements during <span class="smallcaps">aase ii</span>
   type: article-journal
   volume: '100'
 - author:
@@ -1866,7 +1913,7 @@ references:
   status: published
   title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
     with a new *in situ* instrument, airborne chromatograph for atmospheric trace
-    species (<span style="font-variant:small-caps;">acats-iv</span>)
+    species (<span class="smallcaps">acats-iv</span>)
   type: paper-conference
 - author:
   - {family: Eichmann, given: Ullrich}
@@ -1893,7 +1940,7 @@ references:
   - {family: Wineland, given: David J.}
   - {family: Raizen, given: Mark G.}
   container-title: Physical Review Letters
-  id: eichmann:two-slit:1993
+  id: eichmann:two.slit:1993
   issued:
   - {year: '1993'}
   page: 2359-2362
@@ -1962,7 +2009,7 @@ references:
   - {family: Raizen, given: Mark G.}
   - {family: Wineland, given: David J.}
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
-  id: itano:two.atoms:1993
+  id: itano:two.slit:1993
   issued:
   - {year: '1993'}
   page: 410-419
@@ -1988,7 +2035,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
   container-title: Physical Review A
-  id: gilligan:hydrogen.ip:1992
+  id: gilligan:h2.ip:1992
   issued:
   - {year: '1992'}
   page: 3676-3690
@@ -2003,23 +2050,8 @@ references:
   - {family: Bergquist, given: James C.}
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
-  container-title: Journal of Modern Optics
-  id: raizen:linear.trap.jmo:1992
-  issued:
-  - {year: '1992'}
-  page: 233-242
-  status: published
-  title: Linear trap for high-accuracy spectroscopy of stored ions
-  type: article-journal
-  volume: '39'
-- author:
-  - {family: Raizen, given: Mark G.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Bergquist, given: James C.}
-  - {family: Itano, given: Wayne M.}
-  - {family: Wineland, given: David J.}
   container-title: Physical Review A
-  id: raizen:linear.trap.pra:1992
+  id: raizen:ion.crystals:1992
   issued:
   - {year: '1992'}
   page: 6493-6501
@@ -2027,6 +2059,21 @@ references:
   title: Ionic crystals in a linear Paul trap
   type: article-journal
   volume: '45'
+- author:
+  - {family: Raizen, given: Mark G.}
+  - {family: Gilligan, given: Jonathan Mark}
+  - {family: Bergquist, given: James C.}
+  - {family: Itano, given: Wayne M.}
+  - {family: Wineland, given: David J.}
+  container-title: Journal of Modern Optics
+  id: raizen:linear.trap:1992
+  issued:
+  - {year: '1992'}
+  page: 233-242
+  status: published
+  title: Linear trap for high-accuracy spectroscopy of stored ions
+  type: article-journal
+  volume: '39'
 - abstract: "In recent years, advances in theoretical treatments have made molecular\
     \ hydrogen attractive for studies of fundamental physics in molecules. The relativistic\
     \ and radiative corrections to the ground-state binding energy have been calculated,\
@@ -2087,12 +2134,13 @@ references:
   - {family: Manney, given: C. H.}
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  id: wineland:trapped.ions:1991a
+  id: wineland:recent.experiments:1991
   issued:
   - {year: '1991'}
-  page: 539-551
+  page: 553-567
   status: published
-  title: High-resolution spectroscopy of laser-cooled ions
+  title: Recent experiments on trapped ions at the National Institute of Standards
+    and Technology
   type: paper-conference
 - author:
   - {family: Wineland, given: David J.}
@@ -2107,13 +2155,12 @@ references:
   - {family: Manney, given: C. H.}
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  id: wineland:trapped.ions:1991b
+  id: wineland:spectroscopy:1991
   issued:
   - {year: '1991'}
-  page: 553-567
+  page: 539-551
   status: published
-  title: Recent experiments on trapped ions at the National Institute of Standards
-    and Technology
+  title: High-resolution spectroscopy of laser-cooled ions
   type: paper-conference
 - author:
   - {family: McCormack, given: Elizabeth}
@@ -2121,7 +2168,7 @@ references:
   - {family: Cornaggia, given: Christian}
   - {family: Eyler, given: Edward Eugene}
   container-title: Physical Review A
-  id: mccormack:hydrogen.ip:1989
+  id: mccormack:h2.ip:1989
   issued:
   - {year: '1989'}
   page: 2260-2263

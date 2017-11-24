@@ -60,7 +60,7 @@ But one thing is clear: Even if all the remaining participating nations do their
 
 <!--more-->
 
-We've studied the role of the [private sector in addressing climate change](http://www.powells.com/book/beyond-politics-9781316632482), and we're convinced that the next stage is going to require more than just political agreement. What is needed is a concerted effort to mobilize private action---not just corporations but also religious and civic organizations, colleges and universities, investors and households---to help narrow the gap that remains after the Paris Agreement.
+We've studied the role of the [private sector in addressing climate change](https://www.powells.com/book/beyond-politics-9781316632482), and we're convinced that the next stage is going to require more than just political agreement. What is needed is a concerted effort to mobilize private action---not just corporations but also religious and civic organizations, colleges and universities, investors and households---to help narrow the gap that remains after the Paris Agreement.
 
 ## The Paris Gap
 

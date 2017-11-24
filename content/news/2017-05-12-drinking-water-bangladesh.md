@@ -36,7 +36,7 @@ According to the latest national assessment, 85 percent of the people in Banglad
 
 "Even when almost all water was unhealthily salty and had unsafe levels of arsenic and other chemicals, most people reported that the water tasted good and used it regularly," adds Gilligan.
 
-The paper describing their results appeared last June in the [International Journal of Environmental Health Research](http://dx.doi.org/10.1080/09603123.2016.1194383). It is available for free to mark this year’s [World Water Day](http://www.worldwaterday.org/) on March 22.
+The paper describing their results appeared last June in the [International Journal of Environmental Health Research](https://doi.org/10.1080/09603123.2016.1194383). It is available for free to mark this year’s [World Water Day](http://www.worldwaterday.org/) on March 22.
 
 ![Water gatherers in Bangladesh](/news/img/drinking-water-bangladesh/water_gatherers_bangladesh.jpg)
 <div class="image-credit"><span class="image-credit">Photo credit: Jonathan Gilligan/Vanderbilt</span></div>

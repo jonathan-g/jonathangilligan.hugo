@@ -46,6 +46,6 @@ short_author:
 - {family: Salawitch, given: R. J.}
 status: published
 title: Estimates of total organic and inorganic chlorine in the lower stratosphere
-  from *in situ* measurements during <span style="font-variant:small-caps;">aase ii</span>
+  from *in situ* measurements during <span class="smallcaps">aase ii</span>
 volume: '100'
 ---

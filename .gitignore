@@ -8,3 +8,4 @@ public/
 .Rproj.user
 .RData
 .Rhistory
+__pycache__

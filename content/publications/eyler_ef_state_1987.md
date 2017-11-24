@@ -16,7 +16,7 @@ short_author:
 - {family: Eyler, given: E. E.}
 - {family: Gilligan, given: J. M.}
 - {family: McCormack, given: E.}
-- {family: Nussenzweig, given: "A.\xE9"}
+- {family: Nussenzweig, given: "Andr\xE9"}
 - {family: Pollack, given: E.}
 status: published
 title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
