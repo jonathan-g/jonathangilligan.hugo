@@ -143,5 +143,9 @@ static/files/pubs/pdfs/Burchfield_2016_Vegetation_Health.pdf filter=lfs diff=lfs
 static/files/pubs/pdfs/Hess_2016_Drought_Southwest.pdf filter=lfs diff=lfs merge=lfs -text
 static/files/pubs/pdfs/Gilligan_2006_Nanotechnology.pdf filter=lfs diff=lfs merge=lfs -text
 static/files/pubs/pdfs/Gilligan_2013_Building_Resilience.pdf filter=lfs diff=lfs merge=lfs -text
+static/files/pubs/pdfs/*.pdf filter=lfs diff=lfs merge=lfs -text
+bibliography/pdfs/*.pdf filter=lfs diff=lfs merge=lfs -text
+static/files/pubs/pdfs/*.doc* filter=lfs diff=lfs merge=lfs -text
+bibliography/pdfs/*.doc* filter=lfs diff=lfs merge=lfs -text
 *.docx filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
