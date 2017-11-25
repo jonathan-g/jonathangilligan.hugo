@@ -60,8 +60,7 @@ params:
   bio_twitter: "jg_environ"
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
-  #typekitCode: "cwm0smq"
-  typekitCode: "ktg3ojr"
+  typekitCode: "pxs4bbm"
   fontawesomeCode: "0cecfe2e0e"
   mathjax: true
   mhchem: true
