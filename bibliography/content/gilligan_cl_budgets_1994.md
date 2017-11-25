@@ -26,5 +26,5 @@ short_author:
 status: published
 title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
   with a new *in situ* instrument, airborne chromatograph for atmospheric trace species
-  (<span class="smallcaps">acats-iv</span>)
+  (ACATS-IV)
 ---
