@@ -10,9 +10,20 @@ categories:
 tags:
   - science police
   - censorship
+  - Keith Kloor
+  - Roger Pielke, Jr
 keywords:
-  - regulatory science
+  - boundary work
+  - civility
+  - climate policy
   - gatekeeping
+  - regulatory science
+  - science policy
+  - Roger Pielke, Jr.
+  - Keith Kloor
+  - Sheila Jasanoff
+  - Philip Kitcher
+  - Issues in Science and Technology
 abstract: "It is important to keep outright falsehoods out of journalism and the scientific literature. Creationism and fear-mongering about vaccine safety do not deserve equal time with biological and medical science. But in matters of regulatory science, where there is not a clear consensus on methods and where it is impossible to strictly separate factual judgments from political ones, the literature on science in policy offers strong support for keeping discourse open and free, even though it may become heated. But it also calls on individual scientists to consider how the results of their research and their public statements about it are likely to be used."
 pub_note: "This essay was originally published in **[Issues in Science and Technology](http://issues.org/34-1/forum-36/)** (Fall 2017) as a commentary responding to Keith Kloor's [\"The Science Police\"](http://issues.org/33-4/the-science-police/)"
 ---

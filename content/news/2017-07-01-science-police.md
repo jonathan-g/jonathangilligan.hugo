@@ -10,23 +10,26 @@ categories:
   - news
   - civility
 tags:
-  - Roger Pielke Jr
+  - science police
   - civility
   - collegiality
   - environmental science
+  - Keith Kloor
+  - Roger Pielke, Jr
 keywords:
+  - civiliity
   - climate change
-  - global warming
-  - environmental science
   - climate policy
+  - climate wars
+  - collegiality
+  - environmental science
+  - gatekeeping
+  - global warming
+  - political correctness
+  - science police
   - Jonathan Gilligan
   - Keith Kloor
   - Roger Pielke, Jr.
-  - Science police
-  - political correctness
-  - climate wars
-  - civiliity
-  - collegiality
 ---
 
 I was quoted by Keith Kloor in an article in _Issues in Science and Technology_
