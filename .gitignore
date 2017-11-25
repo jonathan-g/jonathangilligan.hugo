@@ -9,3 +9,4 @@ public/
 .RData
 .Rhistory
 __pycache__
+*.Rproj
