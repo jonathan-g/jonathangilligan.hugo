@@ -1,5 +1,50 @@
 ---
 references:
+- id: ruhl:topic.modeling:2018
+  type: article-journal
+  author:
+  - family: Ruhl
+    given: J. B.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Nay
+    given: John
+  issued:
+  - year: '2018'
+  title: 'Topic modeling the president: Conventional and computational methods'
+  title-short: Topic modeling the president
+  container-title: George Washington Law Review
+  status: Accepted for publication; in press
+  abstract: Law is generally represented through text, and lawyers have for centuries
+    classified large bodies of legal text into distinct topics — they “topic model”
+    the law. But large bodies of legal documents present challenges for conventional
+    topic modeling methods. The task of gathering, reviewing, coding, sorting, and
+    assessing a body of tens of thousands of legal documents is a daunting proposition.
+    Recent advances in computational text analytics, a subset of the field of “artificial
+    intelligence,” are already gaining traction in legal practice settings such as
+    e-discovery by leveraging the speed and capacity of computers to process enormous
+    bodies of documents. Differences between conventional and computational methods,
+    however, suggest that computational text modeling has its own limitations, but
+    that the two methods used in unison could be a powerful research tool for legal
+    scholars in their research as well.
+
+- id: gilliigan:human.factor:2018
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: '2018'
+  title: 'Climate modeling: Accounting for the human factor'
+  title-short: Climate modeling
+  container-title: Nature Climate Change
+  status: Accepted for publication; in press
+  note: “News and Views” commentary.
+  abstract: One of the greatest sources of uncertainty about future climate change
+    is the path greenhouse gas emissions will take. Now research using a coupled model
+    of human behavior and climate finds that individual behavior can significantly
+    alter emissions trajectories and global temperature.
+
 - id: nay:vegetation.health:2017
   type: article-journal
   author:

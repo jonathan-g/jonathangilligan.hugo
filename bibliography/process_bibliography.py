@@ -221,8 +221,10 @@ def main():
         sys.stderr.write("Error: Could not find pandoc-citeproc. Try instlling pandoc.")
         return(1)
     if version_ok:
+        print("Skipping pre-processing step")
         intermediate = source
     else:
+        print("Preprocessing BibTeX file")
         intermediate = os.path.splitext(source)[0] + "_an" + ".bib"
         preprocess(source, intermediate)
     bib = gen_refs(intermediate)

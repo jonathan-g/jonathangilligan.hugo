@@ -1,4 +1,44 @@
 references:
+- abstract: "Law is generally represented through text, and lawyers have for centuries\
+    \ classified large bodies of legal text into distinct topics \u2014 they \u201C\
+    topic model\u201D the law. But large bodies of legal documents present challenges\
+    \ for conventional topic modeling methods. The task of gathering, reviewing, coding,\
+    \ sorting, and assessing a body of tens of thousands of legal documents is a daunting\
+    \ proposition. Recent advances in computational text analytics, a subset of the\
+    \ field of \u201Cartificial intelligence,\u201D are already gaining traction in\
+    \ legal practice settings such as e-discovery by leveraging the speed and capacity\
+    \ of computers to process enormous bodies of documents. Differences between conventional\
+    \ and computational methods, however, suggest that computational text modeling\
+    \ has its own limitations, but that the two methods used in unison could be a\
+    \ powerful research tool for legal scholars in their research as well."
+  author:
+  - {family: Ruhl, given: J. B.}
+  - {family: Gilligan, given: Jonathan M.}
+  - {family: Nay, given: John}
+  container-title: George Washington Law Review
+  id: ruhl:topic.modeling:2018
+  issued:
+  - {year: '2018'}
+  preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
+  status: Accepted for publication; in press
+  title: 'Topic modeling the president: Conventional and computational methods'
+  title-short: Topic modeling the president
+  type: article-journal
+- abstract: One of the greatest sources of uncertainty about future climate change
+    is the path greenhouse gas emissions will take. Now research using a coupled model
+    of human behavior and climate finds that individual behavior can significantly
+    alter emissions trajectories and global temperature.
+  author:
+  - {family: Gilligan, given: Jonathan M.}
+  container-title: Nature Climate Change
+  id: gilliigan:human.factor:2018
+  issued:
+  - {year: '2018'}
+  note: "\u201CNews and Views\u201D commentary."
+  status: Accepted for publication; in press
+  title: 'Climate modeling: Accounting for the human factor'
+  title-short: Climate modeling
+  type: article-journal
 - DOI: 10.1080/01431161.2017.1410296
   abstract: 'Drought threatens food and water security around the world, and this
     threat is likely to become more severe under climate change. High-resolution predictive
