@@ -12,9 +12,36 @@ statistical analysis.
 Students write and publish papers, often as first-author, in scientific journals
 and present research results at national and international conferences.
 
+## Current Students
+
+- **Kelsea Best** is researching connections between environmental change,
+  livelihoods, and population movement in Bangladesh. Kelsea applies machine
+  learning to survey data to identify patterns in the characteristics of 
+  people who relocate and will use those insights to develop agent-based models
+  to simulate migration patterns.
+
+- **Pam Hoover** is studying the environmental impact of reading documents 
+  electronically versus printing them out. 
+  
+- **David Knorr** is investigating connections between gentrification and access to
+  public transit in Nashville. David uses GIS and other tools to apply advanced
+  spatio-temporal statistical methods to studying patterns in home sales and
+  prices and ridership on public buses. He will use the results of this research
+  to develop an agent-based model of the impact of gentrification on the
+  ability to conduct the activities of daily living by people with low income
+  and limited access to personal vehicles.
+  
+- **Chris Tasich** is studying governance of vulnerable landscapes in Bangladesh.
+  Chris has developed a model of sediment deposition in intertidal 
+  lands along the tidal channels in coastal Bangladesh. He is applying
+  agent-based models of local decision-making to study how communities might 
+  make use of different approaches to managing vulnerable lands in the face
+  of sea-level rise and other environmental change.
+
 ## Recently Graduated Students
 
-- __[Emily K. Burchfield](http://qcnr.usu.edu/directory/burchfield_emily)__ graduated with her Ph.D. in 2017.
+- __[Emily K. Burchfield](http://qcnr.usu.edu/directory/burchfield_emily)__ 
+  graduated with her Ph.D. in 2017.
   Her graduate studies focused on combining intensive computational methods of
   geospatial analysis with satellite remote-sensing imagery and on-the-ground
   research on farmers coping with water scarcity in Bangladesh. Emily made
