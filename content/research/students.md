@@ -14,7 +14,7 @@ and present research results at national and international conferences.
 
 ## Recently Graduated Students
 
-- __[Emily K. Burchfield](https://ekburchfield.wordpress.com/)__ graduated with her Ph.D. in 2017.
+- __[Emily K. Burchfield](http://qcnr.usu.edu/directory/burchfield_emily)__ graduated with her Ph.D. in 2017.
   Her graduate studies focused on combining intensive computational methods of
   geospatial analysis with satellite remote-sensing imagery and on-the-ground
   research on farmers coping with water scarcity in Bangladesh. Emily made
