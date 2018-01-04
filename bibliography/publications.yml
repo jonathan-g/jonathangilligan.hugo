@@ -74,6 +74,53 @@ references:
   title: A machine-learning approach to forecasting remotely sensed vegetation health
   type: article-journal
   volume: '39'
+- DOI: 10.1525/elementa.263
+  abstract: "Since the 1960s, $\\sim 5000~\\text{km}^2$ of tidal deltaplain in southwest\
+    \ Bangladesh has been embanked and converted to densely inhabited, agricultural\
+    \ islands (i.e., polders). This landscape is juxtaposed to the adjacent Sundarbans,\
+    \ a pristine mangrove forest, both well connected by a dense network of tidal\
+    \ channels that effectively convey water and sediment throughout the region. The\
+    \ extensive embanking in poldered areas, however, has greatly reduced the tidal\
+    \ prism (i.e., volume of water) transported through local channels. We reveal\
+    \ that $>600$\_km of these major waterways have infilled in recent decades, converting\
+    \ to land through enhanced sedimentation and the direct blocking of waterways\
+    \ by embankments and sluice gates. Nearly all of the observed closures ($\\sim\
+    \ 98\\%$) have occurred along the embanked polder systems, with no comparable\
+    \ changes occurring in channels of the Sundarbans ($<2\\%$ change). We attribute\
+    \ most of the channel infilling to the local reduction of tidal prism in poldered\
+    \ areas and the associated decline in current velocities. The infilled channels\
+    \ account for $\\sim 90~\\text{km}^2$ of new land in the last 40\u201350 years,\
+    \ the rate of which, $\\sim 2~\\text{km}^2/\\text{yr}$, offsets the $4~\\text{km}^2/\\\
+    text{yr}$ that is eroded at the coast, and is equivalent to $\\sim 20\\%$ of the\
+    \ new land produced naturally at the Ganges-Brahmaputra tidal rivermouth. Most\
+    \ of this new land, called \u2018khas\u2019 in Bengali, has been reclaimed for\
+    \ agriculture or aquaculture, contributing to the local economy. However, benefits\
+    \ are tempered by the loss of navigable waterways for commerce, transportation,\
+    \ and fishing, as well as the forced rerouting of tidal waters and sediments necessary\
+    \ to sustain this low-lying landscape against rising sea level. A more sustainable\
+    \ delta will require detailed knowledge of the consequences of these hydrodynamic\
+    \ changes to support more scientifically-grounded management of water, sediment,\
+    \ and tidal energy distribution."
+  author:
+  - {family: Wilson, given: Carol}
+  - {family: Goodbred, given: Steven}
+  - {family: Small, given: Christopher}
+  - {family: Gilligan, given: Jonathan}
+  - {family: Sams, given: Sarah}
+  - {family: Mallick, given: Bishawjit}
+  - {family: Hale, given: Richard}
+  container-title: Elementa
+  file:
+  - {desc: full text, file: wilson_2017_infilling.pdf}
+  id: wilson:infilling:2017
+  issued:
+  - {day: '27', month: '12', year: '2017'}
+  page: '78'
+  status: published
+  title: Widespread infilling of tidal channels and navigable waterways in human-modified
+    tidal deltaplain of southwest Bangladesh
+  type: article-journal
+  volume: '5'
 - ISBN: '9781138655942'
   abstract: Climate change is a global problem. However, between the global forces
     of climate change and the individual challenges of meeting basic needs, communities
