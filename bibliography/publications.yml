@@ -36,10 +36,12 @@ references:
   issued:
   - {year: '2018'}
   note: "\u201CNews and Views\u201D commentary."
+  page: 14-15
   status: published
   title: 'Climate modeling: Accounting for the human factor'
   title-short: Climate modeling
   type: article-journal
+  volume: '8'
 - DOI: 10.1080/01431161.2017.1410296
   abstract: 'Drought threatens food and water security around the world, and this
     threat is likely to become more severe under climate change. High-resolution predictive
