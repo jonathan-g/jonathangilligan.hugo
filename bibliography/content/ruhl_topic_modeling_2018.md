@@ -1,8 +1,8 @@
 ---
 author:
 - {family: Ruhl, given: J. B.}
-- {family: Gilligan, given: Jonathan M.}
 - {family: Nay, given: John}
+- {family: Gilligan, given: Jonathan M.}
 container_title: George Washington Law Review
 date: '2018-01-01'
 id: ruhl_topic_modeling_2018
@@ -13,8 +13,8 @@ preprint_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
 pub_type: article-journal
 short_author:
 - {family: Ruhl, given: J. B.}
-- {family: Gilligan, given: J. M.}
 - {family: Nay, given: J.}
+- {family: Gilligan, given: J. M.}
 short_title: Topic modeling the president
 status: Accepted for publication; in press
 title: 'Topic modeling the president: Conventional and computational methods'

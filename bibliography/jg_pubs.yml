@@ -5,10 +5,10 @@ references:
   author:
   - family: Ruhl
     given: J. B.
-  - family: Gilligan
-    given: Jonathan M.
   - family: Nay
     given: John
+  - family: Gilligan
+    given: Jonathan M.
   issued:
   - year: '2018'
   title: 'Topic modeling the president: Conventional and computational methods'
