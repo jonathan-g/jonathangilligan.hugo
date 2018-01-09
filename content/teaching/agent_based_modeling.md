@@ -1,7 +1,7 @@
 ---
 title: Agent- and Individual-Based Computational Modeling
-date: "2017-01-10T00:00:00+05:00"
-enddate: "2017-04-20T00:00:00+05:00"
+date: "2018-01-08"
+enddate: "2018-05-02"
 publishdate: "2017-06-12"
 host: "Vanderbilt University"
 keywords:
@@ -24,3 +24,5 @@ experiments.
 ---
 
 #### [Syllabus (PDF)](/files/teaching/EES_4760_5760_Syllabus.pdf)
+
+#### [Course web site](https://www.ees-4760-5760.jgilligan.org/)
