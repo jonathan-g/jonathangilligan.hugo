@@ -332,5 +332,5 @@ damage.
 
 # Code
 
-The R code for the analysis in this post is available at <https://github.com/jonathan-g/jonathangilligan.hugo/tree/master/content/post/2018-02-13-dangerous-assumptions.Rmd>
-and an alternate version is available at <https://github.com/jonathan-g/dangerous_assumptions>
+The R code for the analysis in this post is available at <https://github.com/jonathan-g/jonathangilligan.hugo/blob/master/content/post/2018-02-13-dangerous-assumptions-revisited.Rmd>
+and an alternate version is available at <https://github.com/jonathan-g/dangerous-assumptions-revisited>
