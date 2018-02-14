@@ -330,3 +330,7 @@ RCPs, and if we also recognize that RCP 4.5 gives
 then this makes it much more plausible that we have time to avoid catastrophic 
 damage.
 
+# Code
+
+The R code for the analysis in this post is available at <https://github.com/jonathan-g/jonathangilligan.hugo/tree/master/content/post/2018-02-13-dangerous-assumptions.Rmd>
+and an alternate version is available at <https://github.com/jonathan-g/dangerous_assumptions>
