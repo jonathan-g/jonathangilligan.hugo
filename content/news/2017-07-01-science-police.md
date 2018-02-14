@@ -2,7 +2,6 @@
 title: "The Science Police"
 author: Keith Kloor
 date: '2017-07-01'
-weight: 1
 publication: "Issues in Science and Technology"
 pub_link: "http://issues.org/33-4/the-science-police/"
 slug: science-police

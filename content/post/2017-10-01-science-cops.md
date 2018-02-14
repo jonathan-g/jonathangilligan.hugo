@@ -3,7 +3,6 @@ title: "Are Cops on the Science Beat?"
 authors:
   - Jonathan Gilligan
 date: '2017-10-01'
-weight: 1
 slug: science-cops
 categories:
   - science policy

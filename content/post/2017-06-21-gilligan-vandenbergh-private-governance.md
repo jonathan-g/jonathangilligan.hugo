@@ -4,7 +4,6 @@ authors:
   - Jonathan Gilligan
   - Michael Vandenbergh
 date: '2017-06-21'
-weight: 5
 banner:
   image: "walmart-truck.jpg"
   credit: "Walmart/flickr, CC-BY-SA"

@@ -2,7 +2,6 @@
 title: "Morrison Prize"
 author: "~"
 date: '2017-02-09'
-weight: 2
 slug: morrison-prize
 categories:
   - news

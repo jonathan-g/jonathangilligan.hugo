@@ -2,7 +2,6 @@
 title: "My Book Reviewed in Science Magazine"
 author: David G. Victor
 date: '2017-12-18'
-weight: 1
 publication: "Science Magazine"
 pub_link: "http://blogs.sciencemag.org/books/2017/12/18/beyond-politics/"
 slug: sciencemag-review

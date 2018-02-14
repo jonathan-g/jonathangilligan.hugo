@@ -4,7 +4,6 @@ author: David Salisbury
 publication: "Futurity"
 pub_link: "http://www.futurity.org/drinking-water-bangladesh-1429592/"
 date: '2017-05-16'
-weight: 1
 slug: "drinking-water-bangladesh"
 banner:
   image: "bangladeshi_woman_drawing_water.jpg"
