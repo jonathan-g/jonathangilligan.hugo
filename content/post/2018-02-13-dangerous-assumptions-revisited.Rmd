@@ -24,9 +24,6 @@ categories:
 ```{r setup, include=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = FALSE, 
                       cache = FALSE,
-                      fig.path = file.path(sub("\\.Rmd$", "_files", 
-                                               knitr::current_input()), 
-                                           "figure-html/"),
                       message=FALSE, warning=FALSE, error=FALSE)
 
 if (! require(pacman)) {
@@ -140,13 +137,13 @@ become more energy efficient and less carbon-intensive. However, they pointed
 out, between 2000 and 2005 the opposite happened: the world's economy became
 both _more_ energy intensive and _more_ carbon intensive.
 
-![Assumed versus observed decarbonization rates, from Pielke _et al._, "Dangerous Assumptions"](/img/post/gilligan-dangerous-assumptions/pielke_assumed_decarbonization.jpg)
+![Assumed versus observed decarbonization rates, from Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf)"](/img/post/gilligan-dangerous-assumptions/pielke_assumed_decarbonization.jpg)
 
 If there is a fairly rapid rate of "spontaenous decarbonization" in the absence
 of climate policy, then making climate policy is relatively easy, because it
 only has to make modest changes to something that's happening alredy:
 
-![Under the IPCC's SRES scenarios, spontaneous decarbonization does most of the hard work and climate policy only needs to add a small amount of additional decarbonization](/img/post/gilligan-dangerous-assumptions/pielke_cumulative_emissions.jpg)
+![Under the IPCC's SRES scenarios, spontaneous decarbonization (blue bars) does most of the hard work and climate policy only needs to add a small amount of additional decarbonization (red bars). However, if spontaneous decarbonization falls short of the predicted blue bars, then the policy task is harder. From Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf)"](/img/post/gilligan-dangerous-assumptions/pielke_cumulative_emissions.jpg)
 
 However, Pielke, Wigley, and Green found that the spontaneous decarbonization 
 rate was much smaller than the IPCC expected, and emphasized that this implied
@@ -424,21 +421,28 @@ rates %>% mutate(scenario = ordered(scenario, levels = rcp_breaks),
 
 In contrast to the previous work, using the last 8 years of observed data on
 energy and carbon intensity, the world appears to currently be headed along a
-trajectory very similar to the early years of GCAM 6.0, 
-with faster decarbpnization than the RCP 4.5 reference scenario and
+trajectory is decarbonizing slightly faster than both the RCP 4.5 reference 
+scenario and the RCP 6.0 policy scenario, and which
 not too far behind the early years of RCP 4.5 policy scenario
 (see Table \@ref(tab:rate-table)).
 
 Thus, the challenge of getting from the current trajectory to the RCP 4.5
-policy trajectory seems actually to be a bit smaller than anticipated. This
-is very different from the conclusions of Pielke, Wigley, & Green 
-and Stevenson & Pielke.
+policy trajectory seems actually to be a bit smaller than anticipated. 
+This is very different from the conclusions of Pielke, Wigley, & Green 
+and Stevenson & Pielke, and presents a much more optimisitic picture than those
+analyses do.
 
 Of course, the big cuts in the RCP 4.5 pathway occur in the future, so we should 
-not take this as license for complacency, but if we consider that this is 
-comparing the observed _spontaneous_ decarbonization rate with no major climate 
-policies to the decarbonization rates implied by the policy-regimes of the 
-different RCPs, and if we also recognize that RCP 4.5 gives
+not take this as license for complacency. Moreover, the anomalous reversal of
+spontaneous global decarbonization in the early 2000s may be repeated if
+other developing countries experience rapid industrialization and economic
+growth. This could happen in India and among African nations.
+
+Nonetheless, if we consider that this analysis compares 
+the observed _spontaneous_ decarbonization rate (with no major climate policies)  
+over the last eleven years 
+to the decarbonization rates implied by the policy-regimes of the 
+different RCP policy regimes, and if we also recognize that RCP 4.5 gives
 [roughly 80% probability of keeping warming below 3.0&deg;C](http://www.nature.com/articles/nclimate1385), 
 then this makes it much more plausible that we have time to avoid catastrophic 
 damage.
