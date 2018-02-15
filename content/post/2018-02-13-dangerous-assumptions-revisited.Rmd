@@ -1,29 +1,32 @@
 ---
-title: Dangerous Assumptions Revisited
-author: Jonathan Gilligan
+title: "Dangerous Assumptions Revisited"
+author: "Jonathan Gilligan"
 date: '2018-02-13'
-slug: dangerous-assumptions-revisited
-categories:
- - climate change
- - climate policy
- - decarbonization
-tags:
- - decarbonization
- - RCPs
 keywords:
- - climate change
- - climate policy
- - global warming
- - RCPs
- - representative concentration pathways
- - CO2 emissions
- - decarbonization
- - Roger Pielke, Jr.
- - greenhouse gas emissions
+- climate change
+- climate policy
+- global warming
+- RCPs
+- representative concentration pathways
+- CO2 emissions
+- decarbonization
+- Roger Pielke, Jr.
+- greenhouse gas emissions
+slug: dangerous-assumptions-revisited
+tags:
+- decarbonization
+- RCPs
+categories:
+- climate change
+- climate policy
+- decarbonization
 ---
-```{r setup, include=FALSE, cache=FALSE}
+```{r setup, include=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = FALSE, 
-                      cache = TRUE, 
+                      cache = FALSE,
+                      fig.path = file.path(sub("\\.Rmd$", "_files", 
+                                               knitr::current_input()), 
+                                           "figure-html/"),
                       message=FALSE, warning=FALSE, error=FALSE)
 
 if (! require(pacman)) {
@@ -38,6 +41,9 @@ p_load(ggrepel)
 p_load(janitor)
 p_load(knitr)
 p_load_gh("gilligan-ees-3310/kayadata")
+
+message("Dep path = ", blogdown::dep_path())
+message("fig.path = ", knitr::opts_chunk$get("fig.path"))
 ```
 Comparisons of observed trends of energy and carbon intensity in the global
 economy to trends implied by emissions scenarios used in policy analysis
