@@ -60,9 +60,9 @@ be as difficult as previous work has reported.
 
 In 2000, the Intergovernmental Panel on Climate Change published a
 [Special Report on Emissions Scenarios](http://www.ipcc.ch/ipccreports/sres/emission/), 
-in whcih it developed many possible
+in which it developed many possible
 scenarios for the paths that greenhouse gas emissions might follow during the
-21st century under "Budiness as Usual" (BAU) conditions, meaning without any
+21st century under "Business as Usual" (BAU) conditions, meaning without any
 policy measures to reduce emissions.
 
 Different scenarios made different assumptions about population growth,
@@ -103,7 +103,7 @@ in Chapter 3.
 
 This way of looking at emissions is useful for policymakers because trying to 
 directly control population is both morally questionable (I would go much 
-farther and say that I would find attemtps by governments or others to forcibly 
+farther and say that I would find attempts by governments or others to forcibly 
 control population to be a horrifying violation of people's basic rights, and 
 especially women's rights to autonomy over their bodies).
 
@@ -123,7 +123,7 @@ Reducing $e$ (energy intensity) and $f$ (carbon intensity) can reduce emissions
 without reducing either population or per-capita GDP.
 
 Thus, feasible climate policy focuses on ways to reduce energy and carbon
-intenstiy.
+intensity.
 
 ## Comparing Observed and Implied Rates of Decarbonization
 
@@ -139,9 +139,9 @@ both _more_ energy intensive and _more_ carbon intensive.
 
 ![Assumed versus observed decarbonization rates, from Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf)"](/img/post/gilligan-dangerous-assumptions/pielke_assumed_decarbonization.jpg)
 
-If there is a fairly rapid rate of "spontaenous decarbonization" in the absence
+If there is a fairly rapid rate of "spontaneous decarbonization" in the absence
 of climate policy, then making climate policy is relatively easy, because it
-only has to make modest changes to something that's happening alredy:
+only has to make modest changes to something that's happening already:
 
 ![Under the IPCC's SRES scenarios, spontaneous decarbonization (blue bars) does most of the hard work and climate policy only needs to add a small amount of additional decarbonization (red bars). However, if spontaneous decarbonization falls short of the predicted blue bars, then the policy task is harder. From Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf)"](/img/post/gilligan-dangerous-assumptions/pielke_cumulative_emissions.jpg)
 
@@ -163,14 +163,14 @@ between 2000 and 2008 to the baseline pathways corresponding to the RCPs
 (the baseline pathways are the trajectories of greenhouse gas emissions the
 RCP authors assumed would occur if there were no climate policies in effect).
 Stevenson and Pielke found that, just as with the SRES scenarios, 
-the baseline emissions trajectories assumed far greater spontaenous decarbonization
+the baseline emissions trajectories assumed far greater spontaneous decarbonization
 than actually occurred.
 
 ## Problems with the Previous Analyses
 
 An important problem that the analyses by Pielke, Wigley, & Green and
 Stevenson & Pielke face is that they compared the scenarios to observed trends 
-suring the years 2000--2005 and 2000--2008, respectively.  
+during the years 2000--2005 and 2000--2008, respectively.  
 This may not have been the best choice.
 World energy and carbon intensity steadily declined from 1965--2000 and then 
 suddenly jumped for several years starting around 2002, which corresponded to
@@ -198,8 +198,8 @@ get_kaya_data("World") %>%
 China's growth was fueled by a rapid expansion of energy consumption, and both
 factories and generating plants were very inefficient, and were largely fueled
 by coal. This drove both the energy intensity of China's economy and the carbon
-intenstiy of its energy supply through the roof, and this appears to have played
-a large role in reversing for severl years the global trend of declining 
+intensity of its energy supply through the roof, and this appears to have played
+a large role in reversing for several years the global trend of declining 
 energy and carbon intensity. 
 Around 2007 or so, China's energy and carbon intensity began to fall again and 
 the world energy and carbon intensity fell along with it.
@@ -305,7 +305,7 @@ gcam_scenarios <- all_scenarios %>%
 
 ## Observed Historical Data
 
-We get historical emissions data from the 2017 BP Statisical Review of World Energy
+We get historical emissions data from the 2017 BP Statistical Review of World Energy
 and historical economic data from the World Bank.
 <!--
 For convenience, we have already calculated these in the `kayadata` package, 
@@ -429,7 +429,7 @@ not too far behind the early years of RCP 4.5 policy scenario
 Thus, the challenge of getting from the current trajectory to the RCP 4.5
 policy trajectory seems actually to be a bit smaller than anticipated. 
 This is very different from the conclusions of Pielke, Wigley, & Green 
-and Stevenson & Pielke, and presents a much more optimisitic picture than those
+and Stevenson & Pielke, and presents a much more optimistic picture than those
 analyses do.
 
 Of course, the big cuts in the RCP 4.5 pathway occur in the future, so we should 
