@@ -98,7 +98,7 @@ F = P \times g \times e \times f,
 $$
 where $F$ stands for total emissions, $P$ stands for population, and
 $g$, $e$, and $f$ are defined by the equations above.
-Roger Pielke, Jr.'s book, _The Climate Fix_ has a very clear explanation of this
+Roger Pielke, Jr.'s book, [_The Climate Fix_](https://www.amazon.com/Climate-Fix-Scientists-Politicians-Warming/dp/0465025196/){target="_blank"} has a very clear explanation of this
 in Chapter 3.
 
 This way of looking at emissions is useful for policymakers because trying to
