@@ -172,12 +172,12 @@ An important problem that the analyses by Pielke, Wigley, & Green and
 Stevenson & Pielke face is that they compared the scenarios to observed trends 
 during the years 2000--2005 and 2000--2008, respectively.  
 This may not have been the best choice.
-World energy and carbon intensity steadily declined from 1965--2000 and then 
+World energy and carbon intensity steadily declined from 1980--2000 and then 
 suddenly jumped for several years starting around 2002, which corresponded to
 a period of tremendous economic growth in China.
 
 ```{r world-carbon-plot, include = TRUE, fig.height=7, fig.width=7, fig.cap = "Trend of global carbon intensity, with 2000--2008 highlighted."}
-get_kaya_data("World") %>% 
+get_kaya_data("World") %>% filter(year >= 1980) %>%
   plot_kaya("f", y_lab = expression(paste(MMT * CO[2] / quad)), log_scale = TRUE,
             start_year = 2000, stop_year = 2008) +
   labs(title = "Carbon intensity of world energy supply") +
@@ -186,7 +186,7 @@ get_kaya_data("World") %>%
 
 ```
 ```{r world-energy-plot, include = TRUE, fig.height=7, fig.width=7, fig.cap = "Trend of global energy intensity, with 2000--2008 highlighted."}
-get_kaya_data("World") %>% 
+get_kaya_data("World") %>% filter(year >= 1980) %>%
   plot_kaya("e", y_lab = "quad / $ trillion", log_scale = TRUE,
             start_year = 2000, stop_year = 2008) +
   labs(title = "Energy intensity of world economy") +
@@ -205,7 +205,7 @@ Around 2007 or so, China's energy and carbon intensity began to fall again and
 the world energy and carbon intensity fell along with it.
 
 ```{r china-carbon-plot, include = TRUE, fig.height=7, fig.width=7, fig.cap = "Trend of China's carbon intensity, with 2000--2008 highlighted."}
-get_kaya_data("China") %>% 
+get_kaya_data("China") %>% filter(year >= 1980) %>%
   plot_kaya("f", y_lab = expression(paste(MMT * CO[2] / quad)), log_scale = TRUE,
             start_year = 2000, stop_year = 2008) +
   labs(title = "Carbon intensity of China's energy supply") +
@@ -213,8 +213,11 @@ get_kaya_data("China") %>%
   theme_bw(base_size = 15)
 
 ```
+
+Note the very rapid decline in carbon intensity beginning in 2010.
+
 ```{r china-energy-plot, include = TRUE, fig.height=7, fig.width=7, fig.cap = "Trend of China's energy intensity, with 2000--2008 highlighted."}
-get_kaya_data("China") %>% 
+get_kaya_data("China") %>% filter(year >= 1980) %>%
   plot_kaya("e", y_lab = "quad / $ trillion", log_scale = TRUE,
             start_year = 2000, stop_year = 2008) +
   labs(title = "Energy intensity of China's economy") +
@@ -222,6 +225,35 @@ get_kaya_data("China") %>%
   theme_bw(base_size = 15)
 
 ```
+
+And here are the trends for the whole world _except_ China:
+
+```{r not-china-carbon-plot, include = TRUE, fig.height=7, fig.width=7, fig.cap = "Trend of carbon intensity for the world except China, with 2000--2008 highlighted."}
+china <- get_kaya_data("China") %>% select(year, G, E, F)
+world <- get_kaya_data("World") %>% select(year, G, E, F)
+
+mix <- world %>% full_join(china, by = "year", suffix = c(".world", ".china")) %>% 
+  mutate(G = G.world - G.china, E = E.world - E.china, F = F.world - F.china) %>% 
+  mutate(e = E / G, f = F / E) %>% select(year, e, f) %>% 
+  filter(year >= 1980)
+
+  plot_kaya(mix, "f", y_lab = expression(paste(MMT * CO[2] / quad)), log_scale = TRUE,
+            start_year = 2000, stop_year = 2008) +
+  labs(title = "Carbon intensity of rest of world") +
+  scale_y_log10(breaks = seq(50, 70, 5)) +
+  theme_bw(base_size = 15)
+
+```
+```{r not-china-energy-plot, include = TRUE, fig.height=7, fig.width=7, fig.cap = "Trend of energy intensity for the world except China, with 2000--2008 highlighted."}
+  plot_kaya(mix, "e", y_lab = "quad / $ trillion", log_scale = TRUE,
+            start_year = 2000, stop_year = 2008) +
+  labs(title = "Energy intensity of rest of world") +
+  scale_y_log10(breaks = seq(5, 10, 1)) +
+  theme_bw(base_size = 15)
+
+```
+
+
 
 An alternative analysis of the RCP scenarios, which takes the observed trend 
 from 2005--2016, seems more sensible, both 
@@ -446,6 +478,25 @@ different RCP policy regimes, and if we also recognize that RCP 4.5 gives
 [roughly 80% probability of keeping warming below 3.0&deg;C](http://www.nature.com/articles/nclimate1385), 
 then this makes it much more plausible that we have time to avoid catastrophic 
 damage.
+
+This analysis also highlights challenges with respect to energy efficiency:
+the carbon intensity of the world's energy supply has dropped much faster than
+either the baseline or any of the policy scenarios except GCAM 2.6.
+However, the energy intensity of the world's economy has dropped more slowly
+than either the reference scenario or any of the serious policy scenarios
+(the exception, GCAM 8.5 may be seen as reflecting perverse policies that 
+encourage energy consumption and the use of coal).
+This is true at the global scale and also apparent in 
+Figs \@ref{fig:china-carbon-plot} and \@ref{fig:china-energy-plot}
+
+This is consistent with many experts' views that policy measures will be 
+more effective at reducing carbon intensity by promoting inexpensive 
+clean energy sources than at slowing or reversing the growth of energy demand.
+However, one could also interpret this as a failure by both governments and 
+markets to provide 
+[behaviorally effective incentives](/files/pubs/pdfs/stern_2010_design_principles.pdf) 
+and opportunities for 
+businesses and households to implement available energy-efficiency measures.
 
 # Code
 
