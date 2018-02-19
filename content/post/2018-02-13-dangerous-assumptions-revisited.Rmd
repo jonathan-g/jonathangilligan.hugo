@@ -59,7 +59,7 @@ be as difficult as previous work has reported.
 ## Background and the Kaya Identity
 
 In 2000, the Intergovernmental Panel on Climate Change published a
-[Special Report on Emissions Scenarios](http://www.ipcc.ch/ipccreports/sres/emission/),
+[Special Report on Emissions Scenarios](http://www.ipcc.ch/ipccreports/sres/emission/){target="_blank"},
 in which it developed many possible
 scenarios for the paths that greenhouse gas emissions might follow during the
 21st century under "Business as Usual" (BAU) conditions, meaning without any
@@ -72,7 +72,7 @@ the world would follow in the 21st century would lie somewhere within this
 range.
 
 From a policy perspective, it is useful to analyze emissions in terms of the
-[Kaya Identity](https://en.wikipedia.org/wiki/Kaya_identity):
+[Kaya Identity](https://en.wikipedia.org/wiki/Kaya_identity){target="_blank"}:
 $$
 \text{Emissions} = \text{Population} \times
 \frac{\text{GDP}}{\text{Population}} \times
@@ -128,7 +128,7 @@ intensity.
 ## Comparing Observed and Implied Rates of Decarbonization
 
 In 2008, Roger Pielke, Jr., Tom Wigley, and Christopher Green
-("[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf),"
+("[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf){target="_blank"},"
 _Nature_ **452**, 531 (2008)) compared the observed rate of change of energy
 and carbon intensity in the years 2000--2005 to the rates of change implied
 by the SRES scenarios. They observed that most of the scenarios assumed that
@@ -137,22 +137,22 @@ become more energy efficient and less carbon-intensive. However, they pointed
 out, between 2000 and 2005 the opposite happened: the world's economy became
 both _more_ energy intensive and _more_ carbon intensive.
 
-![Assumed versus observed decarbonization rates, from Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf)"](/img/post/gilligan-dangerous-assumptions/pielke_assumed_decarbonization.jpg)
+![Assumed versus observed decarbonization rates, from Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf){target="_blank"}"](/img/post/gilligan-dangerous-assumptions/pielke_assumed_decarbonization.jpg)
 
 If there is a fairly rapid rate of "spontaneous decarbonization" in the absence
 of climate policy, then making climate policy is relatively easy, because it
 only has to make modest changes to something that's happening already:
 
-![Under the IPCC's SRES scenarios, spontaneous decarbonization (blue bars) does most of the hard work and climate policy only needs to add a small amount of additional decarbonization (red bars). However, if spontaneous decarbonization falls short of the predicted blue bars, then the policy task is harder. From Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf)"](/img/post/gilligan-dangerous-assumptions/pielke_cumulative_emissions.jpg)
+![Under the IPCC's SRES scenarios, spontaneous decarbonization (blue bars) does most of the hard work and climate policy only needs to add a small amount of additional decarbonization (red bars). However, if spontaneous decarbonization falls short of the predicted blue bars, then the policy task is harder. From Pielke _et al._, "[Dangerous Assumptions](https://pdfs.semanticscholar.org/afdc/e9bfa0fb51768394407d086cdeb5e9f77207.pdf){target="_blank"}"](/img/post/gilligan-dangerous-assumptions/pielke_cumulative_emissions.jpg)
 
 However, Pielke, Wigley, and Green found that the spontaneous decarbonization
 rate was much smaller than the IPCC expected, and emphasized that this implied
 that the policy challenge was much more difficult than expected.
 
 More recently, Samantha Stevenson and Roger Pielke, Jr.
-("[Assumptions of Spontaneous Decarbonization in the IPCC AR5 Baseline Scenarios](https://pdfs.semanticscholar.org/0aef/69f0117b6f4e1d2926e1acaa6db7af963924.pdf)")
+("[Assumptions of Spontaneous Decarbonization in the IPCC AR5 Baseline Scenarios](https://pdfs.semanticscholar.org/0aef/69f0117b6f4e1d2926e1acaa6db7af963924.pdf){target="_blank"}")
 conducted a similar analysis of the
-"[Representative Concentration Pathways](https://skepticalscience.com/rcp.php?t=1)"
+"[Representative Concentration Pathways](https://skepticalscience.com/rcp.php?t=1){target="_blank"}"
 (RCPs),
 which were published in 2011.
 Unlike the SRES scenarios, the RCPs are policy-active pathways in which
@@ -267,7 +267,7 @@ trend from approximately 2002--2005.
 
 To calculate carbon intensity and energy intensity, we need economic data
 for the scenarios, so to make things simple, we use the
-[GCAM simulations of the RCPs](http://www.globalchange.umd.edu/gcamrcp).
+[GCAM simulations of the RCPs](http://www.globalchange.umd.edu/gcamrcp){target="_blank"}.
 These are not identical to the official RCP data, but present reasonable
 scenarios that produce emissions trajectories very close to the RCPs.
 The GCAM versions of the pathways are calculated within a consistent
@@ -482,7 +482,7 @@ the observed _spontaneous_ decarbonization rate (with no major climate policies)
 over the last eleven years
 to the decarbonization rates implied by the policy-regimes of the
 different RCP policy regimes, and if we also recognize that RCP 4.5 gives
-[roughly 80% probability of keeping warming below 3.0&deg;C](http://www.nature.com/articles/nclimate1385),
+[roughly 80% probability of keeping warming below 3.0&deg;C](http://www.nature.com/articles/nclimate1385){target="_blank"},
 then this makes it much more plausible that we have time to avoid catastrophic
 damage.
 
@@ -501,11 +501,11 @@ more effective at reducing carbon intensity by promoting inexpensive
 clean energy sources than at slowing or reversing the growth of energy demand.
 However, one could also interpret this as a failure by both governments and
 markets to provide
-[behaviorally effective incentives](/files/pubs/pdfs/stern_2010_design_principles.pdf)
+[behaviorally effective incentives](/files/pubs/pdfs/stern_2010_design_principles.pdf){target="_blank"}
 and opportunities for
 businesses and households to implement available energy-efficiency measures.
 Michael Vandenbergh and I argue for the latter interpretation in our recent
-book, [_Beyond Politics_](https://beyondpoliticsbook.com), where we present
+book, [_Beyond Politics_](https://beyondpoliticsbook.com){target="_blank"}, where we present
 evidence that there is a large efficiency gap both in households and in
 businesses, and that there are significant opportunities to reduce emissions
 while saving money by systematically pursuing inefficiencies.
