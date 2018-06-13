@@ -1,5 +1,47 @@
 ---
 references:
+- id: gilligan:water.conservation:2018
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Wold
+    given: Christopher A.
+  - family: Worland
+    given: Scott C.
+  - family: Nay
+    given: John J.
+  - family: Hess
+    given: David J.
+  - family: Hornberger
+    given: George M.
+  issued:
+  - year: 2018
+  title: Urban water conservation policies in the united states
+  container-title: Earth’s Future
+  status: Accepted for publication; in press
+  abstract: Urban water supply systems in the United States are increasingly stressed
+    as economic and population growth confront limited water resources. Demand management,
+    through conservation and improved efficiency, has long been promoted as a practical
+    alternative to building Promethean energy‐intensive water‐supply infrastructure.
+    Some cities are making great progress at managing their demand, but study of conservation
+    policies has been limited and often regionally focused. We present a hierarchical
+    Bayesian analysis of a new measure of urban water conservation policy, the Vanderbilt
+    Water Conservation Index (VWCI), for 195 cities in 45 states in the contiguous
+    United States. This study does not attempt to establish causal relationships,
+    but does observe that cities in states with arid climates tend to adopt more conservation
+    measures. Within a state, cities with more Democratic‐leaning voting preferences
+    and large and rapidly growing populations tend to adopt more conservation measures.
+    Economic factors and climatic differences between cities do not correlate with
+    the number of measures adopted, but they do correlate with the character of the
+    measures, with arid cities favoring mandatory conservation actions and cities
+    in states with lower real personal income favoring rebates for voluntary actions.
+    Understanding relationships between environmental and societal factors and cities’
+    support for water conservation measures can help planners and policy‐makers identify
+    obstacles and opportunities to increase the role of conservation and efficiency
+    in making urban water supply systems sustainable.
+  DOI: 10.1029/2017EF000797
+
 - id: ruhl:topic.modeling:2018
   type: article-journal
   author:
@@ -10,7 +52,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2018'
+  - year: 2018
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   container-title: George Washington Law Review
@@ -34,7 +76,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2018'
+  - year: 2018
   title: 'Climate modeling: Accounting for the human factor'
   title-short: Climate modeling
   container-title: Nature Climate Change
@@ -58,9 +100,9 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2017'
-    month: '12'
-    day: '18'
+  - year: 2017
+    month: 12
+    day: 18
   title: A machine-learning approach to forecasting remotely sensed vegetation health
   container-title: International Journal of Remote Sensing
   page: '1800-1816'
@@ -102,9 +144,9 @@ references:
   - family: Hale
     given: Richard
   issued:
-  - year: '2017'
-    month: '12'
-    day: '27'
+  - year: 2017
+    month: 12
+    day: 27
   title: Widespread infilling of tidal channels and navigable waterways in human-modified
     tidal deltaplain of southwest Bangladesh
   container-title: Elementa
@@ -161,9 +203,9 @@ references:
   - family: Thorp
     given: Teresa
   issued:
-  - year: '2017'
-    month: '6'
-    day: '1'
+  - year: 2017
+    month: 6
+    day: 1
   title: 'Climate and community: The human rights, livelihood, and migration impacts
     of climate change'
   title-short: Climate and community
@@ -193,9 +235,9 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2017'
-    month: '10'
-    day: '1'
+  - year: 2017
+    month: 10
+    day: 1
   title: Are cops on the science beat?
   container-title: Issues in Science and Technology
   page: '6-8'
@@ -221,9 +263,9 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2017'
-    month: '11'
-    day: '30'
+  - year: 2017
+    month: 11
+    day: 30
   title: 'Beyond politics: The private governance response to climate change'
   title-short: Beyond politics
   publisher: Cambridge University Press
@@ -270,13 +312,13 @@ references:
   - family: Piya
     given: Bhumika
   issued:
-  - year: '2016'
-    month: '6'
-    day: '1'
+  - year: 2016
+    month: 6
+    day: 1
   accessed:
-  - year: '2016'
-    month: '6'
-    day: '9'
+  - year: 2016
+    month: 6
+    day: 9
   title: 'Drinking water insecurity: Water quality and access in coastal south-western
     Bangladesh'
   title-short: Drinking water insecurity
@@ -328,9 +370,9 @@ references:
   - family: Chick
     given: S.E.
   issued:
-  - year: '2016'
-    month: '12'
-    day: '1'
+  - year: 2016
+    month: 12
+    day: 1
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
   title-short: Agricultural adaptation to water scarcity
   container-title: Proceedings of the 2016 Winter Simulation Conference
@@ -366,9 +408,9 @@ references:
   - family: Gilligan
     given: Jonathan
   issued:
-  - year: '2016'
-    month: '12'
-    day: '31'
+  - year: 2016
+    month: 12
+    day: 31
   title: Agricultural adaptation to drought in the Sri Lankan dry zone
   title-short: Agricultural adaptation to drought
   container-title: Applied Geography
@@ -406,13 +448,13 @@ references:
   - family: Gilligan
     given: Jonathan
   issued:
-  - year: '2016'
-    month: '8'
-    day: '1'
+  - year: 2016
+    month: 8
+    day: 1
   accessed:
-  - year: '2016'
-    month: '7'
-    day: '6'
+  - year: 2016
+    month: 7
+    day: 6
   title: Application of machine learning to the prediction of vegetation health
   title-short: Prediction of vegetation health
   container-title: ISPRS—International Archives of the Photogrammetry, Remote Sensing
@@ -450,12 +492,12 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2016'
-    month: '2'
+  - year: 2016
+    month: 2
   accessed:
-  - year: '2016'
-    month: '2'
-    day: '12'
+  - year: 2016
+    month: 2
+    day: 12
   title: 'Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881–2010'
   title-short: Patterns of drought in Sri Lanka
   container-title: International Journal of Climatology
@@ -499,9 +541,9 @@ references:
   - family: Hornberger
     given: George M.
   issued:
-  - year: '2016'
-    month: '7'
-    day: '1'
+  - year: 2016
+    month: 7
+    day: 1
   title: Drought, risk, and institutional politics in the American Southwest
   container-title: Sociological Forum
   publisher: Wiley Online Library
@@ -550,13 +592,13 @@ references:
   - family: Chick
     given: S.E.
   issued:
-  - year: '2016'
-    month: '12'
-    day: '2'
+  - year: 2016
+    month: 12
+    day: 2
   accessed:
-  - year: '2016'
-    month: '7'
-    day: '14'
+  - year: 2016
+    month: 7
+    day: 14
   title: 'Betting and belief: Prediction markets and attribution of climate change'
   title-short: Betting and belief
   container-title: Proceedings of the 2016 Winter Simulation Conference
@@ -597,7 +639,7 @@ references:
   - family: Etzold
     given: Benjamin
   issued:
-  - year: '2015'
+  - year: 2015
   title: Environment, political economies, and livelihood change
   container-title: 'Environment, migration and adaptation: Evidence and politics
     of climate change in Bangladesh'
@@ -644,7 +686,7 @@ references:
   - family: Ackerly
     given: Brooke A.
   issued:
-  - year: '2015'
+  - year: 2015
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
     delta plain
   title-short: Flood risk of natural and embanked landscapes
@@ -696,11 +738,11 @@ references:
   - family: Ackerly
     given: B. A.
   issued:
-  - year: '2015'
+  - year: 2015
   accessed:
-  - year: '2015'
-    month: '6'
-    day: '3'
+  - year: 2015
+    month: 6
+    day: 3
   title: Reply to ‘Tidal river management in Bangladesh’
   container-title: Nature Climate Change
   page: '492-493'
@@ -738,11 +780,11 @@ references:
   - family: Rossetti
     given: M.D.
   issued:
-  - year: '2015'
+  - year: 2015
   accessed:
-  - year: '2016'
-    month: '2'
-    day: '25'
+  - year: 2016
+    month: 2
+    day: 25
   title: Participatory simulations of urban flooding for learning and decision support
   container-title: Proceedings of the 2015 Winter Simulation Conference
   collection-title: WSC ’15
@@ -773,11 +815,11 @@ references:
   - family: Gilligan
     given: Jonathan
   issued:
-  - year: '2015'
+  - year: 2015
   accessed:
-  - year: '2016'
-    month: '2'
-    day: '12'
+  - year: 2016
+    month: 2
+    day: 12
   title: Water conservation and hydrological transitions in cities in the United States
   container-title: Water Resources Research
   page: '4635-4649'
@@ -825,11 +867,11 @@ references:
   - family: Rossetti
     given: M.D.
   issued:
-  - year: '2015'
+  - year: 2015
   accessed:
-  - year: '2016'
-    month: '2'
-    day: '25'
+  - year: 2016
+    month: 2
+    day: 25
   title: Data-driven dynamic decision models
   container-title: Proceedings of the 2015 Winter Simulation Conference
   collection-title: WSC ’15
@@ -861,7 +903,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2015'
+  - year: 2015
   title: Beyond gridlock
   container-title: Columbia Journal of Environmental Law
   page: '217-303'
@@ -896,7 +938,7 @@ references:
   - family: Vandenbergh
     given: Michael P.
   issued:
-  - year: '2014'
+  - year: 2014
   title: Accounting for political feasibility in climate instrument choice
   title-short: Accounting for political feasibility
   container-title: Virginia Environmental Law Journal
@@ -933,7 +975,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2014'
+  - year: 2014
   title: 'Energy and climate change: A climate prediction market'
   title-short: A climate prediction market
   container-title: UCLA Law Review
@@ -977,8 +1019,8 @@ references:
   - family: Goodbred
     given: Steven L.
   issued:
-  - year: '2013'
-    month: '2'
+  - year: 2013
+    month: 2
   title: 'Building resilience to environmental stress in coastal Bangladesh: An
     integrated social, environmental, and engineering perspective'
   title-short: Resilience to environmental stress in bangladesh
@@ -1017,7 +1059,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2013'
+  - year: 2013
   title: Farming practices and anthropogenic delta dynamics
   container-title: 'Deltas: Landforms, ecosystems and human activities'
   collection-title: IAHS publ.
@@ -1052,7 +1094,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2011'
+  - year: 2011
   title: 'Energy and climate change: Key lessons for implementing the behavioral
     wedge'
   title-short: Key lessons for implementing the behavioral wedge
@@ -1100,7 +1142,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2011'
+  - year: 2011
   title: 'Macro-risks: The challenge for rational risk regulation'
   title-short: Macro risks
   container-title: Duke Environmental Law and Policy Forum
@@ -1149,9 +1191,9 @@ references:
   - family: Werdich
     given: Andreas
   issued:
-  - year: '2010'
-    month: '4'
-    day: '27'
+  - year: 2010
+    month: 4
+    day: 27
   title: Apparatus and methods for monitoring the status of a metabolically active
     cell
   title-short: Monitoring a metabolically active cell
@@ -1179,9 +1221,9 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   issued:
-  - year: '2010'
-    month: '5'
-    day: '11'
+  - year: 2010
+    month: 5
+    day: 11
   title: Device and methods for detecting the response of a plurality of cells to
     at least one analyte of interest
   status: published
@@ -1207,7 +1249,7 @@ references:
   - family: Vandenbergh
     given: Michael
   issued:
-  - year: '2010'
+  - year: 2010
   title: The behavioral wedge
   container-title: Significance
   page: '17-20'
@@ -1230,7 +1272,7 @@ references:
   - family: Espejo
     given: R.
   issued:
-  - year: '2010'
+  - year: 2010
   title: People should behave ethically for the sake of future generations
   title-short: Ethics and future generations
   container-title: 'Opposing viewpoints: Ethics'
@@ -1253,7 +1295,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2010'
+  - year: 2010
   title: Design principles for carbon emissions reduction programs
   title-short: Design principles for emissions reduction programs
   container-title: Environmental Science & Technology
@@ -1278,7 +1320,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: '2010'
+  - year: 2010
   title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
     emissions reduction programs'
   title-short: Implementing the behavioral wedge
@@ -1306,7 +1348,7 @@ references:
   - family: Wallston
     given: Kenneth A.
   issued:
-  - year: '2009'
+  - year: 2009
   title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
     vehicles'
   title-short: Costly myths
@@ -1344,7 +1386,7 @@ references:
   - family: Vandenbergh
     given: Michael
   issued:
-  - year: '2009'
+  - year: 2009
   title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
     emissions
   title-short: Behavioral wedge
@@ -1380,7 +1422,7 @@ references:
   - family: Sidorov
     given: Venyamin Y.
   issued:
-  - year: '2009'
+  - year: 2009
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
     and metabolism
   title-short: Dual-camera system
@@ -1416,7 +1458,7 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   issued:
-  - year: '2008'
+  - year: 2008
   title: 'Individual carbon emissions: The low-hanging fruit'
   title-short: Individual carbon emissions
   container-title: UCLA Law Review
@@ -1455,7 +1497,7 @@ references:
   - family: Wikswo
     given: John P.
   issued:
-  - year: '2007'
+  - year: 2007
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
     bath
   title-short: High-voltage cardiac stimulator
@@ -1486,7 +1528,7 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   issued:
-  - year: '2006'
+  - year: 2006
   title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
     risks'
   title-short: Managing nanotechnology risks
@@ -1521,7 +1563,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '2003'
+  - year: 2003
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
     due to free-electron laser radiation
   title-short: Cornea and cartilege denaturation
@@ -1574,7 +1616,7 @@ references:
   - family: Tolk
     given: Norman H.
   issued:
-  - year: '2002'
+  - year: 2002
   title: Surface characterisation by near-field microscopy and atomic force microscopy
   title-short: Surface characterisation by near-field microscopy
   container-title: Advances in Science and Technology
@@ -1602,7 +1644,7 @@ references:
   - family: Taylor
     given: P.C.
   issued:
-  - year: '2002'
+  - year: 2002
   title: Defect transition energies and the density of electronic states in hydrogenated
     amorphous silicon
   title-short: Defects in amorphous silicon
@@ -1642,7 +1684,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '2001'
+  - year: 2001
   title: 'Spectroscopic scanning near-field optical microscopy with a free electron
     laser: $\ce{CH2}$ bond imaging in diamond films'
   title-short: Spectroscopic near-field microscopy
@@ -1685,7 +1727,7 @@ references:
   - family: Tolk
     given: Norman H
   issued:
-  - year: '2001'
+  - year: 2001
   title: Infrared free-electron laser photoablation of diamond films
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   publisher: International Society for Optics; Photonics
@@ -1722,7 +1764,7 @@ references:
   - family: Tolk
     given: Norman H.
   issued:
-  - year: '2000'
+  - year: 2000
   title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
     selective materials modification'
   title-short: Materials science at the WM Keck free electron laser
@@ -1745,7 +1787,7 @@ references:
   - family: Edwards
     given: Glenn S.
   issued:
-  - year: '2000'
+  - year: 2000
   title: Alteration of absorption coefficients of tissue water as a result of heating
     under IR FEL radiation with different wavelengths
   container-title: International biomedical optics symposium
@@ -1788,7 +1830,7 @@ references:
   - family: Tolk
     given: Norman H.
   issued:
-  - year: '2000'
+  - year: 2000
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   container-title: Materials Letters
   page: '339-344'
@@ -1823,7 +1865,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '1999'
+  - year: 1999
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
     optical microscopy
   container-title: 'Physica Status Solidi A: Applied Research'
@@ -1865,7 +1907,7 @@ references:
   - family: Aggarwal
     given: I. D.
   issued:
-  - year: '1999'
+  - year: 1999
   title: Interface applications of scanning near-field optical microscopy with a free
     electron laser
   container-title: 'Physica Status Solidi A: Applied Research'
@@ -1907,7 +1949,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '1999'
+  - year: 1999
   title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
     in metals and semiconductors
   container-title: 'Soviet Physics: Technical Physics'
@@ -1949,7 +1991,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '1999'
+  - year: 1999
   title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
     infrared optical microscopy
   container-title: Optical Engineering
@@ -1991,7 +2033,7 @@ references:
   - family: Margaritondo
     given: G.
   issued:
-  - year: '1999'
+  - year: 1999
   title: Singlemode chalcogenide fiber infrared SNOM probes
   container-title: Ultramicroscopy
   page: '77-81'
@@ -2024,7 +2066,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '1999'
+  - year: 1999
   title: Effect of wavelength on threshold and kinetics of tissue denaturation under
     laser radiation
   container-title: International biomedical optics symposium
@@ -2087,7 +2129,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '1998'
+  - year: 1998
   title: First experimental results with the free electron laser coupled to a scanning
     near-field optical microscope
   container-title: 'Physica Status Solidi A: Applied Research'
@@ -2122,7 +2164,7 @@ references:
   - family: Margaritondo
     given: G.
   issued:
-  - year: '1998'
+  - year: 1998
   title: Free-electron-laser near-field nanospectroscopy
   container-title: Applied Physics Letters
   page: '151-153'
@@ -2156,7 +2198,7 @@ references:
   - family: Tolk
     given: Norman Henry
   issued:
-  - year: '1998'
+  - year: 1998
   title: Infrared wavelength-selective photodesorption on diamond surfaces
   container-title: Applied Surface Science
   page: '59-63'
@@ -2203,7 +2245,7 @@ references:
   - family: Husinsky
     given: W.
   issued:
-  - year: '1998'
+  - year: 1998
   title: Molecular effects in measured sputtering yields on gold at near threshold
     energies
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
@@ -2235,7 +2277,7 @@ references:
   - family: Lucovsky
     given: G.
   issued:
-  - year: '1998'
+  - year: 1998
   title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
   container-title: Physical Review Letters
   page: '4224-4227'
@@ -2272,7 +2314,7 @@ references:
   - family: Husinsky
     given: W.
   issued:
-  - year: '1998'
+  - year: 1998
   title: New molecular collisional interaction effect in low-energy sputtering
   container-title: Physical Review Letters
   page: '550-553'
@@ -2305,7 +2347,7 @@ references:
   - family: Margaritondo
     given: G.
   issued:
-  - year: '1997'
+  - year: 1997
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
   container-title: Acta Physica Polonica A
   page: '689-696'
@@ -2334,7 +2376,7 @@ references:
   - family: Gunson
     given: M. R.
   issued:
-  - year: '1997'
+  - year: 1997
   title: Evaluation of source gas lifetimes from stratospheric observations
   container-title: 'Journal of Geophysical Research: Atmospheres'
   page: '25543-25564'
@@ -2395,7 +2437,7 @@ references:
   - family: Lucarelli
     given: M. P.
   issued:
-  - year: '1996'
+  - year: 1996
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
     in the upper troposphere and lower stratosphere
   container-title: Geophysical Research Letters
@@ -2431,7 +2473,7 @@ references:
   - family: Chan
     given: K. R.
   issued:
-  - year: '1996'
+  - year: 1996
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
   container-title: Science
   page: '1763-1768'
@@ -2478,7 +2520,7 @@ references:
   - family: Salawitch
     given: R. J.
   issued:
-  - year: '1995'
+  - year: 1995
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
     from *in situ* measurements during <span class="smallcaps">aase ii</span>
   container-title: Journal of Geophysical Research
@@ -2506,7 +2548,7 @@ references:
   - family: Myers
     given: R. C.
   issued:
-  - year: '1994'
+  - year: 1994
   title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
     with a new *in situ* instrument, airborne chromatograph for atmospheric trace
     species (ACATS-IV)
@@ -2531,7 +2573,7 @@ references:
   - family: Wineland
     given: David J.
   issued:
-  - year: '1993'
+  - year: 1993
   title: Interference in the resonance fluorescence of two trapped atoms
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   page: '43-48'
@@ -2555,7 +2597,7 @@ references:
   - family: Raizen
     given: Mark G.
   issued:
-  - year: '1993'
+  - year: 1993
   title: Young’s interference experiment with light scattered from two atoms
   container-title: Physical Review Letters
   page: '2359-2362'
@@ -2578,7 +2620,7 @@ references:
   - family: Raizen
     given: Mark G.
   issued:
-  - year: '1993'
+  - year: 1993
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
   title-short: Quantum projection noise
   container-title: Physical Review A
@@ -2606,7 +2648,7 @@ references:
   - family: Wineland
     given: David J.
   issued:
-  - year: '1993'
+  - year: 1993
   title: Quantum measurements of trapped ions
   container-title: Vistas in Astronomy
   page: '169-183'
@@ -2632,7 +2674,7 @@ references:
   - family: Wineland
     given: David J.
   issued:
-  - year: '1993'
+  - year: 1993
   title: Ultra-high precision spectroscopy for fundamental physics
   container-title: Hyperfine Interactions
   page: '211-220'
@@ -2657,7 +2699,7 @@ references:
   - family: Wineland
     given: David J.
   issued:
-  - year: '1993'
+  - year: 1993
   title: Light scattered from two atoms
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   page: '410-419'
@@ -2675,7 +2717,7 @@ references:
   - family: Lichten
     given: William
   issued:
-  - year: '1993'
+  - year: 1993
   title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
     of several iodine lines
   container-title: Physical Review A
@@ -2691,7 +2733,7 @@ references:
   - family: Eyler
     given: Edward Eugene
   issued:
-  - year: '1992'
+  - year: 1992
   title: Precise determinations of ionization potentials and $EF$ state energy levels
     of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
   container-title: Physical Review A
@@ -2729,7 +2771,7 @@ references:
   - family: Wineland
     given: David J.
   issued:
-  - year: '1992'
+  - year: 1992
   title: Ionic crystals in a linear Paul trap
   container-title: Physical Review A
   page: '6493-6501'
@@ -2750,7 +2792,7 @@ references:
   - family: Wineland
     given: David J.
   issued:
-  - year: '1992'
+  - year: 1992
   title: Linear trap for high-accuracy spectroscopy of stored ions
   container-title: Journal of Modern Optics
   page: '233-242'
@@ -2763,7 +2805,7 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   issued:
-  - year: '1991'
+  - year: 1991
   title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
     molecules and a new determination of the ionization potential of $\ce{HD}$
   publisher: Yale University
@@ -2801,7 +2843,7 @@ references:
   - family: Eyler
     given: Edward Eugene
   issued:
-  - year: '1991'
+  - year: 1991
   title: High-resolution three-photon spectroscopy and multiphoton interference in
     molecular hydrogen
   container-title: Physical Review A
@@ -2833,7 +2875,7 @@ references:
   - family: Manney
     given: C. H.
   issued:
-  - year: '1991'
+  - year: 1991
   title: Recent experiments on trapped ions at the National Institute of Standards
     and Technology
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
@@ -2865,7 +2907,7 @@ references:
   - family: Manney
     given: C. H.
   issued:
-  - year: '1991'
+  - year: 1991
   title: High-resolution spectroscopy of laser-cooled ions
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
@@ -2884,7 +2926,7 @@ references:
   - family: Eyler
     given: Edward Eugene
   issued:
-  - year: '1989'
+  - year: 1989
   title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
   container-title: Physical Review A
   page: '2260-2263'
@@ -2901,7 +2943,7 @@ references:
   - family: McCormack
     given: Elizabeth
   issued:
-  - year: '1988'
+  - year: 1988
   title: Precise multiphoton spectroscopy of $\ce{H2}$
   container-title: Advances in laser spectroscopy III
   collection-title: AIP conference proceedings
@@ -2923,7 +2965,7 @@ references:
   - family: Pollack
     given: Edward
   issued:
-  - year: '1987'
+  - year: 1987
   title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
   container-title: Physical Review A
   page: '3486-3489'
@@ -2938,7 +2980,7 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   issued:
-  - year: '1987'
+  - year: 1987
   title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
   container-title: Advances in laser spectroscopy II
   collection-title: AIP conference proceedings
@@ -2956,7 +2998,7 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   issued:
-  - year: '1987'
+  - year: 1987
   title: Precise photodissociation and multiphoton spectroscopy of $\ce{H2}$
   container-title: Proceedings of the XV International Conference on Quantum Electronics
   collection-title: Technical digest series

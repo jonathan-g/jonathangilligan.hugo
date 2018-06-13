@@ -11,7 +11,7 @@ container_title: Condensed Matter Theories
 date: '2000-01-01'
 id: lupke_fel_2000
 issued:
-- {year: '2000'}
+- {year: 2000}
 page: 349-364
 pub_type: article-journal
 short_author:

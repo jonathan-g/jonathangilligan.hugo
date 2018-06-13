@@ -1,0 +1,11 @@
+Rank,City,VWCI,predicted VWCI,residual
+1,"San Antonio, TX",46,28.9,17.1
+2,"McAllen, TX",15,30.2,-15.2
+3,"Oxnard, CA",49,33.9,15.1
+4,"Austin, TX",47,32.7,14.3
+5,"Santa Maria, CA",23,35.7,-12.7
+6,"San Diego, CA",52,39.5,12.5
+7,"Santa Rosa, CA",50,37.5,12.5
+8,"College Station, TX",30,18.1,11.9
+9,"Phoenix, AZ",21,32.4,-11.4
+10,"Houston, TX",18,29.2,-11.2

@@ -16,7 +16,7 @@ container_title: Science
 date: '1996-01-01'
 id: volk_transport_1996
 issued:
-- {year: '1996'}
+- {year: 1996}
 page: 1763-1768
 pub_type: article-journal
 short_author:

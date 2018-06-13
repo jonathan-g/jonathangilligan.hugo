@@ -1,0 +1,24 @@
+Rank,City,VWCI,Req.,Reb.,$\text{Req.}/\text{Reb.}$
+1,"Los Angeles, CA",53,23,13,1.77
+2,"San Diego, CA",52,19,15,1.27
+3,"Santa Rosa, CA",50,19,15,1.27
+4,"Oxnard, CA",49,23,11,2.09
+5,"San Jose, CA",48,22,12,1.83
+5,"Santa Cruz, CA",48,20,11,1.82
+7,"Austin, TX",47,19,11,1.73
+8,"San Antonio, TX",46,19,8,2.38
+9,"Albuquerque, NM",45,19,12,1.58
+9,"Riverside, CA",45,15,13,1.15
+11,"Fresno, CA",44,22,8,2.75
+12,"Denver, CO",43,19,8,2.38
+13,"San Francisco, CA",42,18,9,2
+14,"Las Vegas, NV",40,18,7,2.57
+14,"Salinas, CA",40,19,6,3.17
+16,"El Paso, TX",38,19,3,6.33
+16,"Miami, FL",38,14,8,1.75
+18,"Fort Collins, CO",37,9,8,1.12
+18,"Stockton, CA",37,14,8,1.75
+20,"New York, NY",35,19,2,9.5
+20,"Salt Lake City, UT",35,18,2,9
+20,"Tampa, FL",35,14,5,2.8
+20,"Vallejo, CA",35,14,6,2.33

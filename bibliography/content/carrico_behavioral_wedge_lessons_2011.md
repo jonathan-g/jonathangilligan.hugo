@@ -12,7 +12,7 @@ file:
 - {desc: full text, file: carrico_2011_key_lessons.pdf}
 id: carrico_behavioral_wedge_lessons_2011
 issued:
-- {year: '2011'}
+- {year: 2011}
 page: 61-67
 pub_type: article-journal
 short_author:

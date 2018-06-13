@@ -11,7 +11,7 @@ container_title: Applied Physics Letters
 date: '1998-01-01'
 id: cricenti_nanospectroscopy_1998
 issued:
-- {year: '1998'}
+- {year: 1998}
 page: 151-153
 pub_type: article-journal
 short_author:

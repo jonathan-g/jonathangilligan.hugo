@@ -12,7 +12,7 @@ container_title: Applied Surface Science
 date: '1998-01-01'
 id: sturmann_diamond_1998
 issued:
-- {year: '1998'}
+- {year: 1998}
 page: 59-63
 pub_type: article-journal
 short_author:

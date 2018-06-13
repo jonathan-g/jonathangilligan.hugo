@@ -9,7 +9,7 @@ file:
 - {desc: full text, file: vandenbergh_2008_low_hanging_fruit.pdf}
 id: vandenbergh_low_hanging_fruit_2008
 issued:
-- {year: '2008'}
+- {year: 2008}
 page: 1701-1758
 pub_type: article-journal
 short_author:

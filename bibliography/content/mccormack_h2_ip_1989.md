@@ -8,7 +8,7 @@ container_title: Physical Review A
 date: '1989-01-01'
 id: mccormack_h2_ip_1989
 issued:
-- {year: '1989'}
+- {year: 1989}
 page: 2260-2263
 pub_type: article-journal
 short_author:

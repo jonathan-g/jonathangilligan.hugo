@@ -14,7 +14,7 @@ container_title: Materials Letters
 date: '2000-01-01'
 id: talley_snom_tips_2000
 issued:
-- {year: '2000'}
+- {year: 2000}
 page: 339-344
 pub_type: article-journal
 short_author:

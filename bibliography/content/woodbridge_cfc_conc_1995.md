@@ -22,7 +22,7 @@ container_title: Journal of Geophysical Research
 date: '1995-01-01'
 id: woodbridge_cfc_conc_1995
 issued:
-- {year: '1995'}
+- {year: 1995}
 page: 3057-3064
 pub_type: article-journal
 short_author:

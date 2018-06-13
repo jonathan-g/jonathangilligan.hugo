@@ -9,7 +9,7 @@ container_title: Physical Review A
 date: '1992-01-01'
 id: raizen_ion_crystals_1992
 issued:
-- {year: '1992'}
+- {year: 1992}
 page: 6493-6501
 pub_type: article-journal
 short_author:

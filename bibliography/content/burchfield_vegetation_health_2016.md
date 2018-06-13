@@ -11,7 +11,7 @@ file:
 - {desc: full text, file: burchfield_2016_vegetation_health.pdf}
 id: burchfield_vegetation_health_2016
 issued:
-- {day: '1', month: '8', year: '2016'}
+- {day: 1, month: 8, year: 2016}
 page: 465-469
 pub_type: article-journal
 pub_url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/

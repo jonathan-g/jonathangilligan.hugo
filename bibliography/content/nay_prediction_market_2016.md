@@ -18,7 +18,7 @@ file:
 - {desc: full text, file: nay_2016_betting_belief.pdf}
 id: nay_prediction_market_2016
 issued:
-- {day: '2', month: '12', year: '2016'}
+- {day: 2, month: 12, year: 2016}
 keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
   Finance - Economics
 page: 1666-1677

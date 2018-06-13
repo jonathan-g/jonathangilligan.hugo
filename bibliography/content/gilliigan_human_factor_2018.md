@@ -6,7 +6,7 @@ container_title: Nature Climate Change
 date: '2018-01-01'
 id: gilliigan_human_factor_2018
 issued:
-- {year: '2018'}
+- {year: 2018}
 note: "\u201CNews and Views\u201D commentary."
 page: 14-15
 pub_type: article-journal
