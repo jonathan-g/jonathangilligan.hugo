@@ -8,12 +8,12 @@ author:
 - {family: Hess, given: David J.}
 - {family: Hornberger, given: George M.}
 container_title: "Earth\u2019s Future"
-date: '2018-01-01'
+date: '2018-06-11'
 file:
 - {desc: full text, file: gilligan_2018_water_conservation.pdf}
 id: gilligan_water_conservation_2018
 issued:
-- {year: 2018}
+- {day: 11, month: 6, year: 2018}
 pub_type: article-journal
 short_author:
 - {family: Gilligan, given: J. M.}

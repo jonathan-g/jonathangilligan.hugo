@@ -17,6 +17,8 @@ references:
     given: George M.
   issued:
   - year: 2018
+    month: 6
+    day: 11
   title: Urban water conservation policies in the united states
   container-title: Earth’s Future
   status: Accepted for publication; in press
@@ -53,6 +55,8 @@ references:
     given: Jonathan M.
   issued:
   - year: 2018
+    month: 2
+    day: 1
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   container-title: George Washington Law Review
@@ -77,6 +81,8 @@ references:
     given: Jonathan M.
   issued:
   - year: 2018
+    month: 1
+    day: 1
   title: 'Climate modeling: Accounting for the human factor'
   title-short: Climate modeling
   container-title: Nature Climate Change
