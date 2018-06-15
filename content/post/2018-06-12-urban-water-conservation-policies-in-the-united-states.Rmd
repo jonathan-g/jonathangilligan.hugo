@@ -3,7 +3,7 @@ title: Urban Water Conservation Policies in the United States
 author: "Jonathan Gilligan"
 date: '2018-06-12'
 slug: water-conservation-policies
-draft: true
+draft: false
 categories:
   - publications
   - blog posts
@@ -14,8 +14,8 @@ tags:
 ---
 ```{r setup, echo=FALSE, eval=TRUE, results="hide", warning=FALSE, error=FALSE, message=FALSE}
 library(knitr)
-library(tidyverse)
-library(xtable)
+library(pacman)
+p_load(tidyverse, kableExtra)
 
 knitr::opts_chunk$set(echo=FALSE, include=TRUE, cache=TRUE)
 ```
@@ -32,17 +32,44 @@ documented in his book,
 [_Water Is for Fighting Over_](https://www.amazon.com/Water-Fighting-Over-Other-Myths-ebook/dp/B01IY20IZ2/), 
 a number of cities have made impressive progress toward resilience and sustaniability.
 
-Over the past three years, I have been part of an interdisciplinary research project to study the 
+If planners and policy-makers understand the characteristics of cities that embrace water conservation policies
+and those that resist them, as well as the different kinds of conservation policies that different kinds of cities adopt,
+then they may be able to identify opportunities and obstacles to water conservation in their own cities and
+tailor policy proposals to the preferences of their water consumers.
+
+In 
+[a new paper](https://doi.org/10.1029/2017EF000797)
+that was just accepted for publication by Earth's Future, my colleagues and I report the first analysis of 
+water conservation policies in the 195 largest cities in the contiguous United States.
+We found that both the environmental and societal conditions are important for predicting the number and the kind of
+conservation measures different cities are likely to adopt, and that the two most important variables were
+the aridity of the climate and partisan voting patterns.
+
+We were surprised to discover that political leanings were just as important as aridity. 
+It is well known that energy and climate are politically divisive issues, 
+but we had expected that water conservation would be more neutral and less polarizing.
+
+We also found that environmental variables, such as aridity,
+are important at the state level, but not at the city level, whereas societal variables, such as political
+leanings, are important at the city level and possibly at the state level as well.
+
+The pattern we found was that large, rapidly growing, and politically liberal cities in arid and 
+politically liberal states tend to adopt more water conservation policies. 
+The importance of both environmental and societal characteristics demonstrates the value of integrated interdisciplinary research.
+
+## Compiling a Database of Urban Water Conservation Policies
+
+Over the past three years, I have been part of an interdisciplinary research project, together with
+[George Hornberger](https://engineering.vanderbilt.edu/bio/george-hornberger), [David Hess](http://www.davidjhess.org/index.html), [Scott Worland](https://www.usgs.gov/staff-profiles/scott-c-worland?qt-staff_profile_science_products=3#qt-staff_profile_science_products), [John Nay](http://johnjnay.com/), [Christopher Wold](https://www.linkedin.com/in/christopher-wold-813a8975), [Kate Pride Brown](https://www.iac.gatech.edu/people/faculty/brown_2), and others, to study the 
 [socio-technical transition of water policy in U.S. cities](https://doi.org/10.1002/2015WR016943)
 from technologically focused measures to expand supply capacity and reliability toward softer measures
 that address the demand side through emphasis on efficiency and waste reduction.
-We build a [database of water conservation policies] for the 197 largest 
+We built a [database of water conservation policies](https://doi.org/10.1111/1752-1688.12506) for the 197 largest 
 [metropolitan statistical areas](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) 
-(MSAs) in the United States.
-An 
+(MSAs) in the United States (an 
 [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) 
-is a geogrpahic region representing a central city and one or more contiguous counties that have high population densities 
-and share economic activity with the central city.
+is a geographic region representing a central city and one or more contiguous counties that have high population densities 
+and share economic activity with the central city).
 
 -----
 
@@ -52,32 +79,37 @@ An interactive map of water conservation scores is available at <http://scworlan
 
 -----
 
-We counted the number of categories of water-conservation policy (out of a list of 79 possible categories)
+We counted the number of water-conservation policy (out of a list of 79 possible categories)
 each MSA had adopted. We organized these counts into three conservation scores:
 
-* VWCI (the Vanderbilt Water Conservation Index): The total number of conservation policies adopted by the MSA.
-* Requirements: The number of conservation policies that include mandatory requirements, such as prohibiting lawn-watering or requiring that new plumbing installations include low-flow fittings, such as shower heads.
-* Rebates: The number of policies that offer rebates for voluntary conservation measures, such as purchasing water-efficient appliances.
+* **VWCI** (the **Vanderbilt Water Conservation Index**)**:** The total number of conservation policies adopted by the MSA.
+* **Requirements:** The number of conservation policies that include mandatory requirements, such as prohibiting lawn-watering or requiring that new plumbing installations include low-flow fittings, such as shower heads.
+* **Rebates:** The number of policies that offer rebates for voluntary conservation measures, such as purchasing water-efficient appliances.
 
-As the table below shows, cities with similar scores for total VWCI mmay have very different contributions from requirements and rebates.
-Consider, for instance, New York City and Salt Lake City versus Tampa and Vallejo, El Paso versus Miami, or Riverside versus Fresno.
-The table also shows that all but three of the cities with the 20 largest VWCI scores are in the West (of the three exceptions, two are in
-Florida and the other is New York City).
+The table below shows the cities with the 20 greatest VWCI scores. All but three of these are in the Western U.S. (the exceptions are Miami, Tampa, and New York City).
+The table also shows that cities with similar scores for total VWCI mmay have very different contributions from requirements and rebates.
+Consider, for instance, New York City and Salt Lake City versus Tampa and Vallejo or El Paso versus Miami.
 
 ```{r vwci_table, echo=FALSE, include=TRUE, message=FALSE, warning=FALSE, results="asis"}
-table_1 <- read_csv("data/urban-water-conservation/Table_1.csv")
+table_1 <- read_csv("data/urban-water-conservation/Table_1.csv") %>%
+  rename("Req./Reb." = 6)
 
-kable(table_1, align=c('l', 'r', 'r', 'r', 'r'))
+kable(table_1, align=c('l', 'r', 'r', 'r', 'r')) %>%
+  kable_styling(bootstrap_options = c("striped", "condensed"), full_width = F, position = "left")
 ```
 
 
+## Analyzing the Characteristics of Urban Water Conservation Policies
+
 In 
-[a new paper](https://doi.org/10.1029/2017EF000797), 
-accepted for publication by Earth's Future, we 
+[our new paper](https://doi.org/10.1029/2017EF000797), 
+we 
 analyzed cities in the 48 contiguous states (195 cities from our database, representing 45 states) to 
 identify the social and environmental characteristics that best predict the number and the kind of 
 water conservation policies they have adopted. We considered a number of social and environmental variables at the
 state-level and at the MSA level.
+
+### Characteristics of Cities and States
 
 * aridity: the K&ouml;ppen aridity index (negative corresponds to drier climates and positive to wetter climates).
 * surface water: The fraction of the water supply drawn from surface-water sources.
@@ -95,17 +127,30 @@ for PVI this allows us to consider the effect of a city being more Democratic or
 "blueberry in tomato soup" cities, as 
 [Rick Perry described Austin TX](https://www.nationalreview.com/corner/perry-warns-kimmel-i-do-interviews-gun-andrew-johnson/)).
 
+### Regression Analysis
+
 We performed a regression analysis to examine the role of each of these variables in predicting each of the three conservation scores.
 The results of the analysis are shown in the figure below. 
 
-`r blogdown::shortcode("figure", src="/post/img/water-conservation-policies/vwci_cat_plot.png", caption="Regression coefficients for state (&gamma;) and city (&beta;) level variables.")`
+`r blogdown::shortcode("figure", src="/post/img/water-conservation-policies/vwci_cat_plot.png", caption="Regression coefficients for state ($\\gamma$) and city ($\\beta$) level variables.")`
 
-We found that the **aridity** of the state climate was one of the two most important predictors for all three measures of water conservation. 
-City-level environmental characteristics don't correlate importantly with the total number of conservation measures, but
-we did find that cities that are drier than the rest of the state tend to impose more mandatory conservation requirements.
-The greater importance of state-level aridity and the smaller importance of city-level differences from the state average
+In addition to the variables listed above, we tested alternate statistical models that considered such variables as
+the Gini index of economic inequality, population density, and the areas covered by the different MSAs. None of these
+alternate models performed as well as the analysis we present above (for details, see the paper and its supporting 
+information).
+
+## Results of the Analysis
+
+We found that the two most important predictors of the number of water conservation policies a city would adopt 
+were the climatological **aridity** of the state and the **partisan voting index**.
+
+The **aridity** of the state climate was one a very important predictors for all three measures of water conservation, 
+but city-level environmental characteristics don't correlate importantly with the total number of conservation measures or the number of rebates.
+However, we did find that cities that are drier than the rest of the state tend to impose more mandatory conservation requirements.
+The greater importance of state-level aridity and the smaller importance of variation from city to city within a state 
 make sense when we consider that city water supplies tend to be drawn from drainage basins and aquifers that extend far
-beyond the urban boundaries. **Surface water** was not an important predictor for any of the conservation measures 
+beyond the urban boundaries. 
+**Surface water** was not an important predictor for any of the conservation measures 
 at either the state or city level.
 
 Of the social variables, **PVI** was important at both the state and city level. Cities in more Democratic states, and 
@@ -113,7 +158,7 @@ cities that vote more Democratic than the rest of the state tend to adopt more t
 of each kind of conservation measure. However, as we describe in the paper, an alternate analysis whose results are
 equally plausible as the one we present here, found that if we look at the city's raw PVI value, as opposed to
 the difference between the city and the state, then the city's PVI is a very important predictor of water conservation,
-but the state-level PVI becomes ambiguous and less important. Either way, both analyses find that PVI is an important
+but the state-level PVI becomes ambiguous and less important. Both analyses find that PVI is an important
 predictor, but differ on the details of the distinction between city-level and state-level PVI.
 
 Urban population and population growth rate are both important, with larger and faster-growing cities adopting more conservation measures of all kinds.
@@ -124,3 +169,12 @@ more requirements, and more rebates. However, two variables predict different mi
 Cities that are drier than the rest of the state tend to adopt more mandatory conservation requirements relative to the number of
 voluntary rebates and other measures. And cities in less affluent states (those with lower state-wide real personal income) tended to 
 adopt more rebates relative to the number of requirements and other measures.
+
+## Conclusions
+
+This analysis showed that both environmental and societal characteristics are important for understanding water
+conservation policies in U.S. cities. This demonstrates the value of interdisciplinary research that integrates social
+and natural sciences. We expect that water managers and policy makers will benefit from understanding the ways that
+characteristics of different cities and states can affect the reception that different kinds of water conservation policies
+may encounter in different cities, and can help guide the development of policy rationales and policy proposals 
+to enahnce sustainability and water security.

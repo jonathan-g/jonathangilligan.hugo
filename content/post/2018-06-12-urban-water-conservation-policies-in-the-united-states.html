@@ -3,7 +3,7 @@ title: Urban Water Conservation Policies in the United States
 author: "Jonathan Gilligan"
 date: '2018-06-12'
 slug: water-conservation-policies
-draft: true
+draft: false
 categories:
   - publications
   - blog posts
@@ -13,6 +13,7 @@ tags:
   - Bayesian statistics
 ---
 
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
 
 
 <p>Cities face challenges on many fronts as they work to assure their residents of safe and reliable access to water.
@@ -27,238 +28,552 @@ to water security focus on improving efficiency in obtaining and consuming water
 documented in his book,
 <a href="https://www.amazon.com/Water-Fighting-Over-Other-Myths-ebook/dp/B01IY20IZ2/"><em>Water Is for Fighting Over</em></a>,
 a number of cities have made impressive progress toward resilience and sustaniability.</p>
-<p>Over the past three years, I have been part of an interdisciplinary research project to study the
+<p>If planners and policy-makers understand the characteristics of cities that embrace water conservation policies
+and those that resist them, as well as the different kinds of conservation policies that different kinds of cities adopt,
+then they may be able to identify opportunities and obstacles to water conservation in their own cities and
+tailor policy proposals to the preferences of their water consumers.</p>
+<p>In
+<a href="https://doi.org/10.1029/2017EF000797">a new paper</a>
+that was just accepted for publication by Earth’s Future, my colleagues and I report the first analysis of
+water conservation policies in the 195 largest cities in the contiguous United States.
+We found that both the environmental and societal conditions are important for predicting the number and the kind of
+conservation measures different cities are likely to adopt, and that the two most important variables were
+the aridity of the climate and partisan voting patterns.</p>
+<p>We were surprised to discover that political leanings were just as important as aridity.
+It is well known that energy and climate are politically divisive issues,
+but we had expected that water conservation would be more neutral and less polarizing.</p>
+<p>We also found that environmental variables, such as aridity,
+are important at the state level, but not at the city level, whereas societal variables, such as political
+leanings, are important at the city level and possibly at the state level as well.</p>
+<p>The pattern we found was that large, rapidly growing, and politically liberal cities in arid and
+politically liberal states tend to adopt more water conservation policies.
+The importance of both environmental and societal characteristics demonstrates the value of integrated interdisciplinary research.</p>
+<div id="compiling-a-database-of-urban-water-conservation-policies" class="section level2">
+<h2>Compiling a Database of Urban Water Conservation Policies</h2>
+<p>Over the past three years, I have been part of an interdisciplinary research project, together with
+<a href="https://engineering.vanderbilt.edu/bio/george-hornberger">George Hornberger</a>, <a href="http://www.davidjhess.org/index.html">David Hess</a>, <a href="https://www.usgs.gov/staff-profiles/scott-c-worland?qt-staff_profile_science_products=3#qt-staff_profile_science_products">Scott Worland</a>, <a href="http://johnjnay.com/">John Nay</a>, <a href="https://www.linkedin.com/in/christopher-wold-813a8975">Christopher Wold</a>, <a href="https://www.iac.gatech.edu/people/faculty/brown_2">Kate Pride Brown</a>, and others, to study the
 <a href="https://doi.org/10.1002/2015WR016943">socio-technical transition of water policy in U.S. cities</a>
 from technologically focused measures to expand supply capacity and reliability toward softer measures
 that address the demand side through emphasis on efficiency and waste reduction.
-We build a [database of water conservation policies] for the 197 largest
+We built a <a href="https://doi.org/10.1111/1752-1688.12506">database of water conservation policies</a> for the 197 largest
 <a href="https://en.wikipedia.org/wiki/Metropolitan_statistical_area">metropolitan statistical areas</a>
-(MSAs) in the United States.
-An
+(MSAs) in the United States (an
 <a href="https://en.wikipedia.org/wiki/Metropolitan_statistical_area">MSA</a>
-is a geogrpahic region representing a central city and one or more contiguous counties that have high population densities
-and share economic activity with the central city.</p>
+is a geographic region representing a central city and one or more contiguous counties that have high population densities
+and share economic activity with the central city).</p>
 <hr />
 <iframe src="http://scworland-usgs.github.io/vwci/" width="800" height="600">
 An interactive map of water conservation scores is available at <a href="http://scworland-usgs.github.io/vwci/" class="uri">http://scworland-usgs.github.io/vwci/</a>.
 </iframe>
 <hr />
-<p>We counted the number of categories of water-conservation policy (out of a list of 79 possible categories)
+<p>We counted the number of water-conservation policy (out of a list of 79 possible categories)
 each MSA had adopted. We organized these counts into three conservation scores:</p>
 <ul>
-<li>VWCI (the Vanderbilt Water Conservation Index): The total number of conservation policies adopted by the MSA.</li>
-<li>Requirements: The number of conservation policies that include mandatory requirements, such as prohibiting lawn-watering or requiring that new plumbing installations include low-flow fittings, such as shower heads.</li>
-<li>Rebates: The number of policies that offer rebates for voluntary conservation measures, such as purchasing water-efficient appliances.</li>
+<li><strong>VWCI</strong> (the <strong>Vanderbilt Water Conservation Index</strong>)<strong>:</strong> The total number of conservation policies adopted by the MSA.</li>
+<li><strong>Requirements:</strong> The number of conservation policies that include mandatory requirements, such as prohibiting lawn-watering or requiring that new plumbing installations include low-flow fittings, such as shower heads.</li>
+<li><strong>Rebates:</strong> The number of policies that offer rebates for voluntary conservation measures, such as purchasing water-efficient appliances.</li>
 </ul>
-<p>As the table below shows, cities with similar scores for total VWCI mmay have very different contributions from requirements and rebates.
-Consider, for instance, New York City and Salt Lake City versus Tampa and Vallejo, El Paso versus Miami, or Riverside versus Fresno.
-The table also shows that all but three of the cities with the 20 largest VWCI scores are in the West (of the three exceptions, two are in
-Florida and the other is New York City).</p>
-<table>
+<p>The table below shows the cities with the 20 greatest VWCI scores. All but three of these are in the Western U.S. (the exceptions are Miami, Tampa, and New York City).
+The table also shows that cities with similar scores for total VWCI mmay have very different contributions from requirements and rebates.
+Consider, for instance, New York City and Salt Lake City versus Tampa and Vallejo or El Paso versus Miami.</p>
+<table class="table table-striped table-condensed" style="width: auto !important; ">
 <thead>
-<tr class="header">
-<th align="left">Rank</th>
-<th align="right">City</th>
-<th align="right">VWCI</th>
-<th align="right">Req.</th>
-<th align="right">Reb.</th>
-<th align="left"><span class="math inline">\(\text{Req.}/\text{Reb.}\)</span></th>
+<tr>
+<th style="text-align:left;">
+Rank
+</th>
+<th style="text-align:right;">
+City
+</th>
+<th style="text-align:right;">
+VWCI
+</th>
+<th style="text-align:right;">
+Req.
+</th>
+<th style="text-align:right;">
+Reb.
+</th>
+<th style="text-align:left;">
+Req./Reb.
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left">1</td>
-<td align="right">Los Angeles, CA</td>
-<td align="right">53</td>
-<td align="right">23</td>
-<td align="right">13</td>
-<td align="left">1.77</td>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:right;">
+Los Angeles, CA
+</td>
+<td style="text-align:right;">
+53
+</td>
+<td style="text-align:right;">
+23
+</td>
+<td style="text-align:right;">
+13
+</td>
+<td style="text-align:left;">
+1.77
+</td>
 </tr>
-<tr class="even">
-<td align="left">2</td>
-<td align="right">San Diego, CA</td>
-<td align="right">52</td>
-<td align="right">19</td>
-<td align="right">15</td>
-<td align="left">1.27</td>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:right;">
+San Diego, CA
+</td>
+<td style="text-align:right;">
+52
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+15
+</td>
+<td style="text-align:left;">
+1.27
+</td>
 </tr>
-<tr class="odd">
-<td align="left">3</td>
-<td align="right">Santa Rosa, CA</td>
-<td align="right">50</td>
-<td align="right">19</td>
-<td align="right">15</td>
-<td align="left">1.27</td>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:right;">
+Santa Rosa, CA
+</td>
+<td style="text-align:right;">
+50
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+15
+</td>
+<td style="text-align:left;">
+1.27
+</td>
 </tr>
-<tr class="even">
-<td align="left">4</td>
-<td align="right">Oxnard, CA</td>
-<td align="right">49</td>
-<td align="right">23</td>
-<td align="right">11</td>
-<td align="left">2.09</td>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:right;">
+Oxnard, CA
+</td>
+<td style="text-align:right;">
+49
+</td>
+<td style="text-align:right;">
+23
+</td>
+<td style="text-align:right;">
+11
+</td>
+<td style="text-align:left;">
+2.09
+</td>
 </tr>
-<tr class="odd">
-<td align="left">5</td>
-<td align="right">San Jose, CA</td>
-<td align="right">48</td>
-<td align="right">22</td>
-<td align="right">12</td>
-<td align="left">1.83</td>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:right;">
+San Jose, CA
+</td>
+<td style="text-align:right;">
+48
+</td>
+<td style="text-align:right;">
+22
+</td>
+<td style="text-align:right;">
+12
+</td>
+<td style="text-align:left;">
+1.83
+</td>
 </tr>
-<tr class="even">
-<td align="left">5</td>
-<td align="right">Santa Cruz, CA</td>
-<td align="right">48</td>
-<td align="right">20</td>
-<td align="right">11</td>
-<td align="left">1.82</td>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:right;">
+Santa Cruz, CA
+</td>
+<td style="text-align:right;">
+48
+</td>
+<td style="text-align:right;">
+20
+</td>
+<td style="text-align:right;">
+11
+</td>
+<td style="text-align:left;">
+1.82
+</td>
 </tr>
-<tr class="odd">
-<td align="left">7</td>
-<td align="right">Austin, TX</td>
-<td align="right">47</td>
-<td align="right">19</td>
-<td align="right">11</td>
-<td align="left">1.73</td>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:right;">
+Austin, TX
+</td>
+<td style="text-align:right;">
+47
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+11
+</td>
+<td style="text-align:left;">
+1.73
+</td>
 </tr>
-<tr class="even">
-<td align="left">8</td>
-<td align="right">San Antonio, TX</td>
-<td align="right">46</td>
-<td align="right">19</td>
-<td align="right">8</td>
-<td align="left">2.38</td>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:right;">
+San Antonio, TX
+</td>
+<td style="text-align:right;">
+46
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+2.38
+</td>
 </tr>
-<tr class="odd">
-<td align="left">9</td>
-<td align="right">Albuquerque, NM</td>
-<td align="right">45</td>
-<td align="right">19</td>
-<td align="right">12</td>
-<td align="left">1.58</td>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:right;">
+Albuquerque, NM
+</td>
+<td style="text-align:right;">
+45
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+12
+</td>
+<td style="text-align:left;">
+1.58
+</td>
 </tr>
-<tr class="even">
-<td align="left">9</td>
-<td align="right">Riverside, CA</td>
-<td align="right">45</td>
-<td align="right">15</td>
-<td align="right">13</td>
-<td align="left">1.15</td>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:right;">
+Riverside, CA
+</td>
+<td style="text-align:right;">
+45
+</td>
+<td style="text-align:right;">
+15
+</td>
+<td style="text-align:right;">
+13
+</td>
+<td style="text-align:left;">
+1.15
+</td>
 </tr>
-<tr class="odd">
-<td align="left">11</td>
-<td align="right">Fresno, CA</td>
-<td align="right">44</td>
-<td align="right">22</td>
-<td align="right">8</td>
-<td align="left">2.75</td>
+<tr>
+<td style="text-align:left;">
+11
+</td>
+<td style="text-align:right;">
+Fresno, CA
+</td>
+<td style="text-align:right;">
+44
+</td>
+<td style="text-align:right;">
+22
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+2.75
+</td>
 </tr>
-<tr class="even">
-<td align="left">12</td>
-<td align="right">Denver, CO</td>
-<td align="right">43</td>
-<td align="right">19</td>
-<td align="right">8</td>
-<td align="left">2.38</td>
+<tr>
+<td style="text-align:left;">
+12
+</td>
+<td style="text-align:right;">
+Denver, CO
+</td>
+<td style="text-align:right;">
+43
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+2.38
+</td>
 </tr>
-<tr class="odd">
-<td align="left">13</td>
-<td align="right">San Francisco, CA</td>
-<td align="right">42</td>
-<td align="right">18</td>
-<td align="right">9</td>
-<td align="left">2.00</td>
+<tr>
+<td style="text-align:left;">
+13
+</td>
+<td style="text-align:right;">
+San Francisco, CA
+</td>
+<td style="text-align:right;">
+42
+</td>
+<td style="text-align:right;">
+18
+</td>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:left;">
+2.00
+</td>
 </tr>
-<tr class="even">
-<td align="left">14</td>
-<td align="right">Las Vegas, NV</td>
-<td align="right">40</td>
-<td align="right">18</td>
-<td align="right">7</td>
-<td align="left">2.57</td>
+<tr>
+<td style="text-align:left;">
+14
+</td>
+<td style="text-align:right;">
+Las Vegas, NV
+</td>
+<td style="text-align:right;">
+40
+</td>
+<td style="text-align:right;">
+18
+</td>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:left;">
+2.57
+</td>
 </tr>
-<tr class="odd">
-<td align="left">14</td>
-<td align="right">Salinas, CA</td>
-<td align="right">40</td>
-<td align="right">19</td>
-<td align="right">6</td>
-<td align="left">3.17</td>
+<tr>
+<td style="text-align:left;">
+14
+</td>
+<td style="text-align:right;">
+Salinas, CA
+</td>
+<td style="text-align:right;">
+40
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:left;">
+3.17
+</td>
 </tr>
-<tr class="even">
-<td align="left">16</td>
-<td align="right">El Paso, TX</td>
-<td align="right">38</td>
-<td align="right">19</td>
-<td align="right">3</td>
-<td align="left">6.33</td>
+<tr>
+<td style="text-align:left;">
+16
+</td>
+<td style="text-align:right;">
+El Paso, TX
+</td>
+<td style="text-align:right;">
+38
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+6.33
+</td>
 </tr>
-<tr class="odd">
-<td align="left">16</td>
-<td align="right">Miami, FL</td>
-<td align="right">38</td>
-<td align="right">14</td>
-<td align="right">8</td>
-<td align="left">1.75</td>
+<tr>
+<td style="text-align:left;">
+16
+</td>
+<td style="text-align:right;">
+Miami, FL
+</td>
+<td style="text-align:right;">
+38
+</td>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+1.75
+</td>
 </tr>
-<tr class="even">
-<td align="left">18</td>
-<td align="right">Fort Collins, CO</td>
-<td align="right">37</td>
-<td align="right">9</td>
-<td align="right">8</td>
-<td align="left">1.12</td>
+<tr>
+<td style="text-align:left;">
+18
+</td>
+<td style="text-align:right;">
+Fort Collins, CO
+</td>
+<td style="text-align:right;">
+37
+</td>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+1.12
+</td>
 </tr>
-<tr class="odd">
-<td align="left">18</td>
-<td align="right">Stockton, CA</td>
-<td align="right">37</td>
-<td align="right">14</td>
-<td align="right">8</td>
-<td align="left">1.75</td>
+<tr>
+<td style="text-align:left;">
+18
+</td>
+<td style="text-align:right;">
+Stockton, CA
+</td>
+<td style="text-align:right;">
+37
+</td>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+1.75
+</td>
 </tr>
-<tr class="even">
-<td align="left">20</td>
-<td align="right">New York, NY</td>
-<td align="right">35</td>
-<td align="right">19</td>
-<td align="right">2</td>
-<td align="left">9.50</td>
+<tr>
+<td style="text-align:left;">
+20
+</td>
+<td style="text-align:right;">
+New York, NY
+</td>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+9.50
+</td>
 </tr>
-<tr class="odd">
-<td align="left">20</td>
-<td align="right">Salt Lake City, UT</td>
-<td align="right">35</td>
-<td align="right">18</td>
-<td align="right">2</td>
-<td align="left">9.00</td>
+<tr>
+<td style="text-align:left;">
+20
+</td>
+<td style="text-align:right;">
+Salt Lake City, UT
+</td>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:right;">
+18
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+9.00
+</td>
 </tr>
-<tr class="even">
-<td align="left">20</td>
-<td align="right">Tampa, FL</td>
-<td align="right">35</td>
-<td align="right">14</td>
-<td align="right">5</td>
-<td align="left">2.80</td>
+<tr>
+<td style="text-align:left;">
+20
+</td>
+<td style="text-align:right;">
+Tampa, FL
+</td>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:left;">
+2.80
+</td>
 </tr>
-<tr class="odd">
-<td align="left">20</td>
-<td align="right">Vallejo, CA</td>
-<td align="right">35</td>
-<td align="right">14</td>
-<td align="right">6</td>
-<td align="left">2.33</td>
+<tr>
+<td style="text-align:left;">
+20
+</td>
+<td style="text-align:right;">
+Vallejo, CA
+</td>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:left;">
+2.33
+</td>
 </tr>
 </tbody>
 </table>
+</div>
+<div id="analyzing-the-characteristics-of-urban-water-conservation-policies" class="section level2">
+<h2>Analyzing the Characteristics of Urban Water Conservation Policies</h2>
 <p>In
-<a href="https://doi.org/10.1029/2017EF000797">a new paper</a>,
-accepted for publication by Earth’s Future, we
+<a href="https://doi.org/10.1029/2017EF000797">our new paper</a>,
+we
 analyzed cities in the 48 contiguous states (195 cities from our database, representing 45 states) to
 identify the social and environmental characteristics that best predict the number and the kind of
 water conservation policies they have adopted. We considered a number of social and environmental variables at the
 state-level and at the MSA level.</p>
+<div id="characteristics-of-cities-and-states" class="section level3">
+<h3>Characteristics of Cities and States</h3>
 <ul>
 <li>aridity: the Köppen aridity index (negative corresponds to drier climates and positive to wetter climates).</li>
 <li>surface water: The fraction of the water supply drawn from surface-water sources.</li>
@@ -275,22 +590,36 @@ coefficients tell us about the effect of the city having a greater or smaller va
 for PVI this allows us to consider the effect of a city being more Democratic or Republican than the state (e.g., so-called
 “blueberry in tomato soup” cities, as
 <a href="https://www.nationalreview.com/corner/perry-warns-kimmel-i-do-interviews-gun-andrew-johnson/">Rick Perry described Austin TX</a>).</p>
+</div>
+<div id="regression-analysis" class="section level3">
+<h3>Regression Analysis</h3>
 <p>We performed a regression analysis to examine the role of each of these variables in predicting each of the three conservation scores.
 The results of the analysis are shown in the figure below.</p>
-{{% figure src="/post/img/water-conservation-policies/vwci_cat_plot.png" caption="Regression coefficients for state (&gamma;) and city (&beta;) level variables." %}}
-<p>We found that the <strong>aridity</strong> of the state climate was one of the two most important predictors for all three measures of water conservation.
-City-level environmental characteristics don’t correlate importantly with the total number of conservation measures, but
-we did find that cities that are drier than the rest of the state tend to impose more mandatory conservation requirements.
-The greater importance of state-level aridity and the smaller importance of city-level differences from the state average
+{{% figure src="/post/img/water-conservation-policies/vwci_cat_plot.png" caption="Regression coefficients for state ($\gamma$) and city ($\beta$) level variables." %}}
+<p>In addition to the variables listed above, we tested alternate statistical models that considered such variables as
+the Gini index of economic inequality, population density, and the areas covered by the different MSAs. None of these
+alternate models performed as well as the analysis we present above (for details, see the paper and its supporting
+information).</p>
+</div>
+</div>
+<div id="results-of-the-analysis" class="section level2">
+<h2>Results of the Analysis</h2>
+<p>We found that the two most important predictors of the number of water conservation policies a city would adopt
+were the climatological <strong>aridity</strong> of the state and the <strong>partisan voting index</strong>.</p>
+<p>The <strong>aridity</strong> of the state climate was one a very important predictors for all three measures of water conservation,
+but city-level environmental characteristics don’t correlate importantly with the total number of conservation measures or the number of rebates.
+However, we did find that cities that are drier than the rest of the state tend to impose more mandatory conservation requirements.
+The greater importance of state-level aridity and the smaller importance of variation from city to city within a state
 make sense when we consider that city water supplies tend to be drawn from drainage basins and aquifers that extend far
-beyond the urban boundaries. <strong>Surface water</strong> was not an important predictor for any of the conservation measures
+beyond the urban boundaries.
+<strong>Surface water</strong> was not an important predictor for any of the conservation measures
 at either the state or city level.</p>
 <p>Of the social variables, <strong>PVI</strong> was important at both the state and city level. Cities in more Democratic states, and
 cities that vote more Democratic than the rest of the state tend to adopt more total conservation measures and more
 of each kind of conservation measure. However, as we describe in the paper, an alternate analysis whose results are
 equally plausible as the one we present here, found that if we look at the city’s raw PVI value, as opposed to
 the difference between the city and the state, then the city’s PVI is a very important predictor of water conservation,
-but the state-level PVI becomes ambiguous and less important. Either way, both analyses find that PVI is an important
+but the state-level PVI becomes ambiguous and less important. Both analyses find that PVI is an important
 predictor, but differ on the details of the distinction between city-level and state-level PVI.</p>
 <p>Urban population and population growth rate are both important, with larger and faster-growing cities adopting more conservation measures of all kinds.</p>
 <p>Most of the variables that had significant predictive power affected all the conservation measures in the same way: cities in more arid states,
@@ -299,3 +628,13 @@ more requirements, and more rebates. However, two variables predict different mi
 Cities that are drier than the rest of the state tend to adopt more mandatory conservation requirements relative to the number of
 voluntary rebates and other measures. And cities in less affluent states (those with lower state-wide real personal income) tended to
 adopt more rebates relative to the number of requirements and other measures.</p>
+</div>
+<div id="conclusions" class="section level2">
+<h2>Conclusions</h2>
+<p>This analysis showed that both environmental and societal characteristics are important for understanding water
+conservation policies in U.S. cities. This demonstrates the value of interdisciplinary research that integrates social
+and natural sciences. We expect that water managers and policy makers will benefit from understanding the ways that
+characteristics of different cities and states can affect the reception that different kinds of water conservation policies
+may encounter in different cities, and can help guide the development of policy rationales and policy proposals
+to enahnce sustainability and water security.</p>
+</div>

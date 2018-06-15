@@ -33,7 +33,7 @@ references:
   - {desc: full text, file: gilligan_2018_water_conservation.pdf}
   id: gilligan:water.conservation:2018
   issued:
-  - {year: 2018}
+  - {day: 11, month: 6, year: 2018}
   status: Accepted for publication; in press
   title: Urban water conservation policies in the united states
   type: article-journal
@@ -56,7 +56,7 @@ references:
   container-title: George Washington Law Review
   id: ruhl:topic.modeling:2018
   issued:
-  - {year: 2018}
+  - {day: 1, month: 2, year: 2018}
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
   status: Accepted for publication; in press
   title: 'Topic modeling the president: Conventional and computational methods'
@@ -72,7 +72,7 @@ references:
   container-title: Nature Climate Change
   id: gilliigan:human.factor:2018
   issued:
-  - {year: 2018}
+  - {day: 1, month: 1, year: 2018}
   note: "\u201CNews and Views\u201D commentary."
   page: 14-15
   status: published
