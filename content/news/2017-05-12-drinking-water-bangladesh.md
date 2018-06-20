@@ -10,10 +10,6 @@ banner:
   credit: "Photo credit: Jonathan Gilligan/Vanderbilt"
 categories:
   - news
-  - Bangladesh
-  - water security
-  - drinking water
-  - ISEE
 tags:
   - Bangladesh
   - water security

@@ -8,10 +8,6 @@ date: '2017-06-02'
 slug: bangladesh-harbinger-climate-change
 categories:
   - news
-  - Bangladesh
-  - climate change
-  - ISEE
-  - Coastal SEES
 tags:
   - Bangladesh
   - climate change

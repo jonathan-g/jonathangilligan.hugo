@@ -5,15 +5,13 @@ date: '2017-02-09'
 slug: morrison-prize
 categories:
   - news
-  - "beyond politics"
-  - "private governance"
   - "prizes and awards"
-  - "behavioral wedge"
 tags:
   - "Michael Vandenbergh"
   - "Beyond Politics"
   - "Beyond Gridlock"
   - "private governance"
+  - behavioral wedge
 keywords:
   - climate change
   - global warming

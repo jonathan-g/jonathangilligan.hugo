@@ -9,13 +9,8 @@ banner:
   credit: "Walmart/flickr, CC-BY-SA"
 slug: gilligan-vandenbergh-private-governance
 categories:
-  - Beyond Politics
-  - Beyond Gridlock
-  - private governance
-  - climate change
-  - climate policy
-  - greenhouse gases
-  - Vanderbilt Climate Change Research Network
+  - opinion columns
+  - blog posts
 tags:
   - climate change
   - climate policy

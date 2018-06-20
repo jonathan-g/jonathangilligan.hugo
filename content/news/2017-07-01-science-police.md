@@ -7,7 +7,6 @@ pub_link: "http://issues.org/33-4/the-science-police/"
 slug: science-police
 categories:
   - news
-  - civility
 tags:
   - science police
   - civility

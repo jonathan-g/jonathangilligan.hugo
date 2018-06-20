@@ -5,7 +5,8 @@ authors:
 date: '2017-10-01'
 slug: science-cops
 categories:
-  - science policy
+  - blog posts
+  - opinion columns
 tags:
   - science police
   - censorship

@@ -7,12 +7,7 @@ pub_link: "https://news.vanderbilt.edu/2017/02/09/gilligan-vandenbergh-win-morri
 slug: gilligan-vandenbergh-morrison-prize
 categories:
   - news
-  - Beyond Politics
-  - Beyond Gridlock
-  - private governance
   - prizes and awards
-  - Vanderbilt Climate Change Research Network
-  - behavioral wedge
 tags:
   - Michael Vandenbergh
   - Beyond Gridlock

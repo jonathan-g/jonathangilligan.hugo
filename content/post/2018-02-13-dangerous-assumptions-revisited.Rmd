@@ -17,9 +17,7 @@ tags:
 - decarbonization
 - RCPs
 categories:
-- climate change
-- climate policy
-- decarbonization
+- blog posts
 ---
 ```{r setup, include=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = FALSE,

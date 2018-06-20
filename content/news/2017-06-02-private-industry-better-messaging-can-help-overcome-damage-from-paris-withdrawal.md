@@ -7,14 +7,6 @@ pub_link: "https://news.vanderbilt.edu/2017/06/02/expert-private-industry-better
 slug: private-industry-paris-withdrawal
 categories:
   - news
-  - Beyond Politics
-  - Beyond Gridlock
-  - private governance
-  - climate change
-  - greenhouse gases
-  - Paris gap
-  - Vanderbilt Climate Change Research Network
-  - behavioral wedge
 tags:
   - Michael Vandenbergh
   - private governance
