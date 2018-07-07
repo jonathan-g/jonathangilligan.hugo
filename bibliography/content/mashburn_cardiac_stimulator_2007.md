@@ -10,7 +10,7 @@ container_title: Review of Scientific Instruments
 date: '2007-01-01'
 id: mashburn_cardiac_stimulator_2007
 issued:
-- {year: 2007}
+- {year: '2007'}
 page: 104302-104309
 pub_type: article-journal
 short_author:

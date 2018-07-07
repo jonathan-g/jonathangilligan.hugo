@@ -17,7 +17,7 @@ container_title: Physical Review Letters
 date: '1998-01-01'
 id: yao_sputtering_1998
 issued:
-- {year: 1998}
+- {year: '1998'}
 page: 550-553
 pub_type: article-journal
 short_author:

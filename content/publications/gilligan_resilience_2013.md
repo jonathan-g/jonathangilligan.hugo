@@ -10,7 +10,7 @@ file:
 - {desc: full text, file: gilligan_2013_building_resilience.pdf}
 id: gilligan_resilience_2013
 issued:
-- {month: 2, year: 2013}
+- {month: '2', year: '2013'}
 pub_type: paper-conference
 publisher: Bangladesh Development Initiative
 publisher_place: Berkeley, CA

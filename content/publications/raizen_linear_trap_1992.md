@@ -9,7 +9,7 @@ container_title: Journal of Modern Optics
 date: '1992-01-01'
 id: raizen_linear_trap_1992
 issued:
-- {year: 1992}
+- {year: '1992'}
 page: 233-242
 pub_type: article-journal
 short_author:

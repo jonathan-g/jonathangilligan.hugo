@@ -14,7 +14,7 @@ container_title: Optical Engineering
 date: '1999-01-01'
 id: schaafsma_snom_tip_fabrication_1999
 issued:
-- {year: 1999}
+- {year: '1999'}
 page: 1381-1385
 pub_type: article-journal
 short_author:

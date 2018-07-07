@@ -16,7 +16,7 @@ container_title: 'Physica Status Solidi A: Applied Research'
 date: '1998-01-01'
 id: cricenti_fel_snom_1998
 issued:
-- {year: 1998}
+- {year: '1998'}
 page: 241-247
 pub_type: article-journal
 short_author:

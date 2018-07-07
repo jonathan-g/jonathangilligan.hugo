@@ -11,7 +11,7 @@ container_title: Proceedings of the 11^th^ International Conference on Laser Sci
 date: '1993-01-01'
 id: itano_two_slit_1993
 issued:
-- {year: 1993}
+- {year: '1993'}
 page: 410-419
 pub_type: paper-conference
 short_author:

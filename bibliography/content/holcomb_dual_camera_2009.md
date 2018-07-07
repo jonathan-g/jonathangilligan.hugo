@@ -12,7 +12,7 @@ file:
 - {desc: full text, file: holcomb_2009_dual_camera.pdf}
 id: holcomb_dual_camera_2009
 issued:
-- {year: 2009}
+- {year: '2009'}
 note: ' *Selected by the editors as the feature article of the month.*'
 page: 1355-1372
 pub_type: article-journal

@@ -11,7 +11,7 @@ date: '2003-01-01'
 id: sobol_cartilage_cornea_2003
 issue: '2'
 issued:
-- {year: 2003}
+- {year: '2003'}
 page: 216-222
 pub_type: article-journal
 short_author:

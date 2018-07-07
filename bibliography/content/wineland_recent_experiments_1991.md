@@ -15,7 +15,7 @@ container_title: Proceedings of the Enrico Fermi summer school on laser manipula
 date: '1991-01-01'
 id: wineland_recent_experiments_1991
 issued:
-- {year: 1991}
+- {year: '1991'}
 page: 553-567
 pub_type: paper-conference
 short_author:

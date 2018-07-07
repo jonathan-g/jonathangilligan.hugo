@@ -7,7 +7,7 @@ container_title: Advances in laser spectroscopy II
 date: '1987-01-01'
 id: eyler_multiphoton_1987
 issued:
-- {year: 1987}
+- {year: '1987'}
 page: 388-390
 pub_type: paper-conference
 short_author:

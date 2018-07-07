@@ -12,7 +12,7 @@ file:
 - {desc: full text, file: stern_2010_design_principles.pdf}
 id: stern_design_principles_2010
 issued:
-- {year: 2010}
+- {year: '2010'}
 page: 4847-4848
 pub_type: article-journal
 short_author:

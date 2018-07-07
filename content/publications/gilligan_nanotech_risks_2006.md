@@ -8,7 +8,7 @@ file:
 id: gilligan_nanotech_risks_2006
 issue: '12'
 issued:
-- {year: 2006}
+- {year: '2006'}
 page: 10924-10930
 pub_type: article-journal
 short_author:

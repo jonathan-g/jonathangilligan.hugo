@@ -15,7 +15,7 @@ container_title: Acta Physica Polonica A
 date: '1997-01-01'
 id: sturmann_spectroscopy_1997
 issued:
-- {year: 1997}
+- {year: '1997'}
 page: 689-696
 pub_type: article-journal
 short_author:

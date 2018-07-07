@@ -16,7 +16,7 @@ editor:
 - {family: Thorp, given: Teresa}
 id: ackerly_migration_2017
 issued:
-- {day: 1, month: 6, year: 2017}
+- {day: '1', month: '6', year: '2017'}
 page: 189-202
 pub_type: chapter
 publisher: Routledge

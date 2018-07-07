@@ -18,7 +18,7 @@ file:
 - {desc: full text, file: nay_2015_dynamic_decision_models.pdf}
 id: nay_decision_models_2015
 issued:
-- {year: 2015}
+- {year: '2015'}
 page: 2752-2763
 pub_type: paper-conference
 pub_url: https://dl.acm.org/citation.cfm?id=2888619.2888935

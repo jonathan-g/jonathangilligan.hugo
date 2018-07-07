@@ -9,7 +9,7 @@ file:
 - {desc: full text, file: gilligan_2014_political_feasibility.pdf}
 id: gilligan_political_feasibility_2014
 issued:
-- {year: 2014}
+- {year: '2014'}
 page: 1-26
 pub_type: article-journal
 short_author:

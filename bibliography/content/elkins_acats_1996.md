@@ -29,7 +29,7 @@ container_title: Geophysical Research Letters
 date: '1996-01-01'
 id: elkins_acats_1996
 issued:
-- {year: 1996}
+- {year: '1996'}
 page: 347-350
 pub_type: article-journal
 short_author:

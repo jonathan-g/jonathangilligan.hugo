@@ -14,7 +14,7 @@ file:
 - {desc: full text, file: hess_2016_drought_southwest.pdf}
 id: hess_drought_2016
 issued:
-- {day: 1, month: 7, year: 2016}
+- {day: '1', month: '7', year: '2016'}
 page: 807-827
 pub_type: article-journal
 publisher: Wiley Online Library

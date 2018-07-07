@@ -6,7 +6,7 @@ container_title: Physical Review A
 date: '1992-01-01'
 id: gilligan_h2_ip_1992
 issued:
-- {year: 1992}
+- {year: '1992'}
 page: 3676-3690
 pub_type: article-journal
 short_author:

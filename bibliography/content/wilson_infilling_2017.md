@@ -14,7 +14,7 @@ file:
 - {desc: full text, file: wilson_2017_infilling.pdf}
 id: wilson_infilling_2017
 issued:
-- {day: 27, month: 12, year: 2017}
+- {day: '27', month: '12', year: '2017'}
 page: '78'
 pub_type: article-journal
 short_author:

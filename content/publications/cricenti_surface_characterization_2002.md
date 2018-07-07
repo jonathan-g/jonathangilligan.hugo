@@ -14,7 +14,7 @@ container_title: Advances in Science and Technology
 date: '2002-01-01'
 id: cricenti_surface_characterization_2002
 issued:
-- {year: 2002}
+- {year: '2002'}
 page: 183-192
 pub_type: article-journal
 short_author:

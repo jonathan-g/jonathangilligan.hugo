@@ -8,7 +8,7 @@ container_title: Proceedings of the XV International Conference on Quantum Elect
 date: '1987-01-01'
 id: mccormack_multiphoton_1987
 issued:
-- {year: 1987}
+- {year: '1987'}
 page: 58-60
 pub_type: paper-conference
 publisher: Optical Society of America

@@ -11,7 +11,7 @@ container_title: Physical Review Letters
 date: '1993-01-01'
 id: eichmann_two_slit_1993
 issued:
-- {year: 1993}
+- {year: '1993'}
 page: 2359-2362
 pub_type: article-journal
 short_author:

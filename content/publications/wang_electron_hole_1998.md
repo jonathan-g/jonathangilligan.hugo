@@ -14,7 +14,7 @@ container_title: Physical Review Letters
 date: '1998-01-01'
 id: wang_electron_hole_1998
 issued:
-- {year: 1998}
+- {year: '1998'}
 page: 4224-4227
 pub_type: article-journal
 short_author:

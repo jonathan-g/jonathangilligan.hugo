@@ -14,7 +14,7 @@ container_title: Nonresonant laser-matter interaction (nlmi-10)
 date: '2001-01-01'
 id: sturmann_photoablation_2001
 issued:
-- {year: 2001}
+- {year: '2001'}
 page: 206-211
 pub_type: paper-conference
 publisher: International Society for Optics; Photonics

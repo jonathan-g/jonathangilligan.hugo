@@ -11,7 +11,7 @@ file:
 - {desc: full text, file: vandenbergh_2010_implementing_behavioral_wedge.pdf}
 id: vandenbergh_implementing_behavioral_wedge_2010
 issued:
-- {year: 2010}
+- {year: '2010'}
 note: ' Selected by Environmental Law Institute to reprint as the featured cover story
   of the 2010 summer reading issue for policymakers of Environmental Forum.'
 page: 547-554

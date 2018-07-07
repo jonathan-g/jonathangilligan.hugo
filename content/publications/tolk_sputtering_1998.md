@@ -18,7 +18,7 @@ container_title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
 date: '1998-01-01'
 id: tolk_sputtering_1998
 issued:
-- {year: 1998}
+- {year: '1998'}
 page: 676-679
 pub_type: article-journal
 short_author:

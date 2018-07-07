@@ -9,7 +9,7 @@ file:
 - {desc: full text, file: gilligan_2010_ethics_in_geologic_time.pdf}
 id: gilligan_future_generations_2010
 issued:
-- {year: 2010}
+- {year: '2010'}
 page: 20-32
 pub_type: chapter
 publisher: Gale

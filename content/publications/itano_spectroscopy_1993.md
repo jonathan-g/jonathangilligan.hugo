@@ -12,7 +12,7 @@ container_title: Hyperfine Interactions
 date: '1993-01-01'
 id: itano_spectroscopy_1993
 issued:
-- {year: 1993}
+- {year: '1993'}
 page: 211-220
 pub_type: article-journal
 short_author:

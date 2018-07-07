@@ -13,7 +13,7 @@ container_title: 'Journal of Geophysical Research: Atmospheres'
 date: '1997-01-01'
 id: volk_lifetimes_1997
 issued:
-- {year: 1997}
+- {year: '1997'}
 page: 25543-25564
 pub_type: article-journal
 short_author:

@@ -21,7 +21,7 @@ file:
 - {desc: full text, file: gilligan_2015_flood_partsim.pdf}
 id: gilligan_flood_partsim_2015
 issued:
-- {year: 2015}
+- {year: '2015'}
 page: 3174-3175
 pub_type: paper-conference
 pub_url: https://ieeexplore.ieee.org/document/7408456/

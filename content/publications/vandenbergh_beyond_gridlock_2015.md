@@ -10,7 +10,7 @@ file:
 id: vandenbergh_beyond_gridlock_2015
 issue: '2'
 issued:
-- {year: 2015}
+- {year: '2015'}
 page: 217-303
 pub_type: article-journal
 pub_url: https://www.columbiaenvironmentallaw.org/beyond-gridlock/

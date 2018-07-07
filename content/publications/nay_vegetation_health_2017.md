@@ -10,7 +10,7 @@ file:
 - {desc: full text, file: nay_2017_vegetation_health.pdf}
 id: nay_vegetation_health_2017
 issued:
-- {day: 18, month: 12, year: 2017}
+- {day: '18', month: '12', year: '2017'}
 page: 1800-1816
 pub_type: article-journal
 short_author:

@@ -22,7 +22,7 @@ container_title: Journal of Geophysical Research
 date: '1995-01-01'
 id: woodbridge_cfc_conc_1995
 issued:
-- {year: 1995}
+- {year: '1995'}
 page: 3057-3064
 pub_type: article-journal
 short_author:
@@ -46,6 +46,6 @@ short_author:
 - {family: Salawitch, given: R. J.}
 status: published
 title: Estimates of total organic and inorganic chlorine in the lower stratosphere
-  from *in situ* measurements during <span class="smallcaps">aase ii</span>
+  from *in situ* measurements during <span style="font-variant:small-caps;">aase ii</span>
 volume: '100'
 ---
