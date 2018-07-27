@@ -90,7 +90,7 @@ collaborations between our institutions.
 
 ![Prof. Dr. Md. Akhtaruzzaman, Vice-Chancellor of Dhaka University meets with Steve Goodbred and Jonathan Gilligan to discuss areas of mutual interest between Dhaka University and Vanderbilt University](/post/img/inland-shipping-workshop/goodbred-gilligan-vc.jpg)
 
-![Left to right: Dr. Bishawjit Mallick (TU Dresden), Prof. Moniur Rahman (Dhaka University), Prof. Jonathan Gilligan (Vanderbilt University), Prof. Dr. Md. Akhtaruzzaman, Vice Chancellor of Dhaka University, Prof. Steve Goodbred, Chair of Earth & Environmental Sciences, Vanderbilt University, and Prof. Kazi Matin Ahmed, Chair of the Department of Geology, Dhaka University](/post/img/inland-shipping-workshop/group-vc.jpg)
+![Left to right: Dr. Bishawjit Mallick (TU Dresden); Prof. Monirul Islam, Department of Fisheries, Dhaka University; Prof. Jonathan Gilligan, Department of Earth & Envirionmental Sciences, Vanderbilt University; Prof. Dr. Md. Akhtaruzzaman, Vice Chancellor of Dhaka University; Prof. Steve Goodbred, Chair of Earth & Environmental Sciences, Vanderbilt University; and Prof. Kazi Matin Ahmed, Chair of the Department of Geology, Dhaka University](/post/img/inland-shipping-workshop/group-vc.jpg)
 
 
 ## Participation
