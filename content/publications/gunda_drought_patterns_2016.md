@@ -11,7 +11,7 @@ file:
 id: gunda_drought_patterns_2016
 issue: '2'
 issued:
-- {month: '2', year: '2016'}
+- {month: 2, year: 2016}
 keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
 page: 563-575
 pub_type: article-journal

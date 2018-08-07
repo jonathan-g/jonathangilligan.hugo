@@ -8,7 +8,7 @@ file:
 - {desc: full text, file: vandenbergh_2011_macro_risks.pdf}
 id: vandenbergh_macro_risks_2011
 issued:
-- {year: '2011'}
+- {year: 2011}
 page: 401-431
 pub_type: article-journal
 short_author:

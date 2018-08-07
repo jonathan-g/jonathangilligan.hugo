@@ -13,7 +13,7 @@ file:
 - {desc: full text, file: gilligan_2018_water_conservation.pdf}
 id: gilligan_water_conservation_2018
 issued:
-- {day: '12', month: '6', year: '2018'}
+- {day: 12, month: 6, year: 2018}
 pub_type: article-journal
 short_author:
 - {family: Gilligan, given: J. M.}

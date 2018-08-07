@@ -8,7 +8,7 @@ container_title: Advances in laser spectroscopy III
 date: '1988-01-01'
 id: eyler_multiphoton_1988
 issued:
-- {year: '1988'}
+- {year: 1988}
 page: 331-333
 pub_type: paper-conference
 short_author:

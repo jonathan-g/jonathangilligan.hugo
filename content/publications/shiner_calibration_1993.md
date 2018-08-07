@@ -8,7 +8,7 @@ container_title: Physical Review A
 date: '1993-01-01'
 id: shiner_calibration_1993
 issued:
-- {year: '1993'}
+- {year: 1993}
 page: 4042-4045
 pub_type: article-journal
 short_author:

@@ -12,7 +12,7 @@ container_title: Atmospheric effects of aviation project workshop
 date: '1994-01-01'
 id: gilligan_cl_budgets_1994
 issued:
-- {year: '1994'}
+- {year: 1994}
 pub_type: paper-conference
 short_author:
 - {family: Gilligan, given: J. M.}

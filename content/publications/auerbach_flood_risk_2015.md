@@ -18,7 +18,7 @@ file:
 id: auerbach_flood_risk_2015
 issue: '2'
 issued:
-- {year: '2015'}
+- {year: 2015}
 page: 152-157
 pub_type: article-journal
 short_author:

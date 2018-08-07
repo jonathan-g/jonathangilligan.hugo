@@ -14,7 +14,7 @@ file:
 - {desc: full text, file: ackerly_2015_political_economies.pdf}
 id: ackerly_political_economies_2015
 issued:
-- {year: '2015'}
+- {year: 2015}
 page: 27-39
 pub_type: chapter
 publisher: AHDPH

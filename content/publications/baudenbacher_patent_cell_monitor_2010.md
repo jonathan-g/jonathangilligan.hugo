@@ -14,7 +14,7 @@ author:
 date: '2010-04-27'
 id: baudenbacher_patent_cell_monitor_2010
 issued:
-- {day: '27', month: '4', year: '2010'}
+- {day: 27, month: 4, year: 2010}
 number: 7,704,745 B2
 pub_type: patent
 short_author:

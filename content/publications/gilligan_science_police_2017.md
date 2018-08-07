@@ -8,7 +8,7 @@ file:
 id: gilligan_science_police_2017
 issue: 1, Fall
 issued:
-- {day: '1', month: '10', year: '2017'}
+- {day: 1, month: 10, year: 2017}
 note: Commentary invited by the editor
 page: 6-8
 pub_type: article-journal

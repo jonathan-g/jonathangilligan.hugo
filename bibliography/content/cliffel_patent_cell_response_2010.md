@@ -9,7 +9,7 @@ author:
 date: '2010-05-11'
 id: cliffel_patent_cell_response_2010
 issued:
-- {day: '11', month: '5', year: '2010'}
+- {day: 11, month: 5, year: 2010}
 number: 7,713,733 B2
 pub_type: patent
 short_author:
