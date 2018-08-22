@@ -12,7 +12,7 @@ file:
 - {desc: full text, file: gilligan_2010_behavioral_wedge.pdf}
 id: gilligan_behavioral_wedge_2010
 issued:
-- {year: '2010'}
+- {year: 2010}
 note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
 page: 17-20
 pub_type: article-journal

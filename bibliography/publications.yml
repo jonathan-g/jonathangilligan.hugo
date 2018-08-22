@@ -1,4 +1,41 @@
 references:
+- DOI: 10.1007/s12053-018-9721-x
+  abstract: "Employee energy benefits (EEBs), such as subsidies for employee home\
+    \ energy audits and financial incentives for carpooling to work, aim to influence\
+    \ employees\u2019 environmental behaviors outside of work. Exploring these understudied\
+    \ benefits would offer new insights that can enrich theories of employer and employee\
+    \ motivations for engaging in environmental behavior, as well as reveal new strategies\
+    \ for making significant progress on environment goals. By drawing upon employer\
+    \ reports and conducting a survey of 482 US adults employed full-time, we found\
+    \ that there are a wide range of types of EEBs currently offered by employers,\
+    \ and furthermore, they were more likely to be offered in certain industries,\
+    \ such as state and local governments but not others such as retail. These benefits\
+    \ were offered to 17 employees and included a vast array of strategies and approaches.\
+    \ Guided by theorizing on employer and employee motivation, open-ended responses\
+    \ suggested employers were perceived to offer EEBs to maximize competiveness and\
+    \ because of social responsibility concerns, and employees tended to enroll because\
+    \ they wanted to save money and time or because they cared about the environment.\
+    \ Finally, EEBs were linked to employee environmental behavior and morale. The\
+    \ findings reveal new information about the types of EEBs being offered, motivations\
+    \ for offering and enrolling in EEBs, and their relationship to employee behavior\
+    \ and morale. This work suggests numerous lines of promising new research."
+  author:
+  - {family: Maki, given: Alexander}
+  - {family: McKinney, given: Emmett}
+  - {family: Vandenbergh, given: Michael P.}
+  - {family: Cohen, given: Mark A.}
+  - {family: Gilligan, given: Jonathan M.}
+  container-title: Energy Efficiency
+  file:
+  - {desc: full text, file: maki_2018_employee_benefits.pdf}
+  id: maki:employee.benefits:2018
+  issued:
+  - {day: 7, month: 8, year: 2018}
+  status: Early online publication
+  title: 'Employee energy benefits: What are they and what effects do they have on
+    employees?'
+  title-short: Employee energy benefits
+  type: article-journal
 - DOI: 10.1029/2017EF000797
   abstract: "Urban water supply systems in the United States are increasingly stressed\
     \ as economic and population growth confront limited water resources. Demand management,\
@@ -33,7 +70,7 @@ references:
   - {desc: full text, file: gilligan_2018_water_conservation.pdf}
   id: gilligan:water.conservation:2018
   issued:
-  - {day: '12', month: '6', year: '2018'}
+  - {day: 12, month: 6, year: 2018}
   status: Early online publication
   title: Urban water conservation policies in the United States
   type: article-journal
@@ -47,7 +84,7 @@ references:
   container-title: Nature Climate Change
   id: gilliigan:human.factor:2018
   issued:
-  - {day: '1', month: '1', year: '2018'}
+  - {day: 1, month: 1, year: 2018}
   note: "\u201CNews and Views\u201D commentary."
   page: 14-15
   status: published
@@ -74,7 +111,7 @@ references:
   container-title: George Washington Law Review
   id: ruhl:topic.modeling:2018
   issued:
-  - {day: '1', month: '7', year: '2018'}
+  - {day: 1, month: 7, year: 2018}
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
   status: Accepted for publication; in press
   title: 'Topic modeling the president: Conventional and computational methods'
@@ -109,7 +146,7 @@ references:
   - {family: Thorp, given: Teresa}
   id: ackerly:migration:2017
   issued:
-  - {day: '1', month: '6', year: '2017'}
+  - {day: 1, month: 6, year: 2017}
   page: 189-202
   publisher: Routledge
   publisher-place: New York
@@ -136,7 +173,7 @@ references:
   id: gilligan:science.police:2017
   issue: 1, Fall
   issued:
-  - {day: '1', month: '10', year: '2017'}
+  - {day: 1, month: 10, year: 2017}
   note: Commentary invited by the editor
   page: 6-8
   title: Are cops on the science beat?
@@ -168,7 +205,7 @@ references:
   - {desc: full text, file: nay_2017_vegetation_health.pdf}
   id: nay:vegetation.health:2017
   issued:
-  - {day: '18', month: '12', year: '2017'}
+  - {day: 18, month: 12, year: 2017}
   page: 1800-1816
   status: published
   title: A machine-learning approach to forecasting remotely sensed vegetation health
@@ -193,7 +230,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   id: vandenbergh:beyond.politics:2017
   issued:
-  - {day: '30', month: '11', year: '2017'}
+  - {day: 30, month: 11, year: 2017}
   note: 494 pp.
   publisher: Cambridge University Press
   publisher-place: New York, NY
@@ -241,7 +278,7 @@ references:
   - {desc: full text, file: wilson_2017_infilling.pdf}
   id: wilson:infilling:2017
   issued:
-  - {day: '27', month: '12', year: '2017'}
+  - {day: 27, month: 12, year: 2017}
   page: '78'
   status: published
   title: Widespread infilling of tidal channels and navigable waterways in human-modified
@@ -269,7 +306,7 @@ references:
     \ surveyed did not perceive their water as having a \u201Cbad\u201D or \u201C\
     salty\u201D taste."
   accessed:
-  - {day: '9', month: '6', year: '2016'}
+  - {day: 9, month: 6, year: 2016}
   author:
   - {family: Benneyworth, given: Laura}
   - {family: Gilligan, given: Jonathan}
@@ -287,7 +324,7 @@ references:
   - {desc: full text, file: benneyworth_2016_drinking_water.pdf}
   id: benneyworth:drinking.water:2016
   issued:
-  - {day: '1', month: '6', year: '2016'}
+  - {day: 1, month: 6, year: 2016}
   note: " Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
@@ -330,7 +367,7 @@ references:
   - {desc: full text, file: burchfield_2016_collective_adaptation.pdf}
   id: burchfield:abm:2016
   issued:
-  - {day: '1', month: '12', year: '2016'}
+  - {day: 1, month: 12, year: 2016}
   keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
     decision science, drought, Prospect Theory, Sustainability
   page: 1678-1689
@@ -366,7 +403,7 @@ references:
   - {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
   id: burchfield:agricultural.adaptation:2016
   issued:
-  - {day: '31', month: '12', year: '2016'}
+  - {day: 31, month: 12, year: 2016}
   keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
   page: 92-100
   publisher: Elsevier
@@ -395,7 +432,7 @@ references:
     health dynamics in countries in which environmental data is scarce and cloud cover
     is a significant concern.
   accessed:
-  - {day: '6', month: '7', year: '2016'}
+  - {day: 6, month: 7, year: 2016}
   author:
   - {family: Burchfield, given: Emily}
   - {family: Nay, given: John J.}
@@ -406,7 +443,7 @@ references:
   - {desc: full text, file: burchfield_2016_vegetation_health.pdf}
   id: burchfield:vegetation.health:2016
   issued:
-  - {day: '1', month: '8', year: '2016'}
+  - {day: 1, month: 8, year: 2016}
   page: 465-469
   status: published
   title: Application of machine learning to the prediction of vegetation health
@@ -430,7 +467,7 @@ references:
     \ districts; SPI-9 correlated best with the dry zone districts; but neither index\
     \ correlated well with the wet zone districts."
   accessed:
-  - {day: '12', month: '2', year: '2016'}
+  - {day: 12, month: 2, year: 2016}
   author:
   - {family: Gunda, given: Thushara}
   - {family: Hornberger, given: George M.}
@@ -441,7 +478,7 @@ references:
   id: gunda:drought.patterns:2016
   issue: '2'
   issued:
-  - {month: '2', year: '2016'}
+  - {month: 2, year: 2016}
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
   page: 563-575
   status: published
@@ -481,7 +518,7 @@ references:
   - {desc: full text, file: hess_2016_drought_southwest.pdf}
   id: hess:drought:2016
   issued:
-  - {day: '1', month: '7', year: '2016'}
+  - {day: 1, month: 7, year: 2016}
   page: 807-827
   publisher: Wiley Online Library
   status: published
@@ -500,11 +537,11 @@ references:
     \ advanced by prominent skeptics. We conduct sensitivity analyses to determine\
     \ how a variety of factors describing both the market and the physical climate\
     \ may affect traders\u2019 beliefs about the cause of global climate change. Market\
-    \ participation causes most traders to converge quickly toward believing the \u201C\
-    true\u201D climate model, suggesting that a climate market could be useful for\
-    \ building public consensus."
+    \ participation causes most traders to converge quickly toward believing the \"\
+    true\" climate model, suggesting that a climate market could be useful for building\
+    \ public consensus."
   accessed:
-  - {day: '14', month: '7', year: '2016'}
+  - {day: 14, month: 7, year: 2016}
   author:
   - {family: Nay, given: John J.}
   - {family: Van der Linden, given: Martin}
@@ -522,7 +559,7 @@ references:
   - {desc: full text, file: nay_2016_betting_belief.pdf}
   id: nay:prediction.market:2016
   issued:
-  - {day: '2', month: '12', year: '2016'}
+  - {day: 2, month: 12, year: 2016}
   keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
     Finance - Economics
   page: 1666-1677
@@ -559,7 +596,7 @@ references:
   - {desc: full text, file: ackerly_2015_political_economies.pdf}
   id: ackerly:political.economies:2015
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   page: 27-39
   publisher: AHDPH
   publisher-place: Dhaka
@@ -601,7 +638,7 @@ references:
   id: auerbach:flood.risk:2015
   issue: '2'
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   page: 152-157
   status: published
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
@@ -613,7 +650,7 @@ references:
   ISSN: 1758-678X
   URL: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
   accessed:
-  - {day: '3', month: '6', year: '2015'}
+  - {day: 3, month: 6, year: 2015}
   author:
   - {family: Auerbach, given: L. W.}
   - {family: Goodbred Jr, given: S. L.}
@@ -629,7 +666,7 @@ references:
   id: auerbach:reply:2015
   issue: '6'
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   page: 492-493
   status: published
   title: "Reply to \u2018Tidal river management in Bangladesh\u2019"
@@ -648,7 +685,7 @@ references:
     wide range of the public-from middle- and high-school students to public officials-about
     emergence in CHNS and present results from two pilot studies.
   accessed:
-  - {day: '25', month: '2', year: '2016'}
+  - {day: 25, month: 2, year: 2016}
   author:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Brady, given: Corey}
@@ -668,7 +705,7 @@ references:
   - {desc: full text, file: gilligan_2015_flood_partsim.pdf}
   id: gilligan:flood.partsim:2015
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   page: 3174-3175
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -694,7 +731,7 @@ references:
     mixed methods approach typifies the need for knowledge that informs hydrologists
     about how their research may or may not be adopted by decision-makers.
   accessed:
-  - {day: '12', month: '2', year: '2016'}
+  - {day: 12, month: 2, year: 2016}
   author:
   - {family: Hornberger, given: George M.}
   - {family: Hess, given: David J.}
@@ -705,7 +742,7 @@ references:
   id: hornberger:hydrological.transitions:2015
   issue: '6'
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
   page: 4635-4649
   status: published
@@ -728,7 +765,7 @@ references:
     \ models and correctly deriving the underlying decision models for multiple agent\
     \ models and degrees of stochasticity."
   accessed:
-  - {day: '25', month: '2', year: '2016'}
+  - {day: 25, month: 2, year: 2016}
   author:
   - {family: Nay, given: John J.}
   - {family: Gilligan, given: Jonathan M.}
@@ -745,7 +782,7 @@ references:
   - {desc: full text, file: nay_2015_dynamic_decision_models.pdf}
   id: nay:decision.models:2015
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   page: 2752-2763
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -781,7 +818,7 @@ references:
   id: vandenbergh:beyond.gridlock:2015
   issue: '2'
   issued:
-  - {year: '2015'}
+  - {year: 2015}
   page: 217-303
   status: published
   title: Beyond gridlock
@@ -814,7 +851,7 @@ references:
   - {desc: full text, file: gilligan_2014_political_feasibility.pdf}
   id: gilligan:political.feasibility:2014
   issued:
-  - {year: '2014'}
+  - {year: 2014}
   page: 1-26
   status: published
   title: Accounting for political feasibility in climate instrument choice
@@ -856,7 +893,7 @@ references:
   - {desc: full text, file: vandenbergh_2014_prediction_market.pdf}
   id: vandenbergh:prediction.market:2014
   issued:
-  - {year: '2014'}
+  - {year: 2014}
   page: 1962-2017
   status: published
   title: 'Energy and climate change: A climate prediction market'
@@ -889,7 +926,7 @@ references:
   - {desc: full text, file: gilligan_2013_building_resilience.pdf}
   id: gilligan:resilience:2013
   issued:
-  - {month: '2', year: '2013'}
+  - {month: 2, year: 2013}
   publisher: Bangladesh Development Initiative
   publisher-place: Berkeley, CA
   status: published
@@ -918,7 +955,7 @@ references:
   - {desc: full text, file: rogers_2013_farming_practices.pdf}
   id: rogers:farming.practices:2013
   issued:
-  - {year: '2013'}
+  - {year: 2013}
   page: 133-142
   publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
   publisher-place: Gothenberg SE
@@ -941,7 +978,7 @@ references:
     \ climate change problem will require substantial reductions in energy demand\
     \ in addition to new developments in low-carbon energy supplies. The individual\
     \ and household sector presents a major opportunity: the sector accounts for roughly\
-    \ 40 Despite this opportunity, recent regulatory and policy efforts are only beginning\
+    \ 40Despite this opportunity, recent regulatory and policy efforts are only beginning\
     \ to direct substantial attention to the individual and household sector. Findings\
     \ from the social sciences provide valuable insights into how to capitalize on\
     \ this opportunity, yet policymakers often have little time to develop new polices\
@@ -971,7 +1008,7 @@ references:
   - {desc: full text, file: carrico_2011_key_lessons.pdf}
   id: carrico:behavioral.wedge.lessons:2011
   issued:
-  - {year: '2011'}
+  - {year: 2011}
   page: 61-67
   status: published
   title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
@@ -1001,7 +1038,7 @@ references:
   - {desc: full text, file: vandenbergh_2011_macro_risks.pdf}
   id: vandenbergh:macro.risks:2011
   issued:
-  - {year: '2011'}
+  - {year: 2011}
   page: 401-431
   status: published
   title: 'Macro-risks: The challenge for rational risk regulation'
@@ -1027,7 +1064,7 @@ references:
   - {family: Werdich, given: Andreas}
   id: baudenbacher:patent.cell.monitor:2010
   issued:
-  - {day: '27', month: '4', year: '2010'}
+  - {day: 27, month: 4, year: 2010}
   number: 7,704,745 B2
   status: published
   title: Apparatus and methods for monitoring the status of a metabolically active
@@ -1049,7 +1086,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   id: cliffel:patent.cell.response:2010
   issued:
-  - {day: '11', month: '5', year: '2010'}
+  - {day: 11, month: 5, year: 2010}
   number: 7,713,733 B2
   status: published
   title: Device and methods for detecting the response of a plurality of cells to
@@ -1072,7 +1109,7 @@ references:
   - {desc: full text, file: gilligan_2010_behavioral_wedge.pdf}
   id: gilligan:behavioral.wedge:2010
   issued:
-  - {year: '2010'}
+  - {year: 2010}
   note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   page: 17-20
   status: published
@@ -1088,7 +1125,7 @@ references:
   - {desc: full text, file: gilligan_2010_ethics_in_geologic_time.pdf}
   id: gilligan:future.generations:2010
   issued:
-  - {year: '2010'}
+  - {year: 2010}
   page: 20-32
   publisher: Gale
   status: published
@@ -1110,7 +1147,7 @@ references:
   - {desc: full text, file: stern_2010_design_principles.pdf}
   id: stern:design.principles:2010
   issued:
-  - {year: '2010'}
+  - {year: 2010}
   page: 4847-4848
   status: published
   title: Design principles for carbon emissions reduction programs
@@ -1131,7 +1168,7 @@ references:
   - {desc: full text, file: vandenbergh_2010_implementing_behavioral_wedge.pdf}
   id: vandenbergh:implementing.behavioral.wedge:2010
   issued:
-  - {year: '2010'}
+  - {year: 2010}
   note: ' Selected by Environmental Law Institute to reprint as the featured cover
     story of the 2010 summer reading issue for policymakers of Environmental Forum.'
   page: 547-554
@@ -1167,7 +1204,7 @@ references:
   - {desc: full text, file: carrico_2009_costly_myths.pdf}
   id: carrico:costly.myths:2009
   issued:
-  - {year: '2009'}
+  - {year: 2009}
   page: 2881-2888
   status: published
   title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
@@ -1198,7 +1235,7 @@ references:
   - {desc: supporting information, file: dietz_2009_behavioral_wedge_supporting_info.pdf}
   id: dietz:behavioral.wedge:2009
   issued:
-  - {year: '2009'}
+  - {year: 2009}
   page: 18452-18456
   status: published
   title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
@@ -1234,7 +1271,7 @@ references:
   - {desc: full text, file: holcomb_2009_dual_camera.pdf}
   id: holcomb:dual.camera:2009
   issued:
-  - {year: '2009'}
+  - {year: 2009}
   note: ' *Selected by the editors as the feature article of the month.*'
   page: 1355-1372
   status: published
@@ -1243,22 +1280,21 @@ references:
   title-short: Dual-camera system
   type: article-journal
   volume: '234'
-- abstract: "The individual and household sector generates roughly 30 to 40 percent\
-    \ of U.S. greenhouse gas emissions and is a potential source of prompt and large\
-    \ emissions reductions. Yet the assumption that only extensive government regulation\
-    \ will generate substantial reductions from the sector is a barrier to change,\
-    \ particularly in a political environment hostile to regulation. This Article\
-    \ demonstrates that prompt and large reductions can be achieved without relying\
-    \ predominantly on regulatory measures. The Article identifies seven \u201Clow-hanging\
-    \ fruit:\u201D actions that have the potential to achieve large reductions at\
-    \ less than half the cost of the leading current federal legislation, require\
-    \ limited up-front government expenditures, generate net savings for the individual,\
-    \ and do not confront other barriers. The seven actions discussed in this Article\
-    \ not only meet these criteria, but also will generate roughly 150 million tons\
-    \ in emissions reductions and several billion dollars in net social savings. The\
-    \ Article concludes that the actions identified here are only a beginning, and\
-    \ it identifies changes that will be necessary by policymakers and academicians\
-    \ if these and other low-hanging fruit are to be picked."
+- abstract: The individual and household sector generates roughly 30 to 40 percent
+    of U.S. greenhouse gas emissions and is a potential source of prompt and large
+    emissions reductions. Yet the assumption that only extensive government regulation
+    will generate substantial reductions from the sector is a barrier to change, particularly
+    in a political environment hostile to regulation. This Article demonstrates that
+    prompt and large reductions can be achieved without relying predominantly on regulatory
+    measures. The Article identifies seven "low-hanging fruit:" actions that have
+    the potential to achieve large reductions at less than half the cost of the leading
+    current federal legislation, require limited up-front government expenditures,
+    generate net savings for the individual, and do not confront other barriers. The
+    seven actions discussed in this Article not only meet these criteria, but also
+    will generate roughly 150 million tons in emissions reductions and several billion
+    dollars in net social savings. The Article concludes that the actions identified
+    here are only a beginning, and it identifies changes that will be necessary by
+    policymakers and academicians if these and other low-hanging fruit are to be picked.
   author:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Barkenbus, given: Jack}
@@ -1268,7 +1304,7 @@ references:
   - {desc: full text, file: vandenbergh_2008_low_hanging_fruit.pdf}
   id: vandenbergh:low.hanging.fruit:2008
   issued:
-  - {year: '2008'}
+  - {year: 2008}
   page: 1701-1758
   status: published
   title: 'Individual carbon emissions: The low-hanging fruit'
@@ -1302,7 +1338,7 @@ references:
   container-title: Review of Scientific Instruments
   id: mashburn:cardiac.stimulator:2007
   issued:
-  - {year: '2007'}
+  - {year: 2007}
   page: 104302-104309
   status: published
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
@@ -1327,7 +1363,7 @@ references:
   id: gilligan:nanotech.risks:2006
   issue: '12'
   issued:
-  - {year: '2006'}
+  - {year: 2006}
   page: 10924-10930
   status: published
   title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
@@ -1365,7 +1401,7 @@ references:
   id: sobol:cartilage.cornea:2003
   issue: '2'
   issued:
-  - {year: '2003'}
+  - {year: 2003}
   page: 216-222
   status: published
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
@@ -1387,7 +1423,7 @@ references:
   container-title: Advances in Science and Technology
   id: cricenti:surface.characterization:2002
   issued:
-  - {year: '2002'}
+  - {year: 2002}
   page: 183-192
   status: published
   title: Surface characterisation by near-field microscopy and atomic force microscopy
@@ -1413,7 +1449,7 @@ references:
   container-title: Journal of Non-Crystalline Solids
   id: mensing:defect.energies:2002
   issued:
-  - {year: '2002'}
+  - {year: 2002}
   page: 621-625
   status: published
   title: Defect transition energies and the density of electronic states in hydrogenated
@@ -1445,7 +1481,7 @@ references:
   container-title: Journal of Microscopy
   id: cricenti:diamond:2001
   issued:
-  - {year: '2001'}
+  - {year: 2001}
   page: 446-450
   status: published
   title: "Spectroscopic scanning near-field optical microscopy with a free electron\
@@ -1479,7 +1515,7 @@ references:
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   id: sturmann:photoablation:2001
   issued:
-  - {year: '2001'}
+  - {year: 2001}
   page: 206-211
   publisher: International Society for Optics; Photonics
   status: published
@@ -1496,7 +1532,7 @@ references:
   container-title: Condensed Matter Theories
   id: lupke:fel:2000
   issued:
-  - {year: '2000'}
+  - {year: 2000}
   page: 349-364
   status: published
   title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
@@ -1523,7 +1559,7 @@ references:
   container-title: International biomedical optics symposium
   id: sobol:tissue.water:2000
   issued:
-  - {year: '2000'}
+  - {year: 2000}
   page: '78'
   publisher: SPIE
   status: published
@@ -1553,7 +1589,7 @@ references:
   container-title: Materials Letters
   id: talley:snom.tips:2000
   issued:
-  - {year: '2000'}
+  - {year: 2000}
   page: 339-344
   status: published
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
@@ -1579,7 +1615,7 @@ references:
   container-title: 'Physica Status Solidi A: Applied Research'
   id: cricenti:heterostructure:1999
   issued:
-  - {year: '1999'}
+  - {year: 1999}
   page: 345-349
   status: published
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
@@ -1617,7 +1653,7 @@ references:
   container-title: 'Physica Status Solidi A: Applied Research'
   id: cricenti:interface:1999
   issued:
-  - {year: '1999'}
+  - {year: 1999}
   page: 317-329
   status: published
   title: Interface applications of scanning near-field optical microscopy with a free
@@ -1645,7 +1681,7 @@ references:
   container-title: 'Soviet Physics: Technical Physics'
   id: marka:nanoscale:1999
   issued:
-  - {year: '1999'}
+  - {year: 1999}
   page: 1069-1072
   status: published
   title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
@@ -1674,7 +1710,7 @@ references:
   container-title: Optical Engineering
   id: schaafsma:snom.tip.fabrication:1999
   issued:
-  - {year: '1999'}
+  - {year: 1999}
   page: 1381-1385
   status: published
   title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
@@ -1706,7 +1742,7 @@ references:
   container-title: Ultramicroscopy
   id: schaafsma:snom.tips:1999
   issued:
-  - {year: '1999'}
+  - {year: 1999}
   page: 77-81
   status: published
   title: Singlemode chalcogenide fiber infrared SNOM probes
@@ -1748,7 +1784,7 @@ references:
   container-title: International biomedical optics symposium
   id: sobol:tissue.denaturation:1999
   issued:
-  - {year: '1999'}
+  - {year: 1999}
   page: 122-129
   publisher: SPIE
   status: published
@@ -1781,7 +1817,7 @@ references:
   container-title: 'Physica Status Solidi A: Applied Research'
   id: cricenti:fel.snom:1998
   issued:
-  - {year: '1998'}
+  - {year: 1998}
   page: 241-247
   status: published
   title: First experimental results with the free electron laser coupled to a scanning
@@ -1806,7 +1842,7 @@ references:
   container-title: Applied Physics Letters
   id: cricenti:nanospectroscopy:1998
   issued:
-  - {year: '1998'}
+  - {year: 1998}
   page: 151-153
   status: published
   title: Free-electron-laser near-field nanospectroscopy
@@ -1832,7 +1868,7 @@ references:
   container-title: Applied Surface Science
   id: sturmann:diamond:1998
   issued:
-  - {year: '1998'}
+  - {year: 1998}
   page: 59-63
   status: published
   title: Infrared wavelength-selective photodesorption on diamond surfaces
@@ -1856,7 +1892,7 @@ references:
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
   id: tolk:sputtering:1998
   issued:
-  - {year: '1998'}
+  - {year: 1998}
   page: 676-679
   status: published
   title: Molecular effects in measured sputtering yields on gold at near threshold
@@ -1877,7 +1913,7 @@ references:
   container-title: Physical Review Letters
   id: wang:electron.hole:1998
   issued:
-  - {year: '1998'}
+  - {year: 1998}
   page: 4224-4227
   status: published
   title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
@@ -1900,7 +1936,7 @@ references:
   container-title: Physical Review Letters
   id: yao:sputtering:1998
   issued:
-  - {year: '1998'}
+  - {year: 1998}
   page: 550-553
   status: published
   title: New molecular collisional interaction effect in low-energy sputtering
@@ -1921,7 +1957,7 @@ references:
   container-title: Acta Physica Polonica A
   id: sturmann:spectroscopy:1997
   issued:
-  - {year: '1997'}
+  - {year: 1997}
   page: 689-696
   status: published
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
@@ -1940,7 +1976,7 @@ references:
   container-title: 'Journal of Geophysical Research: Atmospheres'
   id: volk:lifetimes:1997
   issued:
-  - {year: '1997'}
+  - {year: 1997}
   page: 25543-25564
   status: published
   title: Evaluation of source gas lifetimes from stratospheric observations
@@ -1975,7 +2011,7 @@ references:
   container-title: Geophysical Research Letters
   id: elkins:acats:1996
   issued:
-  - {year: '1996'}
+  - {year: 1996}
   page: 347-350
   status: published
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
@@ -1998,7 +2034,7 @@ references:
   container-title: Science
   id: volk:transport:1996
   issued:
-  - {year: '1996'}
+  - {year: 1996}
   page: 1763-1768
   status: published
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
@@ -2026,12 +2062,11 @@ references:
   container-title: Journal of Geophysical Research
   id: woodbridge:cfc.conc:1995
   issued:
-  - {year: '1995'}
+  - {year: 1995}
   page: 3057-3064
   status: published
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
-    from *in situ* measurements during <span style="font-variant:small-caps;">aase
-    ii</span>
+    from *in situ* measurements during <span class="smallcaps">aase ii</span>
   type: article-journal
   volume: '100'
 - author:
@@ -2046,7 +2081,7 @@ references:
   container-title: Atmospheric effects of aviation project workshop
   id: gilligan:cl.budgets:1994
   issued:
-  - {year: '1994'}
+  - {year: 1994}
   status: published
   title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
     with a new *in situ* instrument, airborne chromatograph for atmospheric trace
@@ -2063,7 +2098,7 @@ references:
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   id: eichmann:interference:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 43-48
   status: published
   title: Interference in the resonance fluorescence of two trapped atoms
@@ -2079,7 +2114,7 @@ references:
   container-title: Physical Review Letters
   id: eichmann:two.slit:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 2359-2362
   status: published
   title: "Young\u2019s interference experiment with light scattered from two atoms"
@@ -2095,7 +2130,7 @@ references:
   container-title: Physical Review A
   id: itano:projection.noise:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 3554-3570
   status: published
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
@@ -2114,7 +2149,7 @@ references:
   container-title: Vistas in Astronomy
   id: itano:quantum.measurements:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 169-183
   status: published
   title: Quantum measurements of trapped ions
@@ -2131,7 +2166,7 @@ references:
   container-title: Hyperfine Interactions
   id: itano:spectroscopy:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 211-220
   status: published
   title: Ultra-high precision spectroscopy for fundamental physics
@@ -2148,7 +2183,7 @@ references:
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   id: itano:two.slit:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 410-419
   status: published
   title: Light scattered from two atoms
@@ -2161,7 +2196,7 @@ references:
   container-title: Physical Review A
   id: shiner:calibration:1993
   issued:
-  - {year: '1993'}
+  - {year: 1993}
   page: 4042-4045
   status: published
   title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
@@ -2190,7 +2225,7 @@ references:
   container-title: Physical Review A
   id: gilligan:h2.ip:1992
   issued:
-  - {year: '1992'}
+  - {year: 1992}
   page: 3676-3690
   status: published
   title: Precise determinations of ionization potentials and $EF$ state energy levels
@@ -2206,7 +2241,7 @@ references:
   container-title: Physical Review A
   id: raizen:ion.crystals:1992
   issued:
-  - {year: '1992'}
+  - {year: 1992}
   page: 6493-6501
   status: published
   title: Ionic crystals in a linear Paul trap
@@ -2221,7 +2256,7 @@ references:
   container-title: Journal of Modern Optics
   id: raizen:linear.trap:1992
   issued:
-  - {year: '1992'}
+  - {year: 1992}
   page: 233-242
   status: published
   title: Linear trap for high-accuracy spectroscopy of stored ions
@@ -2256,7 +2291,7 @@ references:
   genre: PhD thesis
   id: gilligan:dissertation:1991
   issued:
-  - {year: '1991'}
+  - {year: 1991}
   publisher: Yale University
   title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
     molecules and a new determination of the ionization potential of $\ce{HD}$
@@ -2267,7 +2302,7 @@ references:
   container-title: Physical Review A
   id: gilligan:three.photon:1991
   issued:
-  - {year: '1991'}
+  - {year: 1991}
   page: 6406-6409
   status: published
   title: High-resolution three-photon spectroscopy and multiphoton interference in
@@ -2289,7 +2324,7 @@ references:
     of atoms and ions, July 1991, Varenna, Italy
   id: wineland:recent.experiments:1991
   issued:
-  - {year: '1991'}
+  - {year: 1991}
   page: 553-567
   status: published
   title: Recent experiments on trapped ions at the National Institute of Standards
@@ -2310,7 +2345,7 @@ references:
     of atoms and ions, July 1991, Varenna, Italy
   id: wineland:spectroscopy:1991
   issued:
-  - {year: '1991'}
+  - {year: 1991}
   page: 539-551
   status: published
   title: High-resolution spectroscopy of laser-cooled ions
@@ -2323,7 +2358,7 @@ references:
   container-title: Physical Review A
   id: mccormack:h2.ip:1989
   issued:
-  - {year: '1989'}
+  - {year: 1989}
   page: 2260-2263
   status: published
   title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
@@ -2337,7 +2372,7 @@ references:
   container-title: Advances in laser spectroscopy III
   id: eyler:multiphoton:1988
   issued:
-  - {year: '1988'}
+  - {year: 1988}
   page: 331-333
   status: published
   title: Precise multiphoton spectroscopy of $\ce{H2}$
@@ -2352,7 +2387,7 @@ references:
   container-title: Physical Review A
   id: eyler:ef.state:1987
   issued:
-  - {year: '1987'}
+  - {year: 1987}
   page: 3486-3489
   status: published
   title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
@@ -2365,7 +2400,7 @@ references:
   container-title: Advances in laser spectroscopy II
   id: eyler:multiphoton:1987
   issued:
-  - {year: '1987'}
+  - {year: 1987}
   page: 388-390
   status: published
   title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
@@ -2379,7 +2414,7 @@ references:
   container-title: Proceedings of the XV International Conference on Quantum Electronics
   id: mccormack:multiphoton:1987
   issued:
-  - {year: '1987'}
+  - {year: 1987}
   page: 58-60
   publisher: Optical Society of America
   status: published

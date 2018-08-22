@@ -14,7 +14,7 @@ container_title: Journal of Microscopy
 date: '2001-01-01'
 id: cricenti_diamond_2001
 issued:
-- {year: '2001'}
+- {year: 2001}
 page: 446-450
 pub_type: article-journal
 short_author:

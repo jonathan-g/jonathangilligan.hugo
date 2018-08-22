@@ -12,7 +12,7 @@ container_title: 'Physica Status Solidi A: Applied Research'
 date: '1999-01-01'
 id: cricenti_heterostructure_1999
 issued:
-- {year: '1999'}
+- {year: 1999}
 page: 345-349
 pub_type: article-journal
 short_author:

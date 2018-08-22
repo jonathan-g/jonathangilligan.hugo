@@ -9,7 +9,7 @@ file:
 - {desc: full text, file: vandenbergh_2014_prediction_market.pdf}
 id: vandenbergh_prediction_market_2014
 issued:
-- {year: '2014'}
+- {year: 2014}
 page: 1962-2017
 pub_type: article-journal
 short_author:

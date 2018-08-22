@@ -12,7 +12,7 @@ file:
 - {desc: full text, file: carrico_2009_costly_myths.pdf}
 id: carrico_costly_myths_2009
 issued:
-- {year: '2009'}
+- {year: 2009}
 page: 2881-2888
 pub_type: article-journal
 short_author:

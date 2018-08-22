@@ -12,7 +12,7 @@ file:
 - {desc: full text, file: rogers_2013_farming_practices.pdf}
 id: rogers_farming_practices_2013
 issued:
-- {year: '2013'}
+- {year: 2013}
 page: 133-142
 pub_type: paper-conference
 publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."

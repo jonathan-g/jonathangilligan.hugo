@@ -13,7 +13,7 @@ file:
 - {desc: supporting information, file: dietz_2009_behavioral_wedge_supporting_info.pdf}
 id: dietz_behavioral_wedge_2009
 issued:
-- {year: '2009'}
+- {year: 2009}
 page: 18452-18456
 pub_type: article-journal
 short_author:

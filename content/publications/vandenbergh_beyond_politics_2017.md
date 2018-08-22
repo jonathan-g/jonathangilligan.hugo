@@ -7,7 +7,7 @@ author:
 date: '2017-11-30'
 id: vandenbergh_beyond_politics_2017
 issued:
-- {day: '30', month: '11', year: '2017'}
+- {day: 30, month: 11, year: 2017}
 note: 494 pp.
 pub_type: book
 publisher: Cambridge University Press

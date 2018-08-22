@@ -10,7 +10,7 @@ container_title: International biomedical optics symposium
 date: '1999-01-01'
 id: sobol_tissue_denaturation_1999
 issued:
-- {year: '1999'}
+- {year: 1999}
 page: 122-129
 pub_type: paper-conference
 publisher: SPIE

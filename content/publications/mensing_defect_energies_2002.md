@@ -12,7 +12,7 @@ container_title: Journal of Non-Crystalline Solids
 date: '2002-01-01'
 id: mensing_defect_energies_2002
 issued:
-- {year: '2002'}
+- {year: 2002}
 page: 621-625
 pub_type: article-journal
 short_author:

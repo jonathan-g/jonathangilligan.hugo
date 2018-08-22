@@ -10,7 +10,7 @@ container_title: Physical Review A
 date: '1993-01-01'
 id: itano_projection_noise_1993
 issued:
-- {year: '1993'}
+- {year: 1993}
 page: 3554-3570
 pub_type: article-journal
 short_author:
