@@ -23,6 +23,6 @@ experiments.
 
 ---
 
-#### [Syllabus (PDF)](/files/teaching/EES_4760_5760_Syllabus.pdf)
+#### [Syllabus (PDF)](https://ees4760.jgilligan.org/files/EES_4760_5760_Syllabus.pdf)
 
-#### [Course web site](https://www.ees-4760-5760.jgilligan.org/)
+#### [Course web site](https://www.ees4760.jgilligan.org/)

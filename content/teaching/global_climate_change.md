@@ -63,4 +63,6 @@ and the geological record.
 
 ---
 
-#### [Syllabus (PDF)](/files/teaching/EES_3310_5310_Syllabus.pdf)
+#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
+
+#### [Course web site](https://ees3310.jgilligan.org)
