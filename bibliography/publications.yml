@@ -10,11 +10,11 @@ references:
     \ that there are a wide range of types of EEBs currently offered by employers,\
     \ and furthermore, they were more likely to be offered in certain industries,\
     \ such as state and local governments but not others such as retail. These benefits\
-    \ were offered to 17 employees and included a vast array of strategies and approaches.\
-    \ Guided by theorizing on employer and employee motivation, open-ended responses\
-    \ suggested employers were perceived to offer EEBs to maximize competiveness and\
-    \ because of social responsibility concerns, and employees tended to enroll because\
-    \ they wanted to save money and time or because they cared about the environment.\
+    \ were offered to 17% of employees and included a vast array of strategies and\
+    \ approaches. Guided by theorizing on employer and employee motivation, open-ended\
+    \ responses suggested employers were perceived to offer EEBs to maximize competiveness\
+    \ and because of social responsibility concerns, and employees tended to enroll\
+    \ because they wanted to save money and time or because they cared about the environment.\
     \ Finally, EEBs were linked to employee environmental behavior and morale. The\
     \ findings reveal new information about the types of EEBs being offered, motivations\
     \ for offering and enrolling in EEBs, and their relationship to employee behavior\
@@ -71,9 +71,11 @@ references:
   id: gilligan:water.conservation:2018
   issued:
   - {day: 12, month: 6, year: 2018}
-  status: Early online publication
+  page: 955-967
+  status: published
   title: Urban water conservation policies in the United States
   type: article-journal
+  volume: '6'
 - DOI: 10.1038/s41558-017-0038-0
   abstract: One of the greatest sources of uncertainty about future climate change
     is the path greenhouse gas emissions will take. Now research using a coupled model
@@ -111,7 +113,7 @@ references:
   container-title: George Washington Law Review
   id: ruhl:topic.modeling:2018
   issued:
-  - {day: 1, month: 7, year: 2018}
+  - {day: 1, month: 12, year: 2018}
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
   status: Accepted for publication; in press
   title: 'Topic modeling the president: Conventional and computational methods'

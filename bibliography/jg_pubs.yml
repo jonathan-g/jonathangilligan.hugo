@@ -31,16 +31,16 @@ references:
     conducting a survey of 482 US adults employed full-time, we found that there are
     a wide range of types of EEBs currently offered by employers, and furthermore,
     they were more likely to be offered in certain industries, such as state and local
-    governments but not others such as retail. These benefits were offered to 17 employees
-    and included a vast array of strategies and approaches. Guided by theorizing on
-    employer and employee motivation, open-ended responses suggested employers were
-    perceived to offer EEBs to maximize competiveness and because of social responsibility
-    concerns, and employees tended to enroll because they wanted to save money and
-    time or because they cared about the environment. Finally, EEBs were linked to
-    employee environmental behavior and morale. The findings reveal new information
-    about the types of EEBs being offered, motivations for offering and enrolling
-    in EEBs, and their relationship to employee behavior and morale. This work suggests
-    numerous lines of promising new research.
+    governments but not others such as retail. These benefits were offered to 17%
+    of employees and included a vast array of strategies and approaches. Guided by
+    theorizing on employer and employee motivation, open-ended responses suggested
+    employers were perceived to offer EEBs to maximize competiveness and because of
+    social responsibility concerns, and employees tended to enroll because they wanted
+    to save money and time or because they cared about the environment. Finally, EEBs
+    were linked to employee environmental behavior and morale. The findings reveal
+    new information about the types of EEBs being offered, motivations for offering
+    and enrolling in EEBs, and their relationship to employee behavior and morale.
+    This work suggests numerous lines of promising new research.
   DOI: 10.1007/s12053-018-9721-x
 
 - id: gilligan:water.conservation:2018
@@ -64,7 +64,9 @@ references:
     day: 12
   title: Urban water conservation policies in the United States
   container-title: Earth’s Future
-  status: Early online publication
+  page: '955-967'
+  volume: '6'
+  status: published
   abstract: Urban water supply systems in the United States are increasingly stressed
     as economic and population growth confront limited water resources. Demand management,
     through conservation and improved efficiency, has long been promoted as a practical
@@ -120,7 +122,7 @@ references:
     given: Jonathan M.
   issued:
   - year: 2018
-    month: 7
+    month: 12
     day: 1
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
