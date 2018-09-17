@@ -14,6 +14,12 @@ keywords:
   - course
 ---
 
+#### [Course web site](https://ees3310.jgilligan.org)
+
+#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
+
+---
+
 This course, for undergraduate and graduate students, has three major parts:
 
 1. The __basic scientific principles__ of the earth's climate.
@@ -60,9 +66,3 @@ more likely to be adopted into practice?
 In the lab sessions, students work with interactive
 computer-based climate models and examine data from climate monitoring networks
 and the geological record.
-
----
-
-#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
-
-#### [Course web site](https://ees3310.jgilligan.org)
