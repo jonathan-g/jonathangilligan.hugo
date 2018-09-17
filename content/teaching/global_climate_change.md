@@ -29,14 +29,6 @@ computer models of the climate system.
 
 <!--more-->
 
----
-
-#### [Course web site](https://ees3310.jgilligan.org)
-
-#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
-
----
-
 ### Science of Climate Change:
 
 In the first part of the semester, we cover the __basic scientific
@@ -68,3 +60,10 @@ more likely to be adopted into practice?
 In the lab sessions, students work with interactive
 computer-based climate models and examine data from climate monitoring networks
 and the geological record.
+
+---
+
+#### [Course web site](https://ees3310.jgilligan.org)
+
+#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
+
