@@ -14,12 +14,6 @@ keywords:
   - course
 ---
 
-#### [Course web site](https://ees3310.jgilligan.org)
-
-#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
-
----
-
 This course, for undergraduate and graduate students, has three major parts:
 
 1. The __basic scientific principles__ of the earth's climate.
@@ -34,6 +28,14 @@ analyze climate data and work with interactive
 computer models of the climate system.
 
 <!--more-->
+
+---
+
+#### [Course web site](https://ees3310.jgilligan.org)
+
+#### [Syllabus (PDF)](https://ees3310.jgilligan.org/files/EES_3310_5310_syllabus.pdf)
+
+---
 
 ### Science of Climate Change:
 
