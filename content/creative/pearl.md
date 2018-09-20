@@ -8,7 +8,7 @@ writing_credit:
 performances:
   - date: "Aug 5, 2013"
     description: "Concert performance at Shakespeare & Company (Lenox MA)"
-    credits: "  Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Michael Corvino (bass), Olivia Marchione (child soprano), Sara Jobin (conductor and producer)"
+    credits: "  Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Michael Corvino (bass), Olivia Marchione (child soprano), Stephanie Otto Orvik (piano), Sara Jobin (conductor and producer)"
   - date: "Mar 21, 2013"
     description: "Excerpts performed at University of Shanghai for Science and Technology"
     credits: "John Bellemer (tenor), Li Xin (soprano), Wang Yang (bass-baritone), Lin Shu (soprano), Charmaine (child soprano)"
@@ -47,15 +47,23 @@ keywords:
 
 #### **The "A" Aria:** [Pearl and Hester]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7P1uA0BBJHA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7P1uA0BBJHA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
   Maureen O'Flynn, soprano; Victoria Perl, child soprano; Sara Jobin, piano
 
 ---
 
+#### **If God is Love, How Can Love Be Sin?** (Dimmesdale)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cCD0FO8n0m0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+Maureen O'Flynn, soprano; John Bellemer, tenor; Sara Jobin, piano/conductor
+
+---
+
 #### **"How Can Sin Be Love?"** (Wilson)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qZ2fZUhd3KM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZ2fZUhd3KM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
@@ -63,17 +71,26 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 #### **"O Reverend Wilson"** (Dimmesdale)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8wDApiWU-os" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wDApiWU-os" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
   John Bellemer, tenor; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ---
 
-#### **"I Will Lead You Home"** [Chillingworth]
+#### **"I Will Lead You Home"** (Chillingworth)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yT3P5gMYQas" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yT3P5gMYQas" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
   Michael Corvino, baritone, Stephanie Otto Orvik, piano, Sara Jobin, conductor
+
+---
+
+#### **"I Press My Pen..."** (Hester/Pearl)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMjYBYIV5dY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+Marnie Breckenridge, soprano (Adult Pearl); Maureen O'Flynn, soprano (Hester), 
+Stephanie Otto Orvik, piano; Sara Jobin, conductor 
 
 ---
 
