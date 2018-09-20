@@ -53,7 +53,7 @@ keywords:
 
 ---
 
-#### **If God is Love, How Can Love Be Sin?** (Dimmesdale)
+#### **If God is Love, How Can Love Be Sin?** [Dimmesdale]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCD0FO8n0m0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ Maureen O'Flynn, soprano; John Bellemer, tenor; Sara Jobin, piano/conductor
 
 ---
 
-#### **"How Can Sin Be Love?"** (Wilson)
+#### **"How Can Sin Be Love?"** [Wilson]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ2fZUhd3KM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ---
 
-#### **"O Reverend Wilson"** (Dimmesdale)
+#### **"O Reverend Wilson"** [Dimmesdale]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wDApiWU-os" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -77,7 +77,7 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ---
 
-#### **"I Will Lead You Home"** (Chillingworth)
+#### **"I Will Lead You Home"** [Chillingworth]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yT3P5gMYQas" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -85,7 +85,7 @@ John Cheek, bass; Stephanie Otto Orvik, piano, Sara Jobin, conductor
 
 ---
 
-#### **"I Press My Pen..."** (Hester/Pearl)
+#### **"I Press My Pen..."** [Hester/Pearl]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMjYBYIV5dY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
