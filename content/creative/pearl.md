@@ -53,7 +53,7 @@ keywords:
 
 ---
 
-#### **If God is Love, How Can Love Be Sin?** [Dimmesdale]
+#### **"If God is Love, How Can Love Be Sin?"** [Dimmesdale]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCD0FO8n0m0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
