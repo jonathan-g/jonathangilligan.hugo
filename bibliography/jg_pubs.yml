@@ -122,12 +122,14 @@ references:
     given: Jonathan M.
   issued:
   - year: 2018
-    month: 12
-    day: 1
+    month: 10
+    day: 6
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   container-title: George Washington Law Review
-  status: Accepted for publication; in press
+  page: '1243-1315'
+  volume: '86'
+  status: published
   abstract: Law is generally represented through text, and lawyers have for centuries
     classified large bodies of legal text into distinct topics — they “topic model”
     the law. But large bodies of legal documents present challenges for conventional
@@ -140,6 +142,7 @@ references:
     however, suggest that computational text modeling has its own limitations, but
     that the two methods used in unison could be a powerful research tool for legal
     scholars in their research as well.
+  URL: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
 
 - id: ackerly:migration:2017
   type: chapter

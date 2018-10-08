@@ -94,7 +94,8 @@ references:
   title-short: Climate modeling
   type: article-journal
   volume: '8'
-- abstract: "Law is generally represented through text, and lawyers have for centuries\
+- URL: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
+  abstract: "Law is generally represented through text, and lawyers have for centuries\
     \ classified large bodies of legal text into distinct topics \u2014 they \u201C\
     topic model\u201D the law. But large bodies of legal documents present challenges\
     \ for conventional topic modeling methods. The task of gathering, reviewing, coding,\
@@ -111,14 +112,18 @@ references:
   - {family: Nay, given: John}
   - {family: Gilligan, given: Jonathan M.}
   container-title: George Washington Law Review
+  file:
+  - {desc: full text, file: ruhl_2018_topic_modeling.pdf}
   id: ruhl:topic.modeling:2018
   issued:
-  - {day: 1, month: 12, year: 2018}
+  - {day: 6, month: 10, year: 2018}
+  page: 1243-1315
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
-  status: Accepted for publication; in press
+  status: published
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   type: article-journal
+  volume: '86'
 - ISBN: '9781138655942'
   abstract: Climate change is a global problem. However, between the global forces
     of climate change and the individual challenges of meeting basic needs, communities
