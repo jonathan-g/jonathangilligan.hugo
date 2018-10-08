@@ -15,7 +15,7 @@ The following bio may be used in media releases without further permission.
 >
 > In 2017, Gilligan and Michael Vandenbergh received the [Morrison Prize](https://news.vanderbilt.edu/2017/02/09/gilligan-vandenbergh-win-morrison-prize-for-climate-change-article/), awarded by the program in Law and Sustainability at Arizona State University to the highest-impact paper on sustainability law and policy published in the previous year.
 >
-> He is the author of one book and over 75 scholarly articles. He is also co-author, with Carol Gilligan, of the play "The Scarlet Letter" and the libretto for the opera "Pearl".
+> He is the author of one book and over 86 scholarly articles. He is also co-author, with Carol Gilligan, of the play "The Scarlet Letter" and the libretto for the opera "Pearl".
 
 
 ## Academic/Professional Data:
