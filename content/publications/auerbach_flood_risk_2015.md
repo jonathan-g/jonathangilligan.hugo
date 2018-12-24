@@ -21,6 +21,7 @@ issued:
 - {year: 2015}
 page: 152-157
 pub_type: article-journal
+pubdate: '2015-01-01'
 short_author:
 - {family: Auerbach, given: L. W.}
 - {family: Goodbred, given: S. L.}

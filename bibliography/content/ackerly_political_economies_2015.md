@@ -17,6 +17,7 @@ issued:
 - {year: 2015}
 page: 27-39
 pub_type: chapter
+pubdate: '2015-01-01'
 publisher: AHDPH
 publisher_place: Dhaka
 short_author:

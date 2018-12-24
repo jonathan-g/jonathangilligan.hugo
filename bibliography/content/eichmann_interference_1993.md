@@ -14,6 +14,7 @@ issued:
 - {year: 1993}
 page: 43-48
 pub_type: paper-conference
+pubdate: '1993-01-01'
 short_author:
 - {family: Eichmann, given: U.}
 - {family: Bergquist, given: J. C.}

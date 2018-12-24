@@ -14,6 +14,7 @@ id: gilligan_cl_budgets_1994
 issued:
 - {year: 1994}
 pub_type: paper-conference
+pubdate: '1994-01-01'
 short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Elkins, given: J. W.}

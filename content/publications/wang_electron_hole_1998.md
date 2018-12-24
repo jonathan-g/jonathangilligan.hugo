@@ -17,6 +17,7 @@ issued:
 - {year: 1998}
 page: 4224-4227
 pub_type: article-journal
+pubdate: '1998-01-01'
 short_author:
 - {family: Wang, given: W.}
 - {family: Lupke, given: G.}

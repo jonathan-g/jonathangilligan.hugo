@@ -21,6 +21,7 @@ issued:
 - {year: 1998}
 page: 676-679
 pub_type: article-journal
+pubdate: '1998-01-01'
 short_author:
 - {family: Tolk, given: N. H.}
 - {family: Hargitai, given: Z.}

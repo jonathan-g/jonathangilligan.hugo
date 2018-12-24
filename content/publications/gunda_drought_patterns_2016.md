@@ -15,6 +15,7 @@ issued:
 keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
 page: 563-575
 pub_type: article-journal
+pubdate: '2016-02-01'
 short_author:
 - {family: Gunda, given: T.}
 - {family: Hornberger, given: G. M.}

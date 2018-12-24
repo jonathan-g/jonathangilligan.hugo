@@ -15,6 +15,7 @@ issued:
 - {year: 2013}
 page: 133-142
 pub_type: paper-conference
+pubdate: '2013-01-01'
 publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
 publisher_place: Gothenberg SE
 short_author:

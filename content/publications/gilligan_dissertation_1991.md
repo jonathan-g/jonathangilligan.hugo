@@ -7,6 +7,7 @@ id: gilligan_dissertation_1991
 issued:
 - {year: 1991}
 pub_type: thesis
+pubdate: '1991-01-01'
 publisher: Yale University
 short_author:
 - {family: Gilligan, given: J. M.}

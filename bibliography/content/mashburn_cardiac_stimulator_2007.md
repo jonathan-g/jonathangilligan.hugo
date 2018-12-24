@@ -13,6 +13,7 @@ issued:
 - {year: 2007}
 page: 104302-104309
 pub_type: article-journal
+pubdate: '2007-01-01'
 short_author:
 - {family: Mashburn, given: D. N.}
 - {family: Hinkson, given: S.J.}

@@ -14,6 +14,7 @@ issued:
 - {year: 1993}
 page: 410-419
 pub_type: paper-conference
+pubdate: '1993-01-01'
 short_author:
 - {family: Itano, given: W. M.}
 - {family: Eichmann, given: U.}

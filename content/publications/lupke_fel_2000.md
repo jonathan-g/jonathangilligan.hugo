@@ -14,6 +14,7 @@ issued:
 - {year: 2000}
 page: 349-364
 pub_type: article-journal
+pubdate: '2000-01-01'
 short_author:
 - {family: Lupke, given: G.}
 - {family: Cheney, given: C. P.}

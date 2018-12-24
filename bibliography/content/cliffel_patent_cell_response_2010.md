@@ -12,6 +12,7 @@ issued:
 - {day: 11, month: 5, year: 2010}
 number: 7,713,733 B2
 pub_type: patent
+pubdate: '2010-05-11'
 short_author:
 - {family: Cliffel, given: D.}
 - {family: Baudenbacher, given: F. J.}

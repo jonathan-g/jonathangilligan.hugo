@@ -17,6 +17,7 @@ issued:
 - {year: 2001}
 page: 206-211
 pub_type: paper-conference
+pubdate: '2001-01-01'
 publisher: International Society for Optics; Photonics
 short_author:
 - {family: Sturmann, given: J.}

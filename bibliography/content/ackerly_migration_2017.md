@@ -19,6 +19,7 @@ issued:
 - {day: 1, month: 6, year: 2017}
 page: 189-202
 pub_type: chapter
+pubdate: '2017-06-01'
 publisher: Routledge
 publisher_place: New York
 short_author:

@@ -9,6 +9,7 @@ issued:
 - {year: 1991}
 page: 6406-6409
 pub_type: article-journal
+pubdate: '1991-01-01'
 short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Eyler, given: E. E.}

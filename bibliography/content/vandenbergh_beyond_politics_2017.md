@@ -10,6 +10,7 @@ issued:
 - {day: 30, month: 11, year: 2017}
 note: 494 pp.
 pub_type: book
+pubdate: '2017-11-30'
 publisher: Cambridge University Press
 publisher_place: New York, NY
 short_author:

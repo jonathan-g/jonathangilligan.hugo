@@ -12,6 +12,7 @@ issued:
 - {year: 1987}
 page: 3486-3489
 pub_type: article-journal
+pubdate: '1987-01-01'
 short_author:
 - {family: Eyler, given: E. E.}
 - {family: Gilligan, given: J. M.}

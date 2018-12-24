@@ -23,6 +23,7 @@ keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resour
 page: 1678-1689
 pub_type: paper-conference
 pub_url: https://papers.ssrn.com/abstract=2807452
+pubdate: '2016-12-01'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:

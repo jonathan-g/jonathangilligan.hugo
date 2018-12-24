@@ -25,6 +25,7 @@ issued:
 - {year: 1995}
 page: 3057-3064
 pub_type: article-journal
+pubdate: '1995-01-01'
 short_author:
 - {family: Woodbridge, given: E. L.}
 - {family: Elkins, given: J. W.}

@@ -11,6 +11,7 @@ issued:
 - {year: 1987}
 page: 58-60
 pub_type: paper-conference
+pubdate: '1987-01-01'
 publisher: Optical Society of America
 short_author:
 - {family: McCormack, given: E.}

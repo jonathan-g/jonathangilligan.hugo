@@ -12,6 +12,7 @@ id: gilligan_resilience_2013
 issued:
 - {month: 2, year: 2013}
 pub_type: paper-conference
+pubdate: '2013-02-01'
 publisher: Bangladesh Development Initiative
 publisher_place: Berkeley, CA
 short_author:

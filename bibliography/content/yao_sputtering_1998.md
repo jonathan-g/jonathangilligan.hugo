@@ -20,6 +20,7 @@ issued:
 - {year: 1998}
 page: 550-553
 pub_type: article-journal
+pubdate: '1998-01-01'
 short_author:
 - {family: Yao, given: Y.}
 - {family: Hargitai, given: Z.}

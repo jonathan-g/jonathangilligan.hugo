@@ -24,6 +24,7 @@ keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Q
 page: 1666-1677
 pub_type: paper-conference
 pub_url: https://arxiv.org/abs/1603.08961
+pubdate: '2016-12-02'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:

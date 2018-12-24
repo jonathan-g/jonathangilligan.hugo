@@ -17,6 +17,7 @@ issued:
 - {year: 2000}
 page: 339-344
 pub_type: article-journal
+pubdate: '2000-01-01'
 short_author:
 - {family: Talley, given: D. B.}
 - {family: Shaw, given: L.B.}

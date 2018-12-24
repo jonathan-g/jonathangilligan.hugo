@@ -17,6 +17,7 @@ issued:
 - {year: 2002}
 page: 183-192
 pub_type: article-journal
+pubdate: '2002-01-01'
 short_author:
 - {family: Cricenti, given: A.}
 - {family: Generosi, given: R.}

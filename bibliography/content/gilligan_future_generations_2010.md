@@ -12,6 +12,7 @@ issued:
 - {year: 2010}
 page: 20-32
 pub_type: chapter
+pubdate: '2010-01-01'
 publisher: Gale
 short_author:
 - {family: Gilligan, given: J.}

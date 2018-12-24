@@ -17,6 +17,7 @@ issued:
 - {day: 27, month: 4, year: 2010}
 number: 7,704,745 B2
 pub_type: patent
+pubdate: '2010-04-27'
 short_author:
 - {family: Baudenbacher, given: F. J.}
 - {family: Wikswo, given: J. P.}

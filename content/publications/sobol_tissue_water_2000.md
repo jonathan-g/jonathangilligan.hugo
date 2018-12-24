@@ -12,6 +12,7 @@ issued:
 - {year: 2000}
 page: '78'
 pub_type: paper-conference
+pubdate: '2000-01-01'
 publisher: SPIE
 short_author:
 - {family: Sobol, given: E.}

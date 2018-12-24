@@ -15,6 +15,7 @@ issued:
 - {year: 2002}
 page: 621-625
 pub_type: article-journal
+pubdate: '2002-01-01'
 short_author:
 - {family: Mensing, given: G.}
 - {family: Gilligan, given: J.}

@@ -14,6 +14,7 @@ id: maki_employee_benefits_2018
 issued:
 - {day: 7, month: 8, year: 2018}
 pub_type: article-journal
+pubdate: '2018-08-07'
 short_author:
 - {family: Maki, given: A.}
 - {family: McKinney, given: E.}

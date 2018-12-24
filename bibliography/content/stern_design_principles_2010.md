@@ -15,6 +15,7 @@ issued:
 - {year: 2010}
 page: 4847-4848
 pub_type: article-journal
+pubdate: '2010-01-01'
 short_author:
 - {family: Stern, given: P. C.}
 - {family: Gardner, given: G. T.}

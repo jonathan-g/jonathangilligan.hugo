@@ -15,6 +15,7 @@ issued:
 - {year: 1998}
 page: 59-63
 pub_type: article-journal
+pubdate: '1998-01-01'
 short_author:
 - {family: Sturmann, given: J.}
 - {family: Albridge, given: R. G.}

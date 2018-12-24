@@ -13,6 +13,7 @@ issued:
 - {day: 18, month: 12, year: 2017}
 page: 1800-1816
 pub_type: article-journal
+pubdate: '2017-12-18'
 short_author:
 - {family: Nay, given: J. J.}
 - {family: Burchfield, given: E. K.}

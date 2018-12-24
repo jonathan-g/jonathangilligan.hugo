@@ -12,6 +12,7 @@ issued:
 - {year: 2008}
 page: 1701-1758
 pub_type: article-journal
+pubdate: '2008-01-01'
 short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Barkenbus, given: J.}

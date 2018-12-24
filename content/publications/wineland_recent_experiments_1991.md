@@ -18,6 +18,7 @@ issued:
 - {year: 1991}
 page: 553-567
 pub_type: paper-conference
+pubdate: '1991-01-01'
 short_author:
 - {family: Wineland, given: D. J.}
 - {family: Bergquist, given: J. C.}

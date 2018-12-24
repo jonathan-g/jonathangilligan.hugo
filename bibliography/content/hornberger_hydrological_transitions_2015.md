@@ -15,6 +15,7 @@ issued:
 keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
 page: 4635-4649
 pub_type: article-journal
+pubdate: '2015-01-01'
 short_author:
 - {family: Hornberger, given: G. M.}
 - {family: Hess, given: D. J.}

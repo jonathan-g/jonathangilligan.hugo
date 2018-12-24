@@ -17,6 +17,7 @@ issued:
 - {day: 1, month: 7, year: 2016}
 page: 807-827
 pub_type: article-journal
+pubdate: '2016-07-01'
 publisher: Wiley Online Library
 short_author:
 - {family: Hess, given: D. J.}

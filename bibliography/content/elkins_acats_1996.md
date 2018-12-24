@@ -32,6 +32,7 @@ issued:
 - {year: 1996}
 page: 347-350
 pub_type: article-journal
+pubdate: '1996-01-01'
 short_author:
 - {family: Elkins, given: J. W.}
 - {family: Fahey, given: D. W.}

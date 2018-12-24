@@ -25,6 +25,7 @@ issued:
 page: 3174-3175
 pub_type: paper-conference
 pub_url: https://ieeexplore.ieee.org/document/7408456/
+pubdate: '2015-01-01'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:

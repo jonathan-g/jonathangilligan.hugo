@@ -11,6 +11,7 @@ issued:
 - {year: 1989}
 page: 2260-2263
 pub_type: article-journal
+pubdate: '1989-01-01'
 short_author:
 - {family: McCormack, given: E.}
 - {family: Gilligan, given: J. M.}

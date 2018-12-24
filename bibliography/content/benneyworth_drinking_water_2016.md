@@ -24,6 +24,7 @@ note: " Featured by Taylor & Francis publishers as part of their observance of W
   \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
 page: 508-524
 pub_type: article-journal
+pubdate: '2016-06-01'
 short_author:
 - {family: Benneyworth, given: L.}
 - {family: Gilligan, given: J.}

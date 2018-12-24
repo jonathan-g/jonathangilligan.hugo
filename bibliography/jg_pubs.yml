@@ -1,47 +1,28 @@
 ---
 references:
-- id: maki:employee.benefits:2018
+- id: gilligan:carrots.sticks:2018
   type: article-journal
   author:
-  - family: Maki
-    given: Alexander
-  - family: McKinney
-    given: Emmett
-  - family: Vandenbergh
-    given: Michael P.
-  - family: Cohen
-    given: Mark A.
   - family: Gilligan
     given: Jonathan M.
   issued:
   - year: 2018
-    month: 8
-    day: 7
-  title: 'Employee energy benefits: What are they and what effects do they have
-    on employees?'
-  title-short: Employee energy benefits
-  container-title: Energy Efficiency
-  status: Early online publication
-  abstract: Employee energy benefits (EEBs), such as subsidies for employee home energy
-    audits and financial incentives for carpooling to work, aim to influence employees’
-    environmental behaviors outside of work. Exploring these understudied benefits
-    would offer new insights that can enrich theories of employer and employee motivations
-    for engaging in environmental behavior, as well as reveal new strategies for making
-    significant progress on environment goals. By drawing upon employer reports and
-    conducting a survey of 482 US adults employed full-time, we found that there are
-    a wide range of types of EEBs currently offered by employers, and furthermore,
-    they were more likely to be offered in certain industries, such as state and local
-    governments but not others such as retail. These benefits were offered to 17%
-    of employees and included a vast array of strategies and approaches. Guided by
-    theorizing on employer and employee motivation, open-ended responses suggested
-    employers were perceived to offer EEBs to maximize competiveness and because of
-    social responsibility concerns, and employees tended to enroll because they wanted
-    to save money and time or because they cared about the environment. Finally, EEBs
-    were linked to employee environmental behavior and morale. The findings reveal
-    new information about the types of EEBs being offered, motivations for offering
-    and enrolling in EEBs, and their relationship to employee behavior and morale.
-    This work suggests numerous lines of promising new research.
-  DOI: 10.1007/s12053-018-9721-x
+    month: 12
+    day: 31
+  title: Carrots and sticks in private climate governance
+  container-title: Texas A&M Law Review
+  status: in press
+  abstract: When public governance fails to address important environmental threats—such
+    as climate change—private governance by firms, not-for-profits, individuals, and
+    households can produce significant reductions in greenhouse gas emissions. Private
+    governance can take the form of either a carrot or a stick, using incentives or
+    punishments. Shareholder activism as a form of private governance of corporations
+    has largely been confrontational, leading most climate-related actions to fail.
+    This Article examines the potential for private governance to take a more collaborative
+    approach and to frame shareholder engagement with management in terms of opportunity.
+    It also examines private governance successes at reducing household emissions
+    and finds that these too emphasize making it attractive and convenient for households
+    to act.
 
 - id: gilligan:water.conservation:2018
   type: article-journal
@@ -110,6 +91,75 @@ references:
     of human behavior and climate finds that individual behavior can significantly
     alter emissions trajectories and global temperature.
   DOI: 10.1038/s41558-017-0038-0
+
+- id: maki:employee.benefits:2018
+  type: article-journal
+  author:
+  - family: Maki
+    given: Alexander
+  - family: McKinney
+    given: Emmett
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Cohen
+    given: Mark A.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2018
+    month: 8
+    day: 7
+  title: 'Employee energy benefits: What are they and what effects do they have
+    on employees?'
+  title-short: Employee energy benefits
+  container-title: Energy Efficiency
+  status: Early online publication
+  abstract: Employee energy benefits (EEBs), such as subsidies for employee home energy
+    audits and financial incentives for carpooling to work, aim to influence employees’
+    environmental behaviors outside of work. Exploring these understudied benefits
+    would offer new insights that can enrich theories of employer and employee motivations
+    for engaging in environmental behavior, as well as reveal new strategies for making
+    significant progress on environment goals. By drawing upon employer reports and
+    conducting a survey of 482 US adults employed full-time, we found that there are
+    a wide range of types of EEBs currently offered by employers, and furthermore,
+    they were more likely to be offered in certain industries, such as state and local
+    governments but not others such as retail. These benefits were offered to 17%
+    of employees and included a vast array of strategies and approaches. Guided by
+    theorizing on employer and employee motivation, open-ended responses suggested
+    employers were perceived to offer EEBs to maximize competiveness and because of
+    social responsibility concerns, and employees tended to enroll because they wanted
+    to save money and time or because they cared about the environment. Finally, EEBs
+    were linked to employee environmental behavior and morale. The findings reveal
+    new information about the types of EEBs being offered, motivations for offering
+    and enrolling in EEBs, and their relationship to employee behavior and morale.
+    This work suggests numerous lines of promising new research.
+  DOI: 10.1007/s12053-018-9721-x
+
+- id: phillips_dialogue_beyond_politics_2018
+  type: article-journal
+  author:
+  - family: Phillips
+    given: Cassie
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Harper
+    given: Stephen
+  - family: Roberts
+    given: Jackie
+  - family: Vandenbergh
+    given: M. P.
+  issued:
+  - year: 2018
+    month: 12
+    day: 1
+  title: 'Dialogue: Beyond politics: The private governance response to climate
+    change'
+  title-short: Dialogue
+  container-title: Environmental Law Reporter
+  page: '11049-11062'
+  volume: '48'
+  status: published
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
 
 - id: ruhl:topic.modeling:2018
   type: article-journal

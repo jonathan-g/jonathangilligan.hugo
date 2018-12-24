@@ -15,6 +15,7 @@ issued:
 - {year: 2009}
 page: 2881-2888
 pub_type: article-journal
+pubdate: '2009-01-01'
 short_author:
 - {family: Carrico, given: A. R.}
 - {family: Padgett, given: P.}

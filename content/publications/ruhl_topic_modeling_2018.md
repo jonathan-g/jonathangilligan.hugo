@@ -15,6 +15,7 @@ preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
 preprint_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
 pub_type: article-journal
 pub_url: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
+pubdate: '2018-10-06'
 short_author:
 - {family: Ruhl, given: J. B.}
 - {family: Nay, given: J.}

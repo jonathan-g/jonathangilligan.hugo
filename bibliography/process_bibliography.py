@@ -15,6 +15,7 @@ import re
 import html
 import yaml
 # import string
+import datetime
 import pybtex.database as ptd
 
 def fix_files(path):
@@ -73,6 +74,9 @@ def extract_file_link(filestr):
     files = filestr.split(';')
     matches = [file_expr.match(s) for s in files ]
     # d = dict([(m.group('desc'), m.group('file')) for m in matches])
+    for i in range(len(files)):
+        if matches[i] is None:
+            print('ERROR: cannot match file string "%s" from "%s".' % (files[i], filestr))
     d = [ {'desc':m.group('desc'), 'file': m.group('file')} for m in matches]
     return d
 
@@ -122,7 +126,7 @@ def gen_items(bib):
                    'keyword',
                    'note',
                    'file',
-                   'amazon',
+                   'amazon'
                    ]
     # title_keys = ['title', 'short_title', 'container_title', 'collection_title']
     if not os.path.exists('content'):
@@ -155,6 +159,10 @@ def gen_items(bib):
         if 'day' in dd.keys():
             d = int(dd['day'])
         header_items['date'] = ("%04d-%02d-%02d" % (y, m, d))
+        d = datetime.datetime.strptime(header_items['date'], "%Y-%m-%d").date()
+        if (d > datetime.date.today()):
+            d = datetime.date.today()
+        header_items['pubdate'] = d.isoformat()
         if 'URL' in item.keys():
             header_items['pub_url'] = item['URL']
         if 'preprint' in item.keys():

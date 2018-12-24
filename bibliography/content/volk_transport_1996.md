@@ -19,6 +19,7 @@ issued:
 - {year: 1996}
 page: 1763-1768
 pub_type: article-journal
+pubdate: '1996-01-01'
 short_author:
 - {family: Volk, given: C. M.}
 - {family: Elkins, given: J. W.}

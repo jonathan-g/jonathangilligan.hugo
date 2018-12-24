@@ -16,6 +16,7 @@ issued:
 - {day: 12, month: 6, year: 2018}
 page: 955-967
 pub_type: article-journal
+pubdate: '2018-06-12'
 short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Wold, given: C. A.}

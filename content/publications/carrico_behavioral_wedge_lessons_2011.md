@@ -15,6 +15,7 @@ issued:
 - {year: 2011}
 page: 61-67
 pub_type: article-journal
+pubdate: '2011-01-01'
 short_author:
 - {family: Carrico, given: A. R.}
 - {family: Vandenbergh, given: M. P.}

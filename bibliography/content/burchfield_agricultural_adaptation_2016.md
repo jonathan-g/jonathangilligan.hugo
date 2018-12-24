@@ -14,6 +14,7 @@ keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
 page: 92-100
 pub_type: article-journal
 pub_url: https://www.sciencedirect.com/science/article/pii/S0143622816306063
+pubdate: '2016-12-31'
 publisher: Elsevier
 short_author:
 - {family: Burchfield, given: E. K}

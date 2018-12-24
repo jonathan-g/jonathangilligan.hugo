@@ -16,6 +16,7 @@ note: ' Selected by Environmental Law Institute to reprint as the featured cover
   of the 2010 summer reading issue for policymakers of Environmental Forum.'
 page: 547-554
 pub_type: article-journal
+pubdate: '2010-01-01'
 short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Stern, given: P. C.}

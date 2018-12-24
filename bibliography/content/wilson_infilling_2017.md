@@ -17,6 +17,7 @@ issued:
 - {day: 27, month: 12, year: 2017}
 page: '78'
 pub_type: article-journal
+pubdate: '2017-12-27'
 short_author:
 - {family: Wilson, given: C.}
 - {family: Goodbred, given: S.}

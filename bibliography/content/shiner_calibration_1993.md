@@ -11,6 +11,7 @@ issued:
 - {year: 1993}
 page: 4042-4045
 pub_type: article-journal
+pubdate: '1993-01-01'
 short_author:
 - {family: Shiner, given: D.}
 - {family: Gilligan, given: J. M.}

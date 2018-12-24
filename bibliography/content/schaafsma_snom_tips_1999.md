@@ -18,6 +18,7 @@ issued:
 - {year: 1999}
 page: 77-81
 pub_type: article-journal
+pubdate: '1999-01-01'
 short_author:
 - {family: Schaafsma, given: D. T.}
 - {family: Mossadegh, given: R.}

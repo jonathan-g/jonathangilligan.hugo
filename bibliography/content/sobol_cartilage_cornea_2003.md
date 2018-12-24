@@ -14,6 +14,7 @@ issued:
 - {year: 2003}
 page: 216-222
 pub_type: article-journal
+pubdate: '2003-01-01'
 short_author:
 - {family: Sobol, given: E.}
 - {family: Sviridov, given: A.}

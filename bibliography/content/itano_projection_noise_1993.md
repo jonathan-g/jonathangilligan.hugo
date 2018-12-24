@@ -13,6 +13,7 @@ issued:
 - {year: 1993}
 page: 3554-3570
 pub_type: article-journal
+pubdate: '1993-01-01'
 short_author:
 - {family: Itano, given: W. M.}
 - {family: Bergquist, given: J. C.}

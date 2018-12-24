@@ -13,6 +13,7 @@ note: Commentary invited by the editor
 page: 6-8
 pub_type: article-journal
 pub_url: http://issues.org/34-1/forum-36/
+pubdate: '2017-10-01'
 short_author:
 - {family: Gilligan, given: J. M.}
 title: Are cops on the science beat?

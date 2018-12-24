@@ -12,6 +12,7 @@ issued:
 - {year: 1992}
 page: 6493-6501
 pub_type: article-journal
+pubdate: '1992-01-01'
 short_author:
 - {family: Raizen, given: M. G.}
 - {family: Gilligan, given: J. M.}

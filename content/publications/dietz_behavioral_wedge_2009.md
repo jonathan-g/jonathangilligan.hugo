@@ -16,6 +16,7 @@ issued:
 - {year: 2009}
 page: 18452-18456
 pub_type: article-journal
+pubdate: '2009-01-01'
 short_author:
 - {family: Dietz, given: T.}
 - {family: Gardner, given: G.}
