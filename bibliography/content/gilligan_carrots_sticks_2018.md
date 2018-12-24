@@ -11,7 +11,7 @@ issued:
 preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3284035
 preprint_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3284035
 pub_type: article-journal
-pubdate: '2018-12-23'
+pubdate: '2018-12-24'
 short_author:
 - {family: Gilligan, given: J. M.}
 status: in press
