@@ -2,12 +2,12 @@
 author:
 - {family: Gilligan, given: Jonathan M.}
 container_title: Texas A&M Law Review
-date: '2018-12-31'
+date: '2019-12-31'
 file:
 - {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
-id: gilligan_carrots_sticks_2018
+id: gilligan_carrots_sticks_2019
 issued:
-- {day: 31, month: 12, year: 2018}
+- {day: 31, month: 12, year: 2019}
 preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3284035
 preprint_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3284035
 pub_type: article-journal
