@@ -1,6 +1,10 @@
-User-agent: *
+User-agent: Googlebot-Image
+Disallow /img/
 Disallow: /files/
-Disallow: /css/
 Disallow: /fonts/
+
+
+User-agent: *
 Disallow: /img/
-Disallow: /js/
+Disallow: /files/pubs/pdfs/
+Disallow: /img/Corel%20Auto-Preserve/
