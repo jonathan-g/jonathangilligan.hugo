@@ -61,6 +61,7 @@ params:
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
   typekitCode: "pxs4bbm"
+  fontawesomePro: true
   fontawesomeCode: "sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG"
   mathjax: true
   mhchem: true
@@ -86,17 +87,20 @@ params:
       priority: 1
       icon: "phone"
       icon_pack: "fa"
+      icon_weight: "s"
       text: "615.322.2420"
     email:
       priority: 2
       icon: "envelope"
       icon_pack: "fa"
+      icon_weight: "s"
       link: "mailto:jonathan.gilligan@vanderbilt.edu"
       text: "jonathan.gilligan@vanderbilt.edu"
     twitter:
       priority: 4
       icon: "twitter"
       icon_pack: "fa"
+      icon_weight: "b"
       link: "https://twitter.com/jg_environ"
       text: "@jg_environ"
       on_site: "Twitter"
@@ -104,6 +108,7 @@ params:
       priority: 8
       icon: "github"
       icon_pack: "fa"
+      icon_weight: "b"
       link: "https://github.com/jonathan-g"
       text: "jonathan-g"
       on_site: "GitHub"
@@ -129,7 +134,9 @@ params:
       priority: 3
       icon: "skype"
       icon_pack: "fa"
+      icon_weight: "b"
       text: "jonathan_gilligan"
+      link: "skype:jonathan_gilligan"
       on_site: "Skype"
 taxonomies:
   - category: "categories"

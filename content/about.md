@@ -24,7 +24,7 @@ The following bio may be used in media releases without further permission.
   <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
   <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
   <li> SSRN ID: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
-  <li><i class="fa-li fa fa-github" style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
+  <li><i class="fa-li {{< fa_icon weight="b" icon="github" >}} style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
 </ul>
 
 <h4 style="margin-top:1em;"><a href="/files/cv/gilligan_cv.pdf" target="_blank">Curriculum Vitae</a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a> </h4>
@@ -34,11 +34,10 @@ The following bio may be used in media releases without further permission.
 ## Contact Info:
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-university"></i> <b>Office:</b> Room 5735, 7<sup style="font-size:70%;">th</sup> floor, Stevenson Center #5 (Science &amp; Engineering Building),<br/><a href="https://www.vanderbilt.edu/ees">Dep't of Earth &amp; Environmental Sciences</a>, <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, Nashville, TN, USA</li>
-  <li><i class="fa-li fa fa-phone"></i> 615.322.2420</li>
-  <li><i class="fa-li fa fa-envelope"></i> <a href="mailto:jonathan.gilligan@vanderbilt.edu">jonathan.gilligan@vanderbilt.edu</a></li>
-  <li><i class="fa-li fa fa-skype"></i> jonathan_gilligan on Skype</li>
-  <li><i class="fa-li fa fa-twitter"></i> <a href="https://twitter.com/jg_environ">@jg_environ</a> on Twitter</li>
+  <li><i class="fa-li {{< fa_icon weight="s" icon="university" >}}"></i> <b>Office:</b> Room 5735, 7<sup style="font-size:70%;">th</sup> floor, Stevenson Center #5 (Science &amp; Engineering Building),<br/><a href="https://www.vanderbilt.edu/ees">Dep't of Earth &amp; Environmental Sciences</a>, <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, Nashville, TN, USA</li>
+  <li><i class="fa-li {{< fa_icon weight="s" icon="phone" >}}"></i> 615.322.2420</li>
+  <li><i class="fa-li {{< fa_icon weight="s" icon="envelope" >}}"></i> <a href="mailto:jonathan.gilligan@vanderbilt.edu">jonathan.gilligan@vanderbilt.edu</a></li>
+  <li><i class="fa-li {{< fa_icon weight="b" icon="skype" >}}"></i> jonathan_gilligan on Skype</li>
 </ul>
 
 
