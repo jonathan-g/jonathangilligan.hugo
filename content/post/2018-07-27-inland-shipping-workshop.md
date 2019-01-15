@@ -32,7 +32,7 @@ international relations around transboundary rivers.
 ## Changing River Conditions
 
 Satellite remote sensing has introduced powerful new capabilities for monitoring changing river channels on regional,
-national, and international scales. A [recent publication]({{< ref "/publications/wilson_infilling_2017.md" >}}) 
+national, and international scales. A [recent publication]({{< ref "/publications/wilson_2017_infilling.md" >}}) 
 from my NSF Coastal SEES project showed that in regions subject to extensive poldering (surrounding intertidal and
 low-lying areas with large embankments for flood control and land reclamation) have experienced significant infilling
 of channels, with corresponding loss of drainage and navigability. Some of this infilling has proceeded naturally from

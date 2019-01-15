@@ -1,6 +1,6 @@
 ---
 references:
-- id: gilligan:carrots.sticks:2019
+- id: gilligan:2019:carrots.sticks
   type: article-journal
   author:
   - family: Gilligan
@@ -27,7 +27,7 @@ references:
     to act.
   URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
 
-- id: gilligan:water.conservation:2018
+- id: gilligan:2018:water.conservation
   type: article-journal
   author:
   - family: Gilligan
@@ -73,7 +73,7 @@ references:
     in making urban water supply systems sustainable.
   DOI: 10.1029/2017EF000797
 
-- id: gilliigan:human.factor:2018
+- id: gilliigan:2018:human.factor
   type: article-journal
   author:
   - family: Gilligan
@@ -95,7 +95,7 @@ references:
     alter emissions trajectories and global temperature.
   DOI: 10.1038/s41558-017-0038-0
 
-- id: maki:employee.benefits:2018
+- id: maki:2018:employee.benefits
   type: article-journal
   author:
   - family: Maki
@@ -138,7 +138,7 @@ references:
     This work suggests numerous lines of promising new research.
   DOI: 10.1007/s12053-018-9721-x
 
-- id: phillips_dialogue_beyond_politics_2018
+- id: phillips:2018:dialogue.beyond.politics
   type: article-journal
   author:
   - family: Phillips
@@ -175,7 +175,7 @@ references:
     clarity, and space considerations.
   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
 
-- id: ruhl:topic.modeling:2018
+- id: ruhl:2018:topic.modeling
   type: article-journal
   author:
   - family: Ruhl
@@ -208,7 +208,7 @@ references:
     scholars in their research as well.
   URL: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
 
-- id: ackerly:migration:2017
+- id: ackerly:2017:migration
   type: chapter
   author:
   - family: Ackerly
@@ -257,7 +257,7 @@ references:
     of this second, community-level, impact of climate change on human rights.
   ISBN: '9781138655942'
 
-- id: gilligan:science.police:2017
+- id: gilligan:2017:science.police
   type: article-journal
   author:
   - family: Gilligan
@@ -283,7 +283,7 @@ references:
     it are likely to be used.
   URL: http://issues.org/34-1/forum-36/
 
-- id: nay:vegetation.health:2017
+- id: nay:2017:vegetation.health
   type: article-journal
   author:
   - family: Nay
@@ -319,7 +319,7 @@ references:
     model.'
   DOI: 10.1080/01431161.2017.1410296
 
-- id: vandenbergh:beyond.politics:2017
+- id: vandenbergh:2017:beyond.politics
   type: book
   author:
   - family: Vandenbergh
@@ -350,7 +350,7 @@ references:
     managers, philanthropists, policymakers, and anyone interested in climate change.
   ISBN: 978-1107181229 (hardcover), 978-1316632482 (paper)
 
-- id: wilson:infilling:2017
+- id: wilson:2017:infilling
   type: article-journal
   author:
   - family: Wilson
@@ -404,7 +404,7 @@ references:
     and tidal energy distribution.
   DOI: 10.1525/elementa.263
 
-- id: benneyworth:drinking.water:2016
+- id: benneyworth:2016:drinking.water
   type: article-journal
   author:
   - family: Benneyworth
@@ -467,7 +467,7 @@ references:
   ISSN: '0960-3123'
   PMID: '27277537'
 
-- id: burchfield:abm:2016
+- id: burchfield:2016:abm
   type: paper-conference
   author:
   - family: Burchfield
@@ -518,7 +518,7 @@ references:
   URL: https://papers.ssrn.com/abstract=2807452
   DOI: 10.1109/WSC.2016.7822216
 
-- id: burchfield:agricultural.adaptation:2016
+- id: burchfield:2016:agricultural.adaptation
   type: article-journal
   author:
   - family: Burchfield
@@ -556,7 +556,7 @@ references:
   URL: https://www.sciencedirect.com/science/article/pii/S0143622816306063
   DOI: 10.1016/j.apgeog.2016.10.003
 
-- id: burchfield:vegetation.health:2016
+- id: burchfield:2016:vegetation.health
   type: article-journal
   author:
   - family: Burchfield
@@ -600,7 +600,7 @@ references:
   DOI: 10.5194/isprs-archives-XLI-B2-465-2016
   ISSN: '1682-1750'
 
-- id: gunda:drought.patterns:2016
+- id: gunda:2016:drought.patterns
   type: article-journal
   author:
   - family: Gunda
@@ -641,7 +641,7 @@ references:
   DOI: 10.1002/joc.4365
   ISSN: '1097-0088'
 
-- id: hess:drought:2016
+- id: hess:2016:drought
   type: article-journal
   author:
   - family: Hess
@@ -687,7 +687,7 @@ references:
     that clash with conservative beliefs.
   DOI: 10.1111/socf.12274
 
-- id: nay:prediction.market:2016
+- id: nay:2016:prediction.market
   type: paper-conference
   author:
   - family: Nay
@@ -742,7 +742,7 @@ references:
   URL: https://arxiv.org/abs/1603.08961
   DOI: 10.1109/WSC.2016.7822215
 
-- id: ackerly:political.economies:2015
+- id: ackerly:2015:political.economies
   type: chapter
   author:
   - family: Ackerly
@@ -779,7 +779,7 @@ references:
     pushing Bangladeshis to incorporate migration strategies into their livelihood
     strategies.
 
-- id: auerbach:flood.risk:2015
+- id: auerbach:2015:flood.risk
   type: article-journal
   author:
   - family: Auerbach
@@ -832,7 +832,7 @@ references:
     breaches.
   DOI: 10.1038/nclimate2472
 
-- id: auerbach:reply:2015
+- id: auerbach:2015:reply
   type: article-journal
   author:
   - family: Auerbach
@@ -871,7 +871,7 @@ references:
   DOI: 10.1038/nclimate2620
   ISSN: 1758-678X
 
-- id: gilligan:flood.partsim:2015
+- id: gilligan:2015:flood.partsim
   type: paper-conference
   author:
   - family: Gilligan
@@ -923,7 +923,7 @@ references:
   DOI: 10.1109/WSC.2015.7408456
   ISBN: '978-1-4673-9741-4'
 
-- id: hornberger:hydrological.transitions:2015
+- id: hornberger:2015:hydrological.transitions
   type: article-journal
   author:
   - family: Hornberger
@@ -964,7 +964,7 @@ references:
   DOI: 10.1002/2015WR016943
   ISSN: '1944-7973'
 
-- id: nay:decision.models:2015
+- id: nay:2015:decision.models
   type: paper-conference
   author:
   - family: Nay
@@ -1013,7 +1013,7 @@ references:
   DOI: 10.1109/WSC.2015.7408381
   ISBN: '978-1-4673-9741-4'
 
-- id: vandenbergh:beyond.gridlock:2015
+- id: vandenbergh:2015:beyond.gridlock
   type: article-journal
   author:
   - family: Vandenbergh
@@ -1048,7 +1048,7 @@ references:
   URL: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
   DOI: 10.2139/ssrn.2533643
 
-- id: gilligan:political.feasibility:2014
+- id: gilligan:2014:political.feasibility
   type: article-journal
   author:
   - family: Gilligan
@@ -1083,7 +1083,7 @@ references:
     and applies this approach to several leading climate policies.'
   DOI: 10.2139/ssrn.2220788
 
-- id: vandenbergh:prediction.market:2014
+- id: vandenbergh:2014:prediction.market
   type: article-journal
   author:
   - family: Vandenbergh
@@ -1127,7 +1127,7 @@ references:
     prediction market has the potential to provide an accurate, credible and widely-disseminated
     signal about the status of the climate science.'
 
-- id: gilligan:resilience:2013
+- id: gilligan:2013:resilience
   type: paper-conference
   author:
   - family: Gilligan
@@ -1163,7 +1163,7 @@ references:
     environment in the southwestern coastal region of Bangladesh and understand the
     dynamics of vulnerability and resilience.'
 
-- id: rogers:farming.practices:2013
+- id: rogers:2013:farming.practices
   type: paper-conference
   author:
   - family: Rogers
@@ -1196,7 +1196,7 @@ references:
     to these constantly changing variables requires flexible farming practices that
     must keep pace with changing climate.
 
-- id: carrico:behavioral.wedge.lessons:2011
+- id: carrico:2011:behavioral.wedge.lessons
   type: article-journal
   author:
   - family: Carrico
@@ -1252,7 +1252,7 @@ references:
     their understanding of these and other principles. More extensive reviews of this
     literature and its relevance to energy and climate policy are also available.'
 
-- id: vandenbergh:macro.risks:2011
+- id: vandenbergh:2011:macro.risks
   type: article-journal
   author:
   - family: Vandenbergh
@@ -1283,7 +1283,7 @@ references:
     for improving macro-risk assessment methods and the information available to policy
     makers.
 
-- id: baudenbacher:patent.cell.monitor:2010
+- id: baudenbacher:2010:patent.cell.monitor
   type: patent
   author:
   - family: Baudenbacher
@@ -1323,7 +1323,7 @@ references:
     from the measured intracellular or extracellular signaling of the cell.
   number: 7,704,745 B2
 
-- id: cliffel:patent.cell.response:2010
+- id: cliffel:2010:patent.cell.response
   type: patent
   author:
   - family: Cliffel
@@ -1353,7 +1353,7 @@ references:
     in the chamber.
   number: 7,713,733 B2
 
-- id: gilligan:behavioral.wedge:2010
+- id: gilligan:2010:behavioral.wedge
   type: article-journal
   author:
   - family: Gilligan
@@ -1381,7 +1381,7 @@ references:
     can best encourage such actions.
   DOI: 10.1111/j.1740-9713.2010.00405.x
 
-- id: gilligan:future.generations:2010
+- id: gilligan:2010:future.generations
   type: chapter
   author:
   - family: Gilligan
@@ -1399,7 +1399,7 @@ references:
   volume: '2'
   status: published
 
-- id: stern:design.principles:2010
+- id: stern:2010:design.principles
   type: article-journal
   author:
   - family: Stern
@@ -1424,7 +1424,7 @@ references:
     emissions 17
   DOI: 10.1021/es100896p
 
-- id: vandenbergh:implementing.behavioral.wedge:2010
+- id: vandenbergh:2010:implementing.behavioral.wedge
   type: article-journal
   author:
   - family: Vandenbergh
@@ -1452,7 +1452,7 @@ references:
     nonintrusive strategies to reduce carbon emissions. This article examines how
     laws and policies can reduce U.S. carbon emissions by 7
 
-- id: carrico:costly.myths:2009
+- id: carrico:2009:costly.myths
   type: article-journal
   author:
   - family: Carrico
@@ -1490,7 +1490,7 @@ references:
     of gasoline a year, equaling 1.6
   DOI: 10.1016/j.enpol.2009.03.031
 
-- id: dietz:behavioral.wedge:2009
+- id: dietz:2009:behavioral.wedge
   type: article-journal
   author:
   - family: Dietz
@@ -1524,7 +1524,7 @@ references:
     estimated 123 million metric tons of carbon per year in year 10, which is 20
   DOI: 10.1073/pnas.0908738106
 
-- id: holcomb:dual.camera:2009
+- id: holcomb:2009:dual.camera
   type: article-journal
   author:
   - family: Holcomb
@@ -1566,7 +1566,7 @@ references:
     a compilation of dye and camera information critical to the design of dual camera
     systems and experiments.
 
-- id: vandenbergh:low.hanging.fruit:2008
+- id: vandenbergh:2008:low.hanging.fruit
   type: article-journal
   author:
   - family: Vandenbergh
@@ -1599,7 +1599,7 @@ references:
     here are only a beginning, and it identifies changes that will be necessary by
     policymakers and academicians if these and other low-hanging fruit are to be picked.
 
-- id: mashburn:cardiac.stimulator:2007
+- id: mashburn:2007:cardiac.stimulator
   type: article-journal
   author:
   - family: Mashburn
@@ -1640,7 +1640,7 @@ references:
     errors. This device has been tested and used successfully in field shock experiments
     on rabbit hearts as well as other protocols requiring high voltage.
 
-- id: gilligan:nanotech.risks:2006
+- id: gilligan:2006:nanotech.risks
   type: article-journal
   author:
   - family: Gilligan
@@ -1665,7 +1665,7 @@ references:
     rather, multiple risk management methods should be utilized depending on qualitative
     assessments of different nanotechnologies.
 
-- id: sobol:cartilage.cornea:2003
+- id: sobol:2003:cartilage.cornea
   type: article-journal
   author:
   - family: Sobol
@@ -1710,7 +1710,7 @@ references:
     is very high.
   PMID: '12683847'
 
-- id: cricenti:surface.characterization:2002
+- id: cricenti:2002:surface.characterization
   type: article-journal
   author:
   - family: Cricenti
@@ -1742,7 +1742,7 @@ references:
   volume: '32'
   status: published
 
-- id: mensing:defect.energies:2002
+- id: mensing:2002:defect.energies
   type: article-journal
   author:
   - family: Mensing
@@ -1778,7 +1778,7 @@ references:
     determined and agree with two models proposed to describe the density of states
     in a-Si:H.
 
-- id: cricenti:diamond:2001
+- id: cricenti:2001:diamond
   type: article-journal
   author:
   - family: Cricenti
@@ -1821,7 +1821,7 @@ references:
     limit of classical microscopy.
   PMID: '11309110'
 
-- id: sturmann:photoablation:2001
+- id: sturmann:2001:photoablation
   type: paper-conference
   author:
   - family: Sturmann
@@ -1864,7 +1864,7 @@ references:
     model that a rapid laser- induced phase transition to graphite is responsible
     for the low-intensity ablation of diamond at and above the first threshold.
 
-- id: lupke:fel:2000
+- id: lupke:2000:fel
   type: article-journal
   author:
   - family: Lupke
@@ -1891,7 +1891,7 @@ references:
   volume: '14'
   status: published
 
-- id: sobol:tissue.water:2000
+- id: sobol:2000:tissue.water
   type: paper-conference
   author:
   - family: Sobol
@@ -1924,7 +1924,7 @@ references:
     same, for both wavelengths of each pair: 6.2 and 6.0; 6.35 and 5.92; 3.22 and
     2.81; 3.15 and 2.87 micrometers .'
 
-- id: talley:snom.tips:2000
+- id: talley:2000:snom.tips
   type: article-journal
   author:
   - family: Talley
@@ -1963,7 +1963,7 @@ references:
     at a $\lambda$ of 4.7 $\mu$m. Approximately 25 nm topographical and 100 nm optical
     lateral resolution were observed.
 
-- id: cricenti:heterostructure:1999
+- id: cricenti:1999:heterostructure
   type: article-journal
   author:
   - family: Cricenti
@@ -1999,7 +1999,7 @@ references:
     well below the diffraction limit of lambda/2 with most optical images having better
     lateral resolution than topographic images.
 
-- id: cricenti:interface:1999
+- id: cricenti:1999:interface
   type: article-journal
   author:
   - family: Cricenti
@@ -2049,7 +2049,7 @@ references:
     be discussed, in particular considering the new proposals for powerful FELs in
     the low-wavelength spectral range.
 
-- id: marka:nanoscale:1999
+- id: marka:1999:nanoscale
   type: article-journal
   author:
   - family: Marka
@@ -2085,7 +2085,7 @@ references:
     the range of applications of these new energy-selective techniques to solve fundamental
     and applied problems.
 
-- id: schaafsma:snom.tip.fabrication:1999
+- id: schaafsma:1999:snom.tip.fabrication
   type: article-journal
   author:
   - family: Schaafsma
@@ -2125,7 +2125,7 @@ references:
     in the IR (near 3.5 $\mu$m), using the probe tips in collection mode, indicate
     an optical spatial resolution of approximately $\lambda/15$.
 
-- id: schaafsma:snom.tips:1999
+- id: schaafsma:1999:snom.tips
   type: article-journal
   author:
   - family: Schaafsma
@@ -2168,7 +2168,7 @@ references:
     probe tips in collection mode, indicates an optical spatial resolution approximately
     $\lambda/15$.
 
-- id: sobol:tissue.denaturation:1999
+- id: sobol:1999:tissue.denaturation
   type: paper-conference
   author:
   - family: Sobol
@@ -2219,7 +2219,7 @@ references:
     scattering is useful for measuring denaturation thresholds and kinetics for biotissues
     except where the initial absorptivity is very high.
 
-- id: cricenti:fel.snom:1998
+- id: cricenti:1998:fel.snom
   type: article-journal
   author:
   - family: Cricenti
@@ -2264,7 +2264,7 @@ references:
     the probe tips in collection mode, indicates an optical spatial resolution well
     below the classical limit of $\lambda/2$.
 
-- id: cricenti:nanospectroscopy:1998
+- id: cricenti:1998:nanospectroscopy
   type: article-journal
   author:
   - family: Cricenti
@@ -2296,7 +2296,7 @@ references:
     that near-field conditions were reached. The use of different photon wavelengths
     (0.653, 1.2, and 2.4 $\mu$m) enabled us to probe regions of different depth.
 
-- id: sturmann:diamond:1998
+- id: sturmann:1998:diamond
   type: article-journal
   author:
   - family: Sturmann
@@ -2331,7 +2331,7 @@ references:
     the second fluence threshold, obseved at 3.5 micron. These experiments shed light
     on the physics of wavelength selective desorption through non-electronic channels.'
 
-- id: tolk:sputtering:1998
+- id: tolk:1998:sputtering
   type: article-journal
   author:
   - family: Tolk
@@ -2371,7 +2371,7 @@ references:
   volume: '62'
   status: published
 
-- id: wang:electron.hole:1998
+- id: wang:1998:electron.hole
   type: article-journal
   author:
   - family: Wang
@@ -2402,7 +2402,7 @@ references:
   volume: '81'
   status: published
 
-- id: yao:sputtering:1998
+- id: yao:1998:sputtering
   type: article-journal
   author:
   - family: Yao
@@ -2439,7 +2439,7 @@ references:
   volume: '81'
   status: published
 
-- id: sturmann:spectroscopy:1997
+- id: sturmann:1997:spectroscopy
   type: article-journal
   author:
   - family: Sturmann
@@ -2472,7 +2472,7 @@ references:
   volume: '91'
   status: published
 
-- id: volk:lifetimes:1997
+- id: volk:1997:lifetimes
   type: article-journal
   author:
   - family: Volk
@@ -2501,7 +2501,7 @@ references:
   volume: '102'
   status: published
 
-- id: elkins:acats:1996
+- id: elkins:1996:acats
   type: article-journal
   author:
   - family: Elkins
@@ -2563,7 +2563,7 @@ references:
   volume: '23'
   status: published
 
-- id: volk:transport:1996
+- id: volk:1996:transport
   type: article-journal
   author:
   - family: Volk
@@ -2598,7 +2598,7 @@ references:
   volume: '272'
   status: published
 
-- id: woodbridge:cfc.conc:1995
+- id: woodbridge:1995:cfc.conc
   type: article-journal
   author:
   - family: Woodbridge
@@ -2646,7 +2646,7 @@ references:
   volume: '100'
   status: published
 
-- id: gilligan:cl.budgets:1994
+- id: gilligan:1994:cl.budgets
   type: paper-conference
   author:
   - family: Gilligan
@@ -2673,7 +2673,7 @@ references:
   container-title: Atmospheric effects of aviation project workshop
   status: published
 
-- id: eichmann:interference:1993
+- id: eichmann:1993:interference
   type: paper-conference
   author:
   - family: Eichmann
@@ -2697,7 +2697,7 @@ references:
   page: '43-48'
   status: published
 
-- id: eichmann:two.slit:1993
+- id: eichmann:1993:two.slit
   type: article-journal
   author:
   - family: Eichmann
@@ -2722,7 +2722,7 @@ references:
   volume: '70'
   status: published
 
-- id: itano:projection.noise:1993
+- id: itano:1993:projection.noise
   type: article-journal
   author:
   - family: Itano
@@ -2746,7 +2746,7 @@ references:
   volume: '47'
   status: published
 
-- id: itano:quantum.measurements:1993
+- id: itano:1993:quantum.measurements
   type: article-journal
   author:
   - family: Itano
@@ -2772,7 +2772,7 @@ references:
   page: '169-183'
   status: published
 
-- id: itano:spectroscopy:1993
+- id: itano:1993:spectroscopy
   type: article-journal
   author:
   - family: Itano
@@ -2799,7 +2799,7 @@ references:
   volume: '78'
   status: published
 
-- id: itano:two.slit:1993
+- id: itano:1993:two.slit
   type: paper-conference
   author:
   - family: Itano
@@ -2823,7 +2823,7 @@ references:
   page: '410-419'
   status: published
 
-- id: shiner:calibration:1993
+- id: shiner:1993:calibration
   type: article-journal
   author:
   - family: Shiner
@@ -2843,7 +2843,7 @@ references:
   volume: '47'
   status: published
 
-- id: gilligan:h2.ip:1992
+- id: gilligan:1992:h2.ip
   type: article-journal
   author:
   - family: Gilligan
@@ -2875,7 +2875,7 @@ references:
     (to be published)\], yield a value for ionization potential that is again quite
     close to the theoretical result.'
 
-- id: raizen:ion.crystals:1992
+- id: raizen:1992:ion.crystals
   type: article-journal
   author:
   - family: Raizen
@@ -2896,7 +2896,7 @@ references:
   volume: '45'
   status: published
 
-- id: raizen:linear.trap:1992
+- id: raizen:1992:linear.trap
   type: article-journal
   author:
   - family: Raizen
@@ -2917,7 +2917,7 @@ references:
   volume: '39'
   status: published
 
-- id: gilligan:dissertation:1991
+- id: gilligan:1991:dissertation
   type: thesis
   author:
   - family: Gilligan
@@ -2953,7 +2953,7 @@ references:
     and the *ab initio* values confirms the calculated relativistic and radiative
     corrections.
 
-- id: gilligan:three.photon:1991
+- id: gilligan:1991:three.photon
   type: article-journal
   author:
   - family: Gilligan
@@ -2969,7 +2969,7 @@ references:
   volume: '43'
   status: published
 
-- id: wineland:recent.experiments:1991
+- id: wineland:1991:recent.experiments
   type: paper-conference
   author:
   - family: Wineland
@@ -3001,7 +3001,7 @@ references:
   page: '553-567'
   status: published
 
-- id: wineland:spectroscopy:1991
+- id: wineland:1991:spectroscopy
   type: paper-conference
   author:
   - family: Wineland
@@ -3032,7 +3032,7 @@ references:
   page: '539-551'
   status: published
 
-- id: mccormack:h2.ip:1989
+- id: mccormack:1989:h2.ip
   type: article-journal
   author:
   - family: McCormack
@@ -3051,7 +3051,7 @@ references:
   volume: '39'
   status: published
 
-- id: eyler:multiphoton:1988
+- id: eyler:1988:multiphoton
   type: paper-conference
   author:
   - family: Eyler
@@ -3069,7 +3069,7 @@ references:
   volume: '172'
   status: published
 
-- id: eyler:ef.state:1987
+- id: eyler:1987:ef.state
   type: article-journal
   author:
   - family: Eyler
@@ -3090,7 +3090,7 @@ references:
   volume: '36'
   status: published
 
-- id: eyler:multiphoton:1987
+- id: eyler:1987:multiphoton
   type: paper-conference
   author:
   - family: Eyler
@@ -3106,7 +3106,7 @@ references:
   volume: '160'
   status: published
 
-- id: mccormack:multiphoton:1987
+- id: mccormack:1987:multiphoton
   type: paper-conference
   author:
   - family: McCormack

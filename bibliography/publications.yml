@@ -16,7 +16,7 @@ references:
   container-title: Texas A&M Law Review
   file:
   - {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
-  id: gilligan:carrots.sticks:2019
+  id: gilligan:2019:carrots.sticks
   issued:
   - {day: 31, month: 12, year: 2018}
   page: 179-198
@@ -57,7 +57,7 @@ references:
   container-title: "Earth\u2019s Future"
   file:
   - {desc: full text, file: gilligan_2018_water_conservation.pdf}
-  id: gilligan:water.conservation:2018
+  id: gilligan:2018:water.conservation
   issued:
   - {day: 12, month: 6, year: 2018}
   page: 955-967
@@ -75,7 +75,7 @@ references:
   container-title: Nature Climate Change
   file:
   - {desc: full text, file: gilligan_2018_human_factor.pdf}
-  id: gilliigan:human.factor:2018
+  id: gilliigan:2018:human.factor
   issued:
   - {day: 1, month: 1, year: 2018}
   note: "\u201CNews and Views\u201D commentary."
@@ -114,7 +114,7 @@ references:
   container-title: Energy Efficiency
   file:
   - {desc: full text, file: maki_2018_employee_benefits.pdf}
-  id: maki:employee.benefits:2018
+  id: maki:2018:employee.benefits
   issued:
   - {day: 7, month: 8, year: 2018}
   status: Early online publication
@@ -143,7 +143,7 @@ references:
   container-title: Environmental Law Reporter
   file:
   - {desc: full text, file: phillips_2018_dialogue_beyond_politics.pdf}
-  id: phillips_dialogue_beyond_politics_2018
+  id: phillips:2018:dialogue.beyond.politics
   issued:
   - {day: 1, month: 12, year: 2018}
   page: 11049-11062
@@ -173,7 +173,7 @@ references:
   container-title: George Washington Law Review
   file:
   - {desc: full text, file: ruhl_2018_topic_modeling.pdf}
-  id: ruhl:topic.modeling:2018
+  id: ruhl:2018:topic.modeling
   issued:
   - {day: 6, month: 10, year: 2018}
   page: 1243-1315
@@ -212,7 +212,7 @@ references:
   - {family: Thorp, given: Teresa}
   file:
   - {desc: full text, file: ackerly_2017_climate_community.pdf}
-  id: ackerly:migration:2017
+  id: ackerly:2017:migration
   issued:
   - {day: 1, month: 6, year: 2017}
   page: 189-202
@@ -238,7 +238,7 @@ references:
   container-title: Issues in Science and Technology
   file:
   - {desc: full text, file: gilligan_2017_science_cops.pdf}
-  id: gilligan:science.police:2017
+  id: gilligan:2017:science.police
   issue: 1, Fall
   issued:
   - {day: 1, month: 10, year: 2017}
@@ -271,7 +271,7 @@ references:
   container-title: International Journal of Remote Sensing
   file:
   - {desc: full text, file: nay_2017_vegetation_health.pdf}
-  id: nay:vegetation.health:2017
+  id: nay:2017:vegetation.health
   issued:
   - {day: 18, month: 12, year: 2017}
   page: 1800-1816
@@ -296,7 +296,7 @@ references:
   author:
   - {family: Vandenbergh, given: Michael P.}
   - {family: Gilligan, given: Jonathan M.}
-  id: vandenbergh:beyond.politics:2017
+  id: vandenbergh:2017:beyond.politics
   issued:
   - {day: 30, month: 11, year: 2017}
   note: 494 pp.
@@ -344,7 +344,7 @@ references:
   container-title: Elementa
   file:
   - {desc: full text, file: wilson_2017_infilling.pdf}
-  id: wilson:infilling:2017
+  id: wilson:2017:infilling
   issued:
   - {day: 27, month: 12, year: 2017}
   page: '78'
@@ -390,7 +390,7 @@ references:
   container-title: International Journal of Environmental Health Research
   file:
   - {desc: full text, file: benneyworth_2016_drinking_water.pdf}
-  id: benneyworth:drinking.water:2016
+  id: benneyworth:2016:drinking.water
   issued:
   - {day: 1, month: 6, year: 2016}
   note: " Featured by Taylor & Francis publishers as part of their observance of World\
@@ -433,7 +433,7 @@ references:
   - {family: Chick, given: S.E.}
   file:
   - {desc: full text, file: burchfield_2016_collective_adaptation.pdf}
-  id: burchfield:abm:2016
+  id: burchfield:2016:abm
   issued:
   - {day: 1, month: 12, year: 2016}
   keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
@@ -469,7 +469,7 @@ references:
   container-title: Applied Geography
   file:
   - {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
-  id: burchfield:agricultural.adaptation:2016
+  id: burchfield:2016:agricultural.adaptation
   issued:
   - {day: 31, month: 12, year: 2016}
   keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
@@ -509,7 +509,7 @@ references:
     \ Sensing and Spatial Information Sciences"
   file:
   - {desc: full text, file: burchfield_2016_vegetation_health.pdf}
-  id: burchfield:vegetation.health:2016
+  id: burchfield:2016:vegetation.health
   issued:
   - {day: 1, month: 8, year: 2016}
   page: 465-469
@@ -543,7 +543,7 @@ references:
   container-title: International Journal of Climatology
   file:
   - {desc: full text, file: gunda_2016_agricultural_drought.pdf}
-  id: gunda:drought.patterns:2016
+  id: gunda:2016:drought.patterns
   issue: '2'
   issued:
   - {month: 2, year: 2016}
@@ -584,7 +584,7 @@ references:
   container-title: Sociological Forum
   file:
   - {desc: full text, file: hess_2016_drought_southwest.pdf}
-  id: hess:drought:2016
+  id: hess:2016:drought
   issued:
   - {day: 1, month: 7, year: 2016}
   page: 807-827
@@ -625,7 +625,7 @@ references:
   - {family: Chick, given: S.E.}
   file:
   - {desc: full text, file: nay_2016_betting_belief.pdf}
-  id: nay:prediction.market:2016
+  id: nay:2016:prediction.market
   issued:
   - {day: 2, month: 12, year: 2016}
   keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
@@ -662,7 +662,7 @@ references:
   - {family: Etzold, given: Benjamin}
   file:
   - {desc: full text, file: ackerly_2015_political_economies.pdf}
-  id: ackerly:political.economies:2015
+  id: ackerly:2015:political.economies
   issued:
   - {year: 2015}
   page: 27-39
@@ -703,7 +703,7 @@ references:
   container-title: Nature Climate Change
   file:
   - {desc: full text, file: auerbach_2015_bangladesh.pdf}
-  id: auerbach:flood.risk:2015
+  id: auerbach:2015:flood.risk
   issue: '2'
   issued:
   - {year: 2015}
@@ -731,7 +731,7 @@ references:
   - {family: Gilligan, given: J. M.}
   - {family: Ackerly, given: B. A.}
   container-title: Nature Climate Change
-  id: auerbach:reply:2015
+  id: auerbach:2015:reply
   issue: '6'
   issued:
   - {year: 2015}
@@ -771,7 +771,7 @@ references:
   - {family: Rossetti, given: M.D.}
   file:
   - {desc: full text, file: gilligan_2015_flood_partsim.pdf}
-  id: gilligan:flood.partsim:2015
+  id: gilligan:2015:flood.partsim
   issued:
   - {year: 2015}
   page: 3174-3175
@@ -807,7 +807,7 @@ references:
   container-title: Water Resources Research
   file:
   - {desc: full text, file: hornberger_2015_water_conservation.pdf}
-  id: hornberger:hydrological.transitions:2015
+  id: hornberger:2015:hydrological.transitions
   issue: '6'
   issued:
   - {year: 2015}
@@ -848,7 +848,7 @@ references:
   - {family: Rossetti, given: M.D.}
   file:
   - {desc: full text, file: nay_2015_dynamic_decision_models.pdf}
-  id: nay:decision.models:2015
+  id: nay:2015:decision.models
   issued:
   - {year: 2015}
   page: 2752-2763
@@ -883,7 +883,7 @@ references:
   container-title: Columbia Journal of Environmental Law
   file:
   - {desc: full text, file: vandenbergh_2015_beyond_gridlock.pdf}
-  id: vandenbergh:beyond.gridlock:2015
+  id: vandenbergh:2015:beyond.gridlock
   issue: '2'
   issued:
   - {year: 2015}
@@ -918,7 +918,7 @@ references:
   container-title: Virginia Environmental Law Journal
   file:
   - {desc: full text, file: gilligan_2014_political_feasibility.pdf}
-  id: gilligan:political.feasibility:2014
+  id: gilligan:2014:political.feasibility
   issued:
   - {year: 2014}
   page: 1-26
@@ -961,7 +961,7 @@ references:
   container-title: UCLA Law Review
   file:
   - {desc: full text, file: vandenbergh_2014_prediction_market.pdf}
-  id: vandenbergh:prediction.market:2014
+  id: vandenbergh:2014:prediction.market
   issued:
   - {year: 2014}
   page: 1962-2017
@@ -995,7 +995,7 @@ references:
     Bangladesh'
   file:
   - {desc: full text, file: gilligan_2013_building_resilience.pdf}
-  id: gilligan:resilience:2013
+  id: gilligan:2013:resilience
   issued:
   - {month: 2, year: 2013}
   publisher: Bangladesh Development Initiative
@@ -1024,7 +1024,7 @@ references:
   container-title: 'Deltas: Landforms, ecosystems and human activities'
   file:
   - {desc: full text, file: rogers_2013_farming_practices.pdf}
-  id: rogers:farming.practices:2013
+  id: rogers:2013:farming.practices
   issued:
   - {year: 2013}
   page: 133-142
@@ -1077,7 +1077,7 @@ references:
   container-title: Journal of Energy & Environmental Law
   file:
   - {desc: full text, file: carrico_2011_key_lessons.pdf}
-  id: carrico:behavioral.wedge.lessons:2011
+  id: carrico:2011:behavioral.wedge.lessons
   issued:
   - {year: 2011}
   page: 61-67
@@ -1108,7 +1108,7 @@ references:
   container-title: Duke Environmental Law and Policy Forum
   file:
   - {desc: full text, file: vandenbergh_2011_macro_risks.pdf}
-  id: vandenbergh:macro.risks:2011
+  id: vandenbergh:2011:macro.risks
   issued:
   - {year: 2011}
   page: 401-431
@@ -1135,7 +1135,7 @@ references:
   - {family: Prokop, given: Ales}
   - {family: Stremler, given: Michael}
   - {family: Werdich, given: Andreas}
-  id: baudenbacher:patent.cell.monitor:2010
+  id: baudenbacher:2010:patent.cell.monitor
   issued:
   - {day: 27, month: 4, year: 2010}
   number: 7,704,745 B2
@@ -1157,7 +1157,7 @@ references:
   - {family: Eklund, given: Sven}
   - {family: Balcarcel, given: Robert R.}
   - {family: Gilligan, given: Jonathan Mark}
-  id: cliffel:patent.cell.response:2010
+  id: cliffel:2010:patent.cell.response
   issued:
   - {day: 11, month: 5, year: 2010}
   number: 7,713,733 B2
@@ -1180,7 +1180,7 @@ references:
   container-title: Significance
   file:
   - {desc: full text, file: gilligan_2010_behavioral_wedge.pdf}
-  id: gilligan:behavioral.wedge:2010
+  id: gilligan:2010:behavioral.wedge
   issued:
   - {year: 2010}
   note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
@@ -1196,7 +1196,7 @@ references:
   - {family: Espejo, given: R.}
   file:
   - {desc: full text, file: gilligan_2010_ethics_in_geologic_time.pdf}
-  id: gilligan:future.generations:2010
+  id: gilligan:2010:future.generations
   issued:
   - {year: 2010}
   page: 20-32
@@ -1218,7 +1218,7 @@ references:
   container-title: Environmental Science & Technology
   file:
   - {desc: full text, file: stern_2010_design_principles.pdf}
-  id: stern:design.principles:2010
+  id: stern:2010:design.principles
   issued:
   - {year: 2010}
   page: 4847-4848
@@ -1239,7 +1239,7 @@ references:
   container-title: Environmental Law Reporter
   file:
   - {desc: full text, file: vandenbergh_2010_implementing_behavioral_wedge.pdf}
-  id: vandenbergh:implementing.behavioral.wedge:2010
+  id: vandenbergh:2010:implementing.behavioral.wedge
   issued:
   - {year: 2010}
   note: ' Selected by Environmental Law Institute to reprint as the featured cover
@@ -1276,7 +1276,7 @@ references:
   container-title: Energy Policy
   file:
   - {desc: full text, file: carrico_2009_costly_myths.pdf}
-  id: carrico:costly.myths:2009
+  id: carrico:2009:costly.myths
   issued:
   - {year: 2009}
   page: 2881-2888
@@ -1307,7 +1307,7 @@ references:
   file:
   - {desc: full text, file: dietz_2009_behavioral_wedge.pdf}
   - {desc: supporting information, file: dietz_2009_behavioral_wedge_supporting_info.pdf}
-  id: dietz:behavioral.wedge:2009
+  id: dietz:2009:behavioral.wedge
   issued:
   - {year: 2009}
   page: 18452-18456
@@ -1343,7 +1343,7 @@ references:
   container-title: Experimental Biology and Medicine
   file:
   - {desc: full text, file: holcomb_2009_dual_camera.pdf}
-  id: holcomb:dual.camera:2009
+  id: holcomb:2009:dual.camera
   issued:
   - {year: 2009}
   note: ' *Selected by the editors as the feature article of the month.*'
@@ -1376,7 +1376,7 @@ references:
   container-title: UCLA Law Review
   file:
   - {desc: full text, file: vandenbergh_2008_low_hanging_fruit.pdf}
-  id: vandenbergh:low.hanging.fruit:2008
+  id: vandenbergh:2008:low.hanging.fruit
   issued:
   - {year: 2008}
   page: 1701-1758
@@ -1411,7 +1411,7 @@ references:
   - {family: Holcomb, given: Mark R.}
   - {family: Wikswo, given: John P.}
   container-title: Review of Scientific Instruments
-  id: mashburn:cardiac.stimulator:2007
+  id: mashburn:2007:cardiac.stimulator
   issued:
   - {year: 2007}
   page: 104302-104309
@@ -1435,7 +1435,7 @@ references:
   container-title: Environmental Law Reporter
   file:
   - {desc: full text, file: gilligan_2006_nanotechnology.pdf}
-  id: gilligan:nanotech.risks:2006
+  id: gilligan:2006:nanotech.risks
   issue: '12'
   issued:
   - {year: 2006}
@@ -1473,7 +1473,7 @@ references:
   - {family: Edwards, given: Glenn S.}
   - {family: Tolk, given: Norman Henry}
   container-title: Journal of Biomedical Optics
-  id: sobol:cartilage.cornea:2003
+  id: sobol:2003:cartilage.cornea
   issue: '2'
   issued:
   - {year: 2003}
@@ -1496,7 +1496,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Tolk, given: Norman H.}
   container-title: Advances in Science and Technology
-  id: cricenti:surface.characterization:2002
+  id: cricenti:2002:surface.characterization
   issued:
   - {year: 2002}
   page: 183-192
@@ -1522,7 +1522,7 @@ references:
   - {family: Tolk, given: N.}
   - {family: Taylor, given: P.C.}
   container-title: Journal of Non-Crystalline Solids
-  id: mensing:defect.energies:2002
+  id: mensing:2002:defect.energies
   issued:
   - {year: 2002}
   page: 621-625
@@ -1554,7 +1554,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: Journal of Microscopy
-  id: cricenti:diamond:2001
+  id: cricenti:2001:diamond
   issued:
   - {year: 2001}
   page: 446-450
@@ -1588,7 +1588,7 @@ references:
   - {family: Husinsky, given: Wolfgang}
   - {family: Tolk, given: Norman H}
   container-title: Nonresonant laser-matter interaction (nlmi-10)
-  id: sturmann:photoablation:2001
+  id: sturmann:2001:photoablation
   issued:
   - {year: 2001}
   page: 206-211
@@ -1605,7 +1605,7 @@ references:
   - {family: Feldman, given: Leondard C.}
   - {family: Tolk, given: Norman H.}
   container-title: Condensed Matter Theories
-  id: lupke:fel:2000
+  id: lupke:2000:fel
   issued:
   - {year: 2000}
   page: 349-364
@@ -1632,7 +1632,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Edwards, given: Glenn S.}
   container-title: International biomedical optics symposium
-  id: sobol:tissue.water:2000
+  id: sobol:2000:tissue.water
   issued:
   - {year: 2000}
   page: '78'
@@ -1662,7 +1662,7 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Tolk, given: Norman H.}
   container-title: Materials Letters
-  id: talley:snom.tips:2000
+  id: talley:2000:snom.tips
   issued:
   - {year: 2000}
   page: 339-344
@@ -1688,7 +1688,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Physica Status Solidi A: Applied Research'
-  id: cricenti:heterostructure:1999
+  id: cricenti:1999:heterostructure
   issued:
   - {year: 1999}
   page: 345-349
@@ -1726,7 +1726,7 @@ references:
   - {family: Courjon, given: D.}
   - {family: Aggarwal, given: I. D.}
   container-title: 'Physica Status Solidi A: Applied Research'
-  id: cricenti:interface:1999
+  id: cricenti:1999:interface
   issued:
   - {year: 1999}
   page: 317-329
@@ -1754,7 +1754,7 @@ references:
   - {family: Yao, given: Y.}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Soviet Physics: Technical Physics'
-  id: marka:nanoscale:1999
+  id: marka:1999:nanoscale
   issued:
   - {year: 1999}
   page: 1069-1072
@@ -1783,7 +1783,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: Optical Engineering
-  id: schaafsma:snom.tip.fabrication:1999
+  id: schaafsma:1999:snom.tip.fabrication
   issued:
   - {year: 1999}
   page: 1381-1385
@@ -1815,7 +1815,7 @@ references:
   - {family: Cricenti, given: A.}
   - {family: Margaritondo, given: G.}
   container-title: Ultramicroscopy
-  id: schaafsma:snom.tips:1999
+  id: schaafsma:1999:snom.tips
   issued:
   - {year: 1999}
   page: 77-81
@@ -1857,7 +1857,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: International biomedical optics symposium
-  id: sobol:tissue.denaturation:1999
+  id: sobol:1999:tissue.denaturation
   issued:
   - {year: 1999}
   page: 122-129
@@ -1890,7 +1890,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Physica Status Solidi A: Applied Research'
-  id: cricenti:fel.snom:1998
+  id: cricenti:1998:fel.snom
   issued:
   - {year: 1998}
   page: 241-247
@@ -1915,7 +1915,7 @@ references:
   - {family: Coluzza, given: C.}
   - {family: Margaritondo, given: G.}
   container-title: Applied Physics Letters
-  id: cricenti:nanospectroscopy:1998
+  id: cricenti:1998:nanospectroscopy
   issued:
   - {year: 1998}
   page: 151-153
@@ -1941,7 +1941,7 @@ references:
   - {family: Ueda, given: A.}
   - {family: Tolk, given: Norman Henry}
   container-title: Applied Surface Science
-  id: sturmann:diamond:1998
+  id: sturmann:1998:diamond
   issued:
   - {year: 1998}
   page: 59-63
@@ -1965,7 +1965,7 @@ references:
   - {family: Betz, given: G.}
   - {family: Husinsky, given: W.}
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
-  id: tolk:sputtering:1998
+  id: tolk:1998:sputtering
   issued:
   - {year: 1998}
   page: 676-679
@@ -1986,7 +1986,7 @@ references:
   - {family: Margaritondo, given: G.}
   - {family: Lucovsky, given: G.}
   container-title: Physical Review Letters
-  id: wang:electron.hole:1998
+  id: wang:1998:electron.hole
   issued:
   - {year: 1998}
   page: 4224-4227
@@ -2009,7 +2009,7 @@ references:
   - {family: Betz, given: G.}
   - {family: Husinsky, given: W.}
   container-title: Physical Review Letters
-  id: yao:sputtering:1998
+  id: yao:1998:sputtering
   issued:
   - {year: 1998}
   page: 550-553
@@ -2030,7 +2030,7 @@ references:
   - {family: Davidson, given: J. L.}
   - {family: Margaritondo, given: G.}
   container-title: Acta Physica Polonica A
-  id: sturmann:spectroscopy:1997
+  id: sturmann:1997:spectroscopy
   issued:
   - {year: 1997}
   page: 689-696
@@ -2049,7 +2049,7 @@ references:
   - {family: Chan, given: K. R.}
   - {family: Gunson, given: M. R.}
   container-title: 'Journal of Geophysical Research: Atmospheres'
-  id: volk:lifetimes:1997
+  id: volk:1997:lifetimes
   issued:
   - {year: 1997}
   page: 25543-25564
@@ -2084,7 +2084,7 @@ references:
   - {family: Steele, given: L. P.}
   - {family: Lucarelli, given: M. P.}
   container-title: Geophysical Research Letters
-  id: elkins:acats:1996
+  id: elkins:1996:acats
   issued:
   - {year: 1996}
   page: 347-350
@@ -2107,7 +2107,7 @@ references:
   - {family: Margitan, given: J. J.}
   - {family: Chan, given: K. R.}
   container-title: Science
-  id: volk:transport:1996
+  id: volk:1996:transport
   issued:
   - {year: 1996}
   page: 1763-1768
@@ -2135,7 +2135,7 @@ references:
   - {family: Boering, given: K. A.}
   - {family: Salawitch, given: R. J.}
   container-title: Journal of Geophysical Research
-  id: woodbridge:cfc.conc:1995
+  id: woodbridge:1995:cfc.conc
   issued:
   - {year: 1995}
   page: 3057-3064
@@ -2154,7 +2154,7 @@ references:
   - {family: Dunn, given: R. E.}
   - {family: Myers, given: R. C.}
   container-title: Atmospheric effects of aviation project workshop
-  id: gilligan:cl.budgets:1994
+  id: gilligan:1994:cl.budgets
   issued:
   - {year: 1994}
   status: published
@@ -2171,7 +2171,7 @@ references:
   - {family: Raizen, given: J. G.}
   - {family: Wineland, given: David J.}
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
-  id: eichmann:interference:1993
+  id: eichmann:1993:interference
   issued:
   - {year: 1993}
   page: 43-48
@@ -2187,7 +2187,7 @@ references:
   - {family: Wineland, given: David J.}
   - {family: Raizen, given: Mark G.}
   container-title: Physical Review Letters
-  id: eichmann:two.slit:1993
+  id: eichmann:1993:two.slit
   issued:
   - {year: 1993}
   page: 2359-2362
@@ -2203,7 +2203,7 @@ references:
   - {family: Moore, given: Fred L.}
   - {family: Raizen, given: Mark G.}
   container-title: Physical Review A
-  id: itano:projection.noise:1993
+  id: itano:1993:projection.noise
   issued:
   - {year: 1993}
   page: 3554-3570
@@ -2222,7 +2222,7 @@ references:
   - {family: Raizen, given: Mark G.}
   - {family: Wineland, given: David J.}
   container-title: Vistas in Astronomy
-  id: itano:quantum.measurements:1993
+  id: itano:1993:quantum.measurements
   issued:
   - {year: 1993}
   page: 169-183
@@ -2239,7 +2239,7 @@ references:
   - {family: Raizen, given: Mark G.}
   - {family: Wineland, given: David J.}
   container-title: Hyperfine Interactions
-  id: itano:spectroscopy:1993
+  id: itano:1993:spectroscopy
   issued:
   - {year: 1993}
   page: 211-220
@@ -2256,7 +2256,7 @@ references:
   - {family: Raizen, given: Mark G.}
   - {family: Wineland, given: David J.}
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
-  id: itano:two.slit:1993
+  id: itano:1993:two.slit
   issued:
   - {year: 1993}
   page: 410-419
@@ -2269,7 +2269,7 @@ references:
   - {family: Cook, given: B. M.}
   - {family: Lichten, given: William}
   container-title: Physical Review A
-  id: shiner:calibration:1993
+  id: shiner:1993:calibration
   issued:
   - {year: 1993}
   page: 4042-4045
@@ -2298,7 +2298,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
   container-title: Physical Review A
-  id: gilligan:h2.ip:1992
+  id: gilligan:1992:h2.ip
   issued:
   - {year: 1992}
   page: 3676-3690
@@ -2314,7 +2314,7 @@ references:
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
   container-title: Physical Review A
-  id: raizen:ion.crystals:1992
+  id: raizen:1992:ion.crystals
   issued:
   - {year: 1992}
   page: 6493-6501
@@ -2329,7 +2329,7 @@ references:
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
   container-title: Journal of Modern Optics
-  id: raizen:linear.trap:1992
+  id: raizen:1992:linear.trap
   issued:
   - {year: 1992}
   page: 233-242
@@ -2364,7 +2364,7 @@ references:
   author:
   - {family: Gilligan, given: Jonathan Mark}
   genre: PhD thesis
-  id: gilligan:dissertation:1991
+  id: gilligan:1991:dissertation
   issued:
   - {year: 1991}
   publisher: Yale University
@@ -2375,7 +2375,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
   container-title: Physical Review A
-  id: gilligan:three.photon:1991
+  id: gilligan:1991:three.photon
   issued:
   - {year: 1991}
   page: 6406-6409
@@ -2397,7 +2397,7 @@ references:
   - {family: Manney, given: C. H.}
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  id: wineland:recent.experiments:1991
+  id: wineland:1991:recent.experiments
   issued:
   - {year: 1991}
   page: 553-567
@@ -2418,7 +2418,7 @@ references:
   - {family: Manney, given: C. H.}
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  id: wineland:spectroscopy:1991
+  id: wineland:1991:spectroscopy
   issued:
   - {year: 1991}
   page: 539-551
@@ -2431,7 +2431,7 @@ references:
   - {family: Cornaggia, given: Christian}
   - {family: Eyler, given: Edward Eugene}
   container-title: Physical Review A
-  id: mccormack:h2.ip:1989
+  id: mccormack:1989:h2.ip
   issued:
   - {year: 1989}
   page: 2260-2263
@@ -2445,7 +2445,7 @@ references:
   - {family: McCormack, given: Elizabeth}
   collection-title: AIP conference proceedings
   container-title: Advances in laser spectroscopy III
-  id: eyler:multiphoton:1988
+  id: eyler:1988:multiphoton
   issued:
   - {year: 1988}
   page: 331-333
@@ -2460,7 +2460,7 @@ references:
   - {family: Nussenzweig, given: "Andr\xE9"}
   - {family: Pollack, given: Edward}
   container-title: Physical Review A
-  id: eyler:ef.state:1987
+  id: eyler:1987:ef.state
   issued:
   - {year: 1987}
   page: 3486-3489
@@ -2473,7 +2473,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   collection-title: AIP conference proceedings
   container-title: Advances in laser spectroscopy II
-  id: eyler:multiphoton:1987
+  id: eyler:1987:multiphoton
   issued:
   - {year: 1987}
   page: 388-390
@@ -2487,7 +2487,7 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   collection-title: Technical digest series
   container-title: Proceedings of the XV International Conference on Quantum Electronics
-  id: mccormack:multiphoton:1987
+  id: mccormack:1987:multiphoton
   issued:
   - {year: 1987}
   page: 58-60
