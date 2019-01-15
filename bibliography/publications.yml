@@ -1,5 +1,6 @@
 references:
-- abstract: "When public governance fails to address important environmental threats\u2014\
+- URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
+  abstract: "When public governance fails to address important environmental threats\u2014\
     such as climate change\u2014private governance by firms, not-for-profits, individuals,\
     \ and households can produce significant reductions in greenhouse gas emissions.\
     \ Private governance can take the form of either a carrot or a stick, using incentives\
@@ -17,11 +18,13 @@ references:
   - {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
   id: gilligan:carrots.sticks:2019
   issued:
-  - {day: 31, month: 12, year: 2019}
-  preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3284035
-  status: in press
+  - {day: 31, month: 12, year: 2018}
+  page: 179-198
+  ssrn: '3284035'
+  status: published
   title: Carrots and sticks in private climate governance
   type: article-journal
+  volume: '6'
 - DOI: 10.1029/2017EF000797
   abstract: "Urban water supply systems in the United States are increasingly stressed\
     \ as economic and population growth confront limited water resources. Demand management,\
@@ -70,6 +73,8 @@ references:
   author:
   - {family: Gilligan, given: Jonathan M.}
   container-title: Nature Climate Change
+  file:
+  - {desc: full text, file: gilligan_2018_human_factor.pdf}
   id: gilliigan:human.factor:2018
   issued:
   - {day: 1, month: 1, year: 2018}
@@ -142,6 +147,7 @@ references:
   issued:
   - {day: 1, month: 12, year: 2018}
   page: 11049-11062
+  ssrn: '3295695'
   status: published
   title: 'Dialogue: Beyond politics: The private governance response to climate change'
   title-short: Dialogue
@@ -171,7 +177,7 @@ references:
   issued:
   - {day: 6, month: 10, year: 2018}
   page: 1243-1315
-  preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
+  ssrn: '3086226'
   status: published
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
@@ -204,6 +210,8 @@ references:
   - {family: Cubie, given: Dug}
   - {family: Mijr, given: Anja}
   - {family: Thorp, given: Teresa}
+  file:
+  - {desc: full text, file: ackerly_2017_climate_community.pdf}
   id: ackerly:migration:2017
   issued:
   - {day: 1, month: 6, year: 2017}
@@ -880,6 +888,7 @@ references:
   issued:
   - {year: 2015}
   page: 217-303
+  ssrn: '2533643'
   status: published
   title: Beyond gridlock
   type: article-journal
@@ -913,6 +922,7 @@ references:
   issued:
   - {year: 2014}
   page: 1-26
+  ssrn: '2220788'
   status: published
   title: Accounting for political feasibility in climate instrument choice
   title-short: Accounting for political feasibility
@@ -955,6 +965,7 @@ references:
   issued:
   - {year: 2014}
   page: 1962-2017
+  ssrn: '2372321'
   status: published
   title: 'Energy and climate change: A climate prediction market'
   title-short: A climate prediction market
@@ -1070,6 +1081,7 @@ references:
   issued:
   - {year: 2011}
   page: 61-67
+  ssrn: '1612224'
   status: published
   title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
   title-short: Key lessons for implementing the behavioral wedge
@@ -1100,6 +1112,7 @@ references:
   issued:
   - {year: 2011}
   page: 401-431
+  ssrn: '2004671'
   status: published
   title: 'Macro-risks: The challenge for rational risk regulation'
   title-short: Macro risks
@@ -1232,6 +1245,7 @@ references:
   note: ' Selected by Environmental Law Institute to reprint as the featured cover
     story of the 2010 summer reading issue for policymakers of Environmental Forum.'
   page: 547-554
+  ssrn: '1617426'
   status: published
   title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
     emissions reduction programs'
@@ -1366,6 +1380,7 @@ references:
   issued:
   - {year: 2008}
   page: 1701-1758
+  ssrn: '1161143'
   status: published
   title: 'Individual carbon emissions: The low-hanging fruit'
   title-short: Individual carbon emissions

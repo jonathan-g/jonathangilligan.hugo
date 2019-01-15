@@ -16,6 +16,8 @@ short_author:
 - {family: Vandenbergh, given: M. P.}
 - {family: Gilligan, given: J. M.}
 short_title: Macro risks
+ssrn: '2004671'
+ssrn_id: '2004671'
 status: published
 title: 'Macro-risks: The challenge for rational risk regulation'
 volume: '21'

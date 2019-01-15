@@ -17,6 +17,8 @@ short_author:
 - {family: Gilligan, given: J. M.}
 - {family: Vandenbergh, given: M. P.}
 short_title: Accounting for political feasibility
+ssrn: '2220788'
+ssrn_id: '2220788'
 status: published
 title: Accounting for political feasibility in climate instrument choice
 volume: '32'

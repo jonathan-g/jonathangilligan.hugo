@@ -81,7 +81,7 @@ def extract_file_link(filestr):
     return d
 
 def merge(bitem, yitem):
-    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon', 'preprint']
+    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon', 'preprint', 'ssrn']
 
     for f in fields:
         if f in bitem.fields.keys():
@@ -122,6 +122,7 @@ def gen_items(bib):
                    'volume', 'issue', 'page', 'number',
                    'ISBN', 'DOI', # 'URL',
                    'preprint',
+                   'ssrn',
                    'issued',
                    'keyword',
                    'note',
@@ -167,6 +168,8 @@ def gen_items(bib):
             header_items['pub_url'] = item['URL']
         if 'preprint' in item.keys():
             header_items['preprint_url'] = item['preprint']
+        if 'ssrn' in item.keys():
+            header_items['ssrn_id'] = item['ssrn']
         header_items['pub_type'] = item['type']
         outfile = open(os.path.join('content', key + '.md'), 'w', encoding="utf-8")
         outfile.write('---\n')

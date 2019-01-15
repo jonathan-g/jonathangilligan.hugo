@@ -23,6 +23,8 @@ short_author:
 - {family: Roberts, given: J.}
 - {family: Vandenbergh, given: M. P.}
 short_title: Dialogue
+ssrn: '3295695'
+ssrn_id: '3295695'
 status: published
 title: 'Dialogue: Beyond politics: The private governance response to climate change'
 volume: '48'

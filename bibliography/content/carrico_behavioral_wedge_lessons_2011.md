@@ -24,6 +24,8 @@ short_author:
 - {family: Dietz, given: T.}
 - {family: Gilligan, given: J. M.}
 short_title: Key lessons for implementing the behavioral wedge
+ssrn: '1612224'
+ssrn_id: '1612224'
 status: published
 title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
 volume: '2'

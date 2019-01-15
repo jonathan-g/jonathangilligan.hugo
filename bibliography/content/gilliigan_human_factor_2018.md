@@ -4,6 +4,8 @@ author:
 - {family: Gilligan, given: Jonathan M.}
 container_title: Nature Climate Change
 date: '2018-01-01'
+file:
+- {desc: full text, file: gilligan_2018_human_factor.pdf}
 id: gilliigan_human_factor_2018
 issued:
 - {day: 1, month: 1, year: 2018}

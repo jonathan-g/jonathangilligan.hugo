@@ -6,12 +6,14 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: 2019
+  - year: 2018
     month: 12
     day: 31
   title: Carrots and sticks in private climate governance
   container-title: Texas A&M Law Review
-  status: in press
+  page: '179-198'
+  volume: '6'
+  status: published
   abstract: When public governance fails to address important environmental threats—such
     as climate change—private governance by firms, not-for-profits, individuals, and
     households can produce significant reductions in greenhouse gas emissions. Private
@@ -23,6 +25,7 @@ references:
     It also examines private governance successes at reducing household emissions
     and finds that these too emphasize making it attractive and convenient for households
     to act.
+  URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
 
 - id: gilligan:water.conservation:2018
   type: article-journal

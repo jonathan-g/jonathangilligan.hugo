@@ -18,6 +18,8 @@ short_author:
 - {family: Toner, given: K. E.}
 - {family: Gilligan, given: J. M.}
 short_title: A climate prediction market
+ssrn: '2372321'
+ssrn_id: '2372321'
 status: published
 title: 'Energy and climate change: A climate prediction market'
 volume: '61'

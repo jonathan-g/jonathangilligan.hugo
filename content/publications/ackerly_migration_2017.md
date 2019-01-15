@@ -14,6 +14,8 @@ editor:
 - {family: Cubie, given: Dug}
 - {family: Mijr, given: Anja}
 - {family: Thorp, given: Teresa}
+file:
+- {desc: full text, file: ackerly_2017_climate_community.pdf}
 id: ackerly_migration_2017
 issued:
 - {day: 1, month: 6, year: 2017}
