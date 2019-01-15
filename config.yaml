@@ -61,7 +61,7 @@ params:
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
   typekitCode: "pxs4bbm"
-  fontawesomeCode: "0cecfe2e0e"
+  fontawesomeCode: "sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG"
   mathjax: true
   mhchem: true
   avatar: "avatar.jpg"
