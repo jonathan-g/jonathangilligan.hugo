@@ -11,6 +11,7 @@ id: cliffel_patent_cell_response_2010
 issued:
 - {day: 11, month: 5, year: 2010}
 number: 7,713,733 B2
+patent_num: 7713733B2
 pub_type: patent
 pubdate: '2010-05-11'
 short_author:

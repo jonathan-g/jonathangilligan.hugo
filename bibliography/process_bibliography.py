@@ -53,7 +53,13 @@ def process_file_refs(infile, outfile):
         lines = source.readlines()
     processed_lines = [ fix_file_refs(li) for li in lines ]
     with open(outfile, 'w', encoding="utf-8") as sink:
-        s.writelines(processed_lines)
+        sink.writelines(processed_lines)
+
+patent_strip_pattern = re.compile("[^A-Za-z0-9]+")
+
+def patent_strip(s):
+    s = re.sub(patent_strip_pattern, "", s).upper()
+    return s
 
 def preprocess(infile, outfile):
     original = open(infile, encoding="utf-8")
@@ -81,7 +87,7 @@ def extract_file_link(filestr):
     return d
 
 def merge(bitem, yitem):
-    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon', 'preprint', 'ssrn']
+    fields = ['file', 'title_md', 'booktitle_md', 'note_md', 'amazon', 'preprint', 'ssrn', 'patent_num']
 
     for f in fields:
         if f in bitem.fields.keys():
@@ -123,6 +129,7 @@ def gen_items(bib):
                    'ISBN', 'DOI', # 'URL',
                    'preprint',
                    'ssrn',
+                   'patent_num',
                    'issued',
                    'keyword',
                    'note',
@@ -171,6 +178,8 @@ def gen_items(bib):
         if 'ssrn' in item.keys():
             header_items['ssrn_id'] = item['ssrn']
         header_items['pub_type'] = item['type']
+        if (item['type'] == 'patent' and 'number' in item.keys()):
+            header_items['patent_num'] = patent_strip(item['number'])
         outfile = open(os.path.join('content', key + '.md'), 'w', encoding="utf-8")
         outfile.write('---\n')
         yaml.dump(header_items, outfile)
