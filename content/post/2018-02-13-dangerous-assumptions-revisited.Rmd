@@ -420,6 +420,8 @@ rate_plot <-  ggplot(r, aes(x = 100 * r.f, y = 100 * r.e, color = scenario,
   geom_hline(size = 1, color = "gray70", yintercept = 0.0) +
   geom_vline(size = 1, color = "gray70", xintercept = 0.0) +
   geom_point() +
+  geom_abline(aes(slope = -1, intercept = 100 * (r.e + r.f), color = scenario),
+              data = filter(r, scenario == "Historical"), size = 1) +
   geom_text_repel(aes(label = scenario, nudge_x = nx, nudge_y = ny),
             color = "black", size = 4,
             box.padding = 0.4) +
