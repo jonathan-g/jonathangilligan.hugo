@@ -1,4 +1,5 @@
 ---
+ISBN: 978-1907161360
 author:
 - {family: Rogers, given: Kimberly G.}
 - {family: Syvitski, given: James P.M.}

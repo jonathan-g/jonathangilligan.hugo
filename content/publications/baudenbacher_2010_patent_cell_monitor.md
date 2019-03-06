@@ -12,6 +12,8 @@ author:
 - {family: Stremler, given: Michael}
 - {family: Werdich, given: Andreas}
 date: '2010-04-27'
+file:
+- {desc: full text, file: baudenbacher_2010_patent_cell_metabolism.pdf}
 id: baudenbacher_2010_patent_cell_monitor
 issued:
 - {day: 27, month: 4, year: 2010}

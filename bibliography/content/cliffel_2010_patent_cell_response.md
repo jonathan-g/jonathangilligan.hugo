@@ -7,6 +7,8 @@ author:
 - {family: Balcarcel, given: Robert R.}
 - {family: Gilligan, given: Jonathan Mark}
 date: '2010-05-11'
+file:
+- {desc: full text, file: cliffel_2010_patent_cell_response.pdf}
 id: cliffel_2010_patent_cell_response
 issued:
 - {day: 11, month: 5, year: 2010}

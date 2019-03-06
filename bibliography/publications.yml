@@ -1,30 +1,4 @@
 references:
-- URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
-  abstract: "When public governance fails to address important environmental threats\u2014\
-    such as climate change\u2014private governance by firms, not-for-profits, individuals,\
-    \ and households can produce significant reductions in greenhouse gas emissions.\
-    \ Private governance can take the form of either a carrot or a stick, using incentives\
-    \ or punishments. Shareholder activism as a form of private governance of corporations\
-    \ has largely been confrontational, leading most climate-related actions to fail.\
-    \ This Article examines the potential for private governance to take a more collaborative\
-    \ approach and to frame shareholder engagement with management in terms of opportunity.\
-    \ It also examines private governance successes at reducing household emissions\
-    \ and finds that these too emphasize making it attractive and convenient for households\
-    \ to act."
-  author:
-  - {family: Gilligan, given: Jonathan M.}
-  container-title: Texas A&M Law Review
-  file:
-  - {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
-  id: gilligan:2019:carrots.sticks
-  issued:
-  - {day: 31, month: 12, year: 2018}
-  page: 179-198
-  ssrn: '3284035'
-  status: published
-  title: Carrots and sticks in private climate governance
-  type: article-journal
-  volume: '6'
 - DOI: 10.1029/2017EF000797
   abstract: "Urban water supply systems in the United States are increasingly stressed\
     \ as economic and population growth confront limited water resources. Demand management,\
@@ -63,6 +37,32 @@ references:
   page: 955-967
   status: published
   title: Urban water conservation policies in the United States
+  type: article-journal
+  volume: '6'
+- URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
+  abstract: "When public governance fails to address important environmental threats\u2014\
+    such as climate change\u2014private governance by firms, not-for-profits, individuals,\
+    \ and households can produce significant reductions in greenhouse gas emissions.\
+    \ Private governance can take the form of either a carrot or a stick, using incentives\
+    \ or punishments. Shareholder activism as a form of private governance of corporations\
+    \ has largely been confrontational, leading most climate-related actions to fail.\
+    \ This Article examines the potential for private governance to take a more collaborative\
+    \ approach and to frame shareholder engagement with management in terms of opportunity.\
+    \ It also examines private governance successes at reducing household emissions\
+    \ and finds that these too emphasize making it attractive and convenient for households\
+    \ to act."
+  author:
+  - {family: Gilligan, given: Jonathan M.}
+  container-title: Texas A&M Law Review
+  file:
+  - {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
+  id: gilligan:2019:carrots.sticks
+  issued:
+  - {day: 31, month: 12, year: 2018}
+  page: 179-198
+  ssrn: '3284035'
+  status: published
+  title: Carrots and sticks in private climate governance
   type: article-journal
   volume: '6'
 - DOI: 10.1038/s41558-017-0038-0
@@ -1005,7 +1005,8 @@ references:
     social, environmental, and engineering perspective'
   title-short: Resilience to environmental stress in bangladesh
   type: paper-conference
-- abstract: Deltas are dynamic landforms that have been the foci of agri- and aquacultural
+- ISBN: 978-1907161360
+  abstract: Deltas are dynamic landforms that have been the foci of agri- and aquacultural
     development by humans for millennia. The dynamics of deltas are governed by changes
     in river discharge and reworking of sediment. While these dynamics make deltas
     highly productive areas, they also present challenges to farming practices, often
@@ -1135,6 +1136,8 @@ references:
   - {family: Prokop, given: Ales}
   - {family: Stremler, given: Michael}
   - {family: Werdich, given: Andreas}
+  file:
+  - {desc: full text, file: baudenbacher_2010_patent_cell_metabolism.pdf}
   id: baudenbacher:2010:patent.cell.monitor
   issued:
   - {day: 27, month: 4, year: 2010}
@@ -1157,9 +1160,12 @@ references:
   - {family: Eklund, given: Sven}
   - {family: Balcarcel, given: Robert R.}
   - {family: Gilligan, given: Jonathan Mark}
+  file:
+  - {desc: full text, file: cliffel_2010_patent_cell_response.pdf}
   id: cliffel:2010:patent.cell.response
   issued:
   - {day: 11, month: 5, year: 2010}
+  jurisdiction: US
   number: 7,713,733 B2
   status: published
   title: Device and methods for detecting the response of a plurality of cells to
