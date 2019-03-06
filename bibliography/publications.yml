@@ -1323,7 +1323,8 @@ references:
   title-short: Behavioral wedge
   type: article-journal
   volume: '106'
-- abstract: Fluorescence imaging has become a common modality in cardiac electrodynamics.
+- DOI: 10.3181/0902-RM-47
+  abstract: Fluorescence imaging has become a common modality in cardiac electrodynamics.
     A single fluorescent parameter is typically measured. Given the growing emphasis
     on simultaneous imaging of more than one cardiac variable, we present an analysis
     of the potential of dual camera imaging, using as an example our straightforward
@@ -1392,7 +1393,8 @@ references:
   title-short: Individual carbon emissions
   type: article-journal
   volume: '55'
-- abstract: "Defibrillators are a critical tool for treating heart disease; however,\
+- DOI: 10.1063/1.2796832
+  abstract: "Defibrillators are a critical tool for treating heart disease; however,\
     \ the mechanisms by which they halt fibrillation are still not fully understood\
     \ and are the subject of ongoing research. Clinical defibrillators do not provide\
     \ the precise control of shock timing, duration, and voltage or other features\
@@ -1417,6 +1419,8 @@ references:
   - {family: Holcomb, given: Mark R.}
   - {family: Wikswo, given: John P.}
   container-title: Review of Scientific Instruments
+  file:
+  - {desc: full text, file: mashburn_2007_cardiac_stimulator.pdf}
   id: mashburn:2007:cardiac.stimulator
   issued:
   - {year: 2007}
@@ -1452,7 +1456,8 @@ references:
   title-short: Managing nanotechnology risks
   type: article-journal
   volume: '36'
-- PMID: '12683847'
+- DOI: 10.1117/1.1559996
+  PMID: '12683847'
   abstract: "Light scattering is used to monitor the dynamics and energy thresholds\
     \ of laser-induced structural alterations in biopolymers due to irradiation by\
     \ a free electron laser\_(FEL) in the infrared\_(IR) wavelength range 2.2\_to\
@@ -1479,6 +1484,8 @@ references:
   - {family: Edwards, given: Glenn S.}
   - {family: Tolk, given: Norman Henry}
   container-title: Journal of Biomedical Optics
+  file:
+  - {desc: full text, file: sobol_2003_light_scattering.pdf}
   id: sobol:2003:cartilage.cornea
   issue: '2'
   issued:
@@ -1511,7 +1518,8 @@ references:
   title-short: Surface characterisation by near-field microscopy
   type: article-journal
   volume: '32'
-- abstract: Using photoluminescence excitation (PLE) spectroscopy, we report detailed
+- DOI: 10.1016/S0022-3093(01)01207-8
+  abstract: Using photoluminescence excitation (PLE) spectroscopy, we report detailed
     measurements of the fundamental absorption threshold below the optical gap in
     hydrogenated amorphous silicon (a-Si:H). These measurements suggest that the density
     of neutral defects is much greater than the densities of charged defects in intrinsic
@@ -1528,6 +1536,8 @@ references:
   - {family: Tolk, given: N.}
   - {family: Taylor, given: P.C.}
   container-title: Journal of Non-Crystalline Solids
+  file:
+  - {desc: full text, file: mensing_2002_defect_energies.pdf}
   id: mensing:2002:defect.energies
   issued:
   - {year: 2002}
@@ -1538,7 +1548,8 @@ references:
   title-short: Defects in amorphous silicon
   type: article-journal
   volume: '299'
-- PMID: '11309110'
+- DOI: 10.1046/j.1365-2818.2001.00874.x
+  PMID: '11309110'
   abstract: "Hydrogen chemistry in thin films and biological systems is one of the\
     \ most difficult experimental problems in today\u2019s science and technology.\
     \ We successfully tested a novel solution, based on the spectroscopic version\
@@ -1560,6 +1571,8 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: Journal of Microscopy
+  file:
+  - {desc: full text, file: cricenti_2001_diamond_film.pdf}
   id: cricenti:2001:diamond
   issued:
   - {year: 2001}
@@ -1570,7 +1583,8 @@ references:
   title-short: Spectroscopic near-field microscopy
   type: article-journal
   volume: '202'
-- abstract: We report first IR free-electron laser experiments to compare and elucidate
+- DOI: 10.1117/12.431224
+  abstract: We report first IR free-electron laser experiments to compare and elucidate
     the effects of surface-localized vibrational excitation versus bulk vibrational
     excitation on the ablation of polycrystalline diamond. The measured ablation yield
     values as a function of laser intensity indicate the existence of two separate
@@ -1594,6 +1608,8 @@ references:
   - {family: Husinsky, given: Wolfgang}
   - {family: Tolk, given: Norman H}
   container-title: Nonresonant laser-matter interaction (nlmi-10)
+  file:
+  - {desc: full text, file: sturmann_2001_photoablation.pdf}
   id: sturmann:2001:photoablation
   issued:
   - {year: 2001}
@@ -1621,7 +1637,8 @@ references:
   title-short: Materials science at the WM Keck free electron laser
   type: article-journal
   volume: '14'
-- abstract: 'The effect of temperature dependent shift of water absorption band, known
+- DOI: 10.1117/12.384255
+  abstract: 'The effect of temperature dependent shift of water absorption band, known
     for pure water, has been examined, for the first time, for tissue water, using
     the IR Free Electron Laser radiation. Cooling kinetics of cartilage and cornea
     irradiated was measured with a fluorimeter. We have modified the computation algorithm
@@ -1638,6 +1655,8 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Edwards, given: Glenn S.}
   container-title: International biomedical optics symposium
+  file:
+  - {desc: full text, file: sobol_2000_tissue_absorption.pdf}
   id: sobol:2000:tissue.water
   issued:
   - {year: 2000}
@@ -1648,7 +1667,8 @@ references:
     under IR FEL radiation with different wavelengths
   type: paper-conference
   volume: '3925'
-- abstract: Chalcogenide glass optical fibers were fabricated into functional apertured
+- DOI: 10.1016/S0167-577X(99)00201-3
+  abstract: Chalcogenide glass optical fibers were fabricated into functional apertured
     probes for near field scanning infrared microscopy. Probe fiber tips were chemically
     etched and aluminum coated for the purpose of simultaneously collecting near field
     shear force and optical signals. Surface topography and infrared optical reflectivity
@@ -1668,6 +1688,8 @@ references:
   - {family: Gilligan, given: Jonathan M.}
   - {family: Tolk, given: Norman H.}
   container-title: Materials Letters
+  file:
+  - {desc: full text, file: talley_2000_ir_snom_tips.pdf}
   id: talley:2000:snom.tips
   issued:
   - {year: 2000}
@@ -1676,7 +1698,8 @@ references:
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   type: article-journal
   volume: '42'
-- abstract: We observed chemical contrast with subwavelength resolution on a III-V
+- DOI: 10.1002/(SICI)1521-396X(199909)175:1<345::AID-PSSA345>3.0.CO;2-I
+  abstract: We observed chemical contrast with subwavelength resolution on a III-V
     heterostructure by a scanning near-field optical microscope (SNOM) working in
     the external reflection mode and coupled with a Free Electron Laser (FEL). SNOM
     reflectivity images revealed features that were not present in the corresponding
@@ -1694,6 +1717,8 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Physica Status Solidi A: Applied Research'
+  file:
+  - {desc: full text, file: cricenti_1999_chemical_contrast.pdf}
   id: cricenti:1999:heterostructure
   issued:
   - {year: 1999}
@@ -1703,7 +1728,8 @@ references:
     optical microscopy
   type: article-journal
   volume: '175'
-- abstract: The study of semiconductor interfaces and of solid interfaces in general
+- DOI: 10.1002/(SICI)1521-396X(199909)175:1%3C317::AID-PSSA317%3E3.0.CO;2-M
+  abstract: The study of semiconductor interfaces and of solid interfaces in general
     requires novel instrument capable to investigate the lateral fluctuations of properties
     on a microscopic scale. We present the first result of a major effort in that
     framework, whose main objective is the exploitation of the unique characteristics
@@ -1732,6 +1758,8 @@ references:
   - {family: Courjon, given: D.}
   - {family: Aggarwal, given: I. D.}
   container-title: 'Physica Status Solidi A: Applied Research'
+  file:
+  - {desc: full text, file: cricenti_1999_interface_snom.pdf}
   id: cricenti:1999:interface
   issued:
   - {year: 1999}
@@ -1741,7 +1769,8 @@ references:
     electron laser
   type: article-journal
   volume: '175'
-- abstract: Studies of nonlinear, energy-selective material interactions localized
+- DOI: 10.1134/1.1259473
+  abstract: Studies of nonlinear, energy-selective material interactions localized
     at surfaces, heterointerfaces, impurities, and defects in solids are described.
     Particular reference is made to a new molecular interaction effect caused by transfer
     of surface energy by low-energy collisions, a new noncontact nonlinear optical
@@ -1760,6 +1789,8 @@ references:
   - {family: Yao, given: Y.}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Soviet Physics: Technical Physics'
+  file:
+  - {desc: full text, file: marka_1999_nanoscale_modifications.pdf}
   id: marka:1999:nanoscale
   issued:
   - {year: 1999}
@@ -1769,7 +1800,8 @@ references:
     in metals and semiconductors
   type: article-journal
   volume: '44'
-- abstract: We fabricate scanning near-field optical microscope (IR-SNOM) probe tips
+- DOI: 10.1117/1.602181
+  abstract: We fabricate scanning near-field optical microscope (IR-SNOM) probe tips
     made from singlemode chalcogenide fiber and test them using a standard SNOM setup
     and free-electron laser. SEM micrographs, showing tips with submicrometer physical
     dimensions, demonstrate the feasibility of the thermal micropipette puller process
@@ -1789,6 +1821,8 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: Optical Engineering
+  file:
+  - {desc: full text, file: schaafsma_1999_ir_snom_tips.pdf}
   id: schaafsma:1999:snom.tip.fabrication
   issued:
   - {year: 1999}
@@ -1798,7 +1832,8 @@ references:
     infrared optical microscopy
   type: article-journal
   volume: '38'
-- abstract: "We have fabricated and tested infrared scanning near-field optical microscope\
+- DOI: 10.1016/S0304-3991(99)00004-2
+  abstract: "We have fabricated and tested infrared scanning near-field optical microscope\
     \ (IR-SNOM) probe tips made from singlemode chalcogenide fiber. The process used\
     \ to create the tips was similar to conventional micropipette-puller techniques,\
     \ with some modifications to allow for the lower melting temperature and tensile\
@@ -1821,6 +1856,8 @@ references:
   - {family: Cricenti, given: A.}
   - {family: Margaritondo, given: G.}
   container-title: Ultramicroscopy
+  file:
+  - {desc: full text, file: schaafsma_1999_single_mode_tips.pdf}
   id: schaafsma:1999:snom.tips
   issued:
   - {year: 1999}
@@ -1829,7 +1866,8 @@ references:
   title: Singlemode chalcogenide fiber infrared SNOM probes
   type: article-journal
   volume: '77'
-- abstract: We consider the denaturation process as an alteration in ordered organization
+- DOI: 10.1117/12.349995
+  abstract: We consider the denaturation process as an alteration in ordered organization
     of tissue structure and study the threshold and kinetics of laser-induced denaturation
     in cartilage and cornea undergoing irradiation from a free electron laser (FEL)
     in the wavelength range 2.2 - 8.5 (mu) . Light-scattering by cartilage samples
@@ -1863,6 +1901,8 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: International biomedical optics symposium
+  file:
+  - {desc: full text, file: sobol_1999_tissue_denaturation.pdf}
   id: sobol:1999:tissue.denaturation
   issued:
   - {year: 1999}
@@ -1873,7 +1913,8 @@ references:
     laser radiation
   type: paper-conference
   volume: '3601'
-- abstract: First experiments of coupling a free electron laser to a scanning near-field
+- DOI: 10.1002/(SICI)1521-396X(199812)170:2<241::AID-PSSA241>3.0.CO;2-A
+  abstract: First experiments of coupling a free electron laser to a scanning near-field
     optical microscope (SNOM) are presented. To address the question of how important
     such spectroscopy can be for near-field infrared microscopy, we acquired images
     of the same region of the sample under investigation at several photon wavelengths.
@@ -1896,6 +1937,8 @@ references:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Tolk, given: Norman Henry}
   container-title: 'Physica Status Solidi A: Applied Research'
+  file:
+  - {desc: full text, file: cricenti_1998_first_ir_snom.pdf}
   id: cricenti:1998:fel.snom
   issued:
   - {year: 1998}
@@ -1905,7 +1948,8 @@ references:
     near-field optical microscope
   type: article-journal
   volume: '170'
-- abstract: First experiments at the Vanderbilt free electron lasers measured the
+- DOI: 10.1063/1.121739
+  abstract: First experiments at the Vanderbilt free electron lasers measured the
     local reflectivity of a PtSi/Si system. The reflectivity in the scanning near-field
     optical microscope images revealed features that were not present in the corresponding
     shear-force (topology) images and which were due to localized changes in the bulk
@@ -1921,6 +1965,8 @@ references:
   - {family: Coluzza, given: C.}
   - {family: Margaritondo, given: G.}
   container-title: Applied Physics Letters
+  file:
+  - {desc: full text, file: cricenti_1998_fel_ir_snom.pdf}
   id: cricenti:1998:nanospectroscopy
   issued:
   - {year: 1998}
@@ -1929,7 +1975,8 @@ references:
   title: Free-electron-laser near-field nanospectroscopy
   type: article-journal
   volume: '73'
-- abstract: 'We report first studies of photodesorption from diamond films using the
+- DOI: 10.1016/S0169-4332(97)00610-7
+  abstract: 'We report first studies of photodesorption from diamond films using the
     Vanderbilt Free-Electron Laser at two infrared wavelengths: 3.5 micron, corresponding
     to localized absorption by C-H bonds at grain boundaries, and 5 micron, corresponding
     to two-phonon absorption by the bulk diamond. At 3.5 micron we observe two photodesorption
@@ -1947,6 +1994,8 @@ references:
   - {family: Ueda, given: A.}
   - {family: Tolk, given: Norman Henry}
   container-title: Applied Surface Science
+  file:
+  - {desc: full text, file: sturmann_1998_diamond.pdf}
   id: sturmann:1998:diamond
   issued:
   - {year: 1998}
@@ -1980,7 +2029,8 @@ references:
     energies
   type: article-journal
   volume: '62'
-- author:
+- DOI: 10.1103/PhysRevLett.81.4224
+  author:
   - {family: Wang, given: W.}
   - {family: Lupke, given: G.}
   - {family: Di Ventra, given: M.}
@@ -1992,6 +2042,8 @@ references:
   - {family: Margaritondo, given: G.}
   - {family: Lucovsky, given: G.}
   container-title: Physical Review Letters
+  file:
+  - {desc: full text, file: wang_1998_dynamics.pdf}
   id: wang:1998:electron.hole
   issued:
   - {year: 1998}
@@ -2000,7 +2052,8 @@ references:
   title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
   type: article-journal
   volume: '81'
-- author:
+- DOI: 10.1103/PhysRevLett.81.550
+  author:
   - {family: Yao, given: Y.}
   - {family: Hargitai, given: Z.}
   - {family: Albert, given: M.}
@@ -2015,6 +2068,8 @@ references:
   - {family: Betz, given: G.}
   - {family: Husinsky, given: W.}
   container-title: Physical Review Letters
+  file:
+  - {desc: full text, file: yao_1998_molecular_sputtering.pdf}
   id: yao:1998:sputtering
   issued:
   - {year: 1998}
@@ -2044,7 +2099,8 @@ references:
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
   type: article-journal
   volume: '91'
-- author:
+- DOI: 10.1029/97JD02215
+  author:
   - {family: Volk, given: C. M.}
   - {family: Elkins, given: James W.}
   - {family: Fahey, given: David W.}
@@ -2055,6 +2111,8 @@ references:
   - {family: Chan, given: K. R.}
   - {family: Gunson, given: M. R.}
   container-title: 'Journal of Geophysical Research: Atmospheres'
+  file:
+  - {desc: full text, file: volk_1997_lifetimes.pdf}
   id: volk:1997:lifetimes
   issued:
   - {year: 1997}
@@ -2063,7 +2121,8 @@ references:
   title: Evaluation of source gas lifetimes from stratospheric observations
   type: article-journal
   volume: '102'
-- author:
+- DOI: 10.1029/96GL00244
+  author:
   - {family: Elkins, given: James W.}
   - {family: Fahey, given: David W.}
   - {family: Gilligan, given: Jonathan Mark}
@@ -2090,6 +2149,8 @@ references:
   - {family: Steele, given: L. P.}
   - {family: Lucarelli, given: M. P.}
   container-title: Geophysical Research Letters
+  file:
+  - {desc: full text, file: elkins_1996_acats.pdf}
   id: elkins:1996:acats
   issued:
   - {year: 1996}
@@ -2099,7 +2160,8 @@ references:
     in the upper troposphere and lower stratosphere
   type: article-journal
   volume: '23'
-- author:
+- DOI: 10.1126/science.272.5269.1763
+  author:
   - {family: Volk, given: C. M.}
   - {family: Elkins, given: James W.}
   - {family: Fahey, given: David W.}
@@ -2113,6 +2175,8 @@ references:
   - {family: Margitan, given: J. J.}
   - {family: Chan, given: K. R.}
   container-title: Science
+  file:
+  - {desc: full text, file: volk_1996_transport.pdf}
   id: volk:1996:transport
   issued:
   - {year: 1996}
@@ -2121,7 +2185,8 @@ references:
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
   type: article-journal
   volume: '272'
-- author:
+- DOI: 10.1029/94JD02744
+  author:
   - {family: Woodbridge, given: E. L.}
   - {family: Elkins, given: James W.}
   - {family: Fahey, given: David W.}
@@ -2141,6 +2206,8 @@ references:
   - {family: Boering, given: K. A.}
   - {family: Salawitch, given: R. J.}
   container-title: Journal of Geophysical Research
+  file:
+  - {desc: full text, file: woodbridge_1995_total_chlorine.pdf}
   id: woodbridge:1995:cfc.conc
   issued:
   - {year: 1995}
@@ -2168,7 +2235,8 @@ references:
     with a new *in situ* instrument, airborne chromatograph for atmospheric trace
     species (ACATS-IV)
   type: paper-conference
-- author:
+- DOI: 10.1063/1.45075
+  author:
   - {family: Eichmann, given: Ullrich}
   - {family: Bergquist, given: James C.}
   - {family: Bollinger, given: John J.}
@@ -2177,6 +2245,8 @@ references:
   - {family: Raizen, given: J. G.}
   - {family: Wineland, given: David J.}
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
+  file:
+  - {desc: full text, file: eichmann_1993_two_atoms.pdf}
   id: eichmann:1993:interference
   issued:
   - {year: 1993}
@@ -2184,7 +2254,8 @@ references:
   status: published
   title: Interference in the resonance fluorescence of two trapped atoms
   type: paper-conference
-- author:
+- DOI: 10.1103/PhysRevLett.70.2359
+  author:
   - {family: Eichmann, given: Ullrich}
   - {family: Bergquist, given: James C.}
   - {family: Bollinger, given: John J.}
@@ -2193,6 +2264,8 @@ references:
   - {family: Wineland, given: David J.}
   - {family: Raizen, given: Mark G.}
   container-title: Physical Review Letters
+  file:
+  - {desc: full text, file: eichmann_1993_two_slit.pdf}
   id: eichmann:1993:two.slit
   issued:
   - {year: 1993}
@@ -2201,7 +2274,8 @@ references:
   title: "Young\u2019s interference experiment with light scattered from two atoms"
   type: article-journal
   volume: '70'
-- author:
+- DOI: 10.1103/PhysRevA.47.3554
+  author:
   - {family: Itano, given: Wayne M.}
   - {family: Bergquist, given: James C.}
   - {family: Bollinger, given: John J.}
@@ -2209,6 +2283,8 @@ references:
   - {family: Moore, given: Fred L.}
   - {family: Raizen, given: Mark G.}
   container-title: Physical Review A
+  file:
+  - {desc: full text, file: itano_1993_quantum_projection_noise.pdf}
   id: itano:1993:projection.noise
   issued:
   - {year: 1993}
@@ -2262,6 +2338,8 @@ references:
   - {family: Raizen, given: Mark G.}
   - {family: Wineland, given: David J.}
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
+  file:
+  - {desc: full text, file: itano_1993_two_atoms.pdf}
   id: itano:1993:two.slit
   issued:
   - {year: 1993}
@@ -2269,12 +2347,15 @@ references:
   status: published
   title: Light scattered from two atoms
   type: paper-conference
-- author:
+- DOI: 10.1103/PhysRevA.47.4042
+  author:
   - {family: Shiner, given: David}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Cook, given: B. M.}
   - {family: Lichten, given: William}
   container-title: Physical Review A
+  file:
+  - {desc: full text, file: shiner_1993_iodine_calibration.pdf}
   id: shiner:1993:calibration
   issued:
   - {year: 1993}
@@ -2284,7 +2365,8 @@ references:
     of several iodine lines
   type: article-journal
   volume: '47'
-- abstract: 'We report measurements of excited states in the three stable isotopic
+- DOI: 10.1103/PhysRevA.46.3676
+  abstract: 'We report measurements of excited states in the three stable isotopic
     variants of molecular hydrogen: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$. The lowest
     rovibrational levels of the $\mathit{EF}~{}^{1}{\Sigma}_g^{+}$ state have been
     measured by Doppler-free two-photon laser spectroscopy for all three molecules.
@@ -2313,13 +2395,16 @@ references:
     of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
   type: article-journal
   volume: '46'
-- author:
+- DOI: 10.1103/PhysRevA.45.6493
+  author:
   - {family: Raizen, given: Mark G.}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Bergquist, given: James C.}
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
   container-title: Physical Review A
+  file:
+  - {desc: full_text, file: raizen_1992_ionic_crystals.pdf}
   id: raizen:1992:ion.crystals
   issued:
   - {year: 1992}
@@ -2328,13 +2413,16 @@ references:
   title: Ionic crystals in a linear Paul trap
   type: article-journal
   volume: '45'
-- author:
+- DOI: 10.1080/09500349214550241
+  author:
   - {family: Raizen, given: Mark G.}
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Bergquist, given: James C.}
   - {family: Itano, given: Wayne M.}
   - {family: Wineland, given: David J.}
   container-title: Journal of Modern Optics
+  file:
+  - {desc: full text, file: raizen_1992_linear_trap.pdf}
   id: raizen:1992:linear.trap
   issued:
   - {year: 1992}
@@ -2377,10 +2465,13 @@ references:
   title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
     molecules and a new determination of the ionization potential of $\ce{HD}$
   type: thesis
-- author:
+- DOI: 10.1103/PhysRevA.43.6406
+  author:
   - {family: Gilligan, given: Jonathan Mark}
   - {family: Eyler, given: Edward Eugene}
   container-title: Physical Review A
+  file:
+  - {desc: full text, file: gilligan_1991_three_photon.pdf}
   id: gilligan:1991:three.photon
   issued:
   - {year: 1991}

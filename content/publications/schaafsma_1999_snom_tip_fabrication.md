@@ -1,4 +1,5 @@
 ---
+DOI: 10.1117/1.602181
 author:
 - {family: Schaafsma, given: D. T.}
 - {family: Mossadegh, given: R.}
@@ -12,6 +13,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: Optical Engineering
 date: '1999-01-01'
+file:
+- {desc: full text, file: schaafsma_1999_ir_snom_tips.pdf}
 id: schaafsma_1999_snom_tip_fabrication
 issued:
 - {year: 1999}

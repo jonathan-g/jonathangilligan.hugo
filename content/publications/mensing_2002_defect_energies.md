@@ -1,4 +1,5 @@
 ---
+DOI: 10.1016/S0022-3093(01)01207-8
 author:
 - {family: Mensing, given: G.}
 - {family: Gilligan, given: J.}
@@ -10,6 +11,8 @@ author:
 - {family: Taylor, given: P.C.}
 container_title: Journal of Non-Crystalline Solids
 date: '2002-01-01'
+file:
+- {desc: full text, file: mensing_2002_defect_energies.pdf}
 id: mensing_2002_defect_energies
 issued:
 - {year: 2002}

@@ -1,4 +1,5 @@
 ---
+DOI: 10.1117/12.431224
 author:
 - {family: Sturmann, given: Judit}
 - {family: Marka, given: Z}
@@ -12,6 +13,8 @@ author:
 - {family: Tolk, given: Norman H}
 container_title: Nonresonant laser-matter interaction (nlmi-10)
 date: '2001-01-01'
+file:
+- {desc: full text, file: sturmann_2001_photoablation.pdf}
 id: sturmann_2001_photoablation
 issued:
 - {year: 2001}

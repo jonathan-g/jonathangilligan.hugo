@@ -1,4 +1,5 @@
 ---
+DOI: 10.1002/(SICI)1521-396X(199909)175:1<345::AID-PSSA345>3.0.CO;2-I
 author:
 - {family: Cricenti, given: Antonio}
 - {family: Generosi, given: Renato}
@@ -10,6 +11,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: 'Physica Status Solidi A: Applied Research'
 date: '1999-01-01'
+file:
+- {desc: full text, file: cricenti_1999_chemical_contrast.pdf}
 id: cricenti_1999_heterostructure
 issued:
 - {year: 1999}

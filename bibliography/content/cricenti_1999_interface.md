@@ -1,4 +1,5 @@
 ---
+DOI: 10.1002/(SICI)1521-396X(199909)175:1%3C317::AID-PSSA317%3E3.0.CO;2-M
 author:
 - {family: Cricenti, given: A.}
 - {family: Generosi, given: R.}
@@ -13,6 +14,8 @@ author:
 - {family: Aggarwal, given: I. D.}
 container_title: 'Physica Status Solidi A: Applied Research'
 date: '1999-01-01'
+file:
+- {desc: full text, file: cricenti_1999_interface_snom.pdf}
 id: cricenti_1999_interface
 issued:
 - {year: 1999}

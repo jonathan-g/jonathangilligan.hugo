@@ -1,4 +1,5 @@
 ---
+DOI: 10.1134/1.1259473
 author:
 - {family: Marka, given: Z.}
 - {family: Cheney, given: C. P.}
@@ -9,6 +10,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: 'Soviet Physics: Technical Physics'
 date: '1999-01-01'
+file:
+- {desc: full text, file: marka_1999_nanoscale_modifications.pdf}
 id: marka_1999_nanoscale
 issued:
 - {year: 1999}

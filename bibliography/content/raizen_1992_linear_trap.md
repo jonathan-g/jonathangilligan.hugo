@@ -1,4 +1,5 @@
 ---
+DOI: 10.1080/09500349214550241
 author:
 - {family: Raizen, given: Mark G.}
 - {family: Gilligan, given: Jonathan Mark}
@@ -7,6 +8,8 @@ author:
 - {family: Wineland, given: David J.}
 container_title: Journal of Modern Optics
 date: '1992-01-01'
+file:
+- {desc: full text, file: raizen_1992_linear_trap.pdf}
 id: raizen_1992_linear_trap
 issued:
 - {year: 1992}

@@ -1,4 +1,5 @@
 ---
+DOI: 10.1117/1.1559996
 author:
 - {family: Sobol, given: Emil}
 - {family: Sviridov, given: Aleksandr}
@@ -8,6 +9,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: Journal of Biomedical Optics
 date: '2003-01-01'
+file:
+- {desc: full text, file: sobol_2003_light_scattering.pdf}
 id: sobol_2003_cartilage_cornea
 issue: '2'
 issued:

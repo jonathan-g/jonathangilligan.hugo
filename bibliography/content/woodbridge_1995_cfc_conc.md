@@ -1,4 +1,5 @@
 ---
+DOI: 10.1029/94JD02744
 author:
 - {family: Woodbridge, given: E. L.}
 - {family: Elkins, given: James W.}
@@ -20,6 +21,8 @@ author:
 - {family: Salawitch, given: R. J.}
 container_title: Journal of Geophysical Research
 date: '1995-01-01'
+file:
+- {desc: full text, file: woodbridge_1995_total_chlorine.pdf}
 id: woodbridge_1995_cfc_conc
 issued:
 - {year: 1995}

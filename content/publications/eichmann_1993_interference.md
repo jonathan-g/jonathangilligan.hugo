@@ -1,4 +1,5 @@
 ---
+DOI: 10.1063/1.45075
 author:
 - {family: Eichmann, given: Ullrich}
 - {family: Bergquist, given: James C.}
@@ -9,6 +10,8 @@ author:
 - {family: Wineland, given: David J.}
 container_title: Proceedings of the 11^th^ International Conference on Laser Science
 date: '1993-01-01'
+file:
+- {desc: full text, file: eichmann_1993_two_atoms.pdf}
 id: eichmann_1993_interference
 issued:
 - {year: 1993}

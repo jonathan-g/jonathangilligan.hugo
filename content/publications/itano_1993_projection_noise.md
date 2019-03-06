@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevA.47.3554
 author:
 - {family: Itano, given: Wayne M.}
 - {family: Bergquist, given: James C.}
@@ -8,6 +9,8 @@ author:
 - {family: Raizen, given: Mark G.}
 container_title: Physical Review A
 date: '1993-01-01'
+file:
+- {desc: full text, file: itano_1993_quantum_projection_noise.pdf}
 id: itano_1993_projection_noise
 issued:
 - {year: 1993}

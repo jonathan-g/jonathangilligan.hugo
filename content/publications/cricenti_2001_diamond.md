@@ -1,4 +1,5 @@
 ---
+DOI: 10.1046/j.1365-2818.2001.00874.x
 author:
 - {family: Cricenti, given: Antonio}
 - {family: Generosi, given: Renato}
@@ -12,6 +13,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: Journal of Microscopy
 date: '2001-01-01'
+file:
+- {desc: full text, file: cricenti_2001_diamond_film.pdf}
 id: cricenti_2001_diamond
 issued:
 - {year: 2001}

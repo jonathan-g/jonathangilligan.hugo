@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevLett.81.4224
 author:
 - {family: Wang, given: W.}
 - {family: Lupke, given: G.}
@@ -12,6 +13,8 @@ author:
 - {family: Lucovsky, given: G.}
 container_title: Physical Review Letters
 date: '1998-01-01'
+file:
+- {desc: full text, file: wang_1998_dynamics.pdf}
 id: wang_1998_electron_hole
 issued:
 - {year: 1998}

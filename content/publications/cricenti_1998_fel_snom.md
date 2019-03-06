@@ -1,4 +1,5 @@
 ---
+DOI: 10.1002/(SICI)1521-396X(199812)170:2<241::AID-PSSA241>3.0.CO;2-A
 author:
 - {family: Cricenti, given: A.}
 - {family: Generosi, given: R.}
@@ -14,6 +15,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: 'Physica Status Solidi A: Applied Research'
 date: '1998-01-01'
+file:
+- {desc: full text, file: cricenti_1998_first_ir_snom.pdf}
 id: cricenti_1998_fel_snom
 issued:
 - {year: 1998}

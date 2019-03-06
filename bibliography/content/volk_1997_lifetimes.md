@@ -1,4 +1,5 @@
 ---
+DOI: 10.1029/97JD02215
 author:
 - {family: Volk, given: C. M.}
 - {family: Elkins, given: James W.}
@@ -11,6 +12,8 @@ author:
 - {family: Gunson, given: M. R.}
 container_title: 'Journal of Geophysical Research: Atmospheres'
 date: '1997-01-01'
+file:
+- {desc: full text, file: volk_1997_lifetimes.pdf}
 id: volk_1997_lifetimes
 issued:
 - {year: 1997}

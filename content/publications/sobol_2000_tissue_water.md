@@ -1,4 +1,5 @@
 ---
+DOI: 10.1117/12.384255
 author:
 - {family: Sobol, given: Emil}
 - {family: Sviridov, given: Aleksandr}
@@ -7,6 +8,8 @@ author:
 - {family: Edwards, given: Glenn S.}
 container_title: International biomedical optics symposium
 date: '2000-01-01'
+file:
+- {desc: full text, file: sobol_2000_tissue_absorption.pdf}
 id: sobol_2000_tissue_water
 issued:
 - {year: 2000}

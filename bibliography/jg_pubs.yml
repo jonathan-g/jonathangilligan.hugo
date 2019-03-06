@@ -1567,6 +1567,7 @@ references:
     leading to the possibility of correlative multimodal cardiac imaging. We provide
     a compilation of dye and camera information critical to the design of dual camera
     systems and experiments.
+  DOI: 10.3181/0902-RM-47
 
 - id: vandenbergh:2008:low.hanging.fruit
   type: article-journal
@@ -1641,6 +1642,7 @@ references:
     the high-voltage circuitry and the operator from programming and input-output
     errors. This device has been tested and used successfully in field shock experiments
     on rabbit hearts as well as other protocols requiring high voltage.
+  DOI: 10.1063/1.2796832
 
 - id: gilligan:2006:nanotech.risks
   type: article-journal
@@ -1710,6 +1712,7 @@ references:
     of tissue. It is shown that light scattering is useful for measuring the denaturation
     thresholds and dynamics for different biotissues, except where the initial absorptivity
     is very high.
+  DOI: 10.1117/1.1559996
   PMID: '12683847'
 
 - id: cricenti:2002:surface.characterization
@@ -1779,6 +1782,7 @@ references:
     a-Si:H. The positions and widths of the corresponding transition energies are
     determined and agree with two models proposed to describe the density of states
     in a-Si:H.
+  DOI: 10.1016/S0022-3093(01)01207-8
 
 - id: cricenti:2001:diamond
   type: article-journal
@@ -1821,6 +1825,7 @@ references:
     3.5 micron photons, corresponding to the C-H stretch absorption, and reached a
     lateral resolution of 0.2 micron, well below the $\lambda/2$ ($\lambda$ = wavelength)
     limit of classical microscopy.
+  DOI: 10.1046/j.1365-2818.2001.00874.x
   PMID: '11309110'
 
 - id: sturmann:2001:photoablation
@@ -1865,6 +1870,7 @@ references:
     with the two-phonon bulk absorption band. These findings are consistent with the
     model that a rapid laser- induced phase transition to graphite is responsible
     for the low-intensity ablation of diamond at and above the first threshold.
+  DOI: 10.1117/12.431224
 
 - id: lupke:2000:fel
   type: article-journal
@@ -1925,6 +1931,7 @@ references:
     that cooling kinetics for samples irradiated with small laser intensity is the
     same, for both wavelengths of each pair: 6.2 and 6.0; 6.35 and 5.92; 3.22 and
     2.81; 3.15 and 2.87 micrometers .'
+  DOI: 10.1117/12.384255
 
 - id: talley:2000:snom.tips
   type: article-journal
@@ -1964,6 +1971,7 @@ references:
     an integrated microcircuit with the output from a free electron laser operating
     at a $\lambda$ of 4.7 $\mu$m. Approximately 25 nm topographical and 100 nm optical
     lateral resolution were observed.
+  DOI: 10.1016/S0167-577X(99)00201-3
 
 - id: cricenti:1999:heterostructure
   type: article-journal
@@ -2000,6 +2008,7 @@ references:
     optical properties of the sample. The data indicate an optical spatial resolution
     well below the diffraction limit of lambda/2 with most optical images having better
     lateral resolution than topographic images.
+  DOI: 10.1002/(SICI)1521-396X(199909)175:1<345::AID-PSSA345>3.0.CO;2-I
 
 - id: cricenti:1999:interface
   type: article-journal
@@ -2050,6 +2059,7 @@ references:
     interface barriers. The likely development of this exciting new field will also
     be discussed, in particular considering the new proposals for powerful FELs in
     the low-wavelength spectral range.
+  DOI: 10.1002/(SICI)1521-396X(199909)175:1%3C317::AID-PSSA317%3E3.0.CO;2-M
 
 - id: marka:1999:nanoscale
   type: article-journal
@@ -2086,6 +2096,7 @@ references:
     of particle and photon beams, optimized for the technology, were used to extend
     the range of applications of these new energy-selective techniques to solve fundamental
     and applied problems.
+  DOI: 10.1134/1.1259473
 
 - id: schaafsma:1999:snom.tip.fabrication
   type: article-journal
@@ -2126,6 +2137,7 @@ references:
     microscope exhibit spatial resolution in the range of 80 to 100 nm. Optical data
     in the IR (near 3.5 $\mu$m), using the probe tips in collection mode, indicate
     an optical spatial resolution of approximately $\lambda/15$.
+  DOI: 10.1117/1.602181
 
 - id: schaafsma:1999:snom.tips
   type: article-journal
@@ -2169,6 +2181,7 @@ references:
     in the range 80–100 nm. Optical data in the infrared (near 3.5$\mu$m), using the
     probe tips in collection mode, indicates an optical spatial resolution approximately
     $\lambda/15$.
+  DOI: 10.1016/S0304-3991(99)00004-2
 
 - id: sobol:1999:tissue.denaturation
   type: paper-conference
@@ -2220,6 +2233,7 @@ references:
     the tissue with dramatic alteration of structure. Thus, we have shown that light
     scattering is useful for measuring denaturation thresholds and kinetics for biotissues
     except where the initial absorptivity is very high.
+  DOI: 10.1117/12.349995
 
 - id: cricenti:1998:fel.snom
   type: article-journal
@@ -2265,6 +2279,7 @@ references:
     properties of the sample. Optical data in the infrared (near 3.5 $\mu$m), using
     the probe tips in collection mode, indicates an optical spatial resolution well
     below the classical limit of $\lambda/2$.
+  DOI: 10.1002/(SICI)1521-396X(199812)170:2<241::AID-PSSA241>3.0.CO;2-A
 
 - id: cricenti:1998:nanospectroscopy
   type: article-journal
@@ -2297,6 +2312,7 @@ references:
     properties of the sample. The size of the smallest detected features clearly demonstrated
     that near-field conditions were reached. The use of different photon wavelengths
     (0.653, 1.2, and 2.4 $\mu$m) enabled us to probe regions of different depth.
+  DOI: 10.1063/1.121739
 
 - id: sturmann:1998:diamond
   type: article-journal
@@ -2332,6 +2348,7 @@ references:
     a single photodesorption threshold is identified at a fluence which is close to
     the second fluence threshold, obseved at 3.5 micron. These experiments shed light
     on the physics of wavelength selective desorption through non-electronic channels.'
+  DOI: 10.1016/S0169-4332(97)00610-7
 
 - id: tolk:1998:sputtering
   type: article-journal
@@ -2403,6 +2420,7 @@ references:
   page: '4224-4227'
   volume: '81'
   status: published
+  DOI: 10.1103/PhysRevLett.81.4224
 
 - id: yao:1998:sputtering
   type: article-journal
@@ -2440,6 +2458,7 @@ references:
   page: '550-553'
   volume: '81'
   status: published
+  DOI: 10.1103/PhysRevLett.81.550
 
 - id: sturmann:1997:spectroscopy
   type: article-journal
@@ -2502,6 +2521,7 @@ references:
   page: '25543-25564'
   volume: '102'
   status: published
+  DOI: 10.1029/97JD02215
 
 - id: elkins:1996:acats
   type: article-journal
@@ -2564,6 +2584,7 @@ references:
   page: '347-350'
   volume: '23'
   status: published
+  DOI: 10.1029/96GL00244
 
 - id: volk:1996:transport
   type: article-journal
@@ -2599,6 +2620,7 @@ references:
   page: '1763-1768'
   volume: '272'
   status: published
+  DOI: 10.1126/science.272.5269.1763
 
 - id: woodbridge:1995:cfc.conc
   type: article-journal
@@ -2647,6 +2669,7 @@ references:
   page: '3057-3064'
   volume: '100'
   status: published
+  DOI: 10.1029/94JD02744
 
 - id: gilligan:1994:cl.budgets
   type: paper-conference
@@ -2698,6 +2721,7 @@ references:
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   page: '43-48'
   status: published
+  DOI: 10.1063/1.45075
 
 - id: eichmann:1993:two.slit
   type: article-journal
@@ -2723,6 +2747,7 @@ references:
   page: '2359-2362'
   volume: '70'
   status: published
+  DOI: 10.1103/PhysRevLett.70.2359
 
 - id: itano:1993:projection.noise
   type: article-journal
@@ -2747,6 +2772,7 @@ references:
   page: '3554-3570'
   volume: '47'
   status: published
+  DOI: 10.1103/PhysRevA.47.3554
 
 - id: itano:1993:quantum.measurements
   type: article-journal
@@ -2844,6 +2870,7 @@ references:
   page: '4042-4045'
   volume: '47'
   status: published
+  DOI: 10.1103/PhysRevA.47.4042
 
 - id: gilligan:1992:h2.ip
   type: article-journal
@@ -2876,6 +2903,7 @@ references:
     of transitions between excited states by Jungen *et al*. \[J. Mol. Spectrosc.
     (to be published)\], yield a value for ionization potential that is again quite
     close to the theoretical result.'
+  DOI: 10.1103/PhysRevA.46.3676
 
 - id: raizen:1992:ion.crystals
   type: article-journal
@@ -2897,6 +2925,7 @@ references:
   page: '6493-6501'
   volume: '45'
   status: published
+  DOI: 10.1103/PhysRevA.45.6493
 
 - id: raizen:1992:linear.trap
   type: article-journal
@@ -2918,6 +2947,7 @@ references:
   page: '233-242'
   volume: '39'
   status: published
+  DOI: 10.1080/09500349214550241
 
 - id: gilligan:1991:dissertation
   type: thesis
@@ -2970,6 +3000,7 @@ references:
   page: '6406-6409'
   volume: '43'
   status: published
+  DOI: 10.1103/PhysRevA.43.6406
 
 - id: wineland:1991:recent.experiments
   type: paper-conference

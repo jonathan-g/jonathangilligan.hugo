@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevA.45.6493
 author:
 - {family: Raizen, given: Mark G.}
 - {family: Gilligan, given: Jonathan Mark}
@@ -7,6 +8,8 @@ author:
 - {family: Wineland, given: David J.}
 container_title: Physical Review A
 date: '1992-01-01'
+file:
+- {desc: full_text, file: raizen_1992_ionic_crystals.pdf}
 id: raizen_1992_ion_crystals
 issued:
 - {year: 1992}

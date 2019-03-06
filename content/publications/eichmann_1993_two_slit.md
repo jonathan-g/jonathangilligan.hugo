@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevLett.70.2359
 author:
 - {family: Eichmann, given: Ullrich}
 - {family: Bergquist, given: James C.}
@@ -9,6 +10,8 @@ author:
 - {family: Raizen, given: Mark G.}
 container_title: Physical Review Letters
 date: '1993-01-01'
+file:
+- {desc: full text, file: eichmann_1993_two_slit.pdf}
 id: eichmann_1993_two_slit
 issued:
 - {year: 1993}

@@ -1,4 +1,5 @@
 ---
+DOI: 10.1016/S0304-3991(99)00004-2
 author:
 - {family: Schaafsma, given: D. T.}
 - {family: Mossadegh, given: R.}
@@ -13,6 +14,8 @@ author:
 - {family: Margaritondo, given: G.}
 container_title: Ultramicroscopy
 date: '1999-01-01'
+file:
+- {desc: full text, file: schaafsma_1999_single_mode_tips.pdf}
 id: schaafsma_1999_snom_tips
 issued:
 - {year: 1999}

@@ -1,4 +1,5 @@
 ---
+DOI: 10.1016/S0167-577X(99)00201-3
 author:
 - {family: Talley, given: David B.}
 - {family: Shaw, given: L.B.}
@@ -12,6 +13,8 @@ author:
 - {family: Tolk, given: Norman H.}
 container_title: Materials Letters
 date: '2000-01-01'
+file:
+- {desc: full text, file: talley_2000_ir_snom_tips.pdf}
 id: talley_2000_snom_tips
 issued:
 - {year: 2000}

@@ -1,4 +1,5 @@
 ---
+DOI: 10.1016/S0169-4332(97)00610-7
 author:
 - {family: Sturmann, given: J.}
 - {family: Albridge, given: R. G.}
@@ -10,6 +11,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: Applied Surface Science
 date: '1998-01-01'
+file:
+- {desc: full text, file: sturmann_1998_diamond.pdf}
 id: sturmann_1998_diamond
 issued:
 - {year: 1998}

@@ -1,4 +1,5 @@
 ---
+DOI: 10.1126/science.272.5269.1763
 author:
 - {family: Volk, given: C. M.}
 - {family: Elkins, given: James W.}
@@ -14,6 +15,8 @@ author:
 - {family: Chan, given: K. R.}
 container_title: Science
 date: '1996-01-01'
+file:
+- {desc: full text, file: volk_1996_transport.pdf}
 id: volk_1996_transport
 issued:
 - {year: 1996}

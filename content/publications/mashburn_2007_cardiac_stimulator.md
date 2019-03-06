@@ -1,4 +1,5 @@
 ---
+DOI: 10.1063/1.2796832
 author:
 - {family: Mashburn, given: David N.}
 - {family: Hinkson, given: S.J.}
@@ -8,6 +9,8 @@ author:
 - {family: Wikswo, given: John P.}
 container_title: Review of Scientific Instruments
 date: '2007-01-01'
+file:
+- {desc: full text, file: mashburn_2007_cardiac_stimulator.pdf}
 id: mashburn_2007_cardiac_stimulator
 issued:
 - {year: 2007}

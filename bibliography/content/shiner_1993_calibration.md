@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevA.47.4042
 author:
 - {family: Shiner, given: David}
 - {family: Gilligan, given: Jonathan Mark}
@@ -6,6 +7,8 @@ author:
 - {family: Lichten, given: William}
 container_title: Physical Review A
 date: '1993-01-01'
+file:
+- {desc: full text, file: shiner_1993_iodine_calibration.pdf}
 id: shiner_1993_calibration
 issued:
 - {year: 1993}

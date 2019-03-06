@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevA.46.3676
 author:
 - {family: Gilligan, given: Jonathan Mark}
 - {family: Eyler, given: Edward Eugene}

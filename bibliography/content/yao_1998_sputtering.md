@@ -1,4 +1,5 @@
 ---
+DOI: 10.1103/PhysRevLett.81.550
 author:
 - {family: Yao, given: Y.}
 - {family: Hargitai, given: Z.}
@@ -15,6 +16,8 @@ author:
 - {family: Husinsky, given: W.}
 container_title: Physical Review Letters
 date: '1998-01-01'
+file:
+- {desc: full text, file: yao_1998_molecular_sputtering.pdf}
 id: yao_1998_sputtering
 issued:
 - {year: 1998}

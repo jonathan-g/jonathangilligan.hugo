@@ -1,4 +1,5 @@
 ---
+DOI: 10.1117/12.349995
 author:
 - {family: Sobol, given: E.}
 - {family: Sviridov, given: A.}
@@ -8,6 +9,8 @@ author:
 - {family: Tolk, given: Norman Henry}
 container_title: International biomedical optics symposium
 date: '1999-01-01'
+file:
+- {desc: full text, file: sobol_1999_tissue_denaturation.pdf}
 id: sobol_1999_tissue_denaturation
 issued:
 - {year: 1999}

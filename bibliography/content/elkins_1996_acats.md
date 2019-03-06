@@ -1,4 +1,5 @@
 ---
+DOI: 10.1029/96GL00244
 author:
 - {family: Elkins, given: James W.}
 - {family: Fahey, given: David W.}
@@ -27,6 +28,8 @@ author:
 - {family: Lucarelli, given: M. P.}
 container_title: Geophysical Research Letters
 date: '1996-01-01'
+file:
+- {desc: full text, file: elkins_1996_acats.pdf}
 id: elkins_1996_acats
 issued:
 - {year: 1996}
