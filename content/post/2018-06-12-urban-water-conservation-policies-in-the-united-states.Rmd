@@ -73,7 +73,7 @@ and share economic activity with the central city).
 
 -----
 
-<iframe src="http://scworland-usgs.github.io/vwci/" width="800" height="600">
+<iframe src="https://scworland-usgs.github.io/vwci/" width="800" height="600">
 An interactive map of water conservation scores is available at <http://scworland-usgs.github.io/vwci/>.
 </iframe>
 
