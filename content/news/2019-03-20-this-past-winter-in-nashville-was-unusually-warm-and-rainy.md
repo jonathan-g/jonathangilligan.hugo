@@ -9,6 +9,7 @@ categories:
 - news
 tags:
 - Nashville
+- climate change
 ---
 It's not just you: This winter was 
 [warmer and wetter than normal in Nashville](https://www.tennessean.com/story/news/2019/02/21/nashville-weather-rain-may-break-february-record-flood-concerns/2936450002/). 
