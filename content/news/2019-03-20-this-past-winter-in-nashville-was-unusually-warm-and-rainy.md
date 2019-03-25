@@ -1,5 +1,5 @@
 ---
-title: This past winter in Nashville was unusually warm and rainy
+title: "This past winter in Nashville was unusually warm and rainy. And it looks like spring will be, too."
 author: Mariah Timms
 date: '2019-03-20'
 slug: climate-change-nashville
