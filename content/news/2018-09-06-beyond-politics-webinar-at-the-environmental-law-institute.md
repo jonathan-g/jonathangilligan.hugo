@@ -2,7 +2,6 @@
 title: 'Beyond Politics Webinar at the Environmental Law Institute'
 pub_link: "https://www.youtube.com/watch?v=xu0_l1-tgvY"
 date: "2018-09-06"
-weight: 1
 publishdate: "2018-12-01"
 publication: "Environmental Law Review"
 slug: eli-webinar

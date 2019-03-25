@@ -3,7 +3,6 @@ title: "Good Law | Bad Law Podcast"
 author: "Aaron J. Freiwald"
 date: '2018-12-21'
 publishdate: '2018-12-21'
-weight: 1
 publication: "Good Law | Bad Law"
 pub_link: "https://www.goodlawbadlawpodcast.com/podcasepisodes/2018/12/21/good-law-bad-law-112-lawmakers-may-not-hold-the-key-to-climate-change-w-michael-vandenbergh-amp-jonathan-gilligan"
 slug: good-law-bad-law-podcast
