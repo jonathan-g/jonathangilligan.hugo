@@ -10,8 +10,6 @@ categories:
 tags:
 - Nashville
 ---
-# This past winter in Nashville was unusually warm and rainy. And it looks like spring will be, too.
-
 It's not just you: This winter was 
 [warmer and wetter than normal in Nashville](https://www.tennessean.com/story/news/2019/02/21/nashville-weather-rain-may-break-february-record-flood-concerns/2936450002/). 
 
