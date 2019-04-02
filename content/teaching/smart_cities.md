@@ -1,8 +1,10 @@
 ---
 title: Data Science Methods for Smart City Applications
-date: "2020-01-06T00:00:00+6:00"
-enddate: "2020-04-20T00:00:00+5:00"
+date: "2020-01-06"
+enddate: "2020-04-20"
 publishdate: "2017-06-13"
+last_date: "2018-01-08"
+last_enddate: "2018-04-23"
 host: "Vanderbilt University"
 keywords:
   - smart cities
