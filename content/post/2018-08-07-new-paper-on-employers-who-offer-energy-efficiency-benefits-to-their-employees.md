@@ -18,7 +18,7 @@ tags:
   - Mark Cohen
   - Emmett McKinney
 ---
-I have a [new paper](/publications/maki_employee_benefits_2018/) in the journal
+I have a [new paper](/publications/maki_2018_employee_benefits/) in the journal
 _Energy Efficiency_, co-authored with Alex Maki, Emmett McKinney, 
 Mike Vandenbergh, and Mark Cohen, 
 about employers who offer employee benefits to promote energy efficiency. 
