@@ -5,6 +5,10 @@ date: '2018-02-27'
 slug: ncc-review
 publication: "Nature Climate Change"
 pub_link: "https://www.nature.com/articles/s41558-018-0106-0"
+summary: |
+  Janet Swim and Ashley Gillis reviewed my book, 
+  _Beyond Politics: The Private Governance Response to Climate Change_ 
+  for  Nature Climate Change.
 categories:
   - reviews
 tags:

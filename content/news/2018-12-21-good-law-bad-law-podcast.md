@@ -6,6 +6,10 @@ publishdate: '2018-12-21'
 publication: "Good Law | Bad Law"
 pub_link: "https://www.goodlawbadlawpodcast.com/podcasepisodes/2018/12/21/good-law-bad-law-112-lawmakers-may-not-hold-the-key-to-climate-change-w-michael-vandenbergh-amp-jonathan-gilligan"
 slug: good-law-bad-law-podcast
+summary: |
+  Michael Vandenbergh and I were interviewed by Aaron J. Freiwald for the
+  Good Law/Bad Law podcast. We discussed our recent book and the role of the
+  private sector in reducing greenhouse gas emissions.
 categories:
   - podcasts
 tags:

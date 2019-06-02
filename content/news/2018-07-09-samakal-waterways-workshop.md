@@ -5,6 +5,13 @@ author: "Staff correspondent"
 publication: "Daily Samakal"
 pub_link: "http://en.samakal.com/environment/article/180788/scientific-and-informed-research-needed-on-waterways"
 slug: samakal-waterways-workshop
+summary: |
+  The Daily Samakal (Bangladesh) reported on a workshop I helped to organize
+  in Dhaka on
+  "River Navigation and Inland Shipping in Bangladesh: Economic Importance and
+  Impacts of Environmental Change". 
+  Participants included academics, government officials, representatives of the 
+  shipping industry, and members of community and political activist groups.
 categories:
 - news
 tags:

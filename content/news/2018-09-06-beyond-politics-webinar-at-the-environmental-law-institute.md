@@ -5,6 +5,15 @@ date: "2018-09-06"
 publishdate: "2018-12-01"
 publication: "Environmental Law Review"
 slug: eli-webinar
+summary: |
+  Michael Vandenbergh and I participated in a webinar hosted by the 
+  Environmental Law Institute on our book, 
+  _Beyond Politics: The Private Governance Response to Climate Change_.
+  Cassie Phillips (director of the Private Environmental Governance
+  Initiative at ELI) moderated. 
+  Stephen Harper (Global Director of Environment and Energy Policy at
+  Intel) and Jackie Roberts (Chief Sustainability Officer at the Carlisle
+  Group) provided private industry perspectives.
 categories:
   - webinar
 tags:

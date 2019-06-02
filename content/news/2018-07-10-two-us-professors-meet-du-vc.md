@@ -5,6 +5,13 @@ pub_link: "https://thefinancialexpress.com.bd/education/two-us-professors-meet-d
 author: "Staff correspondent"
 date: '2018-07-10'
 slug: two-us-professors-meet-du-vc
+summary:
+  The Financial Express (Bangladesh) reported on the meeting 
+  between Prof. Steve Goodbred and myself, from Vanderbilt University, and the 
+  Dr. Md. Aktaruzzaman, Vice-Chancellor of Dhaka University.
+  During the meeting, we discussed academic and research collaborations between
+  Dhaka University and Vanderbilt on climate change, riverbank erosion, 
+  access to safe drinking water, and other environmental challenges.
 categories:
 - news
 tags:

@@ -5,7 +5,12 @@ date: '2019-03-20'
 slug: climate-change-nashville
 publication: "The Tennessean (Nashville)"
 pub_link: "https://www.tennessean.com/story/weather/2019/03/20/nashville-weather-spring-winter-el-nino-shift/3146473002/"
-categories:
+summary: |
+  I was quoted in a story at the Tennessean about the unusually warm and wet winter in 2018--19:
+  "Winters have gotten so warm in the last 20 or so years that people forget. 
+  Weather that wouldn't have been remarkably cold 30 or 40 years ago seems 
+  extraordinarily cold today."
+categories: 
 - news
 tags:
 - Nashville
@@ -18,8 +23,6 @@ Experts say those
 [higher temperatures](https://www.tennessean.com/story/news/2019/02/14/tennessee-weather-el-nino-to-bring-higher-than-normal-temperatures/2868213002/) 
 are part of a warming trend in the Nashville climate over the past few decades, 
 even accounting for normal fluctuations in weather. 
-
-<!--more-->
 
 The big picture: 
 [Temperatures](https://www.tennessean.com/story/news/2019/02/14/tennessee-weather-el-nino-to-bring-higher-than-normal-temperatures/2868213002/),

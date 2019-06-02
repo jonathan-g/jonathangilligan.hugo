@@ -5,6 +5,9 @@ date: '2017-12-18'
 publication: "Science Magazine"
 pub_link: "http://blogs.sciencemag.org/books/2017/12/18/beyond-politics/"
 slug: sciencemag-review
+summary: |
+  David Victor reviewed my book, _Beyond Politics: The Private Governance 
+  Response to Climate Change_ for _Science_.
 categories:
   - news
   - reviews
