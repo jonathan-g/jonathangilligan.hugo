@@ -1,7 +1,9 @@
 ---
 title: Global Climate Change
-date: "2018-08-22T00:00:00+05:00"
-enddate: "2018-12-13T00:00:00+05:00"
+date: "2020-01-06"
+enddate: "2020-04-20"
+last_date: "2018-08-22"
+last_enddate: "2018-12-06"
 publishdate: "2017-06-12"
 host: "Vanderbilt University"
 keywords:
