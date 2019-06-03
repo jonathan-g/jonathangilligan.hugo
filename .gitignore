@@ -11,3 +11,4 @@ public/
 __pycache__
 *.Rproj
 /blogdown/
+.netlify/
