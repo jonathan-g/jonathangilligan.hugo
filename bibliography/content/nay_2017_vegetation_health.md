@@ -1,23 +1,32 @@
 ---
 DOI: 10.1080/01431161.2017.1410296
 author:
-- {family: Nay, given: John J.}
-- {family: Burchfield, given: Emily K.}
-- {family: Gilligan, given: Jonathan M.}
+- family: Nay
+  given: John J.
+- family: Burchfield
+  given: Emily K.
+- family: Gilligan
+  given: Jonathan M.
 container_title: International Journal of Remote Sensing
 date: '2017-12-18'
 file:
-- {desc: full text, file: nay_2017_vegetation_health.pdf}
+- desc: full text
+  file: nay_2017_vegetation_health.pdf
 id: nay_2017_vegetation_health
 issued:
-- {day: 18, month: 12, year: 2017}
+- day: 18
+  month: 12
+  year: 2017
 page: 1800-1816
 pub_type: article-journal
 pubdate: '2017-12-18'
 short_author:
-- {family: Nay, given: J. J.}
-- {family: Burchfield, given: E. K.}
-- {family: Gilligan, given: J. M.}
+- family: Nay
+  given: J. J.
+- family: Burchfield
+  given: E. K.
+- family: Gilligan
+  given: J. M.
 status: published
 title: A machine-learning approach to forecasting remotely sensed vegetation health
 volume: '39'

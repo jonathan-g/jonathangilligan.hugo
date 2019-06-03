@@ -1,22 +1,29 @@
 ---
 author:
-- {family: Vandenbergh, given: Michael P.}
-- {family: Toner, given: Kaitlin E.}
-- {family: Gilligan, given: Jonathan M.}
+- family: Vandenbergh
+  given: Michael P.
+- family: Toner
+  given: Kaitlin E.
+- family: Gilligan
+  given: Jonathan M.
 container_title: UCLA Law Review
 date: '2014-01-01'
 file:
-- {desc: full text, file: vandenbergh_2014_prediction_market.pdf}
+- desc: full text
+  file: vandenbergh_2014_prediction_market.pdf
 id: vandenbergh_2014_prediction_market
 issued:
-- {year: 2014}
+- year: 2014
 page: 1962-2017
 pub_type: article-journal
 pubdate: '2014-01-01'
 short_author:
-- {family: Vandenbergh, given: M. P.}
-- {family: Toner, given: K. E.}
-- {family: Gilligan, given: J. M.}
+- family: Vandenbergh
+  given: M. P.
+- family: Toner
+  given: K. E.
+- family: Gilligan
+  given: J. M.
 short_title: A climate prediction market
 ssrn: '2372321'
 ssrn_id: '2372321'

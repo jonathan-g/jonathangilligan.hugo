@@ -1,42 +1,67 @@
 ---
 DOI: 10.1080/09603123.2016.1194383
 author:
-- {family: Benneyworth, given: Laura}
-- {family: Gilligan, given: Jonathan}
-- {family: Ayers, given: John C.}
-- {family: Goodbred, given: Steven}
-- {family: George, given: Gregory}
-- {family: Carrico, given: Amanda}
-- {family: Karim, given: Md Rezaul}
-- {family: Akter, given: Farjana}
-- {family: Fry, given: David}
-- {family: Donato, given: Katherine}
-- {family: Piya, given: Bhumika}
+- family: Benneyworth
+  given: Laura
+- family: Gilligan
+  given: Jonathan
+- family: Ayers
+  given: John C.
+- family: Goodbred
+  given: Steven
+- family: George
+  given: Gregory
+- family: Carrico
+  given: Amanda
+- family: Karim
+  given: Md Rezaul
+- family: Akter
+  given: Farjana
+- family: Fry
+  given: David
+- family: Donato
+  given: Katherine
+- family: Piya
+  given: Bhumika
 container_title: International Journal of Environmental Health Research
 date: '2016-06-01'
 file:
-- {desc: full text, file: benneyworth_2016_drinking_water.pdf}
+- desc: full text
+  file: benneyworth_2016_drinking_water.pdf
 id: benneyworth_2016_drinking_water
 issued:
-- {day: 1, month: 6, year: 2016}
-note: " Featured by Taylor & Francis publishers as part of their observance of World\
+- day: 1
+  month: 6
+  year: 2016
+note: "Featured by Taylor & Francis publishers as part of their observance of World\
   \ Water Day 2017. T&F opened free access to the article and published an accompanying\
   \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
 page: 508-524
 pub_type: article-journal
 pubdate: '2016-06-01'
 short_author:
-- {family: Benneyworth, given: L.}
-- {family: Gilligan, given: J.}
-- {family: Ayers, given: J. C.}
-- {family: Goodbred, given: S.}
-- {family: George, given: G.}
-- {family: Carrico, given: A.}
-- {family: Karim, given: Md R.}
-- {family: Akter, given: F.}
-- {family: Fry, given: D.}
-- {family: Donato, given: K.}
-- {family: Piya, given: B.}
+- family: Benneyworth
+  given: L.
+- family: Gilligan
+  given: J.
+- family: Ayers
+  given: J. C.
+- family: Goodbred
+  given: S.
+- family: George
+  given: G.
+- family: Carrico
+  given: A.
+- family: Karim
+  given: Md R.
+- family: Akter
+  given: F.
+- family: Fry
+  given: D.
+- family: Donato
+  given: K.
+- family: Piya
+  given: B.
 short_title: Drinking water insecurity
 status: published
 title: 'Drinking water insecurity: Water quality and access in coastal south-western

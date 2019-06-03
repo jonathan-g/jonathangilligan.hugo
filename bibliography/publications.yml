@@ -22,18 +22,27 @@ references:
     \ the role of conservation and efficiency in making urban water supply systems\
     \ sustainable."
   author:
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Wold, given: Christopher A.}
-  - {family: Worland, given: Scott C.}
-  - {family: Nay, given: John J.}
-  - {family: Hess, given: David J.}
-  - {family: Hornberger, given: George M.}
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Wold
+    given: Christopher A.
+  - family: Worland
+    given: Scott C.
+  - family: Nay
+    given: John J.
+  - family: Hess
+    given: David J.
+  - family: Hornberger
+    given: George M.
   container-title: "Earth\u2019s Future"
   file:
-  - {desc: full text, file: gilligan_2018_water_conservation.pdf}
+  - desc: full text
+    file: gilligan_2018_water_conservation.pdf
   id: gilligan:2018:water.conservation
   issued:
-  - {day: 12, month: 6, year: 2018}
+  - day: 12
+    month: 6
+    year: 2018
   page: 955-967
   status: published
   title: Urban water conservation policies in the United States
@@ -52,13 +61,17 @@ references:
     \ and finds that these too emphasize making it attractive and convenient for households\
     \ to act."
   author:
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Texas A&M Law Review
   file:
-  - {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
+  - desc: full text
+    file: gilligan_2018_carrots_sticks.pdf
   id: gilligan:2019:carrots.sticks
   issued:
-  - {day: 31, month: 12, year: 2018}
+  - day: 31
+    month: 12
+    year: 2018
   page: 179-198
   ssrn: '3284035'
   status: published
@@ -71,13 +84,17 @@ references:
     of human behavior and climate finds that individual behavior can significantly
     alter emissions trajectories and global temperature.
   author:
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Nature Climate Change
   file:
-  - {desc: full text, file: gilligan_2018_human_factor.pdf}
+  - desc: full text
+    file: gilligan_2018_human_factor.pdf
   id: gilliigan:2018:human.factor
   issued:
-  - {day: 1, month: 1, year: 2018}
+  - day: 1
+    month: 1
+    year: 2018
   note: "\u201CNews and Views\u201D commentary."
   page: 14-15
   status: published
@@ -106,17 +123,25 @@ references:
     \ for offering and enrolling in EEBs, and their relationship to employee behavior\
     \ and morale. This work suggests numerous lines of promising new research."
   author:
-  - {family: Maki, given: Alexander}
-  - {family: McKinney, given: Emmett}
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Cohen, given: Mark A.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Maki
+    given: Alexander
+  - family: McKinney
+    given: Emmett
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Cohen
+    given: Mark A.
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Energy Efficiency
   file:
-  - {desc: full text, file: maki_2018_employee_benefits.pdf}
+  - desc: full text
+    file: maki_2018_employee_benefits.pdf
   id: maki:2018:employee.benefits
   issued:
-  - {day: 7, month: 8, year: 2018}
+  - day: 7
+    month: 8
+    year: 2018
   status: Early online publication
   title: 'Employee energy benefits: What are they and what effects do they have on
     employees?'
@@ -135,17 +160,25 @@ references:
     Below, we present a transcript of the discussion, which has been edited for style,
     clarity, and space considerations.
   author:
-  - {family: Phillips, given: Cassie}
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Harper, given: Stephen}
-  - {family: Roberts, given: Jackie}
-  - {family: Vandenbergh, given: M. P.}
+  - family: Phillips
+    given: Cassie
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Harper
+    given: Stephen
+  - family: Roberts
+    given: Jackie
+  - family: Vandenbergh
+    given: M. P.
   container-title: Environmental Law Reporter
   file:
-  - {desc: full text, file: phillips_2018_dialogue_beyond_politics.pdf}
+  - desc: full text
+    file: phillips_2018_dialogue_beyond_politics.pdf
   id: phillips:2018:dialogue.beyond.politics
   issued:
-  - {day: 1, month: 12, year: 2018}
+  - day: 1
+    month: 12
+    year: 2018
   page: 11049-11062
   ssrn: '3295695'
   status: published
@@ -167,15 +200,21 @@ references:
     \ has its own limitations, but that the two methods used in unison could be a\
     \ powerful research tool for legal scholars in their research as well."
   author:
-  - {family: Ruhl, given: J. B.}
-  - {family: Nay, given: John}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Ruhl
+    given: J. B.
+  - family: Nay
+    given: John
+  - family: Gilligan
+    given: Jonathan M.
   container-title: George Washington Law Review
   file:
-  - {desc: full text, file: ruhl_2018_topic_modeling.pdf}
+  - desc: full text
+    file: ruhl_2018_topic_modeling.pdf
   id: ruhl:2018:topic.modeling
   issued:
-  - {day: 6, month: 10, year: 2018}
+  - day: 6
+    month: 10
+    year: 2018
   page: 1243-1315
   ssrn: '3086226'
   status: published
@@ -199,22 +238,34 @@ references:
     of this second, community-level, impact of climate change on human rights.
   amazon: https://www.amazon.com/Climate-Change-Migration-Human-Rights/dp/1138655945/
   author:
-  - {family: Ackerly, given: Brooke A.}
-  - {family: Anam, given: Mujibul}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Goodbred, given: Steven}
+  - family: Ackerly
+    given: Brooke A.
+  - family: Anam
+    given: Mujibul
+  - family: Gilligan
+    given: Jonathan
+  - family: Goodbred
+    given: Steven
   container-title: Climate change, migration, and human rights
   editor:
-  - {family: Manou, given: Dimitra}
-  - {family: Baldwin, given: Andrew}
-  - {family: Cubie, given: Dug}
-  - {family: Mijr, given: Anja}
-  - {family: Thorp, given: Teresa}
+  - family: Manou
+    given: Dimitra
+  - family: Baldwin
+    given: Andrew
+  - family: Cubie
+    given: Dug
+  - family: Mijr
+    given: Anja
+  - family: Thorp
+    given: Teresa
   file:
-  - {desc: full text, file: ackerly_2017_climate_community.pdf}
+  - desc: full text
+    file: ackerly_2017_climate_community.pdf
   id: ackerly:2017:migration
   issued:
-  - {day: 1, month: 6, year: 2017}
+  - day: 1
+    month: 6
+    year: 2017
   page: 189-202
   publisher: Routledge
   publisher-place: New York
@@ -234,14 +285,18 @@ references:
     to consider how the results of their research and their public statements about
     it are likely to be used.
   author:
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Issues in Science and Technology
   file:
-  - {desc: full text, file: gilligan_2017_science_cops.pdf}
+  - desc: full text
+    file: gilligan_2017_science_cops.pdf
   id: gilligan:2017:science.police
   issue: 1, Fall
   issued:
-  - {day: 1, month: 10, year: 2017}
+  - day: 1
+    month: 10
+    year: 2017
   note: Commentary invited by the editor
   page: 6-8
   title: Are cops on the science beat?
@@ -265,15 +320,21 @@ references:
     Predictive power more than doubles in agricultural areas compared to a baseline
     model.'
   author:
-  - {family: Nay, given: John J.}
-  - {family: Burchfield, given: Emily K.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Nay
+    given: John J.
+  - family: Burchfield
+    given: Emily K.
+  - family: Gilligan
+    given: Jonathan M.
   container-title: International Journal of Remote Sensing
   file:
-  - {desc: full text, file: nay_2017_vegetation_health.pdf}
+  - desc: full text
+    file: nay_2017_vegetation_health.pdf
   id: nay:2017:vegetation.health
   issued:
-  - {day: 18, month: 12, year: 2017}
+  - day: 18
+    month: 12
+    year: 2017
   page: 1800-1816
   status: published
   title: A machine-learning approach to forecasting remotely sensed vegetation health
@@ -294,11 +355,15 @@ references:
     managers, philanthropists, policymakers, and anyone interested in climate change.
   amazon: https://www.amazon.com/dp/B075V8QVYD/
   author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
   id: vandenbergh:2017:beyond.politics
   issued:
-  - {day: 30, month: 11, year: 2017}
+  - day: 30
+    month: 11
+    year: 2017
   note: 494 pp.
   publisher: Cambridge University Press
   publisher-place: New York, NY
@@ -334,19 +399,29 @@ references:
     \ changes to support more scientifically-grounded management of water, sediment,\
     \ and tidal energy distribution."
   author:
-  - {family: Wilson, given: Carol}
-  - {family: Goodbred, given: Steven}
-  - {family: Small, given: Christopher}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Sams, given: Sarah}
-  - {family: Mallick, given: Bishawjit}
-  - {family: Hale, given: Richard}
+  - family: Wilson
+    given: Carol
+  - family: Goodbred
+    given: Steven
+  - family: Small
+    given: Christopher
+  - family: Gilligan
+    given: Jonathan
+  - family: Sams
+    given: Sarah
+  - family: Mallick
+    given: Bishawjit
+  - family: Hale
+    given: Richard
   container-title: Elementa
   file:
-  - {desc: full text, file: wilson_2017_infilling.pdf}
+  - desc: full text
+    file: wilson_2017_infilling.pdf
   id: wilson:2017:infilling
   issued:
-  - {day: 27, month: 12, year: 2017}
+  - day: 27
+    month: 12
+    year: 2017
   page: '78'
   status: published
   title: Widespread infilling of tidal channels and navigable waterways in human-modified
@@ -374,26 +449,42 @@ references:
     \ surveyed did not perceive their water as having a \u201Cbad\u201D or \u201C\
     salty\u201D taste."
   accessed:
-  - {day: 9, month: 6, year: 2016}
+  - day: 9
+    month: 6
+    year: 2016
   author:
-  - {family: Benneyworth, given: Laura}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Ayers, given: John C.}
-  - {family: Goodbred, given: Steven}
-  - {family: George, given: Gregory}
-  - {family: Carrico, given: Amanda}
-  - {family: Karim, given: Md Rezaul}
-  - {family: Akter, given: Farjana}
-  - {family: Fry, given: David}
-  - {family: Donato, given: Katherine}
-  - {family: Piya, given: Bhumika}
+  - family: Benneyworth
+    given: Laura
+  - family: Gilligan
+    given: Jonathan
+  - family: Ayers
+    given: John C.
+  - family: Goodbred
+    given: Steven
+  - family: George
+    given: Gregory
+  - family: Carrico
+    given: Amanda
+  - family: Karim
+    given: Md Rezaul
+  - family: Akter
+    given: Farjana
+  - family: Fry
+    given: David
+  - family: Donato
+    given: Katherine
+  - family: Piya
+    given: Bhumika
   container-title: International Journal of Environmental Health Research
   file:
-  - {desc: full text, file: benneyworth_2016_drinking_water.pdf}
+  - desc: full text
+    file: benneyworth_2016_drinking_water.pdf
   id: benneyworth:2016:drinking.water
   issued:
-  - {day: 1, month: 6, year: 2016}
-  note: " Featured by Taylor & Francis publishers as part of their observance of World\
+  - day: 1
+    month: 6
+    year: 2016
+  note: "Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
   page: 508-524
@@ -420,22 +511,33 @@ references:
     adaptations, but that this depends on the mental models farmers use to think about
     risk and make decisions under uncertainty.'
   author:
-  - {family: Burchfield, given: Emily K.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Burchfield
+    given: Emily K.
+  - family: Gilligan
+    given: Jonathan M.
   collection-title: "WSC\u201916"
   container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
-  - {family: Roeder, given: T.M.K.}
-  - {family: Frazier, given: P.I.}
-  - {family: Szechtman, given: R.}
-  - {family: Zhou, given: E.}
-  - {family: Huschka, given: T.}
-  - {family: Chick, given: S.E.}
+  - family: Roeder
+    given: T. M.K.
+  - family: Frazier
+    given: P. I.
+  - family: Szechtman
+    given: R.
+  - family: Zhou
+    given: E.
+  - family: Huschka
+    given: T.
+  - family: Chick
+    given: S. E.
   file:
-  - {desc: full text, file: burchfield_2016_collective_adaptation.pdf}
+  - desc: full text
+    file: burchfield_2016_collective_adaptation.pdf
   id: burchfield:2016:abm
   issued:
-  - {day: 1, month: 12, year: 2016}
+  - day: 1
+    month: 12
+    year: 2016
   keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
     decision science, drought, Prospect Theory, Sustainability
   page: 1678-1689
@@ -464,14 +566,19 @@ references:
     community cohesion, and farmer experience explain significant variation in the
     adaptive capacity of agricultural systems.
   author:
-  - {family: Burchfield, given: Emily K}
-  - {family: Gilligan, given: Jonathan}
+  - family: Burchfield
+    given: Emily K
+  - family: Gilligan
+    given: Jonathan
   container-title: Applied Geography
   file:
-  - {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
+  - desc: full text
+    file: burchfield_2016_agricultural_adaptation.pdf
   id: burchfield:2016:agricultural.adaptation
   issued:
-  - {day: 31, month: 12, year: 2016}
+  - day: 31
+    month: 12
+    year: 2016
   keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
   page: 92-100
   publisher: Elsevier
@@ -500,18 +607,26 @@ references:
     health dynamics in countries in which environmental data is scarce and cloud cover
     is a significant concern.
   accessed:
-  - {day: 6, month: 7, year: 2016}
+  - day: 6
+    month: 7
+    year: 2016
   author:
-  - {family: Burchfield, given: Emily}
-  - {family: Nay, given: John J.}
-  - {family: Gilligan, given: Jonathan}
+  - family: Burchfield
+    given: Emily
+  - family: Nay
+    given: John J.
+  - family: Gilligan
+    given: Jonathan
   container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
     \ Sensing and Spatial Information Sciences"
   file:
-  - {desc: full text, file: burchfield_2016_vegetation_health.pdf}
+  - desc: full text
+    file: burchfield_2016_vegetation_health.pdf
   id: burchfield:2016:vegetation.health
   issued:
-  - {day: 1, month: 8, year: 2016}
+  - day: 1
+    month: 8
+    year: 2016
   page: 465-469
   status: published
   title: Application of machine learning to the prediction of vegetation health
@@ -535,18 +650,25 @@ references:
     \ districts; SPI-9 correlated best with the dry zone districts; but neither index\
     \ correlated well with the wet zone districts."
   accessed:
-  - {day: 12, month: 2, year: 2016}
+  - day: 12
+    month: 2
+    year: 2016
   author:
-  - {family: Gunda, given: Thushara}
-  - {family: Hornberger, given: George M.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Gunda
+    given: Thushara
+  - family: Hornberger
+    given: George M.
+  - family: Gilligan
+    given: Jonathan M.
   container-title: International Journal of Climatology
   file:
-  - {desc: full text, file: gunda_2016_agricultural_drought.pdf}
+  - desc: full text
+    file: gunda_2016_agricultural_drought.pdf
   id: gunda:2016:drought.patterns
   issue: '2'
   issued:
-  - {month: 2, year: 2016}
+  - month: 2
+    year: 2016
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
   page: 563-575
   status: published
@@ -574,19 +696,29 @@ references:
     \ logic based on supply-increase strategies and discomfort with demand-reduction\
     \ strategies that clash with conservative beliefs."
   author:
-  - {family: Hess, given: David J.}
-  - {family: Wold, given: Christopher A.}
-  - {family: Hunter, given: Elise}
-  - {family: Nay, given: John}
-  - {family: Worland, given: Scott}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Hornberger, given: George M.}
+  - family: Hess
+    given: David J.
+  - family: Wold
+    given: Christopher A.
+  - family: Hunter
+    given: Elise
+  - family: Nay
+    given: John
+  - family: Worland
+    given: Scott
+  - family: Gilligan
+    given: Jonathan
+  - family: Hornberger
+    given: George M.
   container-title: Sociological Forum
   file:
-  - {desc: full text, file: hess_2016_drought_southwest.pdf}
+  - desc: full text
+    file: hess_2016_drought_southwest.pdf
   id: hess:2016:drought
   issued:
-  - {day: 1, month: 7, year: 2016}
+  - day: 1
+    month: 7
+    year: 2016
   page: 807-827
   publisher: Wiley Online Library
   status: published
@@ -609,25 +741,39 @@ references:
     true\" climate model, suggesting that a climate market could be useful for building\
     \ public consensus."
   accessed:
-  - {day: 14, month: 7, year: 2016}
+  - day: 14
+    month: 7
+    year: 2016
   author:
-  - {family: Nay, given: John J.}
-  - {family: Van der Linden, given: Martin}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Nay
+    given: John J.
+  - family: Van der Linden
+    given: Martin
+  - family: Gilligan
+    given: Jonathan M.
   collection-title: "WSC\u201916"
   container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
-  - {family: Roeder, given: T.M.K.}
-  - {family: Frazier, given: P.I.}
-  - {family: Szechtman, given: R.}
-  - {family: Zhou, given: E.}
-  - {family: Huschka, given: T.}
-  - {family: Chick, given: S.E.}
+  - family: Roeder
+    given: T. M.K.
+  - family: Frazier
+    given: P. I.
+  - family: Szechtman
+    given: R.
+  - family: Zhou
+    given: E.
+  - family: Huschka
+    given: T.
+  - family: Chick
+    given: S. E.
   file:
-  - {desc: full text, file: nay_2016_betting_belief.pdf}
+  - desc: full text
+    file: nay_2016_betting_belief.pdf
   id: nay:2016:prediction.market
   issued:
-  - {day: 2, month: 12, year: 2016}
+  - day: 2
+    month: 12
+    year: 2016
   keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
     Finance - Economics
   page: 1666-1677
@@ -652,19 +798,25 @@ references:
     \ livelihood strategies."
   amazon: https://www.amazon.com/Environment-Migration-Adaptation-Evidence-Bangladesh/dp/9849103795/
   author:
-  - {family: Ackerly, given: Brooke A.}
-  - {family: Anam, given: Mujibul}
-  - {family: Gilligan, given: Jonathan}
+  - family: Ackerly
+    given: Brooke A.
+  - family: Anam
+    given: Mujibul
+  - family: Gilligan
+    given: Jonathan
   container-title: 'Environment, migration and adaptation: Evidence and politics of
     climate change in Bangladesh'
   editor:
-  - {family: Mallick, given: Bishawjit}
-  - {family: Etzold, given: Benjamin}
+  - family: Mallick
+    given: Bishawjit
+  - family: Etzold
+    given: Benjamin
   file:
-  - {desc: full text, file: ackerly_2015_political_economies.pdf}
+  - desc: full text
+    file: ackerly_2015_political_economies.pdf
   id: ackerly:2015:political.economies
   issued:
-  - {year: 2015}
+  - year: 2015
   page: 27-39
   publisher: AHDPH
   publisher-place: Dhaka
@@ -690,23 +842,35 @@ references:
     \ of severe flooding, we conclude that elevation recovery may be possible through\
     \ controlled embankment breaches."
   author:
-  - {family: Auerbach, given: Leslie W.}
-  - {family: Goodbred, given: S. L., suffix: Jr.}
-  - {family: Mondal, given: Dhiman R.}
-  - {family: Wilson, given: Carol A.}
-  - {family: Ahmed, given: Kazi R.}
-  - {family: Roy, given: Kushal}
-  - {family: Steckler, given: Michael S.}
-  - {family: Small, given: Christopher}
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Ackerly, given: Brooke A.}
+  - family: Auerbach
+    given: Leslie W.
+  - family: Goodbred
+    given: S. L.
+    suffix: Jr.
+  - family: Mondal
+    given: Dhiman R.
+  - family: Wilson
+    given: Carol A.
+  - family: Ahmed
+    given: Kazi R.
+  - family: Roy
+    given: Kushal
+  - family: Steckler
+    given: Michael S.
+  - family: Small
+    given: Christopher
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Ackerly
+    given: Brooke A.
   container-title: Nature Climate Change
   file:
-  - {desc: full text, file: auerbach_2015_bangladesh.pdf}
+  - desc: full text
+    file: auerbach_2015_bangladesh.pdf
   id: auerbach:2015:flood.risk
   issue: '2'
   issued:
-  - {year: 2015}
+  - year: 2015
   page: 152-157
   status: published
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
@@ -718,23 +882,35 @@ references:
   ISSN: 1758-678X
   URL: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
   accessed:
-  - {day: 3, month: 6, year: 2015}
+  - day: 3
+    month: 6
+    year: 2015
   author:
-  - {family: Auerbach, given: L. W.}
-  - {family: Goodbred Jr, given: S. L.}
-  - {family: Mondal, given: D. R.}
-  - {family: Wilson, given: C. A.}
-  - {family: Ahmed, given: K. R.}
-  - {family: Roy, given: K.}
-  - {family: Steckler, given: M. S.}
-  - {family: Small, given: C.}
-  - {family: Gilligan, given: J. M.}
-  - {family: Ackerly, given: B. A.}
+  - family: Auerbach
+    given: L. W.
+  - family: Goodbred Jr
+    given: S. L.
+  - family: Mondal
+    given: D. R.
+  - family: Wilson
+    given: C. A.
+  - family: Ahmed
+    given: K. R.
+  - family: Roy
+    given: K.
+  - family: Steckler
+    given: M. S.
+  - family: Small
+    given: C.
+  - family: Gilligan
+    given: J. M.
+  - family: Ackerly
+    given: B. A.
   container-title: Nature Climate Change
   id: auerbach:2015:reply
   issue: '6'
   issued:
-  - {year: 2015}
+  - year: 2015
   page: 492-493
   status: published
   title: "Reply to \u2018Tidal river management in Bangladesh\u2019"
@@ -753,27 +929,41 @@ references:
     wide range of the public-from middle- and high-school students to public officials-about
     emergence in CHNS and present results from two pilot studies.
   accessed:
-  - {day: 25, month: 2, year: 2016}
+  - day: 25
+    month: 2
+    year: 2016
   author:
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Brady, given: Corey}
-  - {family: Camp, given: Janey V.}
-  - {family: Nay, given: John J.}
-  - {family: Sengupta, given: Pratim}
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Brady
+    given: Corey
+  - family: Camp
+    given: Janey V.
+  - family: Nay
+    given: John J.
+  - family: Sengupta
+    given: Pratim
   collection-title: "WSC \u201915"
   container-title: Proceedings of the 2015 Winter Simulation Conference
   editor:
-  - {family: Yilmaz, given: L.}
-  - {family: Chan, given: W.K.V.}
-  - {family: Moon, given: I.}
-  - {family: Roeder, given: T.M.K.}
-  - {family: Macal, given: C.}
-  - {family: Rossetti, given: M.D.}
+  - family: Yilmaz
+    given: L.
+  - family: Chan
+    given: W. K.V.
+  - family: Moon
+    given: I.
+  - family: Roeder
+    given: T. M.K.
+  - family: Macal
+    given: C.
+  - family: Rossetti
+    given: M. D.
   file:
-  - {desc: full text, file: gilligan_2015_flood_partsim.pdf}
+  - desc: full text
+    file: gilligan_2015_flood_partsim.pdf
   id: gilligan:2015:flood.partsim
   issued:
-  - {year: 2015}
+  - year: 2015
   page: 3174-3175
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -799,18 +989,24 @@ references:
     mixed methods approach typifies the need for knowledge that informs hydrologists
     about how their research may or may not be adopted by decision-makers.
   accessed:
-  - {day: 12, month: 2, year: 2016}
+  - day: 12
+    month: 2
+    year: 2016
   author:
-  - {family: Hornberger, given: George M.}
-  - {family: Hess, given: David J.}
-  - {family: Gilligan, given: Jonathan}
+  - family: Hornberger
+    given: George M.
+  - family: Hess
+    given: David J.
+  - family: Gilligan
+    given: Jonathan
   container-title: Water Resources Research
   file:
-  - {desc: full text, file: hornberger_2015_water_conservation.pdf}
+  - desc: full text
+    file: hornberger_2015_water_conservation.pdf
   id: hornberger:2015:hydrological.transitions
   issue: '6'
   issued:
-  - {year: 2015}
+  - year: 2015
   keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
   page: 4635-4649
   status: published
@@ -833,24 +1029,35 @@ references:
     \ models and correctly deriving the underlying decision models for multiple agent\
     \ models and degrees of stochasticity."
   accessed:
-  - {day: 25, month: 2, year: 2016}
+  - day: 25
+    month: 2
+    year: 2016
   author:
-  - {family: Nay, given: John J.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Nay
+    given: John J.
+  - family: Gilligan
+    given: Jonathan M.
   collection-title: "WSC \u201915"
   container-title: Proceedings of the 2015 Winter Simulation Conference
   editor:
-  - {family: Yilmaz, given: L.}
-  - {family: Chan, given: W.K.V.}
-  - {family: Moon, given: I.}
-  - {family: Roeder, given: T.M.K.}
-  - {family: Macal, given: C.}
-  - {family: Rossetti, given: M.D.}
+  - family: Yilmaz
+    given: L.
+  - family: Chan
+    given: W. K.V.
+  - family: Moon
+    given: I.
+  - family: Roeder
+    given: T. M.K.
+  - family: Macal
+    given: C.
+  - family: Rossetti
+    given: M. D.
   file:
-  - {desc: full text, file: nay_2015_dynamic_decision_models.pdf}
+  - desc: full text
+    file: nay_2015_dynamic_decision_models.pdf
   id: nay:2015:decision.models
   issued:
-  - {year: 2015}
+  - year: 2015
   page: 2752-2763
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -878,15 +1085,18 @@ references:
     \ strategy will require relaxing the assumption that only governments can drive\
     \ major emissions reductions over the next decade."
   author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Columbia Journal of Environmental Law
   file:
-  - {desc: full text, file: vandenbergh_2015_beyond_gridlock.pdf}
+  - desc: full text
+    file: vandenbergh_2015_beyond_gridlock.pdf
   id: vandenbergh:2015:beyond.gridlock
   issue: '2'
   issued:
-  - {year: 2015}
+  - year: 2015
   page: 217-303
   ssrn: '2533643'
   status: published
@@ -913,14 +1123,17 @@ references:
     consideration of political opportunity costs in evaluating climate policy instruments
     and applies this approach to several leading climate policies.'
   author:
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Vandenbergh, given: Michael P.}
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Vandenbergh
+    given: Michael P.
   container-title: Virginia Environmental Law Journal
   file:
-  - {desc: full text, file: gilligan_2014_political_feasibility.pdf}
+  - desc: full text
+    file: gilligan_2014_political_feasibility.pdf
   id: gilligan:2014:political.feasibility
   issued:
-  - {year: 2014}
+  - year: 2014
   page: 1-26
   ssrn: '2220788'
   status: published
@@ -955,15 +1168,19 @@ references:
     prediction market has the potential to provide an accurate, credible and widely-disseminated
     signal about the status of the climate science.'
   author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Toner, given: Kaitlin E.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Toner
+    given: Kaitlin E.
+  - family: Gilligan
+    given: Jonathan M.
   container-title: UCLA Law Review
   file:
-  - {desc: full text, file: vandenbergh_2014_prediction_market.pdf}
+  - desc: full text
+    file: vandenbergh_2014_prediction_market.pdf
   id: vandenbergh:2014:prediction.market
   issued:
-  - {year: 2014}
+  - year: 2014
   page: 1962-2017
   ssrn: '2372321'
   status: published
@@ -988,16 +1205,21 @@ references:
     \ coastal region of Bangladesh and understand the dynamics of vulnerability and\
     \ resilience."
   author:
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Ackerly, given: Brooke A.}
-  - {family: Goodbred, given: Steven L.}
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Ackerly
+    given: Brooke A.
+  - family: Goodbred
+    given: Steven L.
   container-title: 'Bridging the policy-action divide: Challenges and prospects for
     Bangladesh'
   file:
-  - {desc: full text, file: gilligan_2013_building_resilience.pdf}
+  - desc: full text
+    file: gilligan_2013_building_resilience.pdf
   id: gilligan:2013:resilience
   issued:
-  - {month: 2, year: 2013}
+  - month: 2
+    year: 2013
   publisher: Bangladesh Development Initiative
   publisher-place: Berkeley, CA
   status: published
@@ -1016,18 +1238,24 @@ references:
     to these constantly changing variables requires flexible farming practices that
     must keep pace with changing climate.
   author:
-  - {family: Rogers, given: Kimberly G.}
-  - {family: Syvitski, given: James P.M.}
-  - {family: Overeem, given: Irina}
-  - {family: Higgins, given: Stephanie}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Rogers
+    given: Kimberly G.
+  - family: Syvitski
+    given: James P. M.
+  - family: Overeem
+    given: Irina
+  - family: Higgins
+    given: Stephanie
+  - family: Gilligan
+    given: Jonathan M.
   collection-title: IAHS publ.
   container-title: 'Deltas: Landforms, ecosystems and human activities'
   file:
-  - {desc: full text, file: rogers_2013_farming_practices.pdf}
+  - desc: full text
+    file: rogers_2013_farming_practices.pdf
   id: rogers:2013:farming.practices
   issued:
-  - {year: 2013}
+  - year: 2013
   page: 133-142
   publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
   publisher-place: Gothenberg SE
@@ -1069,18 +1297,25 @@ references:
     \ reviews of this literature and its relevance to energy and climate policy are\
     \ also available."
   author:
-  - {family: Carrico, given: Amanda R.}
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Stern, given: Paul C.}
-  - {family: Gardner, given: Gerald T.}
-  - {family: Dietz, given: Thomas}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Carrico
+    given: Amanda R.
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Stern
+    given: Paul C.
+  - family: Gardner
+    given: Gerald T.
+  - family: Dietz
+    given: Thomas
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Journal of Energy & Environmental Law
   file:
-  - {desc: full text, file: carrico_2011_key_lessons.pdf}
+  - desc: full text
+    file: carrico_2011_key_lessons.pdf
   id: carrico:2011:behavioral.wedge.lessons
   issued:
-  - {year: 2011}
+  - year: 2011
   page: 61-67
   ssrn: '1612224'
   status: published
@@ -1104,14 +1339,17 @@ references:
     for improving macro-risk assessment methods and the information available to policy
     makers.
   author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Duke Environmental Law and Policy Forum
   file:
-  - {desc: full text, file: vandenbergh_2011_macro_risks.pdf}
+  - desc: full text
+    file: vandenbergh_2011_macro_risks.pdf
   id: vandenbergh:2011:macro.risks
   issued:
-  - {year: 2011}
+  - year: 2011
   page: 401-431
   ssrn: '2004671'
   status: published
@@ -1125,22 +1363,36 @@ references:
     or extracellular signaling of the cell, and determining the status of the cell
     from the measured intracellular or extracellular signaling of the cell.
   author:
-  - {family: Baudenbacher, given: Franz J.}
-  - {family: Wikswo, given: John P.}
-  - {family: Balcarcel, given: Robert R.}
-  - {family: Cliffel, given: David}
-  - {family: Eklund, given: Sven}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: McGuinness, given: Owen}
-  - {family: Monroe, given: Todd}
-  - {family: Prokop, given: Ales}
-  - {family: Stremler, given: Michael}
-  - {family: Werdich, given: Andreas}
+  - family: Baudenbacher
+    given: Franz J.
+  - family: Wikswo
+    given: John P.
+  - family: Balcarcel
+    given: Robert R.
+  - family: Cliffel
+    given: David
+  - family: Eklund
+    given: Sven
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: McGuinness
+    given: Owen
+  - family: Monroe
+    given: Todd
+  - family: Prokop
+    given: Ales
+  - family: Stremler
+    given: Michael
+  - family: Werdich
+    given: Andreas
   file:
-  - {desc: full text, file: baudenbacher_2010_patent_cell_metabolism.pdf}
+  - desc: full text
+    file: baudenbacher_2010_patent_cell_metabolism.pdf
   id: baudenbacher:2010:patent.cell.monitor
   issued:
-  - {day: 27, month: 4, year: 2010}
+  - day: 27
+    month: 4
+    year: 2010
   number: 7,704,745 B2
   status: published
   title: Apparatus and methods for monitoring the status of a metabolically active
@@ -1154,17 +1406,26 @@ references:
     two analytes of interest either produced or consumed by the plurality of cells
     in the chamber.
   author:
-  - {family: Cliffel, given: David}
-  - {family: Baudenbacher, given: Franz J.}
-  - {family: Wikswo, given: John P.}
-  - {family: Eklund, given: Sven}
-  - {family: Balcarcel, given: Robert R.}
-  - {family: Gilligan, given: Jonathan Mark}
+  - family: Cliffel
+    given: David
+  - family: Baudenbacher
+    given: Franz J.
+  - family: Wikswo
+    given: John P.
+  - family: Eklund
+    given: Sven
+  - family: Balcarcel
+    given: Robert R.
+  - family: Gilligan
+    given: Jonathan Mark
   file:
-  - {desc: full text, file: cliffel_2010_patent_cell_response.pdf}
+  - desc: full text
+    file: cliffel_2010_patent_cell_response.pdf
   id: cliffel:2010:patent.cell.response
   issued:
-  - {day: 11, month: 5, year: 2010}
+  - day: 11
+    month: 5
+    year: 2010
   jurisdiction: US
   number: 7,713,733 B2
   status: published
@@ -1178,33 +1439,42 @@ references:
     effects that voluntary actions by individuals can have, and at the policies that
     can best encourage such actions.
   author:
-  - {family: Gilligan, given: Jonathan}
-  - {family: Dietz, given: Thomas}
-  - {family: Gardner, given: Gerald}
-  - {family: Stern, given: Paul}
-  - {family: Vandenbergh, given: Michael}
+  - family: Gilligan
+    given: Jonathan
+  - family: Dietz
+    given: Thomas
+  - family: Gardner
+    given: Gerald
+  - family: Stern
+    given: Paul
+  - family: Vandenbergh
+    given: Michael
   container-title: Significance
   file:
-  - {desc: full text, file: gilligan_2010_behavioral_wedge.pdf}
+  - desc: full text
+    file: gilligan_2010_behavioral_wedge.pdf
   id: gilligan:2010:behavioral.wedge
   issued:
-  - {year: 2010}
-  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  - year: 2010
+  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   page: 17-20
   status: published
   title: The behavioral wedge
   type: article-journal
   volume: '7'
 - author:
-  - {family: Gilligan, given: Jonathan}
+  - family: Gilligan
+    given: Jonathan
   container-title: 'Opposing viewpoints: Ethics'
   editor:
-  - {family: Espejo, given: R.}
+  - family: Espejo
+    given: R.
   file:
-  - {desc: full text, file: gilligan_2010_ethics_in_geologic_time.pdf}
+  - desc: full text
+    file: gilligan_2010_ethics_in_geologic_time.pdf
   id: gilligan:2010:future.generations
   issued:
-  - {year: 2010}
+  - year: 2010
   page: 20-32
   publisher: Gale
   status: published
@@ -1216,17 +1486,23 @@ references:
   abstract: The goal, articulated by President Obama in 2009, of reducing U.S. carbon
     emissions 17
   author:
-  - {family: Stern, given: Paul C.}
-  - {family: Gardner, given: Gerald T.}
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Dietz, given: Thomas}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Stern
+    given: Paul C.
+  - family: Gardner
+    given: Gerald T.
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Dietz
+    given: Thomas
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Environmental Science & Technology
   file:
-  - {desc: full text, file: stern_2010_design_principles.pdf}
+  - desc: full text
+    file: stern_2010_design_principles.pdf
   id: stern:2010:design.principles
   issued:
-  - {year: 2010}
+  - year: 2010
   page: 4847-4848
   status: published
   title: Design principles for carbon emissions reduction programs
@@ -1237,19 +1513,25 @@ references:
     nonintrusive strategies to reduce carbon emissions. This article examines how
     laws and policies can reduce U.S. carbon emissions by 7
   author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Stern, given: Paul C.}
-  - {family: Gardner, given: Gerald T.}
-  - {family: Dietz, given: Thomas}
-  - {family: Gilligan, given: Jonathan M.}
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Stern
+    given: Paul C.
+  - family: Gardner
+    given: Gerald T.
+  - family: Dietz
+    given: Thomas
+  - family: Gilligan
+    given: Jonathan M.
   container-title: Environmental Law Reporter
   file:
-  - {desc: full text, file: vandenbergh_2010_implementing_behavioral_wedge.pdf}
+  - desc: full text
+    file: vandenbergh_2010_implementing_behavioral_wedge.pdf
   id: vandenbergh:2010:implementing.behavioral.wedge
   issued:
-  - {year: 2010}
-  note: ' Selected by Environmental Law Institute to reprint as the featured cover
-    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
+  - year: 2010
+  note: Selected by Environmental Law Institute to reprint as the featured cover story
+    of the 2010 summer reading issue for policymakers of Environmental Forum.
   page: 547-554
   ssrn: '1617426'
   status: published
@@ -1274,17 +1556,23 @@ references:
     accounts for over 93 MMt of CO2 and 10.6 billion gallons (40.1 billion liters)
     of gasoline a year, equaling 1.6
   author:
-  - {family: Carrico, given: Amanda R.}
-  - {family: Padgett, given: Paul}
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Wallston, given: Kenneth A.}
+  - family: Carrico
+    given: Amanda R.
+  - family: Padgett
+    given: Paul
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan
+  - family: Wallston
+    given: Kenneth A.
   container-title: Energy Policy
   file:
-  - {desc: full text, file: carrico_2009_costly_myths.pdf}
+  - desc: full text
+    file: carrico_2009_costly_myths.pdf
   id: carrico:2009:costly.myths
   issued:
-  - {year: 2009}
+  - year: 2009
   page: 2881-2888
   status: published
   title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
@@ -1304,18 +1592,25 @@ references:
     policy tools and strong social marketing. National implementation could save an
     estimated 123 million metric tons of carbon per year in year 10, which is 20
   author:
-  - {family: Dietz, given: Thomas}
-  - {family: Gardner, given: Gerald}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Stern, given: Paul}
-  - {family: Vandenbergh, given: Michael}
+  - family: Dietz
+    given: Thomas
+  - family: Gardner
+    given: Gerald
+  - family: Gilligan
+    given: Jonathan
+  - family: Stern
+    given: Paul
+  - family: Vandenbergh
+    given: Michael
   container-title: PNAS
   file:
-  - {desc: full text, file: dietz_2009_behavioral_wedge.pdf}
-  - {desc: supporting information, file: dietz_2009_behavioral_wedge_supporting_info.pdf}
+  - desc: full text
+    file: dietz_2009_behavioral_wedge.pdf
+  - desc: supporting information
+    file: dietz_2009_behavioral_wedge_supporting_info.pdf
   id: dietz:2009:behavioral.wedge
   issued:
-  - {year: 2009}
+  - year: 2009
   page: 18452-18456
   status: published
   title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
@@ -1341,19 +1636,26 @@ references:
     a compilation of dye and camera information critical to the design of dual camera
     systems and experiments.
   author:
-  - {family: Holcomb, given: Mark R.}
-  - {family: Woods, given: Marcella C.}
-  - {family: Uzelac, given: Illja}
-  - {family: Wikswo, given: J. P.}
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Sidorov, given: Venyamin Y.}
+  - family: Holcomb
+    given: Mark R.
+  - family: Woods
+    given: Marcella C.
+  - family: Uzelac
+    given: Illja
+  - family: Wikswo
+    given: J. P.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Sidorov
+    given: Venyamin Y.
   container-title: Experimental Biology and Medicine
   file:
-  - {desc: full text, file: holcomb_2009_dual_camera.pdf}
+  - desc: full text
+    file: holcomb_2009_dual_camera.pdf
   id: holcomb:2009:dual.camera
   issued:
-  - {year: 2009}
-  note: ' *Selected by the editors as the feature article of the month.*'
+  - year: 2009
+  note: '*Selected by the editors as the feature article of the month.*'
   page: 1355-1372
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
@@ -1377,15 +1679,19 @@ references:
     here are only a beginning, and it identifies changes that will be necessary by
     policymakers and academicians if these and other low-hanging fruit are to be picked.
   author:
-  - {family: Vandenbergh, given: Michael P.}
-  - {family: Barkenbus, given: Jack}
-  - {family: Gilligan, given: Jonathan Mark}
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Barkenbus
+    given: Jack
+  - family: Gilligan
+    given: Jonathan Mark
   container-title: UCLA Law Review
   file:
-  - {desc: full text, file: vandenbergh_2008_low_hanging_fruit.pdf}
+  - desc: full text
+    file: vandenbergh_2008_low_hanging_fruit.pdf
   id: vandenbergh:2008:low.hanging.fruit
   issued:
-  - {year: 2008}
+  - year: 2008
   page: 1701-1758
   ssrn: '1161143'
   status: published
@@ -1412,18 +1718,25 @@ references:
     \ successfully in field shock experiments on rabbit hearts as well as other protocols\
     \ requiring high voltage."
   author:
-  - {family: Mashburn, given: David N.}
-  - {family: Hinkson, given: S.J.}
-  - {family: Woods, given: Marcella C.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Holcomb, given: Mark R.}
-  - {family: Wikswo, given: John P.}
+  - family: Mashburn
+    given: David N.
+  - family: Hinkson
+    given: S. J.
+  - family: Woods
+    given: Marcella C.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Holcomb
+    given: Mark R.
+  - family: Wikswo
+    given: John P.
   container-title: Review of Scientific Instruments
   file:
-  - {desc: full text, file: mashburn_2007_cardiac_stimulator.pdf}
+  - desc: full text
+    file: mashburn_2007_cardiac_stimulator.pdf
   id: mashburn:2007:cardiac.stimulator
   issued:
-  - {year: 2007}
+  - year: 2007
   page: 104302-104309
   status: published
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
@@ -1441,14 +1754,16 @@ references:
     rather, multiple risk management methods should be utilized depending on qualitative
     assessments of different nanotechnologies.
   author:
-  - {family: Gilligan, given: Jonathan Mark}
+  - family: Gilligan
+    given: Jonathan Mark
   container-title: Environmental Law Reporter
   file:
-  - {desc: full text, file: gilligan_2006_nanotechnology.pdf}
+  - desc: full text
+    file: gilligan_2006_nanotechnology.pdf
   id: gilligan:2006:nanotech.risks
   issue: '12'
   issued:
-  - {year: 2006}
+  - year: 2006
   page: 10924-10930
   status: published
   title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
@@ -1477,19 +1792,26 @@ references:
     \ scattering is useful for measuring the denaturation thresholds and dynamics\
     \ for different biotissues, except where the initial absorptivity is very high."
   author:
-  - {family: Sobol, given: Emil}
-  - {family: Sviridov, given: Aleksandr}
-  - {family: Kitai, given: Moshe}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Edwards, given: Glenn S.}
-  - {family: Tolk, given: Norman Henry}
+  - family: Sobol
+    given: Emil
+  - family: Sviridov
+    given: Aleksandr
+  - family: Kitai
+    given: Moshe
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Edwards
+    given: Glenn S.
+  - family: Tolk
+    given: Norman Henry
   container-title: Journal of Biomedical Optics
   file:
-  - {desc: full text, file: sobol_2003_light_scattering.pdf}
+  - desc: full text
+    file: sobol_2003_light_scattering.pdf
   id: sobol:2003:cartilage.cornea
   issue: '2'
   issued:
-  - {year: 2003}
+  - year: 2003
   page: 216-222
   status: published
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
@@ -1498,20 +1820,30 @@ references:
   type: article-journal
   volume: '8'
 - author:
-  - {family: Cricenti, given: Antonio}
-  - {family: Generosi, given: Renato}
-  - {family: Luce, given: Marco}
-  - {family: Perfetti, given: P.}
-  - {family: Margaritondo, given: G.}
-  - {family: Talley, given: D.}
-  - {family: Sanghera, given: J.S.}
-  - {family: Aggarwal, given: I.D.}
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Tolk, given: Norman H.}
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Luce
+    given: Marco
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: G.
+  - family: Talley
+    given: D.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Tolk
+    given: Norman H.
   container-title: Advances in Science and Technology
   id: cricenti:2002:surface.characterization
   issued:
-  - {year: 2002}
+  - year: 2002
   page: 183-192
   status: published
   title: Surface characterisation by near-field microscopy and atomic force microscopy
@@ -1527,20 +1859,29 @@ references:
     determined and agree with two models proposed to describe the density of states
     in a-Si:H.
   author:
-  - {family: Mensing, given: G.}
-  - {family: Gilligan, given: J.}
-  - {family: Hari, given: P.}
-  - {family: Hurt, given: E.}
-  - {family: "L\xFCpke", given: G.}
-  - {family: Pantelides, given: S.}
-  - {family: Tolk, given: N.}
-  - {family: Taylor, given: P.C.}
+  - family: Mensing
+    given: G.
+  - family: Gilligan
+    given: J.
+  - family: Hari
+    given: P.
+  - family: Hurt
+    given: E.
+  - family: "L\xFCpke"
+    given: G.
+  - family: Pantelides
+    given: S.
+  - family: Tolk
+    given: N.
+  - family: Taylor
+    given: P. C.
   container-title: Journal of Non-Crystalline Solids
   file:
-  - {desc: full text, file: mensing_2002_defect_energies.pdf}
+  - desc: full text
+    file: mensing_2002_defect_energies.pdf
   id: mensing:2002:defect.energies
   issued:
-  - {year: 2002}
+  - year: 2002
   page: 621-625
   status: published
   title: Defect transition energies and the density of electronic states in hydrogenated
@@ -1560,22 +1901,33 @@ references:
     \ stretch absorption, and reached a lateral resolution of 0.2\_micron, well below\
     \ the $\\lambda/2$ ($\\lambda$ = wavelength) limit of classical microscopy."
   author:
-  - {family: Cricenti, given: Antonio}
-  - {family: Generosi, given: Renato}
-  - {family: Luce, given: Marco}
-  - {family: Perfetti, given: Paolo}
-  - {family: Margaritondo, given: Giorgio}
-  - {family: Talley, given: David}
-  - {family: Sanghera, given: J.S.}
-  - {family: Aggarwal, given: I.D.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Luce
+    given: Marco
+  - family: Perfetti
+    given: Paolo
+  - family: Margaritondo
+    given: Giorgio
+  - family: Talley
+    given: David
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
   container-title: Journal of Microscopy
   file:
-  - {desc: full text, file: cricenti_2001_diamond_film.pdf}
+  - desc: full text
+    file: cricenti_2001_diamond_film.pdf
   id: cricenti:2001:diamond
   issued:
-  - {year: 2001}
+  - year: 2001
   page: 446-450
   status: published
   title: "Spectroscopic scanning near-field optical microscopy with a free electron\
@@ -1597,39 +1949,57 @@ references:
     model that a rapid laser- induced phase transition to graphite is responsible
     for the low-intensity ablation of diamond at and above the first threshold.
   author:
-  - {family: Sturmann, given: Judit}
-  - {family: Marka, given: Z}
-  - {family: Albert, given: MM}
-  - {family: Albridge, given: Royal G}
-  - {family: Gilligan, given: Jonathan M}
-  - {family: Luepke, given: Gunter}
-  - {family: Singh, given: SK}
-  - {family: Davidson, given: Jeffrey L}
-  - {family: Husinsky, given: Wolfgang}
-  - {family: Tolk, given: Norman H}
+  - family: Sturmann
+    given: Judit
+  - family: Marka
+    given: Z
+  - family: Albert
+    given: MM
+  - family: Albridge
+    given: Royal G
+  - family: Gilligan
+    given: Jonathan M
+  - family: Luepke
+    given: Gunter
+  - family: Singh
+    given: SK
+  - family: Davidson
+    given: Jeffrey L
+  - family: Husinsky
+    given: Wolfgang
+  - family: Tolk
+    given: Norman H
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   file:
-  - {desc: full text, file: sturmann_2001_photoablation.pdf}
+  - desc: full text
+    file: sturmann_2001_photoablation.pdf
   id: sturmann:2001:photoablation
   issued:
-  - {year: 2001}
+  - year: 2001
   page: 206-211
   publisher: International Society for Optics; Photonics
   status: published
   title: Infrared free-electron laser photoablation of diamond films
   type: paper-conference
 - author:
-  - {family: Lupke, given: Gunter}
-  - {family: Cheney, given: Christine Parks}
-  - {family: Sturman, given: Judit}
-  - {family: Keay, given: Joel C.}
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Feldman, given: Leondard C.}
-  - {family: Tolk, given: Norman H.}
+  - family: Lupke
+    given: Gunter
+  - family: Cheney
+    given: Christine Parks
+  - family: Sturman
+    given: Judit
+  - family: Keay
+    given: Joel C.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Feldman
+    given: Leondard C.
+  - family: Tolk
+    given: Norman H.
   container-title: Condensed Matter Theories
   id: lupke:2000:fel
   issued:
-  - {year: 2000}
+  - year: 2000
   page: 349-364
   status: published
   title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
@@ -1649,17 +2019,23 @@ references:
     for both wavelengths of each pair: 6.2 and 6.0; 6.35 and 5.92; 3.22 and 2.81;
     3.15 and 2.87 micrometers .'
   author:
-  - {family: Sobol, given: Emil}
-  - {family: Sviridov, given: Aleksandr}
-  - {family: Kitai, given: Moshe}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Edwards, given: Glenn S.}
+  - family: Sobol
+    given: Emil
+  - family: Sviridov
+    given: Aleksandr
+  - family: Kitai
+    given: Moshe
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Edwards
+    given: Glenn S.
   container-title: International biomedical optics symposium
   file:
-  - {desc: full text, file: sobol_2000_tissue_absorption.pdf}
+  - desc: full text
+    file: sobol_2000_tissue_absorption.pdf
   id: sobol:2000:tissue.water
   issued:
-  - {year: 2000}
+  - year: 2000
   page: '78'
   publisher: SPIE
   status: published
@@ -1677,22 +2053,33 @@ references:
     at a $\lambda$ of 4.7 $\mu$m. Approximately 25 nm topographical and 100 nm optical
     lateral resolution were observed.
   author:
-  - {family: Talley, given: David B.}
-  - {family: Shaw, given: L.B.}
-  - {family: Sanghera, given: J.S.}
-  - {family: Aggarwal, given: I.D.}
-  - {family: Cricenti, given: Antonio}
-  - {family: Generosi, given: Renato}
-  - {family: Luce, given: Marco}
-  - {family: Margaritondo, given: Giorgio}
-  - {family: Gilligan, given: Jonathan M.}
-  - {family: Tolk, given: Norman H.}
+  - family: Talley
+    given: David B.
+  - family: Shaw
+    given: L. B.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Luce
+    given: Marco
+  - family: Margaritondo
+    given: Giorgio
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Tolk
+    given: Norman H.
   container-title: Materials Letters
   file:
-  - {desc: full text, file: talley_2000_ir_snom_tips.pdf}
+  - desc: full text
+    file: talley_2000_ir_snom_tips.pdf
   id: talley:2000:snom.tips
   issued:
-  - {year: 2000}
+  - year: 2000
   page: 339-344
   status: published
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
@@ -1708,20 +2095,29 @@ references:
     well below the diffraction limit of lambda/2 with most optical images having better
     lateral resolution than topographic images.
   author:
-  - {family: Cricenti, given: Antonio}
-  - {family: Generosi, given: Renato}
-  - {family: Herold, given: George}
-  - {family: Chiaradia, given: P.}
-  - {family: Perfetti, given: P.}
-  - {family: Margaritondo, given: Giorgio}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Herold
+    given: George
+  - family: Chiaradia
+    given: P.
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: Giorgio
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
   container-title: 'Physica Status Solidi A: Applied Research'
   file:
-  - {desc: full text, file: cricenti_1999_chemical_contrast.pdf}
+  - desc: full text
+    file: cricenti_1999_chemical_contrast.pdf
   id: cricenti:1999:heterostructure
   issued:
-  - {year: 1999}
+  - year: 1999
   page: 345-349
   status: published
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
@@ -1746,23 +2142,35 @@ references:
     be discussed, in particular considering the new proposals for powerful FELs in
     the low-wavelength spectral range.
   author:
-  - {family: Cricenti, given: A.}
-  - {family: Generosi, given: R.}
-  - {family: Perfetti, given: P.}
-  - {family: Margaritondo, given: G.}
-  - {family: Almeida, given: J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Coluzza, given: C.}
-  - {family: Spajer, given: M.}
-  - {family: Courjon, given: D.}
-  - {family: Aggarwal, given: I. D.}
+  - family: Cricenti
+    given: A.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: G.
+  - family: Almeida
+    given: J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Coluzza
+    given: C.
+  - family: Spajer
+    given: M.
+  - family: Courjon
+    given: D.
+  - family: Aggarwal
+    given: I. D.
   container-title: 'Physica Status Solidi A: Applied Research'
   file:
-  - {desc: full text, file: cricenti_1999_interface_snom.pdf}
+  - desc: full text
+    file: cricenti_1999_interface_snom.pdf
   id: cricenti:1999:interface
   issued:
-  - {year: 1999}
+  - year: 1999
   page: 317-329
   status: published
   title: Interface applications of scanning near-field optical microscopy with a free
@@ -1781,19 +2189,27 @@ references:
     the range of applications of these new energy-selective techniques to solve fundamental
     and applied problems.
   author:
-  - {family: Marka, given: Z.}
-  - {family: Cheney, given: C. P.}
-  - {family: Wang, given: W.}
-  - {family: Lupke, given: G.}
-  - {family: Gilligan, given: Jonathan}
-  - {family: Yao, given: Y.}
-  - {family: Tolk, given: Norman Henry}
+  - family: Marka
+    given: Z.
+  - family: Cheney
+    given: C. P.
+  - family: Wang
+    given: W.
+  - family: Lupke
+    given: G.
+  - family: Gilligan
+    given: Jonathan
+  - family: Yao
+    given: Y.
+  - family: Tolk
+    given: Norman Henry
   container-title: 'Soviet Physics: Technical Physics'
   file:
-  - {desc: full text, file: marka_1999_nanoscale_modifications.pdf}
+  - desc: full text
+    file: marka_1999_nanoscale_modifications.pdf
   id: marka:1999:nanoscale
   issued:
-  - {year: 1999}
+  - year: 1999
   page: 1069-1072
   status: published
   title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
@@ -1810,22 +2226,33 @@ references:
     in the IR (near 3.5 $\mu$m), using the probe tips in collection mode, indicate
     an optical spatial resolution of approximately $\lambda/15$.
   author:
-  - {family: Schaafsma, given: D. T.}
-  - {family: Mossadegh, given: R.}
-  - {family: Sanghera, given: J. S.}
-  - {family: Aggarwal, given: I. D.}
-  - {family: Luce, given: M.}
-  - {family: Generosi, given: R.}
-  - {family: Perfetti, given: P.}
-  - {family: Cricenti, given: A.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
+  - family: Schaafsma
+    given: D. T.
+  - family: Mossadegh
+    given: R.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Luce
+    given: M.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Cricenti
+    given: A.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
   container-title: Optical Engineering
   file:
-  - {desc: full text, file: schaafsma_1999_ir_snom_tips.pdf}
+  - desc: full text
+    file: schaafsma_1999_ir_snom_tips.pdf
   id: schaafsma:1999:snom.tip.fabrication
   issued:
-  - {year: 1999}
+  - year: 1999
   page: 1381-1385
   status: published
   title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
@@ -1844,23 +2271,35 @@ references:
     \ using the probe tips in collection mode, indicates an optical spatial resolution\
     \ approximately $\\lambda/15$."
   author:
-  - {family: Schaafsma, given: D. T.}
-  - {family: Mossadegh, given: R.}
-  - {family: Sanghera, given: J. S.}
-  - {family: Aggarwal, given: I. D.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Luce, given: M.}
-  - {family: Generosi, given: R.}
-  - {family: Perfetti, given: P.}
-  - {family: Cricenti, given: A.}
-  - {family: Margaritondo, given: G.}
+  - family: Schaafsma
+    given: D. T.
+  - family: Mossadegh
+    given: R.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Luce
+    given: M.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Cricenti
+    given: A.
+  - family: Margaritondo
+    given: G.
   container-title: Ultramicroscopy
   file:
-  - {desc: full text, file: schaafsma_1999_single_mode_tips.pdf}
+  - desc: full text
+    file: schaafsma_1999_single_mode_tips.pdf
   id: schaafsma:1999:snom.tips
   issued:
-  - {year: 1999}
+  - year: 1999
   page: 77-81
   status: published
   title: Singlemode chalcogenide fiber infrared SNOM probes
@@ -1894,18 +2333,25 @@ references:
     scattering is useful for measuring denaturation thresholds and kinetics for biotissues
     except where the initial absorptivity is very high.
   author:
-  - {family: Sobol, given: E.}
-  - {family: Sviridov, given: A.}
-  - {family: Kitai, given: M.}
-  - {family: Edwards, given: Glenn S.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
+  - family: Sobol
+    given: E.
+  - family: Sviridov
+    given: A.
+  - family: Kitai
+    given: M.
+  - family: Edwards
+    given: Glenn S.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
   container-title: International biomedical optics symposium
   file:
-  - {desc: full text, file: sobol_1999_tissue_denaturation.pdf}
+  - desc: full text
+    file: sobol_1999_tissue_denaturation.pdf
   id: sobol:1999:tissue.denaturation
   issued:
-  - {year: 1999}
+  - year: 1999
   page: 122-129
   publisher: SPIE
   status: published
@@ -1924,24 +2370,37 @@ references:
     the probe tips in collection mode, indicates an optical spatial resolution well
     below the classical limit of $\lambda/2$.
   author:
-  - {family: Cricenti, given: A.}
-  - {family: Generosi, given: R.}
-  - {family: Barchesi, given: C.}
-  - {family: Luce, given: M.}
-  - {family: Rinaldi, given: M.}
-  - {family: Coluzza, given: C.}
-  - {family: Perfetti, given: P.}
-  - {family: Margaritondo, given: G.}
-  - {family: Schaafsma, given: D. T.}
-  - {family: Aggarwal, given: I. D.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
+  - family: Cricenti
+    given: A.
+  - family: Generosi
+    given: R.
+  - family: Barchesi
+    given: C.
+  - family: Luce
+    given: M.
+  - family: Rinaldi
+    given: M.
+  - family: Coluzza
+    given: C.
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: G.
+  - family: Schaafsma
+    given: D. T.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
   container-title: 'Physica Status Solidi A: Applied Research'
   file:
-  - {desc: full text, file: cricenti_1998_first_ir_snom.pdf}
+  - desc: full text
+    file: cricenti_1998_first_ir_snom.pdf
   id: cricenti:1998:fel.snom
   issued:
-  - {year: 1998}
+  - year: 1998
   page: 241-247
   status: published
   title: First experimental results with the free electron laser coupled to a scanning
@@ -1957,19 +2416,27 @@ references:
     that near-field conditions were reached. The use of different photon wavelengths
     (0.653, 1.2, and 2.4 $\mu$m) enabled us to probe regions of different depth.
   author:
-  - {family: Cricenti, given: A.}
-  - {family: Generosi, given: R.}
-  - {family: Perfetti, given: P.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Coluzza, given: C.}
-  - {family: Margaritondo, given: G.}
+  - family: Cricenti
+    given: A.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Coluzza
+    given: C.
+  - family: Margaritondo
+    given: G.
   container-title: Applied Physics Letters
   file:
-  - {desc: full text, file: cricenti_1998_fel_ir_snom.pdf}
+  - desc: full text
+    file: cricenti_1998_fel_ir_snom.pdf
   id: cricenti:1998:nanospectroscopy
   issued:
-  - {year: 1998}
+  - year: 1998
   page: 151-153
   status: published
   title: Free-electron-laser near-field nanospectroscopy
@@ -1985,44 +2452,67 @@ references:
     the second fluence threshold, obseved at 3.5 micron. These experiments shed light
     on the physics of wavelength selective desorption through non-electronic channels.'
   author:
-  - {family: Sturmann, given: J.}
-  - {family: Albridge, given: R. G.}
-  - {family: Barnes, given: A. V.}
-  - {family: Davidson, given: J. L.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Lupke, given: G.}
-  - {family: Ueda, given: A.}
-  - {family: Tolk, given: Norman Henry}
+  - family: Sturmann
+    given: J.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Davidson
+    given: J. L.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Lupke
+    given: G.
+  - family: Ueda
+    given: A.
+  - family: Tolk
+    given: Norman Henry
   container-title: Applied Surface Science
   file:
-  - {desc: full text, file: sturmann_1998_diamond.pdf}
+  - desc: full text
+    file: sturmann_1998_diamond.pdf
   id: sturmann:1998:diamond
   issued:
-  - {year: 1998}
+  - year: 1998
   page: 59-63
   status: published
   title: Infrared wavelength-selective photodesorption on diamond surfaces
   type: article-journal
   volume: '129'
 - author:
-  - {family: Tolk, given: Norman Henry}
-  - {family: Hargitai, given: Z.}
-  - {family: Yao, given: Y.}
-  - {family: Pratt-Ferguson, given: B.}
-  - {family: Albert, given: M. M.}
-  - {family: Albridge, given: R. G.}
-  - {family: Barnes, given: A. V.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Gordon, given: V. D.}
-  - {family: Lupke, given: G.}
-  - {family: Puckett, given: A.}
-  - {family: Tully, given: J.}
-  - {family: Betz, given: G.}
-  - {family: Husinsky, given: W.}
+  - family: Tolk
+    given: Norman Henry
+  - family: Hargitai
+    given: Z.
+  - family: Yao
+    given: Y.
+  - family: Pratt-Ferguson
+    given: B.
+  - family: Albert
+    given: M. M.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Gordon
+    given: V. D.
+  - family: Lupke
+    given: G.
+  - family: Puckett
+    given: A.
+  - family: Tully
+    given: J.
+  - family: Betz
+    given: G.
+  - family: Husinsky
+    given: W.
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
   id: tolk:1998:sputtering
   issued:
-  - {year: 1998}
+  - year: 1998
   page: 676-679
   status: published
   title: Molecular effects in measured sputtering yields on gold at near threshold
@@ -2031,22 +2521,33 @@ references:
   volume: '62'
 - DOI: 10.1103/PhysRevLett.81.4224
   author:
-  - {family: Wang, given: W.}
-  - {family: Lupke, given: G.}
-  - {family: Di Ventra, given: M.}
-  - {family: Pantelides, given: S. T.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Kizilyalli, given: I. C.}
-  - {family: Roy, given: P. K.}
-  - {family: Margaritondo, given: G.}
-  - {family: Lucovsky, given: G.}
+  - family: Wang
+    given: W.
+  - family: Lupke
+    given: G.
+  - family: Di Ventra
+    given: M.
+  - family: Pantelides
+    given: S. T.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Kizilyalli
+    given: I. C.
+  - family: Roy
+    given: P. K.
+  - family: Margaritondo
+    given: G.
+  - family: Lucovsky
+    given: G.
   container-title: Physical Review Letters
   file:
-  - {desc: full text, file: wang_1998_dynamics.pdf}
+  - desc: full text
+    file: wang_1998_dynamics.pdf
   id: wang:1998:electron.hole
   issued:
-  - {year: 1998}
+  - year: 1998
   page: 4224-4227
   status: published
   title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
@@ -2054,46 +2555,71 @@ references:
   volume: '81'
 - DOI: 10.1103/PhysRevLett.81.550
   author:
-  - {family: Yao, given: Y.}
-  - {family: Hargitai, given: Z.}
-  - {family: Albert, given: M.}
-  - {family: Albridge, given: R. G.}
-  - {family: Barnes, given: A. V.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Ferguson, given: B. P.}
-  - {family: Lupke, given: G.}
-  - {family: Gordon, given: V. D.}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Tully, given: J. C.}
-  - {family: Betz, given: G.}
-  - {family: Husinsky, given: W.}
+  - family: Yao
+    given: Y.
+  - family: Hargitai
+    given: Z.
+  - family: Albert
+    given: M.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Ferguson
+    given: B. P.
+  - family: Lupke
+    given: G.
+  - family: Gordon
+    given: V. D.
+  - family: Tolk
+    given: Norman Henry
+  - family: Tully
+    given: J. C.
+  - family: Betz
+    given: G.
+  - family: Husinsky
+    given: W.
   container-title: Physical Review Letters
   file:
-  - {desc: full text, file: yao_1998_molecular_sputtering.pdf}
+  - desc: full text
+    file: yao_1998_molecular_sputtering.pdf
   id: yao:1998:sputtering
   issued:
-  - {year: 1998}
+  - year: 1998
   page: 550-553
   status: published
   title: New molecular collisional interaction effect in low-energy sputtering
   type: article-journal
   volume: '81'
 - author:
-  - {family: Sturmann, given: J.}
-  - {family: Albridge, given: R. G.}
-  - {family: Barnes, given: A. V.}
-  - {family: Gilligan, given: J.}
-  - {family: Graham, given: M. T.}
-  - {family: McKinley, given: J. T.}
-  - {family: Wang, given: W.}
-  - {family: Yang, given: X.}
-  - {family: Tolk, given: Norman Henry}
-  - {family: Davidson, given: J. L.}
-  - {family: Margaritondo, given: G.}
+  - family: Sturmann
+    given: J.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Gilligan
+    given: J.
+  - family: Graham
+    given: M. T.
+  - family: McKinley
+    given: J. T.
+  - family: Wang
+    given: W.
+  - family: Yang
+    given: X.
+  - family: Tolk
+    given: Norman Henry
+  - family: Davidson
+    given: J. L.
+  - family: Margaritondo
+    given: G.
   container-title: Acta Physica Polonica A
   id: sturmann:1997:spectroscopy
   issued:
-  - {year: 1997}
+  - year: 1997
   page: 689-696
   status: published
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
@@ -2101,21 +2627,31 @@ references:
   volume: '91'
 - DOI: 10.1029/97JD02215
   author:
-  - {family: Volk, given: C. M.}
-  - {family: Elkins, given: James W.}
-  - {family: Fahey, given: David W.}
-  - {family: Dutton, given: G. S.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Loewenstein, given: M.}
-  - {family: Podolske, given: J. R.}
-  - {family: Chan, given: K. R.}
-  - {family: Gunson, given: M. R.}
+  - family: Volk
+    given: C. M.
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Dutton
+    given: G. S.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Loewenstein
+    given: M.
+  - family: Podolske
+    given: J. R.
+  - family: Chan
+    given: K. R.
+  - family: Gunson
+    given: M. R.
   container-title: 'Journal of Geophysical Research: Atmospheres'
   file:
-  - {desc: full text, file: volk_1997_lifetimes.pdf}
+  - desc: full text
+    file: volk_1997_lifetimes.pdf
   id: volk:1997:lifetimes
   issued:
-  - {year: 1997}
+  - year: 1997
   page: 25543-25564
   status: published
   title: Evaluation of source gas lifetimes from stratospheric observations
@@ -2123,37 +2659,63 @@ references:
   volume: '102'
 - DOI: 10.1029/96GL00244
   author:
-  - {family: Elkins, given: James W.}
-  - {family: Fahey, given: David W.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Dutton, given: G. S.}
-  - {family: Baring, given: T. J.}
-  - {family: Volk, given: C. M.}
-  - {family: Dunn, given: R. E.}
-  - {family: Myers, given: R. C.}
-  - {family: Montzka, given: S. A.}
-  - {family: Wamsley, given: P. R.}
-  - {family: Hayden, given: A. H.}
-  - {family: Butler, given: J. H.}
-  - {family: Thompson, given: T. M.}
-  - {family: Swanson, given: T. H.}
-  - {family: Dlugokencky, given: E. J.}
-  - {family: Novelli, given: P. C.}
-  - {family: Hurst, given: D. F.}
-  - {family: Lobert, given: J. M.}
-  - {family: Ciciora, given: S. J.}
-  - {family: McLaughlin, given: R. J.}
-  - {family: Thompson, given: T. L.}
-  - {family: Winkler, given: R. H.}
-  - {family: Fraser, given: P. J.}
-  - {family: Steele, given: L. P.}
-  - {family: Lucarelli, given: M. P.}
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Dutton
+    given: G. S.
+  - family: Baring
+    given: T. J.
+  - family: Volk
+    given: C. M.
+  - family: Dunn
+    given: R. E.
+  - family: Myers
+    given: R. C.
+  - family: Montzka
+    given: S. A.
+  - family: Wamsley
+    given: P. R.
+  - family: Hayden
+    given: A. H.
+  - family: Butler
+    given: J. H.
+  - family: Thompson
+    given: T. M.
+  - family: Swanson
+    given: T. H.
+  - family: Dlugokencky
+    given: E. J.
+  - family: Novelli
+    given: P. C.
+  - family: Hurst
+    given: D. F.
+  - family: Lobert
+    given: J. M.
+  - family: Ciciora
+    given: S. J.
+  - family: McLaughlin
+    given: R. J.
+  - family: Thompson
+    given: T. L.
+  - family: Winkler
+    given: R. H.
+  - family: Fraser
+    given: P. J.
+  - family: Steele
+    given: L. P.
+  - family: Lucarelli
+    given: M. P.
   container-title: Geophysical Research Letters
   file:
-  - {desc: full text, file: elkins_1996_acats.pdf}
+  - desc: full text
+    file: elkins_1996_acats.pdf
   id: elkins:1996:acats
   issued:
-  - {year: 1996}
+  - year: 1996
   page: 347-350
   status: published
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
@@ -2162,24 +2724,37 @@ references:
   volume: '23'
 - DOI: 10.1126/science.272.5269.1763
   author:
-  - {family: Volk, given: C. M.}
-  - {family: Elkins, given: James W.}
-  - {family: Fahey, given: David W.}
-  - {family: Salawitch, given: R. J.}
-  - {family: Dutton, given: G. S.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Proffitt, given: M. H.}
-  - {family: Loewenstein, given: M.}
-  - {family: Podolske, given: J. R.}
-  - {family: Minschwaner, given: K.}
-  - {family: Margitan, given: J. J.}
-  - {family: Chan, given: K. R.}
+  - family: Volk
+    given: C. M.
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Salawitch
+    given: R. J.
+  - family: Dutton
+    given: G. S.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Proffitt
+    given: M. H.
+  - family: Loewenstein
+    given: M.
+  - family: Podolske
+    given: J. R.
+  - family: Minschwaner
+    given: K.
+  - family: Margitan
+    given: J. J.
+  - family: Chan
+    given: K. R.
   container-title: Science
   file:
-  - {desc: full text, file: volk_1996_transport.pdf}
+  - desc: full text
+    file: volk_1996_transport.pdf
   id: volk:1996:transport
   issued:
-  - {year: 1996}
+  - year: 1996
   page: 1763-1768
   status: published
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
@@ -2187,30 +2762,49 @@ references:
   volume: '272'
 - DOI: 10.1029/94JD02744
   author:
-  - {family: Woodbridge, given: E. L.}
-  - {family: Elkins, given: James W.}
-  - {family: Fahey, given: David W.}
-  - {family: Heidt, given: L. E.}
-  - {family: Solomon, given: S.}
-  - {family: Baring, given: T. J.}
-  - {family: Gilpin, given: T. J.}
-  - {family: Pollock, given: W. H.}
-  - {family: Schauffler, given: S. M.}
-  - {family: Atlas, given: E. L.}
-  - {family: Lowenstein, given: M.}
-  - {family: Podolske, given: J. R.}
-  - {family: Webster, given: C. R.}
-  - {family: May, given: R. D.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Montzka, given: S. A.}
-  - {family: Boering, given: K. A.}
-  - {family: Salawitch, given: R. J.}
+  - family: Woodbridge
+    given: E. L.
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Heidt
+    given: L. E.
+  - family: Solomon
+    given: S.
+  - family: Baring
+    given: T. J.
+  - family: Gilpin
+    given: T. J.
+  - family: Pollock
+    given: W. H.
+  - family: Schauffler
+    given: S. M.
+  - family: Atlas
+    given: E. L.
+  - family: Lowenstein
+    given: M.
+  - family: Podolske
+    given: J. R.
+  - family: Webster
+    given: C. R.
+  - family: May
+    given: R. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Montzka
+    given: S. A.
+  - family: Boering
+    given: K. A.
+  - family: Salawitch
+    given: R. J.
   container-title: Journal of Geophysical Research
   file:
-  - {desc: full text, file: woodbridge_1995_total_chlorine.pdf}
+  - desc: full text
+    file: woodbridge_1995_total_chlorine.pdf
   id: woodbridge:1995:cfc.conc
   issued:
-  - {year: 1995}
+  - year: 1995
   page: 3057-3064
   status: published
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
@@ -2218,18 +2812,26 @@ references:
   type: article-journal
   volume: '100'
 - author:
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Elkins, given: James W.}
-  - {family: Fahey, given: David W.}
-  - {family: Dutton, given: G. S.}
-  - {family: Volk, given: C. M.}
-  - {family: Baring, given: T. J.}
-  - {family: Dunn, given: R. E.}
-  - {family: Myers, given: R. C.}
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Dutton
+    given: G. S.
+  - family: Volk
+    given: C. M.
+  - family: Baring
+    given: T. J.
+  - family: Dunn
+    given: R. E.
+  - family: Myers
+    given: R. C.
   container-title: Atmospheric effects of aviation project workshop
   id: gilligan:1994:cl.budgets
   issued:
-  - {year: 1994}
+  - year: 1994
   status: published
   title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
     with a new *in situ* instrument, airborne chromatograph for atmospheric trace
@@ -2237,38 +2839,54 @@ references:
   type: paper-conference
 - DOI: 10.1063/1.45075
   author:
-  - {family: Eichmann, given: Ullrich}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Itano, given: Wayne M.}
-  - {family: Raizen, given: J. G.}
-  - {family: Wineland, given: David J.}
+  - family: Eichmann
+    given: Ullrich
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Itano
+    given: Wayne M.
+  - family: Raizen
+    given: J. G.
+  - family: Wineland
+    given: David J.
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   file:
-  - {desc: full text, file: eichmann_1993_two_atoms.pdf}
+  - desc: full text
+    file: eichmann_1993_two_atoms.pdf
   id: eichmann:1993:interference
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 43-48
   status: published
   title: Interference in the resonance fluorescence of two trapped atoms
   type: paper-conference
 - DOI: 10.1103/PhysRevLett.70.2359
   author:
-  - {family: Eichmann, given: Ullrich}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Itano, given: Wayne M.}
-  - {family: Wineland, given: David J.}
-  - {family: Raizen, given: Mark G.}
+  - family: Eichmann
+    given: Ullrich
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Itano
+    given: Wayne M.
+  - family: Wineland
+    given: David J.
+  - family: Raizen
+    given: Mark G.
   container-title: Physical Review Letters
   file:
-  - {desc: full text, file: eichmann_1993_two_slit.pdf}
+  - desc: full text
+    file: eichmann_1993_two_slit.pdf
   id: eichmann:1993:two.slit
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 2359-2362
   status: published
   title: "Young\u2019s interference experiment with light scattered from two atoms"
@@ -2276,18 +2894,25 @@ references:
   volume: '70'
 - DOI: 10.1103/PhysRevA.47.3554
   author:
-  - {family: Itano, given: Wayne M.}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Moore, given: Fred L.}
-  - {family: Raizen, given: Mark G.}
+  - family: Itano
+    given: Wayne M.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Moore
+    given: Fred L.
+  - family: Raizen
+    given: Mark G.
   container-title: Physical Review A
   file:
-  - {desc: full text, file: itano_1993_quantum_projection_noise.pdf}
+  - desc: full text
+    file: itano_1993_quantum_projection_noise.pdf
   id: itano:1993:projection.noise
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 3554-3570
   status: published
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
@@ -2295,70 +2920,99 @@ references:
   type: article-journal
   volume: '47'
 - author:
-  - {family: Itano, given: Wayne M.}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Heinzen, given: Daniel J.}
-  - {family: Moore, given: Fred L.}
-  - {family: Raizen, given: Mark G.}
-  - {family: Wineland, given: David J.}
+  - family: Itano
+    given: Wayne M.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Heinzen
+    given: Daniel J.
+  - family: Moore
+    given: Fred L.
+  - family: Raizen
+    given: Mark G.
+  - family: Wineland
+    given: David J.
   container-title: Vistas in Astronomy
   id: itano:1993:quantum.measurements
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 169-183
   status: published
   title: Quantum measurements of trapped ions
   type: article-journal
 - author:
-  - {family: Itano, given: Wayne M.}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Heinzen, given: Daniel J.}
-  - {family: Moore, given: Fred L.}
-  - {family: Raizen, given: Mark G.}
-  - {family: Wineland, given: David J.}
+  - family: Itano
+    given: Wayne M.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Heinzen
+    given: Daniel J.
+  - family: Moore
+    given: Fred L.
+  - family: Raizen
+    given: Mark G.
+  - family: Wineland
+    given: David J.
   container-title: Hyperfine Interactions
   id: itano:1993:spectroscopy
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 211-220
   status: published
   title: Ultra-high precision spectroscopy for fundamental physics
   type: article-journal
   volume: '78'
 - author:
-  - {family: Itano, given: Wayne M.}
-  - {family: Eichmann, given: Ullrich}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Raizen, given: Mark G.}
-  - {family: Wineland, given: David J.}
+  - family: Itano
+    given: Wayne M.
+  - family: Eichmann
+    given: Ullrich
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Raizen
+    given: Mark G.
+  - family: Wineland
+    given: David J.
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
   file:
-  - {desc: full text, file: itano_1993_two_atoms.pdf}
+  - desc: full text
+    file: itano_1993_two_atoms.pdf
   id: itano:1993:two.slit
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 410-419
   status: published
   title: Light scattered from two atoms
   type: paper-conference
 - DOI: 10.1103/PhysRevA.47.4042
   author:
-  - {family: Shiner, given: David}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Cook, given: B. M.}
-  - {family: Lichten, given: William}
+  - family: Shiner
+    given: David
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Cook
+    given: B. M.
+  - family: Lichten
+    given: William
   container-title: Physical Review A
   file:
-  - {desc: full text, file: shiner_1993_iodine_calibration.pdf}
+  - desc: full text
+    file: shiner_1993_iodine_calibration.pdf
   id: shiner:1993:calibration
   issued:
-  - {year: 1993}
+  - year: 1993
   page: 4042-4045
   status: published
   title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
@@ -2383,12 +3037,14 @@ references:
     (to be published)\], yield a value for ionization potential that is again quite
     close to the theoretical result.'
   author:
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Eyler, given: Edward Eugene}
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Eyler
+    given: Edward Eugene
   container-title: Physical Review A
   id: gilligan:1992:h2.ip
   issued:
-  - {year: 1992}
+  - year: 1992
   page: 3676-3690
   status: published
   title: Precise determinations of ionization potentials and $EF$ state energy levels
@@ -2397,17 +3053,23 @@ references:
   volume: '46'
 - DOI: 10.1103/PhysRevA.45.6493
   author:
-  - {family: Raizen, given: Mark G.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Bergquist, given: James C.}
-  - {family: Itano, given: Wayne M.}
-  - {family: Wineland, given: David J.}
+  - family: Raizen
+    given: Mark G.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Bergquist
+    given: James C.
+  - family: Itano
+    given: Wayne M.
+  - family: Wineland
+    given: David J.
   container-title: Physical Review A
   file:
-  - {desc: full_text, file: raizen_1992_ionic_crystals.pdf}
+  - desc: full_text
+    file: raizen_1992_ionic_crystals.pdf
   id: raizen:1992:ion.crystals
   issued:
-  - {year: 1992}
+  - year: 1992
   page: 6493-6501
   status: published
   title: Ionic crystals in a linear Paul trap
@@ -2415,17 +3077,23 @@ references:
   volume: '45'
 - DOI: 10.1080/09500349214550241
   author:
-  - {family: Raizen, given: Mark G.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Bergquist, given: James C.}
-  - {family: Itano, given: Wayne M.}
-  - {family: Wineland, given: David J.}
+  - family: Raizen
+    given: Mark G.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Bergquist
+    given: James C.
+  - family: Itano
+    given: Wayne M.
+  - family: Wineland
+    given: David J.
   container-title: Journal of Modern Optics
   file:
-  - {desc: full text, file: raizen_1992_linear_trap.pdf}
+  - desc: full text
+    file: raizen_1992_linear_trap.pdf
   id: raizen:1992:linear.trap
   issued:
-  - {year: 1992}
+  - year: 1992
   page: 233-242
   status: published
   title: Linear trap for high-accuracy spectroscopy of stored ions
@@ -2456,25 +3124,29 @@ references:
     \ The agreement between the measurements and the *ab initio* values confirms the\
     \ calculated relativistic and radiative corrections."
   author:
-  - {family: Gilligan, given: Jonathan Mark}
+  - family: Gilligan
+    given: Jonathan Mark
   genre: PhD thesis
   id: gilligan:1991:dissertation
   issued:
-  - {year: 1991}
+  - year: 1991
   publisher: Yale University
   title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
     molecules and a new determination of the ionization potential of $\ce{HD}$
   type: thesis
 - DOI: 10.1103/PhysRevA.43.6406
   author:
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Eyler, given: Edward Eugene}
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Eyler
+    given: Edward Eugene
   container-title: Physical Review A
   file:
-  - {desc: full text, file: gilligan_1991_three_photon.pdf}
+  - desc: full text
+    file: gilligan_1991_three_photon.pdf
   id: gilligan:1991:three.photon
   issued:
-  - {year: 1991}
+  - year: 1991
   page: 6406-6409
   status: published
   title: High-resolution three-photon spectroscopy and multiphoton interference in
@@ -2482,111 +3154,148 @@ references:
   type: article-journal
   volume: '43'
 - author:
-  - {family: Wineland, given: David J.}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Itano, given: Wayne M.}
-  - {family: Moore, given: Fred L.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Raizen, given: Mark G.}
-  - {family: Heinzen, given: Daniel J.}
-  - {family: Weimer, given: Carl S.}
-  - {family: Manney, given: C. H.}
+  - family: Wineland
+    given: David J.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Itano
+    given: Wayne M.
+  - family: Moore
+    given: Fred L.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Raizen
+    given: Mark G.
+  - family: Heinzen
+    given: Daniel J.
+  - family: Weimer
+    given: Carl S.
+  - family: Manney
+    given: C. H.
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
   id: wineland:1991:recent.experiments
   issued:
-  - {year: 1991}
+  - year: 1991
   page: 553-567
   status: published
   title: Recent experiments on trapped ions at the National Institute of Standards
     and Technology
   type: paper-conference
 - author:
-  - {family: Wineland, given: David J.}
-  - {family: Bergquist, given: James C.}
-  - {family: Bollinger, given: John J.}
-  - {family: Itano, given: Wayne M.}
-  - {family: Moore, given: Fred L.}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Raizen, given: Mark G.}
-  - {family: Heinzen, given: Daniel J.}
-  - {family: Weimer, given: Carl S.}
-  - {family: Manney, given: C. H.}
+  - family: Wineland
+    given: David J.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Itano
+    given: Wayne M.
+  - family: Moore
+    given: Fred L.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Raizen
+    given: Mark G.
+  - family: Heinzen
+    given: Daniel J.
+  - family: Weimer
+    given: Carl S.
+  - family: Manney
+    given: C. H.
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
   id: wineland:1991:spectroscopy
   issued:
-  - {year: 1991}
+  - year: 1991
   page: 539-551
   status: published
   title: High-resolution spectroscopy of laser-cooled ions
   type: paper-conference
 - author:
-  - {family: McCormack, given: Elizabeth}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: Cornaggia, given: Christian}
-  - {family: Eyler, given: Edward Eugene}
+  - family: McCormack
+    given: Elizabeth
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Cornaggia
+    given: Christian
+  - family: Eyler
+    given: Edward Eugene
   container-title: Physical Review A
   id: mccormack:1989:h2.ip
   issued:
-  - {year: 1989}
+  - year: 1989
   page: 2260-2263
   status: published
   title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
   type: article-journal
   volume: '39'
 - author:
-  - {family: Eyler, given: Edward Eugene}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: McCormack, given: Elizabeth}
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: McCormack
+    given: Elizabeth
   collection-title: AIP conference proceedings
   container-title: Advances in laser spectroscopy III
   id: eyler:1988:multiphoton
   issued:
-  - {year: 1988}
+  - year: 1988
   page: 331-333
   status: published
   title: Precise multiphoton spectroscopy of $\ce{H2}$
   type: paper-conference
   volume: '172'
 - author:
-  - {family: Eyler, given: Edward Eugene}
-  - {family: Gilligan, given: Jonathan Mark}
-  - {family: McCormack, given: Elizabeth}
-  - {family: Nussenzweig, given: "Andr\xE9"}
-  - {family: Pollack, given: Edward}
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: McCormack
+    given: Elizabeth
+  - family: Nussenzweig
+    given: "Andr\xE9"
+  - family: Pollack
+    given: Edward
   container-title: Physical Review A
   id: eyler:1987:ef.state
   issued:
-  - {year: 1987}
+  - year: 1987
   page: 3486-3489
   status: published
   title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
   type: article-journal
   volume: '36'
 - author:
-  - {family: Eyler, given: Edward Eugene}
-  - {family: Gilligan, given: Jonathan Mark}
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
   collection-title: AIP conference proceedings
   container-title: Advances in laser spectroscopy II
   id: eyler:1987:multiphoton
   issued:
-  - {year: 1987}
+  - year: 1987
   page: 388-390
   status: published
   title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
   type: paper-conference
   volume: '160'
 - author:
-  - {family: McCormack, given: Elizabeth}
-  - {family: Eyler, given: Edward Eugene}
-  - {family: Gilligan, given: Jonathan Mark}
+  - family: McCormack
+    given: Elizabeth
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
   collection-title: Technical digest series
   container-title: Proceedings of the XV International Conference on Quantum Electronics
   id: mccormack:1987:multiphoton
   issued:
-  - {year: 1987}
+  - year: 1987
   page: 58-60
   publisher: Optical Society of America
   status: published

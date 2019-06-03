@@ -1,26 +1,39 @@
 ---
 DOI: 10.1007/s12053-018-9721-x
 author:
-- {family: Maki, given: Alexander}
-- {family: McKinney, given: Emmett}
-- {family: Vandenbergh, given: Michael P.}
-- {family: Cohen, given: Mark A.}
-- {family: Gilligan, given: Jonathan M.}
+- family: Maki
+  given: Alexander
+- family: McKinney
+  given: Emmett
+- family: Vandenbergh
+  given: Michael P.
+- family: Cohen
+  given: Mark A.
+- family: Gilligan
+  given: Jonathan M.
 container_title: Energy Efficiency
 date: '2018-08-07'
 file:
-- {desc: full text, file: maki_2018_employee_benefits.pdf}
+- desc: full text
+  file: maki_2018_employee_benefits.pdf
 id: maki_2018_employee_benefits
 issued:
-- {day: 7, month: 8, year: 2018}
+- day: 7
+  month: 8
+  year: 2018
 pub_type: article-journal
 pubdate: '2018-08-07'
 short_author:
-- {family: Maki, given: A.}
-- {family: McKinney, given: E.}
-- {family: Vandenbergh, given: M. P.}
-- {family: Cohen, given: M. A.}
-- {family: Gilligan, given: J. M.}
+- family: Maki
+  given: A.
+- family: McKinney
+  given: E.
+- family: Vandenbergh
+  given: M. P.
+- family: Cohen
+  given: M. A.
+- family: Gilligan
+  given: J. M.
 short_title: Employee energy benefits
 status: Early online publication
 title: 'Employee energy benefits: What are they and what effects do they have on employees?'

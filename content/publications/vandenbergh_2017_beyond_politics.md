@@ -2,20 +2,26 @@
 ISBN: 978-1107181229 (hardcover), 978-1316632482 (paper)
 amazon: https://www.amazon.com/dp/B075V8QVYD/
 author:
-- {family: Vandenbergh, given: Michael P.}
-- {family: Gilligan, given: Jonathan M.}
+- family: Vandenbergh
+  given: Michael P.
+- family: Gilligan
+  given: Jonathan M.
 date: '2017-11-30'
 id: vandenbergh_2017_beyond_politics
 issued:
-- {day: 30, month: 11, year: 2017}
+- day: 30
+  month: 11
+  year: 2017
 note: 494 pp.
 pub_type: book
 pubdate: '2017-11-30'
 publisher: Cambridge University Press
 publisher_place: New York, NY
 short_author:
-- {family: Vandenbergh, given: M. P.}
-- {family: Gilligan, given: J. M.}
+- family: Vandenbergh
+  given: M. P.
+- family: Gilligan
+  given: J. M.
 short_title: Beyond politics
 status: In press; publication date 30 November, 2017
 title: 'Beyond politics: The private governance response to climate change'

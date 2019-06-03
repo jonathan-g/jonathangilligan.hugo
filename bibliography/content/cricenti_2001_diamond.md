@@ -1,37 +1,58 @@
 ---
 DOI: 10.1046/j.1365-2818.2001.00874.x
 author:
-- {family: Cricenti, given: Antonio}
-- {family: Generosi, given: Renato}
-- {family: Luce, given: Marco}
-- {family: Perfetti, given: Paolo}
-- {family: Margaritondo, given: Giorgio}
-- {family: Talley, given: David}
-- {family: Sanghera, given: J.S.}
-- {family: Aggarwal, given: I.D.}
-- {family: Gilligan, given: Jonathan Mark}
-- {family: Tolk, given: Norman Henry}
+- family: Cricenti
+  given: Antonio
+- family: Generosi
+  given: Renato
+- family: Luce
+  given: Marco
+- family: Perfetti
+  given: Paolo
+- family: Margaritondo
+  given: Giorgio
+- family: Talley
+  given: David
+- family: Sanghera
+  given: J. S.
+- family: Aggarwal
+  given: I. D.
+- family: Gilligan
+  given: Jonathan Mark
+- family: Tolk
+  given: Norman Henry
 container_title: Journal of Microscopy
 date: '2001-01-01'
 file:
-- {desc: full text, file: cricenti_2001_diamond_film.pdf}
+- desc: full text
+  file: cricenti_2001_diamond_film.pdf
 id: cricenti_2001_diamond
 issued:
-- {year: 2001}
+- year: 2001
 page: 446-450
 pub_type: article-journal
 pubdate: '2001-01-01'
 short_author:
-- {family: Cricenti, given: A.}
-- {family: Generosi, given: R.}
-- {family: Luce, given: M.}
-- {family: Perfetti, given: P.}
-- {family: Margaritondo, given: G.}
-- {family: Talley, given: D.}
-- {family: Sanghera, given: J.S.}
-- {family: Aggarwal, given: I.D.}
-- {family: Gilligan, given: J. M.}
-- {family: Tolk, given: N. H.}
+- family: Cricenti
+  given: A.
+- family: Generosi
+  given: R.
+- family: Luce
+  given: M.
+- family: Perfetti
+  given: P.
+- family: Margaritondo
+  given: G.
+- family: Talley
+  given: D.
+- family: Sanghera
+  given: J. S.
+- family: Aggarwal
+  given: I. D.
+- family: Gilligan
+  given: J. M.
+- family: Tolk
+  given: N. H.
 short_title: Spectroscopic near-field microscopy
 status: published
 title: "Spectroscopic scanning near-field optical microscopy with a free electron\

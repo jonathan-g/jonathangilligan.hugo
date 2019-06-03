@@ -1,38 +1,59 @@
 ---
 DOI: 10.1117/12.431224
 author:
-- {family: Sturmann, given: Judit}
-- {family: Marka, given: Z}
-- {family: Albert, given: MM}
-- {family: Albridge, given: Royal G}
-- {family: Gilligan, given: Jonathan M}
-- {family: Luepke, given: Gunter}
-- {family: Singh, given: SK}
-- {family: Davidson, given: Jeffrey L}
-- {family: Husinsky, given: Wolfgang}
-- {family: Tolk, given: Norman H}
+- family: Sturmann
+  given: Judit
+- family: Marka
+  given: Z
+- family: Albert
+  given: MM
+- family: Albridge
+  given: Royal G
+- family: Gilligan
+  given: Jonathan M
+- family: Luepke
+  given: Gunter
+- family: Singh
+  given: SK
+- family: Davidson
+  given: Jeffrey L
+- family: Husinsky
+  given: Wolfgang
+- family: Tolk
+  given: Norman H
 container_title: Nonresonant laser-matter interaction (nlmi-10)
 date: '2001-01-01'
 file:
-- {desc: full text, file: sturmann_2001_photoablation.pdf}
+- desc: full text
+  file: sturmann_2001_photoablation.pdf
 id: sturmann_2001_photoablation
 issued:
-- {year: 2001}
+- year: 2001
 page: 206-211
 pub_type: paper-conference
 pubdate: '2001-01-01'
 publisher: International Society for Optics; Photonics
 short_author:
-- {family: Sturmann, given: J.}
-- {family: Marka, given: Z}
-- {family: Albert, given: MM}
-- {family: Albridge, given: R. G}
-- {family: Gilligan, given: J. M}
-- {family: Luepke, given: G.}
-- {family: Singh, given: SK}
-- {family: Davidson, given: J. L}
-- {family: Husinsky, given: W.}
-- {family: Tolk, given: N. H}
+- family: Sturmann
+  given: J.
+- family: Marka
+  given: Z
+- family: Albert
+  given: MM
+- family: Albridge
+  given: R. G
+- family: Gilligan
+  given: J. M
+- family: Luepke
+  given: G.
+- family: Singh
+  given: SK
+- family: Davidson
+  given: J. L
+- family: Husinsky
+  given: W.
+- family: Tolk
+  given: N. H
 status: published
 title: Infrared free-electron laser photoablation of diamond films
 ---

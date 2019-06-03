@@ -1,30 +1,43 @@
 ---
 DOI: 10.1117/1.1559996
 author:
-- {family: Sobol, given: Emil}
-- {family: Sviridov, given: Aleksandr}
-- {family: Kitai, given: Moshe}
-- {family: Gilligan, given: Jonathan Mark}
-- {family: Edwards, given: Glenn S.}
-- {family: Tolk, given: Norman Henry}
+- family: Sobol
+  given: Emil
+- family: Sviridov
+  given: Aleksandr
+- family: Kitai
+  given: Moshe
+- family: Gilligan
+  given: Jonathan Mark
+- family: Edwards
+  given: Glenn S.
+- family: Tolk
+  given: Norman Henry
 container_title: Journal of Biomedical Optics
 date: '2003-01-01'
 file:
-- {desc: full text, file: sobol_2003_light_scattering.pdf}
+- desc: full text
+  file: sobol_2003_light_scattering.pdf
 id: sobol_2003_cartilage_cornea
 issue: '2'
 issued:
-- {year: 2003}
+- year: 2003
 page: 216-222
 pub_type: article-journal
 pubdate: '2003-01-01'
 short_author:
-- {family: Sobol, given: E.}
-- {family: Sviridov, given: A.}
-- {family: Kitai, given: M.}
-- {family: Gilligan, given: J. M.}
-- {family: Edwards, given: G. S.}
-- {family: Tolk, given: N. H.}
+- family: Sobol
+  given: E.
+- family: Sviridov
+  given: A.
+- family: Kitai
+  given: M.
+- family: Gilligan
+  given: J. M.
+- family: Edwards
+  given: G. S.
+- family: Tolk
+  given: N. H.
 short_title: Cornea and cartilege denaturation
 status: published
 title: Time-resolved light scattering measurements of cartilage and cornea denaturation

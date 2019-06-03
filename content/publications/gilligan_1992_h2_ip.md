@@ -1,19 +1,23 @@
 ---
 DOI: 10.1103/PhysRevA.46.3676
 author:
-- {family: Gilligan, given: Jonathan Mark}
-- {family: Eyler, given: Edward Eugene}
+- family: Gilligan
+  given: Jonathan Mark
+- family: Eyler
+  given: Edward Eugene
 container_title: Physical Review A
 date: '1992-01-01'
 id: gilligan_1992_h2_ip
 issued:
-- {year: 1992}
+- year: 1992
 page: 3676-3690
 pub_type: article-journal
 pubdate: '1992-01-01'
 short_author:
-- {family: Gilligan, given: J. M.}
-- {family: Eyler, given: E. E.}
+- family: Gilligan
+  given: J. M.
+- family: Eyler
+  given: E. E.
 status: published
 title: Precise determinations of ionization potentials and $EF$ state energy levels
   of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$

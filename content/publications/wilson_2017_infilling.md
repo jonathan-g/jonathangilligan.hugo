@@ -1,31 +1,48 @@
 ---
 DOI: 10.1525/elementa.263
 author:
-- {family: Wilson, given: Carol}
-- {family: Goodbred, given: Steven}
-- {family: Small, given: Christopher}
-- {family: Gilligan, given: Jonathan}
-- {family: Sams, given: Sarah}
-- {family: Mallick, given: Bishawjit}
-- {family: Hale, given: Richard}
+- family: Wilson
+  given: Carol
+- family: Goodbred
+  given: Steven
+- family: Small
+  given: Christopher
+- family: Gilligan
+  given: Jonathan
+- family: Sams
+  given: Sarah
+- family: Mallick
+  given: Bishawjit
+- family: Hale
+  given: Richard
 container_title: Elementa
 date: '2017-12-27'
 file:
-- {desc: full text, file: wilson_2017_infilling.pdf}
+- desc: full text
+  file: wilson_2017_infilling.pdf
 id: wilson_2017_infilling
 issued:
-- {day: 27, month: 12, year: 2017}
+- day: 27
+  month: 12
+  year: 2017
 page: '78'
 pub_type: article-journal
 pubdate: '2017-12-27'
 short_author:
-- {family: Wilson, given: C.}
-- {family: Goodbred, given: S.}
-- {family: Small, given: C.}
-- {family: Gilligan, given: J.}
-- {family: Sams, given: S.}
-- {family: Mallick, given: B.}
-- {family: Hale, given: R.}
+- family: Wilson
+  given: C.
+- family: Goodbred
+  given: S.
+- family: Small
+  given: C.
+- family: Gilligan
+  given: J.
+- family: Sams
+  given: S.
+- family: Mallick
+  given: B.
+- family: Hale
+  given: R.
 status: published
 title: Widespread infilling of tidal channels and navigable waterways in human-modified
   tidal deltaplain of southwest Bangladesh

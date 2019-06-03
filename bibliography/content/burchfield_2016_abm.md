@@ -1,23 +1,34 @@
 ---
 DOI: 10.1109/WSC.2016.7822216
 author:
-- {family: Burchfield, given: Emily K.}
-- {family: Gilligan, given: Jonathan M.}
+- family: Burchfield
+  given: Emily K.
+- family: Gilligan
+  given: Jonathan M.
 collection_title: "WSC\u201916"
 container_title: Proceedings of the 2016 Winter Simulation Conference
 date: '2016-12-01'
 editor:
-- {family: Roeder, given: T.M.K.}
-- {family: Frazier, given: P.I.}
-- {family: Szechtman, given: R.}
-- {family: Zhou, given: E.}
-- {family: Huschka, given: T.}
-- {family: Chick, given: S.E.}
+- family: Roeder
+  given: T. M.K.
+- family: Frazier
+  given: P. I.
+- family: Szechtman
+  given: R.
+- family: Zhou
+  given: E.
+- family: Huschka
+  given: T.
+- family: Chick
+  given: S. E.
 file:
-- {desc: full text, file: burchfield_2016_collective_adaptation.pdf}
+- desc: full text
+  file: burchfield_2016_collective_adaptation.pdf
 id: burchfield_2016_abm
 issued:
-- {day: 1, month: 12, year: 2016}
+- day: 1
+  month: 12
+  year: 2016
 keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
   decision science, drought, Prospect Theory, Sustainability
 page: 1678-1689
@@ -27,15 +38,23 @@ pubdate: '2016-12-01'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
-- {family: Burchfield, given: E. K.}
-- {family: Gilligan, given: J. M.}
+- family: Burchfield
+  given: E. K.
+- family: Gilligan
+  given: J. M.
 short_editor:
-- {family: Roeder, given: T.M.K.}
-- {family: Frazier, given: P.I.}
-- {family: Szechtman, given: R.}
-- {family: Zhou, given: E.}
-- {family: Huschka, given: T.}
-- {family: Chick, given: S.E.}
+- family: Roeder
+  given: T. M.K.
+- family: Frazier
+  given: P. I.
+- family: Szechtman
+  given: R.
+- family: Zhou
+  given: E.
+- family: Huschka
+  given: T.
+- family: Chick
+  given: S. E.
 short_title: Agricultural adaptation to water scarcity
 status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity

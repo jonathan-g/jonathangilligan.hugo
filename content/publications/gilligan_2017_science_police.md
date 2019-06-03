@@ -1,21 +1,26 @@
 ---
 author:
-- {family: Gilligan, given: Jonathan M.}
+- family: Gilligan
+  given: Jonathan M.
 container_title: Issues in Science and Technology
 date: '2017-10-01'
 file:
-- {desc: full text, file: gilligan_2017_science_cops.pdf}
+- desc: full text
+  file: gilligan_2017_science_cops.pdf
 id: gilligan_2017_science_police
 issue: 1, Fall
 issued:
-- {day: 1, month: 10, year: 2017}
+- day: 1
+  month: 10
+  year: 2017
 note: Commentary invited by the editor
 page: 6-8
 pub_type: article-journal
 pub_url: http://issues.org/34-1/forum-36/
 pubdate: '2017-10-01'
 short_author:
-- {family: Gilligan, given: J. M.}
+- family: Gilligan
+  given: J. M.
 title: Are cops on the science beat?
 volume: '34'
 ---

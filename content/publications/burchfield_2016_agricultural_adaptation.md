@@ -1,15 +1,20 @@
 ---
 DOI: 10.1016/j.apgeog.2016.10.003
 author:
-- {family: Burchfield, given: Emily K}
-- {family: Gilligan, given: Jonathan}
+- family: Burchfield
+  given: Emily K
+- family: Gilligan
+  given: Jonathan
 container_title: Applied Geography
 date: '2016-12-31'
 file:
-- {desc: full text, file: burchfield_2016_agricultural_adaptation.pdf}
+- desc: full text
+  file: burchfield_2016_agricultural_adaptation.pdf
 id: burchfield_2016_agricultural_adaptation
 issued:
-- {day: 31, month: 12, year: 2016}
+- day: 31
+  month: 12
+  year: 2016
 keyword: Drought; Adaptive capacity; Multi-scale; Remote sensing; Mixed methods
 page: 92-100
 pub_type: article-journal
@@ -17,8 +22,10 @@ pub_url: https://www.sciencedirect.com/science/article/pii/S0143622816306063
 pubdate: '2016-12-31'
 publisher: Elsevier
 short_author:
-- {family: Burchfield, given: E. K}
-- {family: Gilligan, given: J.}
+- family: Burchfield
+  given: E. K
+- family: Gilligan
+  given: J.
 short_title: Agricultural adaptation to drought
 status: published
 title: Agricultural adaptation to drought in the Sri Lankan dry zone

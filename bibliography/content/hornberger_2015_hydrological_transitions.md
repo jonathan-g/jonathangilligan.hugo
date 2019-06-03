@@ -1,25 +1,32 @@
 ---
 DOI: 10.1002/2015WR016943
 author:
-- {family: Hornberger, given: George M.}
-- {family: Hess, given: David J.}
-- {family: Gilligan, given: Jonathan}
+- family: Hornberger
+  given: George M.
+- family: Hess
+  given: David J.
+- family: Gilligan
+  given: Jonathan
 container_title: Water Resources Research
 date: '2015-01-01'
 file:
-- {desc: full text, file: hornberger_2015_water_conservation.pdf}
+- desc: full text
+  file: hornberger_2015_water_conservation.pdf
 id: hornberger_2015_hydrological_transitions
 issue: '6'
 issued:
-- {year: 2015}
+- year: 2015
 keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
 page: 4635-4649
 pub_type: article-journal
 pubdate: '2015-01-01'
 short_author:
-- {family: Hornberger, given: G. M.}
-- {family: Hess, given: D. J.}
-- {family: Gilligan, given: J.}
+- family: Hornberger
+  given: G. M.
+- family: Hess
+  given: D. J.
+- family: Gilligan
+  given: J.
 status: published
 title: Water conservation and hydrological transitions in cities in the United States
 volume: '51'

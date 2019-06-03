@@ -1,20 +1,25 @@
 ---
 DOI: 10.1038/s41558-017-0038-0
 author:
-- {family: Gilligan, given: Jonathan M.}
+- family: Gilligan
+  given: Jonathan M.
 container_title: Nature Climate Change
 date: '2018-01-01'
 file:
-- {desc: full text, file: gilligan_2018_human_factor.pdf}
+- desc: full text
+  file: gilligan_2018_human_factor.pdf
 id: gilliigan_2018_human_factor
 issued:
-- {day: 1, month: 1, year: 2018}
+- day: 1
+  month: 1
+  year: 2018
 note: "\u201CNews and Views\u201D commentary."
 page: 14-15
 pub_type: article-journal
 pubdate: '2018-01-01'
 short_author:
-- {family: Gilligan, given: J. M.}
+- family: Gilligan
+  given: J. M.
 short_title: Climate modeling
 status: published
 title: 'Climate modeling: Accounting for the human factor'

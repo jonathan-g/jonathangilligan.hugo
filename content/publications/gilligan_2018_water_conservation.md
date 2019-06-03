@@ -1,29 +1,44 @@
 ---
 DOI: 10.1029/2017EF000797
 author:
-- {family: Gilligan, given: Jonathan M.}
-- {family: Wold, given: Christopher A.}
-- {family: Worland, given: Scott C.}
-- {family: Nay, given: John J.}
-- {family: Hess, given: David J.}
-- {family: Hornberger, given: George M.}
+- family: Gilligan
+  given: Jonathan M.
+- family: Wold
+  given: Christopher A.
+- family: Worland
+  given: Scott C.
+- family: Nay
+  given: John J.
+- family: Hess
+  given: David J.
+- family: Hornberger
+  given: George M.
 container_title: "Earth\u2019s Future"
 date: '2018-06-12'
 file:
-- {desc: full text, file: gilligan_2018_water_conservation.pdf}
+- desc: full text
+  file: gilligan_2018_water_conservation.pdf
 id: gilligan_2018_water_conservation
 issued:
-- {day: 12, month: 6, year: 2018}
+- day: 12
+  month: 6
+  year: 2018
 page: 955-967
 pub_type: article-journal
 pubdate: '2018-06-12'
 short_author:
-- {family: Gilligan, given: J. M.}
-- {family: Wold, given: C. A.}
-- {family: Worland, given: S. C.}
-- {family: Nay, given: J. J.}
-- {family: Hess, given: D. J.}
-- {family: Hornberger, given: G. M.}
+- family: Gilligan
+  given: J. M.
+- family: Wold
+  given: C. A.
+- family: Worland
+  given: S. C.
+- family: Nay
+  given: J. J.
+- family: Hess
+  given: D. J.
+- family: Hornberger
+  given: G. M.
 status: published
 title: Urban water conservation policies in the United States
 volume: '6'

@@ -1,23 +1,32 @@
 ---
 author:
-- {family: Ruhl, given: J. B.}
-- {family: Nay, given: John}
-- {family: Gilligan, given: Jonathan M.}
+- family: Ruhl
+  given: J. B.
+- family: Nay
+  given: John
+- family: Gilligan
+  given: Jonathan M.
 container_title: George Washington Law Review
 date: '2018-10-06'
 file:
-- {desc: full text, file: ruhl_2018_topic_modeling.pdf}
+- desc: full text
+  file: ruhl_2018_topic_modeling.pdf
 id: ruhl_2018_topic_modeling
 issued:
-- {day: 6, month: 10, year: 2018}
+- day: 6
+  month: 10
+  year: 2018
 page: 1243-1315
 pub_type: article-journal
 pub_url: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
 pubdate: '2018-10-06'
 short_author:
-- {family: Ruhl, given: J. B.}
-- {family: Nay, given: J.}
-- {family: Gilligan, given: J. M.}
+- family: Ruhl
+  given: J. B.
+- family: Nay
+  given: J.
+- family: Gilligan
+  given: J. M.
 short_title: Topic modeling the president
 ssrn: '3086226'
 ssrn_id: '3086226'

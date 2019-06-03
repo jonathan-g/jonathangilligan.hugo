@@ -1,25 +1,33 @@
 ---
 DOI: 10.1002/joc.4365
 author:
-- {family: Gunda, given: Thushara}
-- {family: Hornberger, given: George M.}
-- {family: Gilligan, given: Jonathan M.}
+- family: Gunda
+  given: Thushara
+- family: Hornberger
+  given: George M.
+- family: Gilligan
+  given: Jonathan M.
 container_title: International Journal of Climatology
 date: '2016-02-01'
 file:
-- {desc: full text, file: gunda_2016_agricultural_drought.pdf}
+- desc: full text
+  file: gunda_2016_agricultural_drought.pdf
 id: gunda_2016_drought_patterns
 issue: '2'
 issued:
-- {month: 2, year: 2016}
+- month: 2
+  year: 2016
 keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
 page: 563-575
 pub_type: article-journal
 pubdate: '2016-02-01'
 short_author:
-- {family: Gunda, given: T.}
-- {family: Hornberger, given: G. M.}
-- {family: Gilligan, given: J. M.}
+- family: Gunda
+  given: T.
+- family: Hornberger
+  given: G. M.
+- family: Gilligan
+  given: J. M.
 short_title: Patterns of drought in Sri Lanka
 status: published
 title: "Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881\u20132010"

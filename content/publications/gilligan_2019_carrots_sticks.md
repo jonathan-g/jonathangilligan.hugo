@@ -1,19 +1,24 @@
 ---
 author:
-- {family: Gilligan, given: Jonathan M.}
+- family: Gilligan
+  given: Jonathan M.
 container_title: Texas A&M Law Review
 date: '2018-12-31'
 file:
-- {desc: full text, file: gilligan_2018_carrots_sticks.pdf}
+- desc: full text
+  file: gilligan_2018_carrots_sticks.pdf
 id: gilligan_2019_carrots_sticks
 issued:
-- {day: 31, month: 12, year: 2018}
+- day: 31
+  month: 12
+  year: 2018
 page: 179-198
 pub_type: article-journal
 pub_url: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
 pubdate: '2018-12-31'
 short_author:
-- {family: Gilligan, given: J. M.}
+- family: Gilligan
+  given: J. M.
 ssrn: '3284035'
 ssrn_id: '3284035'
 status: published

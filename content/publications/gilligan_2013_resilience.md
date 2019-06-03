@@ -1,24 +1,32 @@
 ---
 author:
-- {family: Gilligan, given: Jonathan M.}
-- {family: Ackerly, given: Brooke A.}
-- {family: Goodbred, given: Steven L.}
+- family: Gilligan
+  given: Jonathan M.
+- family: Ackerly
+  given: Brooke A.
+- family: Goodbred
+  given: Steven L.
 container_title: 'Bridging the policy-action divide: Challenges and prospects for
   Bangladesh'
 date: '2013-02-01'
 file:
-- {desc: full text, file: gilligan_2013_building_resilience.pdf}
+- desc: full text
+  file: gilligan_2013_building_resilience.pdf
 id: gilligan_2013_resilience
 issued:
-- {month: 2, year: 2013}
+- month: 2
+  year: 2013
 pub_type: paper-conference
 pubdate: '2013-02-01'
 publisher: Bangladesh Development Initiative
 publisher_place: Berkeley, CA
 short_author:
-- {family: Gilligan, given: J. M.}
-- {family: Ackerly, given: B. A.}
-- {family: Goodbred, given: S. L.}
+- family: Gilligan
+  given: J. M.
+- family: Ackerly
+  given: B. A.
+- family: Goodbred
+  given: S. L.
 short_title: Resilience to environmental stress in bangladesh
 status: published
 title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated
