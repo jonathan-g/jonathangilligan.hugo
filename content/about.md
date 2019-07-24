@@ -9,18 +9,90 @@ title: "About me"
 
 The following bio may be used in media releases without further permission.
 
-> **Jonathan M Gilligan** is Associate Professor of [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees/) and Associate Professor of [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/) at [Vanderbilt University](https://www.vanderbilt.edu/).
+> Jonathan Gilligan is Associate Professor of 
+> [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees)
+> and Associate Professor of 
+> [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
+> at [Vanderbilt University](https://www.vanderbilt.edu/),
+> where he is also a member of the 
+> [Vanderbilt Institute for Energy and Environment](https://www.vanderbilt.edu/viee/) 
+> and the Associate Director for Research at the 
+> [Vanderbilt Climate Change Research Network](https://law.vanderbilt.edu/academics/academic-programs/environmental-law/climate-change-network/).
+> He is also a founding member of the 
+> [Erd&#337;s Institute for Academic Entrepreneurship](https://erdosinstitute.org)
 >
-> He is Associate Director for Research at the [Vanderbilt Climate Change Research Network](https://law.vanderbilt.edu/academics/academic-programs/environmental-law/climate-change-network/), a member of the [Vanderbilt Institute for Energy and Environment](https://www.vanderbilt.edu/viee/), the [Vanderbilt Initiative for Smart-city Operations Research](https://wp0.vanderbilt.edu/visor/) and a founding member of the [Erd&#337;s Institute for Collaboration, Innovation, and Entrepreneurship](http://erdosinstitute.org).
+> Gilligan received his BA in Physics, with a minor in Philosophy from 
+> [Swarthmore College ](https://www.swarthmore.edu/)
+> and his Ph.D. in [Physics](https://physics.yale.edu/) from [Yale University](https://www.yale.edu/), 
+> for which he performed the first measurements of molecular spectra accurate 
+> enough to resolve quantum-electrodynamic effects. 
 >
-> In 2017, Gilligan and Michael Vandenbergh received the [Morrison Prize](https://news.vanderbilt.edu/2017/02/09/gilligan-vandenbergh-win-morrison-prize-for-climate-change-article/), awarded by the program in Law and Sustainability at Arizona State University to the highest-impact paper on sustainability law and policy published in the previous year.
+> He was a 
+> [National Research Council Postdoctoral Associate](https://sites.nationalacademies.org/pga/rap/) 
+> at the 
+> [Time and Frequency Division](https://www.nist.gov/pml/time-and-frequency-division) 
+> of the 
+> [National Institute of Standards and Technology](https://www.nist.gov/), 
+> where he worked with 
+> [David Wineland](https://en.wikipedia.org/wiki/David_J._Wineland) 
+> using laser-cooled trapped atomic ions to study the fundamental properties of 
+> quantum measurements and improve the accuracy of atomic clocks. 
 >
-> He is the author of one book and over 86 scholarly articles. He is also co-author, with Carol Gilligan, of the play "The Scarlet Letter" and the libretto for the opera "Pearl".
-
+> He led a team from the 
+> [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) and 
+> the [Cooperative Institute for Research in Environmental Sciences](https://cires.colorado.edu/) 
+> at the [University of Colorado](https://www.colorado.edu)
+> using a multichannel gas chromatograph on a 
+> [NASA airborne mission](https://espo.nasa.gov/ashoe_maesa/content/ASHOE_MAESA)
+> to study ozone depletion, 
+> for which he received a NASA Group Achievement Award 
+> and a NOAA Outstanding Scientific Paper award. 
+>
+> In 1994, Gilligan joined Vanderbilt’s 
+> [Department of Physics and Astronomy](https://as.vanderbilt.edu/physics/), 
+> where he applied physics to material science, biology, and medicine, 
+> later becoming the Robert T. Lagemann Assistant Professor of Living State Physics. 
+>
+> In 2003 he joined Vanderbilt's newly-established 
+> [Department of Earth and Environmental Sciences](https://www.vanderbilt.edu/ees), 
+> where he collaborates on interdisciplinary research 
+> into interactions between human behavior, society, and environmental change. 
+> His research projects range from 
+> studying the role of the private sector in regulating greenhouse gas emissions 
+> to studying interactions between climate change, land use, 
+> and rural agricultural communities in Sri Lanka and Bangladesh. 
+>
+> Gilligan has published one book and 85 scholarly articles and holds two patents. 
+> His paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly Reduce 
+> U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
+> (co-authored with 
+> [Thomas Dietz](https://sociology.msu.edu/people/faculty_directory/thomas-dietz), 
+> Gerald Gardner, [Paul Stern](http://www.seri-us.org/content/paul-c-stern), 
+> and [Michael Vandenbergh](https://law.vanderbilt.edu/bio/michael-vandenbergh)) 
+> has been cited 
+> [more than 1000 times](https://scholar.google.com/citations?user=B8RVAU0AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DB8RVAU0AAAAJ%26citation_for_view%3DB8RVAU0AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300) 
+> and his paper, 
+> "[Beyond Gridlock]({{< ref "publications/vandenbergh_2015_beyond_gridlock.md" >}})" 
+> (co-authored with Michael Vandenbergh) won 
+> the [2017 Morrison Prize](https://www.prnewswire.com/news-releases/morrison-prize-winners-highlight-the-importance-of-private-action-in-battling-climate-change-300405452.html), 
+> given each year by the Law School at Arizona State University to the 
+> highest-impact paper on sustainability law and policy published in the 
+> previous year. 
+> His book, 
+> [_Beyond Politics: The Private Governance Response to Climate Change_](https://beyondpoliticsbook.com)
+> (co-authored with Michael Vandenbergh) was recognized with 
+> a [Vanderbilt Chancellor’s Award for Research](https://news.vanderbilt.edu/2018/08/24/gould-awarded-10k-prize-for-achievement-in-research-at-fall-assembly/) 
+> in 2018. 
+>
+> He also co-authored, with his mother Carol Gilligan, the play 
+> [_The Scarlet Letter_]({{< ref "creative/scarlet_letter.md" >}}) 
+> (a feminist adaptation of Hawthorne) 
+> and the libretto for the opera [_Pearl_]({{< ref "creative/pearl.md" >}}).
 
 ## Academic/Professional Data:
 
 <ul class="fa-ul">
+  <li><i class="fa-li ai ai-cv" style="padding-opt:3px;"></i> <a href="/files/cv/gilligan_cv.pdf"><i>Curriculum Vitae</i></a>
   <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
   <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
   <li> SSRN ID: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
