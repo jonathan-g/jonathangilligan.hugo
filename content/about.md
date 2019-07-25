@@ -16,10 +16,9 @@ The following bio may be used in media releases without further permission.
 > at [Vanderbilt University](https://www.vanderbilt.edu/),
 > where he is also a member of the 
 > [Vanderbilt Institute for Energy and Environment](https://www.vanderbilt.edu/viee/) 
+> and the [Vanderbilt Initiative on Smart-City Operations Research](https://www.vanderbilt.edu/visor)
 > and the Associate Director for Research at the 
 > [Vanderbilt Climate Change Research Network](https://law.vanderbilt.edu/academics/academic-programs/environmental-law/climate-change-network/).
-> He is also a founding member of the 
-> [Erd&#337;s Institute for Academic Entrepreneurship](https://erdosinstitute.org)
 >
 > Gilligan received his BA in Physics, with a minor in Philosophy from 
 > [Swarthmore College ](https://www.swarthmore.edu/)
