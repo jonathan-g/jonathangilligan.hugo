@@ -89,17 +89,24 @@ The following bio may be used in media releases without further permission.
 > (a feminist adaptation of Hawthorne) 
 > and the libretto for the opera [_Pearl_]({{< ref "creative/pearl.md" >}}).
 
+## Head shots
+
+Click to download a high-resolution version. These may be used in media releases without further permission.
+
+[![Blue](/files/headshots/Gilligan_Jonathan_blue_thumb.jpg)](/files/headshots/Gilligan_Jonathan_blue.jpg)
+[![Brown](/files/headshots/Gilligan_Jonathan_brown_thumb.jpg)](/files/headshots/Gilligan_Jonathan_brown.jpg)
+[![Informal](/files/headshots/Gilligan_Jonathan_informal_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_close.jpg)
+[![Informal Large](/files/headshots/Gilligan_Jonathan_informal_large_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_large.jpg)
+
 ## Academic/Professional Data:
 
 <ul class="fa-ul">
-  <li><i class="fa-li ai ai-cv" style="padding-opt:3px;"></i> <a href="/files/cv/gilligan_cv.pdf"><i>Curriculum Vitae</i></a>
+  <li><i class="fa-li ai ai-cv" style="padding-opt:3px;"></i> <a href="/files/cv/gilligan_cv.pdf"><em><strong>Curriculum Vitae</strong></em></a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small pdf"><i class="fal fa-file-pdf"></i>&nbsp;&nbsp;pdf</a>
   <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
   <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
   <li> SSRN ID: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
   <li><i class="fa-li {{< fa_icon weight="b" icon="github" >}} style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
 </ul>
-
-<h4 style="margin-top:1em;"><a href="/files/cv/gilligan_cv.pdf" target="_blank">Curriculum Vitae</a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;&nbsp;pdf</a> </h4>
 
 ---
 
