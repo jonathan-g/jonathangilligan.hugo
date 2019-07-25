@@ -60,6 +60,7 @@ params:
   bio_twitter: "jg_environ"
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
+  repository: "https://github.com/jonathan-g/jonathangilligan.hugo"
   typekitCode: "pxs4bbm"
   fontawesomePro: true
   fontawesomeCode: "sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG"
