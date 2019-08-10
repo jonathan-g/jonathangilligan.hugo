@@ -4,11 +4,11 @@ author:
 - family: Talley
   given: David B.
 - family: Shaw
-  given: L. B.
+  given: L.B.
 - family: Sanghera
-  given: J. S.
+  given: J.S.
 - family: Aggarwal
-  given: I. D.
+  given: I.D.
 - family: Cricenti
   given: Antonio
 - family: Generosi
@@ -36,11 +36,11 @@ short_author:
 - family: Talley
   given: D. B.
 - family: Shaw
-  given: L. B.
+  given: L.B.
 - family: Sanghera
-  given: J. S.
+  given: J.S.
 - family: Aggarwal
-  given: I. D.
+  given: I.D.
 - family: Cricenti
   given: A.
 - family: Generosi

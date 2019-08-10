@@ -107,7 +107,7 @@ def gen_refs(bibfile):
     call_citeproc(bibfile, target)
 
     bib = ptd.parse_file(bibfile)
-    ybib = yaml.load(open(target, encoding = 'utf-8'))
+    ybib = yaml.safe_load(open(target, encoding = 'utf-8'))
 
     for yitem in ybib['references']:
         bitem = bib.entries.get(yitem['id'])

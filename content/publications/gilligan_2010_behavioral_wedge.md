@@ -19,7 +19,7 @@ file:
 id: gilligan_2010_behavioral_wedge
 issued:
 - year: 2010
-note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
 page: 17-20
 pub_type: article-journal
 pubdate: '2010-01-01'
