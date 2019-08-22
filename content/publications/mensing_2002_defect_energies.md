@@ -16,7 +16,7 @@ author:
 - family: Tolk
   given: N.
 - family: Taylor
-  given: P. C.
+  given: P.C.
 container_title: Journal of Non-Crystalline Solids
 date: '2002-01-01'
 file:
@@ -44,7 +44,7 @@ short_author:
 - family: Tolk
   given: N.
 - family: Taylor
-  given: P. C.
+  given: P.C.
 short_title: Defects in amorphous silicon
 status: published
 title: Defect transition energies and the density of electronic states in hydrogenated

@@ -33,7 +33,7 @@ issued:
 - day: 1
   month: 6
   year: 2016
-note: "Featured by Taylor & Francis publishers as part of their observance of World\
+note: " Featured by Taylor & Francis publishers as part of their observance of World\
   \ Water Day 2017. T&F opened free access to the article and published an accompanying\
   \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
 page: 508-524
