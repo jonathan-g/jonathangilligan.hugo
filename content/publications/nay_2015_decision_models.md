@@ -13,11 +13,11 @@ editor:
 - family: Yilmaz
   given: L.
 - family: Chan
-  given: W. K.V.
+  given: W. K. V.
 - family: Moon
   given: I.
 - family: Roeder
-  given: T. M.K.
+  given: T. M. K.
 - family: Macal
   given: C.
 - family: Rossetti
@@ -43,11 +43,11 @@ short_editor:
 - family: Yilmaz
   given: L.
 - family: Chan
-  given: W. K.V.
+  given: W. K. V.
 - family: Moon
   given: I.
 - family: Roeder
-  given: T. M.K.
+  given: T. M. K.
 - family: Macal
   given: C.
 - family: Rossetti

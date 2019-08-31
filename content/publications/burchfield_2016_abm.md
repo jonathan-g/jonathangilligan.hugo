@@ -10,7 +10,7 @@ container_title: Proceedings of the 2016 Winter Simulation Conference
 date: '2016-12-01'
 editor:
 - family: Roeder
-  given: T. M.K.
+  given: T. M. K.
 - family: Frazier
   given: P. I.
 - family: Szechtman
@@ -44,7 +44,7 @@ short_author:
   given: J. M.
 short_editor:
 - family: Roeder
-  given: T. M.K.
+  given: T. M. K.
 - family: Frazier
   given: P. I.
 - family: Szechtman
