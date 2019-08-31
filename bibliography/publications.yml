@@ -1,4 +1,87 @@
 references:
+- author:
+  - family: Elsawah
+    given: Sondoss
+  - family: Filatova
+    given: Tatiana
+  - family: Jakeman
+    given: Anthony J.
+  - family: Kettner
+    given: Albert J.
+  - family: Zellner
+    given: Moira L.
+  - family: Athanasiadis
+    given: Ioannis N.
+  - family: Hamilton
+    given: Serena H.
+  - family: Axtell
+    given: Robert L.
+  - family: Brown
+    given: Daniel G.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Janssen
+    given: Marco A.
+  - family: Robinson
+    given: Derek T.
+  - family: Rozenberg
+    given: Julie
+  - family: Ullah
+    given: Isaac I. T.
+  - family: Lade
+    given: Steven J.
+  container-title: Socio-Environmental Systems Modeling
+  id: elsawah:grand.challenges:2019
+  issued:
+  - year: 2019
+  status: In Press
+  title: Eight grand challenges in socio-environmental systems modeling
+  type: article-journal
+- author:
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Risk Analysis
+  id: gilligan:collaboration:2019
+  issued:
+  - year: 2019
+  status: In Press
+  title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
+    disaster research teams'
+  title-short: Expertise across disciplines
+  type: article-journal
+- author:
+  - family: Ding
+    given: Ke
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Hornberger
+    given: George M.
+  container-title: Proceedings of the 2019 winter simulation conference
+  editor:
+  - family: Mustafee
+    given: N.
+  - family: Bae
+    given: K.-H. G.
+  - family: Lazarova-Molnar
+    given: S.
+  - family: Rabe
+    given: M.
+  - family: Szabo
+    given: C.
+  - family: Haas
+    given: P.
+  - family: Son
+    given: Y.-J.
+  id: ding:day.zero:2019
+  issued:
+  - year: 2019
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  status: in press
+  title: "Avoiding \u201Cday-zero\u201D: A testbed for evaluating integrated food-energy-water\
+    \ management in cape town, south africa"
+  title-short: "Avoiding \u201Cday-zero\u201D"
+  type: paper-conference
 - DOI: 10.1038/s41893-019-0354-7
   URL: https://rdcu.be/bOaoY
   abstract: Meat is an important source of greenhouse-gas emissions, but not enough
@@ -8,11 +91,12 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Nature Sustainability
-  id: gilligan:2019:diet
+  id: gilligan:diet:2019
   issued:
   - day: 9
     month: 8
     year: 2019
+  note: "Invited \u201CNews and Views\u201D commentary."
   page: 661-662
   status: published
   title: Modelling diet choices
@@ -503,7 +587,7 @@ references:
   - day: 1
     month: 6
     year: 2016
-  note: " Featured by Taylor & Francis publishers as part of their observance of World\
+  note: "Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
   page: 508-524
@@ -538,9 +622,9 @@ references:
   container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
   - family: Roeder
-    given: T.M.K.
+    given: T. M.K.
   - family: Frazier
-    given: P.I.
+    given: P. I.
   - family: Szechtman
     given: R.
   - family: Zhou
@@ -548,7 +632,7 @@ references:
   - family: Huschka
     given: T.
   - family: Chick
-    given: S.E.
+    given: S. E.
   file:
   - desc: full text
     file: burchfield_2016_collective_adaptation.pdf
@@ -774,9 +858,9 @@ references:
   container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
   - family: Roeder
-    given: T.M.K.
+    given: T. M.K.
   - family: Frazier
-    given: P.I.
+    given: P. I.
   - family: Szechtman
     given: R.
   - family: Zhou
@@ -784,7 +868,7 @@ references:
   - family: Huschka
     given: T.
   - family: Chick
-    given: S.E.
+    given: S. E.
   file:
   - desc: full text
     file: nay_2016_betting_belief.pdf
@@ -968,15 +1052,15 @@ references:
   - family: Yilmaz
     given: L.
   - family: Chan
-    given: W.K.V.
+    given: W. K.V.
   - family: Moon
     given: I.
   - family: Roeder
-    given: T.M.K.
+    given: T. M.K.
   - family: Macal
     given: C.
   - family: Rossetti
-    given: M.D.
+    given: M. D.
   file:
   - desc: full text
     file: gilligan_2015_flood_partsim.pdf
@@ -1062,15 +1146,15 @@ references:
   - family: Yilmaz
     given: L.
   - family: Chan
-    given: W.K.V.
+    given: W. K.V.
   - family: Moon
     given: I.
   - family: Roeder
-    given: T.M.K.
+    given: T. M.K.
   - family: Macal
     given: C.
   - family: Rossetti
-    given: M.D.
+    given: M. D.
   file:
   - desc: full text
     file: nay_2015_dynamic_decision_models.pdf
@@ -1260,7 +1344,7 @@ references:
   - family: Rogers
     given: Kimberly G.
   - family: Syvitski
-    given: James P.M.
+    given: James P. M.
   - family: Overeem
     given: Irina
   - family: Higgins
@@ -1475,7 +1559,7 @@ references:
   id: gilligan:2010:behavioral.wedge
   issued:
   - year: 2010
-  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   page: 17-20
   status: published
   title: The behavioral wedge
@@ -1549,8 +1633,8 @@ references:
   id: vandenbergh:2010:implementing.behavioral.wedge
   issued:
   - year: 2010
-  note: ' Selected by Environmental Law Institute to reprint as the featured cover
-    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
+  note: Selected by Environmental Law Institute to reprint as the featured cover story
+    of the 2010 summer reading issue for policymakers of Environmental Forum.
   page: 547-554
   ssrn: '1617426'
   status: published
@@ -1674,7 +1758,7 @@ references:
   id: holcomb:2009:dual.camera
   issued:
   - year: 2009
-  note: ' *Selected by the editors as the feature article of the month.*'
+  note: '*Selected by the editors as the feature article of the month.*'
   page: 1355-1372
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
@@ -1740,7 +1824,7 @@ references:
   - family: Mashburn
     given: David N.
   - family: Hinkson
-    given: S.J.
+    given: S. J.
   - family: Woods
     given: Marcella C.
   - family: Gilligan
@@ -1852,9 +1936,9 @@ references:
   - family: Talley
     given: D.
   - family: Sanghera
-    given: J.S.
+    given: J. S.
   - family: Aggarwal
-    given: I.D.
+    given: I. D.
   - family: Gilligan
     given: Jonathan M.
   - family: Tolk
@@ -1893,7 +1977,7 @@ references:
   - family: Tolk
     given: N.
   - family: Taylor
-    given: P.C.
+    given: P. C.
   container-title: Journal of Non-Crystalline Solids
   file:
   - desc: full text
@@ -1933,9 +2017,9 @@ references:
   - family: Talley
     given: David
   - family: Sanghera
-    given: J.S.
+    given: J. S.
   - family: Aggarwal
-    given: I.D.
+    given: I. D.
   - family: Gilligan
     given: Jonathan Mark
   - family: Tolk
@@ -2075,11 +2159,11 @@ references:
   - family: Talley
     given: David B.
   - family: Shaw
-    given: L.B.
+    given: L. B.
   - family: Sanghera
-    given: J.S.
+    given: J. S.
   - family: Aggarwal
-    given: I.D.
+    given: I. D.
   - family: Cricenti
     given: Antonio
   - family: Generosi

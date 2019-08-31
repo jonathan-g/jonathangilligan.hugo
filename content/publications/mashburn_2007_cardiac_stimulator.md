@@ -4,7 +4,7 @@ author:
 - family: Mashburn
   given: David N.
 - family: Hinkson
-  given: S.J.
+  given: S. J.
 - family: Woods
   given: Marcella C.
 - family: Gilligan
@@ -28,7 +28,7 @@ short_author:
 - family: Mashburn
   given: D. N.
 - family: Hinkson
-  given: S.J.
+  given: S. J.
 - family: Woods
   given: M. C.
 - family: Gilligan

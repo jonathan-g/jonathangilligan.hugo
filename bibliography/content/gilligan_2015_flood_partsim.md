@@ -19,15 +19,15 @@ editor:
 - family: Yilmaz
   given: L.
 - family: Chan
-  given: W.K.V.
+  given: W. K.V.
 - family: Moon
   given: I.
 - family: Roeder
-  given: T.M.K.
+  given: T. M.K.
 - family: Macal
   given: C.
 - family: Rossetti
-  given: M.D.
+  given: M. D.
 file:
 - desc: full text
   file: gilligan_2015_flood_partsim.pdf
@@ -55,15 +55,15 @@ short_editor:
 - family: Yilmaz
   given: L.
 - family: Chan
-  given: W.K.V.
+  given: W. K.V.
 - family: Moon
   given: I.
 - family: Roeder
-  given: T.M.K.
+  given: T. M.K.
 - family: Macal
   given: C.
 - family: Rossetti
-  given: M.D.
+  given: M. D.
 status: published
 title: Participatory simulations of urban flooding for learning and decision support
 ---

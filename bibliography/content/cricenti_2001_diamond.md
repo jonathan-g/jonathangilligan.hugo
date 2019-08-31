@@ -14,9 +14,9 @@ author:
 - family: Talley
   given: David
 - family: Sanghera
-  given: J.S.
+  given: J. S.
 - family: Aggarwal
-  given: I.D.
+  given: I. D.
 - family: Gilligan
   given: Jonathan Mark
 - family: Tolk
@@ -46,9 +46,9 @@ short_author:
 - family: Talley
   given: D.
 - family: Sanghera
-  given: J.S.
+  given: J. S.
 - family: Aggarwal
-  given: I.D.
+  given: I. D.
 - family: Gilligan
   given: J. M.
 - family: Tolk

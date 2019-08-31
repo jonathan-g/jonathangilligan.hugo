@@ -4,7 +4,7 @@ author:
 - family: Rogers
   given: Kimberly G.
 - family: Syvitski
-  given: James P.M.
+  given: James P. M.
 - family: Overeem
   given: Irina
 - family: Higgins
@@ -29,7 +29,7 @@ short_author:
 - family: Rogers
   given: K. G.
 - family: Syvitski
-  given: J. P.M.
+  given: J. P. M.
 - family: Overeem
   given: I.
 - family: Higgins
