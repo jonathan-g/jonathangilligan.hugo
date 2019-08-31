@@ -3,12 +3,14 @@ author:
 - family: Gilligan
   given: Jonathan M.
 container_title: Risk Analysis
-date: '2019-01-01'
+date: '2019-12-31'
 id: gilligan_collaboration_2019
 issued:
-- year: 2019
+- day: 31
+  month: 12
+  year: 2019
 pub_type: article-journal
-pubdate: '2019-01-01'
+pubdate: '2019-08-31'
 short_author:
 - family: Gilligan
   given: J. M.

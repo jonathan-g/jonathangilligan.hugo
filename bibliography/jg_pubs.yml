@@ -35,6 +35,8 @@ references:
     given: Steven J.
   issued:
   - year: 2019
+    month: 12
+    day: 30
   title: Eight grand challenges in socio-environmental systems modeling
   container-title: Socio-Environmental Systems Modeling
   status: In Press
@@ -46,6 +48,8 @@ references:
     given: Jonathan M.
   issued:
   - year: 2019
+    month: 12
+    day: 31
   title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
     disaster research teams'
   title-short: Expertise across disciplines
@@ -78,6 +82,8 @@ references:
     given: Y.-J.
   issued:
   - year: 2019
+    month: 12
+    day: 9
   title: 'Avoiding “day-zero”: A testbed for evaluating integrated food-energy-water
     management in cape town, south africa'
   title-short: Avoiding “day-zero”

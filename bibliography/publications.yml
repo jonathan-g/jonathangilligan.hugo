@@ -33,7 +33,9 @@ references:
   container-title: Socio-Environmental Systems Modeling
   id: elsawah:grand.challenges:2019
   issued:
-  - year: 2019
+  - day: 30
+    month: 12
+    year: 2019
   status: In Press
   title: Eight grand challenges in socio-environmental systems modeling
   type: article-journal
@@ -43,7 +45,9 @@ references:
   container-title: Risk Analysis
   id: gilligan:collaboration:2019
   issued:
-  - year: 2019
+  - day: 31
+    month: 12
+    year: 2019
   status: In Press
   title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
     disaster research teams'
@@ -74,7 +78,9 @@ references:
     given: Y.-J.
   id: ding:day.zero:2019
   issued:
-  - year: 2019
+  - day: 9
+    month: 12
+    year: 2019
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
   status: in press

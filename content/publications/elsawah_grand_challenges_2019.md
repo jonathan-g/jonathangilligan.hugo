@@ -31,12 +31,14 @@ author:
 - family: Lade
   given: Steven J.
 container_title: Socio-Environmental Systems Modeling
-date: '2019-01-01'
+date: '2019-12-30'
 id: elsawah_grand_challenges_2019
 issued:
-- year: 2019
+- day: 30
+  month: 12
+  year: 2019
 pub_type: article-journal
-pubdate: '2019-01-01'
+pubdate: '2019-08-31'
 short_author:
 - family: Elsawah
   given: S.
