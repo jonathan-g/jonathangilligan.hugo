@@ -57,6 +57,6 @@ short_editor:
 short_title: "Avoiding \u201Cday-zero\u201D"
 status: in press
 title: "Avoiding \u201Cday-zero\u201D: A testbed for evaluating integrated food-energy-water\
-  \ management in cape town, south africa"
+  \ management in Cape Town, South Africa"
 ---
 Deep connections between water resources and food and energy production&#8212;the food-energy-water (FEW) nexus&#8212;complicate the challenge of sustainably managing an uncertain water supply. We present an agent-based model as a computational testbed for studying different approaches to managing the FEW nexus and apply the model to the 2017&#8211;2018 water crisis in Cape Town South Africa. We treat the FEW nexus connecting municipal water use by Cape Town residents, agricultural water use by vineyards, and hydroelectric generation. We compare two scenarios for responding to drought: business-as-usual (BAU), and holisticadaptive management (HAM), where BAU takes no action until the monthly supply is insufficient to meet demand, whereas HAM takes action by raising water tariffs when the reservoir storage level drops below its pre-drought monthly average. Simulation results suggest that holisticadaptive management can alleviate the impact of drought on agricultural production, hydropower generation, and the availability of water for residential consumption.
