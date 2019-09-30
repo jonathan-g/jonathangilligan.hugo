@@ -320,15 +320,18 @@ references:
   - desc: full text
     file: maki_2018_employee_benefits.pdf
   id: maki:2018:employee.benefits
+  issue: '5'
   issued:
   - day: 7
     month: 8
     year: 2018
-  status: Early online publication
+  page: 1065-1083
+  status: published
   title: 'Employee energy benefits: What are they and what effects do they have on
     employees?'
   title-short: Employee energy benefits
   type: article-journal
+  volume: '12'
 - URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
   abstract: When the United States withdrew from the Paris Climate Agreement, 100
     private corporations reaffirmed their commitment to fighting climate change. While
