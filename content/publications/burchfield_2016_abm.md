@@ -10,9 +10,9 @@ container_title: Proceedings of the 2016 Winter Simulation Conference
 date: '2016-12-01'
 editor:
 - family: Roeder
-  given: T. M. K.
+  given: T.M.K.
 - family: Frazier
-  given: P. I.
+  given: P.I.
 - family: Szechtman
   given: R.
 - family: Zhou
@@ -20,7 +20,7 @@ editor:
 - family: Huschka
   given: T.
 - family: Chick
-  given: S. E.
+  given: S.E.
 file:
 - desc: full text
   file: burchfield_2016_collective_adaptation.pdf
@@ -44,9 +44,9 @@ short_author:
   given: J. M.
 short_editor:
 - family: Roeder
-  given: T. M. K.
+  given: T.M.K.
 - family: Frazier
-  given: P. I.
+  given: P.I.
 - family: Szechtman
   given: R.
 - family: Zhou
@@ -54,7 +54,7 @@ short_editor:
 - family: Huschka
   given: T.
 - family: Chick
-  given: S. E.
+  given: S.E.
 short_title: Agricultural adaptation to water scarcity
 status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity

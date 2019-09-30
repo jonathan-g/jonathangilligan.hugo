@@ -1,14 +1,15 @@
 references:
-- abstract: 'Modeling is essential to characterize and explore complex societal and
+- DOI: 10.18174/sesmo.2020a16226
+  abstract: 'Modeling is essential to characterize and explore complex societal and
     environmental issues in systematic and collaborative ways. Socio-environmental
     systems (SES) modeling integrates knowledge and perspectives into conceptual and
     computational tools that explicitly recognize how human decisions affect the environment.
     Depending on the modeling purpose, many SES modelers also realize that involvement
-    of stakeholders and experts is fundamental to support social learning and decision
-    making processes for achieving improved environmental and social outcomes. The
-    contribution of this paper lies in identifying and formulating grand challenges
-    that need to be overcome to accelerate the development and adaptation of SES modeling.
-    Eight challenges are delineated: bridging epistemologies across disciplines; multi-dimensional
+    of stakeholders and experts is fundamental to support social learning and decision-making
+    processes for achieving improved environmental and social outcomes. The contribution
+    of this paper lies in identifying and formulating grand challenges that need to
+    be overcome to accelerate the development and adaptation of SES modeling. Eight
+    challenges are delineated: bridging epistemologies across disciplines; multi-dimensional
     uncertainty assessment and management; scales and scaling issues; combining qualitative
     and quantitative methods and data; furthering the adoption and impacts of SES
     modeling on policy; capturing structural changes; representing human dimensions
@@ -52,15 +53,21 @@ references:
   - family: Lade
     given: Steven J.
   container-title: Socio-Environmental Systems Modeling
+  file:
+  - desc: full text
+    file: elsawah_2020_grand_challenges.pdf
   id: elsawah:grand.challenges:2019
   issued:
-  - day: 30
-    month: 12
-    year: 2019
-  status: In Press
+  - day: 1
+    month: 1
+    year: 2020
+  page: '16226'
+  status: published
   title: Eight grand challenges in socio-environmental systems modeling
   type: article-journal
-- abstract: 'Hazards and disasters arise from interactions between environmental and
+  volume: '2'
+- DOI: 10.1111/risa.13407
+  abstract: 'Hazards and disasters arise from interactions between environmental and
     social processes so interdisciplinary research is crucial to understanding and
     effectively managing them. Despite support and encouragement from funding agencies,
     universities, and journals and growing interest from researchers, interdisciplinary
@@ -88,12 +95,16 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Risk Analysis
+  file:
+  - desc: full text
+    file: gilligan_2019_expertise.pdf
   id: gilligan:collaboration:2019
   issued:
-  - day: 31
-    month: 12
+  - day: 23
+    month: 9
     year: 2019
-  status: In Press
+  note: Advance online publication.
+  status: published
   title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
     disaster research teams'
   title-short: Expertise across disciplines
@@ -105,11 +116,11 @@ references:
     \ the model to the 2017\u20132018 water crisis in Cape Town South Africa. We treat\
     \ the FEW nexus connecting municipal water use by Cape Town residents, agricultural\
     \ water use by vineyards, and hydroelectric generation. We compare two scenarios\
-    \ for responding to drought: business-as-usual (BAU), and holisticadaptive management\
+    \ for responding to drought: business-as-usual (BAU), and holistic adaptive management\
     \ (HAM), where BAU takes no action until the monthly supply is insufficient to\
     \ meet demand, whereas HAM takes action by raising water tariffs when the reservoir\
     \ storage level drops below its pre-drought monthly average. Simulation results\
-    \ suggest that holisticadaptive management can alleviate the impact of drought\
+    \ suggest that holistic adaptive management can alleviate the impact of drought\
     \ on agricultural production, hydropower generation, and the availability of water\
     \ for residential consumption."
   author:
@@ -135,6 +146,9 @@ references:
     given: P.
   - family: Son
     given: Y.-J.
+  file:
+  - desc: full text
+    file: ding_2019_day_zero.pdf
   id: ding:day.zero:2019
   issued:
   - day: 9
@@ -652,7 +666,7 @@ references:
   - day: 1
     month: 6
     year: 2016
-  note: "Featured by Taylor & Francis publishers as part of their observance of World\
+  note: " Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
   page: 508-524
@@ -687,9 +701,9 @@ references:
   container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
   - family: Roeder
-    given: T. M. K.
+    given: T.M.K.
   - family: Frazier
-    given: P. I.
+    given: P.I.
   - family: Szechtman
     given: R.
   - family: Zhou
@@ -697,7 +711,7 @@ references:
   - family: Huschka
     given: T.
   - family: Chick
-    given: S. E.
+    given: S.E.
   file:
   - desc: full text
     file: burchfield_2016_collective_adaptation.pdf
@@ -923,9 +937,9 @@ references:
   container-title: Proceedings of the 2016 Winter Simulation Conference
   editor:
   - family: Roeder
-    given: T. M. K.
+    given: T.M.K.
   - family: Frazier
-    given: P. I.
+    given: P.I.
   - family: Szechtman
     given: R.
   - family: Zhou
@@ -933,7 +947,7 @@ references:
   - family: Huschka
     given: T.
   - family: Chick
-    given: S. E.
+    given: S.E.
   file:
   - desc: full text
     file: nay_2016_betting_belief.pdf
@@ -1117,15 +1131,15 @@ references:
   - family: Yilmaz
     given: L.
   - family: Chan
-    given: W. K. V.
+    given: W.K.V.
   - family: Moon
     given: I.
   - family: Roeder
-    given: T. M. K.
+    given: T.M.K.
   - family: Macal
     given: C.
   - family: Rossetti
-    given: M. D.
+    given: M.D.
   file:
   - desc: full text
     file: gilligan_2015_flood_partsim.pdf
@@ -1211,15 +1225,15 @@ references:
   - family: Yilmaz
     given: L.
   - family: Chan
-    given: W. K. V.
+    given: W.K.V.
   - family: Moon
     given: I.
   - family: Roeder
-    given: T. M. K.
+    given: T.M.K.
   - family: Macal
     given: C.
   - family: Rossetti
-    given: M. D.
+    given: M.D.
   file:
   - desc: full text
     file: nay_2015_dynamic_decision_models.pdf
@@ -1409,7 +1423,7 @@ references:
   - family: Rogers
     given: Kimberly G.
   - family: Syvitski
-    given: James P. M.
+    given: James P.M.
   - family: Overeem
     given: Irina
   - family: Higgins
@@ -1624,7 +1638,7 @@ references:
   id: gilligan:2010:behavioral.wedge
   issued:
   - year: 2010
-  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   page: 17-20
   status: published
   title: The behavioral wedge
@@ -1698,8 +1712,8 @@ references:
   id: vandenbergh:2010:implementing.behavioral.wedge
   issued:
   - year: 2010
-  note: Selected by Environmental Law Institute to reprint as the featured cover story
-    of the 2010 summer reading issue for policymakers of Environmental Forum.
+  note: ' Selected by Environmental Law Institute to reprint as the featured cover
+    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
   page: 547-554
   ssrn: '1617426'
   status: published
@@ -1823,7 +1837,7 @@ references:
   id: holcomb:2009:dual.camera
   issued:
   - year: 2009
-  note: '*Selected by the editors as the feature article of the month.*'
+  note: ' *Selected by the editors as the feature article of the month.*'
   page: 1355-1372
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
@@ -1889,7 +1903,7 @@ references:
   - family: Mashburn
     given: David N.
   - family: Hinkson
-    given: S. J.
+    given: S.J.
   - family: Woods
     given: Marcella C.
   - family: Gilligan
@@ -2001,9 +2015,9 @@ references:
   - family: Talley
     given: D.
   - family: Sanghera
-    given: J. S.
+    given: J.S.
   - family: Aggarwal
-    given: I. D.
+    given: I.D.
   - family: Gilligan
     given: Jonathan M.
   - family: Tolk
@@ -2042,7 +2056,7 @@ references:
   - family: Tolk
     given: N.
   - family: Taylor
-    given: P. C.
+    given: P.C.
   container-title: Journal of Non-Crystalline Solids
   file:
   - desc: full text
@@ -2082,9 +2096,9 @@ references:
   - family: Talley
     given: David
   - family: Sanghera
-    given: J. S.
+    given: J.S.
   - family: Aggarwal
-    given: I. D.
+    given: I.D.
   - family: Gilligan
     given: Jonathan Mark
   - family: Tolk
@@ -2224,11 +2238,11 @@ references:
   - family: Talley
     given: David B.
   - family: Shaw
-    given: L. B.
+    given: L.B.
   - family: Sanghera
-    given: J. S.
+    given: J.S.
   - family: Aggarwal
-    given: I. D.
+    given: I.D.
   - family: Cricenti
     given: Antonio
   - family: Generosi
