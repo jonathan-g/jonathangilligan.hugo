@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jmgilligan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jonathangilligan.org
+  * I am jmgilligan (https://keybase.io/jmgilligan) on keybase.
+  * I have a public key ASBluteinsPuIsNDERks5RHGk9EJ-yCxiREHiNePt8nCowo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012065bad7a29ec3ee22c34311192ce511c693d109fb20b189110788d78fb7c9c2a30a",
+      "host": "keybase.io",
+      "kid": "012065bad7a29ec3ee22c34311192ce511c693d109fb20b189110788d78fb7c9c2a30a",
+      "uid": "e62589034569b3b7a41cc5c8ffdad319",
+      "username": "jmgilligan"
+    },
+    "merkle_root": {
+      "ctime": 1573343071,
+      "hash": "5182dc96e34ed6ed48f36c308d874d1afd940c75772ce0c91d3df256aa9d43b5c84b9a297c362272535aed04a187c221b40720ffccae9414cf4c4fdb1ccc8429",
+      "hash_meta": "0b6c375a08ac342e2bf8efe889a12829a80b3045290f2d4711d015e43cedbd80",
+      "seqno": 9041830
+    },
+    "service": {
+      "entropy": "ukwUqlz2K0Cxsotyt5F9Nfbx",
+      "hostname": "www.jonathangilligan.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573343086,
+  "expire_in": 504576000,
+  "prev": "2b164239d7d55e29f7fe244a0f7e773964c1899982966d7adbf35932bed8a2b3",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZbrXop7D7iLDQxEZLOURxpPRCfsgsYkRB4jXj7fJwqMKp3BheWxvYWTESpcCBsQgKxZCOdfVXin3/iRKD353OWTBiZmClm162/NZMr7YorPEIEgOIktvj31sGedPI3z0zSBY4D8i2fV1PAxX5wuXkLdVAgHCo3NpZ8RATcfmyOvkb2fdUUYoQ+rTS2TOvW4tE3crPdJ1FNd8zAAXbxnUKDcTGVc5tYuqTKWeLzBgA17iwwoXI7bHY5K1CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPb62TJ9iM1JkDAk648ES0EXcHwyNudcTf94aqasO/nHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jmgilligan
+
+==================================================================
