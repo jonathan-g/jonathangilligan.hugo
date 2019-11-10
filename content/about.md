@@ -105,7 +105,7 @@ Click to download a high-resolution version. These may be used in media releases
   <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
   <li> SSRN ID: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
   <li><i class="fa-li {{< fa_icon weight="b" icon="github" >}}" style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
-  <li><i class="fa-li {{< fa_icon weight="l" icon="key" >}}" style="padding-top:3px;"></i> PGP/GPG fingerprint <a href="/files/public_keys/jmgilligan.asc">33BC 0979 D91B C6C0 F874 6DEB 443A 4340 AA92 A618</a> <a href="https://pgp.key-server.io/pks/lookup?search=jonathan.gilligan%40vanderbilt.edu">[Public Key Server]</a> (<a href="https://futureboy.us/pgp.html">what is this?</a>)
+  <li><i class="fa-li {{< fa_icon weight="l" icon="key" >}}" style="padding-top:3px;"></i> PGP/GPG fingerprint <a href="/files/public_keys/jmgilligan.asc" target="_blank">33BC 0979 D91B C6C0 F874 6DEB 443A 4340 AA92 A618</a> <a href="https://pgp.key-server.io/pks/lookup?search=jonathan.gilligan%40vanderbilt.edu" target="_blank">[Public Key Server]</a> (<a href="https://futureboy.us/pgp.html" target="_blank">what is this?</a>)
   <li><i class="fa-li {{< fa_icon weight="l" icon="globe">}}" style="padding-top:3px;"></i> <a href="https://keybase.io/jmgilligan">Verified identities</a> at <a href="https://keybase.io/jmgilligan"><tt>keybase.io</tt></a>
 </ul>
 
