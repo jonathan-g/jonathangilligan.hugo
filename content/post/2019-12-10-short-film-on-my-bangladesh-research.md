@@ -3,6 +3,7 @@ title: Short film on my Bangladesh research
 author: Jonathan Gilligan
 date: '2019-12-10'
 slug: short-film-on-my-bangladesh-research
+summary: "A short film about my collaborative interdisciplinary research project in Bangladesh is featured at the AGU Cinema at the 2019 Fall Meeting of the American Geophysical Union, and is also available on YouTube. The film, by Andre Leroux, focuses on interdisciplinary research on the changing river systems of Bangladesh and the prospect of sustainably managing the delta in the face of climate change and sea-level rise."
 categories:
 - blog posts
 tags:
