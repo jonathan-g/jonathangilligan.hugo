@@ -25,21 +25,21 @@ pub_type: paper-conference
 pubdate: '1994-01-01'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Elkins
-  given: J. W.
+  given: J.W.
 - family: Fahey
-  given: D. W.
+  given: D.W.
 - family: Dutton
-  given: G. S.
+  given: G.S.
 - family: Volk
-  given: C. M.
+  given: C.M.
 - family: Baring
-  given: T. J.
+  given: T.J.
 - family: Dunn
-  given: R. E.
+  given: R.E.
 - family: Myers
-  given: R. C.
+  given: R.C.
 status: published
 title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
   with a new *in situ* instrument, airborne chromatograph for atmospheric trace species

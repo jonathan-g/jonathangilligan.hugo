@@ -32,23 +32,23 @@ pub_type: article-journal
 pubdate: '1997-01-01'
 short_author:
 - family: Volk
-  given: C. M.
+  given: C.M.
 - family: Elkins
-  given: J. W.
+  given: J.W.
 - family: Fahey
-  given: D. W.
+  given: D.W.
 - family: Dutton
-  given: G. S.
+  given: G.S.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Loewenstein
   given: M.
 - family: Podolske
-  given: J. R.
+  given: J.R.
 - family: Chan
-  given: K. R.
+  given: K.R.
 - family: Gunson
-  given: M. R.
+  given: M.R.
 status: published
 title: Evaluation of source gas lifetimes from stratospheric observations
 volume: '102'

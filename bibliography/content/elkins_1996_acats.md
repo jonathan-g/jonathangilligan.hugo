@@ -64,55 +64,55 @@ pub_type: article-journal
 pubdate: '1996-01-01'
 short_author:
 - family: Elkins
-  given: J. W.
+  given: J.W.
 - family: Fahey
-  given: D. W.
+  given: D.W.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Dutton
-  given: G. S.
+  given: G.S.
 - family: Baring
-  given: T. J.
+  given: T.J.
 - family: Volk
-  given: C. M.
+  given: C.M.
 - family: Dunn
-  given: R. E.
+  given: R.E.
 - family: Myers
-  given: R. C.
+  given: R.C.
 - family: Montzka
-  given: S. A.
+  given: S.A.
 - family: Wamsley
-  given: P. R.
+  given: P.R.
 - family: Hayden
-  given: A. H.
+  given: A.H.
 - family: Butler
-  given: J. H.
+  given: J.H.
 - family: Thompson
-  given: T. M.
+  given: T.M.
 - family: Swanson
-  given: T. H.
+  given: T.H.
 - family: Dlugokencky
-  given: E. J.
+  given: E.J.
 - family: Novelli
-  given: P. C.
+  given: P.C.
 - family: Hurst
-  given: D. F.
+  given: D.F.
 - family: Lobert
-  given: J. M.
+  given: J.M.
 - family: Ciciora
-  given: S. J.
+  given: S.J.
 - family: McLaughlin
-  given: R. J.
+  given: R.J.
 - family: Thompson
-  given: T. L.
+  given: T.L.
 - family: Winkler
-  given: R. H.
+  given: R.H.
 - family: Fraser
-  given: P. J.
+  given: P.J.
 - family: Steele
-  given: L. P.
+  given: L.P.
 - family: Lucarelli
-  given: M. P.
+  given: M.P.
 status: published
 title: Airborne gas chromatograph for *in situ* measurements of long-lived species
   in the upper troposphere and lower stratosphere

@@ -30,17 +30,17 @@ short_author:
 - family: Eichmann
   given: U.
 - family: Bergquist
-  given: J. C.
+  given: J.C.
 - family: Bollinger
-  given: J. J.
+  given: J.J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Itano
-  given: W. M.
+  given: W.M.
 - family: Wineland
-  given: D. J.
+  given: D.J.
 - family: Raizen
-  given: M. G.
+  given: M.G.
 status: published
 title: "Young\u2019s interference experiment with light scattered from two atoms"
 volume: '70'

@@ -22,9 +22,9 @@ pub_type: article-journal
 pubdate: '2015-01-01'
 short_author:
 - family: Hornberger
-  given: G. M.
+  given: G.M.
 - family: Hess
-  given: D. J.
+  given: D.J.
 - family: Gilligan
   given: J.
 status: published

@@ -18,7 +18,8 @@ pub_url: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
 pubdate: '2018-12-31'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
+short_title: Carrots and sticks
 ssrn: '3284035'
 ssrn_id: '3284035'
 status: published

@@ -38,7 +38,7 @@ pub_type: article-journal
 pubdate: '1998-01-01'
 short_author:
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Hargitai
   given: Z.
 - family: Yao
@@ -46,15 +46,15 @@ short_author:
 - family: Pratt-Ferguson
   given: B.
 - family: Albert
-  given: M. M.
+  given: M.M.
 - family: Albridge
-  given: R. G.
+  given: R.G.
 - family: Barnes
-  given: A. V.
+  given: A.V.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Gordon
-  given: V. D.
+  given: V.D.
 - family: Lupke
   given: G.
 - family: Puckett

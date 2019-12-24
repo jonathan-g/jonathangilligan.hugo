@@ -22,11 +22,11 @@ pub_url: https://www.gwlr.org/topic-modeling-the-president-conventional-and-comp
 pubdate: '2018-10-06'
 short_author:
 - family: Ruhl
-  given: J. B.
+  given: J.B.
 - family: Nay
   given: J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Topic modeling the president
 ssrn: '3086226'
 ssrn_id: '3086226'

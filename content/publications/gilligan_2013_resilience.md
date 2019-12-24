@@ -22,11 +22,11 @@ publisher: Bangladesh Development Initiative
 publisher_place: Berkeley, CA
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Ackerly
-  given: B. A.
+  given: B.A.
 - family: Goodbred
-  given: S. L.
+  given: S.L.
 short_title: Resilience to environmental stress in bangladesh
 status: published
 title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated

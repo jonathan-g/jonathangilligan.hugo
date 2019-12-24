@@ -34,23 +34,23 @@ short_author:
 - family: Sturmann
   given: J.
 - family: Albridge
-  given: R. G.
+  given: R.G.
 - family: Barnes
-  given: A. V.
+  given: A.V.
 - family: Gilligan
   given: J.
 - family: Graham
-  given: M. T.
+  given: M.T.
 - family: McKinley
-  given: J. T.
+  given: J.T.
 - family: Wang
   given: W.
 - family: Yang
   given: X.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Davidson
-  given: J. L.
+  given: J.L.
 - family: Margaritondo
   given: G.
 status: published

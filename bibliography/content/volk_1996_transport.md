@@ -38,29 +38,29 @@ pub_type: article-journal
 pubdate: '1996-01-01'
 short_author:
 - family: Volk
-  given: C. M.
+  given: C.M.
 - family: Elkins
-  given: J. W.
+  given: J.W.
 - family: Fahey
-  given: D. W.
+  given: D.W.
 - family: Salawitch
-  given: R. J.
+  given: R.J.
 - family: Dutton
-  given: G. S.
+  given: G.S.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Proffitt
-  given: M. H.
+  given: M.H.
 - family: Loewenstein
   given: M.
 - family: Podolske
-  given: J. R.
+  given: J.R.
 - family: Minschwaner
   given: K.
 - family: Margitan
-  given: J. J.
+  given: J.J.
 - family: Chan
-  given: K. R.
+  given: K.R.
 status: published
 title: Quantifying transport between the tropical and mid-latitude lower stratosphere
 volume: '272'

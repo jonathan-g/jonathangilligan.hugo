@@ -33,11 +33,11 @@ short_author:
 - family: Kitai
   given: M.
 - family: Edwards
-  given: G. S.
+  given: G.S.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: Effect of wavelength on threshold and kinetics of tissue denaturation under
   laser radiation

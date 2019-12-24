@@ -2,7 +2,7 @@
 DOI: 10.1016/j.apgeog.2016.10.003
 author:
 - family: Burchfield
-  given: Emily K
+  given: Emily K.
 - family: Gilligan
   given: Jonathan
 container_title: Applied Geography
@@ -23,7 +23,7 @@ pubdate: '2016-12-31'
 publisher: Elsevier
 short_author:
 - family: Burchfield
-  given: E. K
+  given: E.K.
 - family: Gilligan
   given: J.
 short_title: Agricultural adaptation to drought

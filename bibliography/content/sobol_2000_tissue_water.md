@@ -31,9 +31,9 @@ short_author:
 - family: Kitai
   given: M.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Edwards
-  given: G. S.
+  given: G.S.
 status: published
 title: Alteration of absorption coefficients of tissue water as a result of heating
   under IR FEL radiation with different wavelengths

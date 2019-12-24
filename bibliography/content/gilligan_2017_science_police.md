@@ -20,7 +20,8 @@ pub_url: http://issues.org/34-1/forum-36/
 pubdate: '2017-10-01'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
+short_title: Cops on the science beat
 title: Are cops on the science beat?
 volume: '34'
 ---

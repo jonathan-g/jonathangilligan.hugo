@@ -37,17 +37,17 @@ pub_type: patent
 pubdate: '2010-04-27'
 short_author:
 - family: Baudenbacher
-  given: F. J.
+  given: F.J.
 - family: Wikswo
-  given: J. P.
+  given: J.P.
 - family: Balcarcel
-  given: R. R.
+  given: R.R.
 - family: Cliffel
   given: D.
 - family: Eklund
   given: S.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: McGuinness
   given: O.
 - family: Monroe

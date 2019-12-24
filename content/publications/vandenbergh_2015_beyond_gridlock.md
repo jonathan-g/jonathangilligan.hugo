@@ -20,9 +20,9 @@ pub_url: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
 pubdate: '2015-01-01'
 short_author:
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 ssrn: '2533643'
 ssrn_id: '2533643'
 status: published

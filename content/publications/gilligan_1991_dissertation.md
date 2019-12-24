@@ -12,7 +12,7 @@ pubdate: '1991-01-01'
 publisher: Yale University
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 title: Precise multiphoton spectroscopy of the $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
   molecules and a new determination of the ionization potential of $\ce{HD}$
 ---

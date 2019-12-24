@@ -26,17 +26,17 @@ short_author:
 - family: Lupke
   given: G.
 - family: Cheney
-  given: C. P.
+  given: C.P.
 - family: Sturman
   given: J.
 - family: Keay
-  given: J. C.
+  given: J.C.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Feldman
-  given: L. C.
+  given: L.C.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 short_title: Materials science at the WM Keck free electron laser
 status: published
 title: 'Materials science at the WM Keck free electron laser: Infrared wavelength

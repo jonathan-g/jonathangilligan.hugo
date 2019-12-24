@@ -25,9 +25,9 @@ short_author:
 - family: Gunda
   given: T.
 - family: Hornberger
-  given: G. M.
+  given: G.M.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Patterns of drought in Sri Lanka
 status: published
 title: "Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881\u20132010"

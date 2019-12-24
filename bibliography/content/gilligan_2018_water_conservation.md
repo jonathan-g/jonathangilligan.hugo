@@ -28,17 +28,18 @@ pub_type: article-journal
 pubdate: '2018-06-12'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Wold
-  given: C. A.
+  given: C.A.
 - family: Worland
-  given: S. C.
+  given: S.C.
 - family: Nay
-  given: J. J.
+  given: J.J.
 - family: Hess
-  given: D. J.
+  given: D.J.
 - family: Hornberger
-  given: G. M.
+  given: G.M.
+short_title: Urban water conservation policies
 status: published
 title: Urban water conservation policies in the United States
 volume: '6'

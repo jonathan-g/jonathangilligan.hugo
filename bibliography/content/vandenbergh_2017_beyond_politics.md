@@ -19,9 +19,9 @@ publisher: Cambridge University Press
 publisher_place: New York, NY
 short_author:
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Beyond politics
 status: In press; publication date 30 November, 2017
 title: 'Beyond politics: The private governance response to climate change'

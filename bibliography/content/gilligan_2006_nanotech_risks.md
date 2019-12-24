@@ -16,7 +16,7 @@ pub_type: article-journal
 pubdate: '2006-01-01'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Managing nanotechnology risks
 status: published
 title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy

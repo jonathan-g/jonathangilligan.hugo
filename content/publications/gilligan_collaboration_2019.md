@@ -18,7 +18,7 @@ pub_type: article-journal
 pubdate: '2019-09-23'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Expertise across disciplines
 status: published
 title: 'Expertise across disciplines: Establishing common ground in interdisciplinary

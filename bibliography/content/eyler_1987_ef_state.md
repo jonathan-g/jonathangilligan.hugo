@@ -20,9 +20,9 @@ pub_type: article-journal
 pubdate: '1987-01-01'
 short_author:
 - family: Eyler
-  given: E. E.
+  given: E.E.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: McCormack
   given: E.
 - family: Nussenzweig

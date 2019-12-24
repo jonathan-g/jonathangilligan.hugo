@@ -13,15 +13,15 @@ editor:
 - family: Yilmaz
   given: L.
 - family: Chan
-  given: W.K.V.
+  given: W. K. V.
 - family: Moon
   given: I.
 - family: Roeder
-  given: T.M.K.
+  given: T. M. K.
 - family: Macal
   given: C.
 - family: Rossetti
-  given: M.D.
+  given: M. D.
 file:
 - desc: full text
   file: nay_2015_dynamic_decision_models.pdf
@@ -36,9 +36,9 @@ publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
 - family: Nay
-  given: J. J.
+  given: J.J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_editor:
 - family: Yilmaz
   given: L.

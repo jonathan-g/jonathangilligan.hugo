@@ -1,6 +1,39 @@
 ---
 references:
-- id: elsawah:grand.challenges:2019
+- id: gilligan:framework:2020
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Vandenbergh
+    given: Michael P.
+  issued:
+  - year: 2020
+    month: 2
+    day: 1
+  title: A framework for assessing the impact of private climate governance
+  title-short: Private climate governance
+  container-title: Energy Research and Social Science
+  page: '101400'
+  volume: '60'
+  status: published
+  abstract: The growing sense of urgency by the public for action to address climate
+    change stands in stark contrast to the slow pace and limited accomplishments of
+    national and international institutions to reduce greenhouse gas emissions. Political
+    institutions face significant structural barriers to taking strong and rapid action
+    to cut emissions, but private environmental governance has potential to avoid
+    those barriers and achieve rapid emissions reductions. It appears unlikely that
+    private governance alone can reduce emissions enough to stabilize the climate,
+    but it does have the potential to reduce emissions sufficiently and quickly enough
+    to buy time for enacting more comprehensive public governance measures. In this
+    Perspective, we review what is known about private governance, present a framework
+    for analyzing private governance initiatives, outline the prospects of the framework
+    for understanding and guiding private governance, and identify future research
+    priorities for applying this framework.
+  URL: https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY
+  DOI: 10.1016/j.erss.2019.101400
+
+- id: elsawah:grand.challenges:2020
   type: article-journal
   author:
   - family: Elsawah
@@ -38,12 +71,13 @@ references:
     month: 1
     day: 1
   title: Eight grand challenges in socio-environmental systems modeling
+  title-short: Grand challenges for SES modeling
   container-title: Socio-Environmental Systems Modeling
   page: '16226'
   volume: '2'
   status: published
-  abstract: 'Modeling is essential to characterize and explore complex societal
-    and environmental issues in systematic and collaborative ways. Socio-environmental
+  abstract: 'Modeling is essential to characterize and explore complex societal and
+    environmental issues in systematic and collaborative ways. Socio-environmental
     systems (SES) modeling integrates knowledge and perspectives into conceptual and
     computational tools that explicitly recognize how human decisions affect the environment.
     Depending on the modeling purpose, many SES modelers also realize that involvement
@@ -80,10 +114,10 @@ references:
   container-title: Risk Analysis
   status: published
   note: Advance online publication.
-  abstract: 'Hazards and disasters arise from interactions between environmental
-    and social processes so interdisciplinary research is crucial to understanding
-    and effectively managing them. Despite support and encouragement from funding
-    agencies, universities, and journals and growing interest from researchers, interdisciplinary
+  abstract: 'Hazards and disasters arise from interactions between environmental and
+    social processes so interdisciplinary research is crucial to understanding and
+    effectively managing them. Despite support and encouragement from funding agencies,
+    universities, and journals and growing interest from researchers, interdisciplinary
     disaster research teams face significant obstacles, such as the difficulty of
     establishing effective communication and understanding across disciplines. Better
     understanding of interdisciplinary teamwork can also have important practical
@@ -167,7 +201,7 @@ references:
     day: 9
   title: Modelling diet choices
   container-title: Nature Sustainability
-  page: '661-662'
+  page: 661-662
   volume: '2'
   status: published
   note: Invited “News and Views” commentary.
@@ -197,8 +231,9 @@ references:
     month: 6
     day: 12
   title: Urban water conservation policies in the United States
+  title-short: Urban water conservation policies
   container-title: Earth’s Future
-  page: '955-967'
+  page: 955-967
   volume: '6'
   status: published
   abstract: Urban water supply systems in the United States are increasingly stressed
@@ -233,8 +268,9 @@ references:
     month: 12
     day: 31
   title: Carrots and sticks in private climate governance
+  title-short: Carrots and sticks
   container-title: Texas A&M Law Review
-  page: '179-198'
+  page: 179-198
   volume: '6'
   status: published
   abstract: When public governance fails to address important environmental threats—such
@@ -260,9 +296,9 @@ references:
     month: 1
     day: 1
   title: 'Climate modeling: Accounting for the human factor'
-  title-short: Climate modeling
+  title-short: Accounting for the human factor
   container-title: Nature Climate Change
-  page: '14-15'
+  page: 14-15
   volume: '8'
   status: published
   note: “News and Views” commentary.
@@ -289,11 +325,11 @@ references:
   - year: 2018
     month: 8
     day: 7
-  title: 'Employee energy benefits: What are they and what effects do they have
-    on employees?'
+  title: 'Employee energy benefits: What are they and what effects do they have on
+    employees?'
   title-short: Employee energy benefits
   container-title: Energy Efficiency
-  page: '1065-1083'
+  page: 1065-1083
   volume: '12'
   issue: '5'
   status: published
@@ -335,11 +371,10 @@ references:
   - year: 2018
     month: 12
     day: 1
-  title: 'Dialogue: Beyond politics: The private governance response to climate
-    change'
-  title-short: Dialogue
+  title: 'Dialogue: Beyond politics: The private governance response to climate change'
+  title-short: 'Dialogue: Beyond politics'
   container-title: Environmental Law Reporter
-  page: '11049-11062'
+  page: 11049-11062
   volume: '48'
   status: published
   abstract: When the United States withdrew from the Paris Climate Agreement, 100
@@ -371,7 +406,7 @@ references:
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   container-title: George Washington Law Review
-  page: '1243-1315'
+  page: 1243-1315
   volume: '86'
   status: published
   abstract: Law is generally represented through text, and lawyers have for centuries
@@ -420,7 +455,7 @@ references:
   container-title: Climate change, migration, and human rights
   publisher: Routledge
   publisher-place: New York
-  page: '189-202'
+  page: 189-202
   status: published
   abstract: Climate change is a global problem. However, between the global forces
     of climate change and the individual challenges of meeting basic needs, communities
@@ -447,8 +482,9 @@ references:
     month: 10
     day: 1
   title: Are cops on the science beat?
+  title-short: Cops on the science beat
   container-title: Issues in Science and Technology
-  page: '6-8'
+  page: 6-8
   volume: '34'
   issue: 1, Fall
   note: Commentary invited by the editor
@@ -477,8 +513,9 @@ references:
     month: 12
     day: 18
   title: A machine-learning approach to forecasting remotely sensed vegetation health
+  title-short: Forecasting vegetation health
   container-title: International Journal of Remote Sensing
-  page: '1800-1816'
+  page: 1800-1816
   volume: '39'
   status: published
   abstract: 'Drought threatens food and water security around the world, and this
@@ -553,6 +590,7 @@ references:
     day: 27
   title: Widespread infilling of tidal channels and navigable waterways in human-modified
     tidal deltaplain of southwest Bangladesh
+  title-short: Infilling of tidal channels
   container-title: Elementa
   page: '78'
   volume: '5'
@@ -621,11 +659,11 @@ references:
     Bangladesh'
   title-short: Drinking water insecurity
   container-title: International Journal of Environmental Health Research
-  page: '508-524'
+  page: 508-524
   volume: '26'
   status: published
-  note: ' Featured by Taylor & Francis publishers as part of their observance of
-    World Water Day 2017. T&F opened free access to the article and published an accompanying
+  note: 'Featured by Taylor & Francis publishers as part of their observance of World
+    Water Day 2017. T&F opened free access to the article and published an accompanying
     “Research Story” with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>.'
   abstract: National drinking water assessments for Bangladesh do not reflect local
     variability, or temporal differences. This paper reports on the findings of an
@@ -644,7 +682,7 @@ references:
     for SpC, although the majority of residents surveyed did not perceive their water
     as having a “bad” or “salty” taste.
   DOI: 10.1080/09603123.2016.1194383
-  ISSN: '0960-3123'
+  ISSN: 0960-3123
   PMID: '27277537'
 
 - id: burchfield:2016:abm
@@ -656,9 +694,9 @@ references:
     given: Jonathan M.
   editor:
   - family: Roeder
-    given: T.M.K.
+    given: T. M. K.
   - family: Frazier
-    given: P.I.
+    given: P. I.
   - family: Szechtman
     given: R.
   - family: Zhou
@@ -666,7 +704,7 @@ references:
   - family: Huschka
     given: T.
   - family: Chick
-    given: S.E.
+    given: S. E.
   issued:
   - year: 2016
     month: 12
@@ -677,7 +715,7 @@ references:
   collection-title: WSC’16
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: '1678-1689'
+  page: 1678-1689
   status: published
   abstract: 'Drought and water scarcity are growing challenges to agriculture around
     the world. Farmers can adapt through both individual and community-based collective
@@ -702,7 +740,7 @@ references:
   type: article-journal
   author:
   - family: Burchfield
-    given: Emily K
+    given: Emily K.
   - family: Gilligan
     given: Jonathan
   issued:
@@ -713,7 +751,7 @@ references:
   title-short: Agricultural adaptation to drought
   container-title: Applied Geography
   publisher: Elsevier
-  page: '92-100'
+  page: 92-100
   volume: '77'
   status: published
   abstract: Droughts affect more people than any other natural disaster. Drought severity
@@ -757,7 +795,7 @@ references:
   title-short: Prediction of vegetation health
   container-title: ISPRS—International Archives of the Photogrammetry, Remote Sensing
     and Spatial Information Sciences
-  page: '465-469'
+  page: 465-469
   volume: XLI-B2
   status: published
   abstract: This project applies machine learning techniques to remotely sensed imagery
@@ -778,7 +816,7 @@ references:
     is a significant concern.
   URL: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
   DOI: 10.5194/isprs-archives-XLI-B2-465-2016
-  ISSN: '1682-1750'
+  ISSN: 1682-1750
 
 - id: gunda:2016:drought.patterns
   type: article-journal
@@ -799,7 +837,7 @@ references:
   title: 'Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881–2010'
   title-short: Patterns of drought in Sri Lanka
   container-title: International Journal of Climatology
-  page: '563-575'
+  page: 563-575
   volume: '36'
   issue: '2'
   status: published
@@ -819,7 +857,7 @@ references:
     zone districts.
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
   DOI: 10.1002/joc.4365
-  ISSN: '1097-0088'
+  ISSN: 1097-0088
 
 - id: hess:2016:drought
   type: article-journal
@@ -845,7 +883,7 @@ references:
   title: Drought, risk, and institutional politics in the American Southwest
   container-title: Sociological Forum
   publisher: Wiley Online Library
-  page: '807-827'
+  page: 807-827
   volume: '31'
   status: published
   abstract: Although there are multiple causes of the water scarcity crisis in the
@@ -878,9 +916,9 @@ references:
     given: Jonathan M.
   editor:
   - family: Roeder
-    given: T.M.K.
+    given: T. M. K.
   - family: Frazier
-    given: P.I.
+    given: P. I.
   - family: Szechtman
     given: R.
   - family: Zhou
@@ -888,7 +926,7 @@ references:
   - family: Huschka
     given: T.
   - family: Chick
-    given: S.E.
+    given: S. E.
   issued:
   - year: 2016
     month: 12
@@ -903,7 +941,7 @@ references:
   collection-title: WSC’16
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: '1666-1677'
+  page: 1666-1677
   status: published
   abstract: Despite much scientific evidence, a large fraction of the American public
     doubts that greenhouse gases are causing global warming. We present a simulation
@@ -939,11 +977,11 @@ references:
   issued:
   - year: 2015
   title: Environment, political economies, and livelihood change
-  container-title: 'Environment, migration and adaptation: Evidence and politics
-    of climate change in Bangladesh'
+  container-title: 'Environment, migration and adaptation: Evidence and politics of
+    climate change in Bangladesh'
   publisher: AHDPH
   publisher-place: Dhaka
-  page: '27-39'
+  page: 27-39
   status: published
   abstract: Between the national and household factors, community or “meso-level”
     changes in political economy and livelihoods in southwestern Bangladesh illustrate
@@ -989,7 +1027,7 @@ references:
     delta plain
   title-short: Flood risk of natural and embanked landscapes
   container-title: Nature Climate Change
-  page: '152-157'
+  page: 152-157
   volume: '5'
   issue: '2'
   status: published
@@ -1043,7 +1081,7 @@ references:
     day: 3
   title: Reply to ‘Tidal river management in Bangladesh’
   container-title: Nature Climate Change
-  page: '492-493'
+  page: 492-493
   volume: '5'
   issue: '6'
   status: published
@@ -1068,15 +1106,15 @@ references:
   - family: Yilmaz
     given: L.
   - family: Chan
-    given: W.K.V.
+    given: W. K. V.
   - family: Moon
     given: I.
   - family: Roeder
-    given: T.M.K.
+    given: T. M. K.
   - family: Macal
     given: C.
   - family: Rossetti
-    given: M.D.
+    given: M. D.
   issued:
   - year: 2015
   accessed:
@@ -1088,7 +1126,7 @@ references:
   collection-title: WSC ’15
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: '3174-3175'
+  page: 3174-3175
   status: published
   abstract: Flood-control measures, such as levees and floodwalls, can backfire and
     increase risks of disastrous floods by giving the public a false sense of security
@@ -1101,7 +1139,7 @@ references:
     emergence in CHNS and present results from two pilot studies.
   URL: https://ieeexplore.ieee.org/document/7408456/
   DOI: 10.1109/WSC.2015.7408456
-  ISBN: '978-1-4673-9741-4'
+  ISBN: 978-1-4673-9741-4
 
 - id: hornberger:2015:hydrological.transitions
   type: article-journal
@@ -1120,7 +1158,7 @@ references:
     day: 12
   title: Water conservation and hydrological transitions in cities in the United States
   container-title: Water Resources Research
-  page: '4635-4649'
+  page: 4635-4649
   volume: '51'
   issue: '6'
   status: published
@@ -1142,7 +1180,7 @@ references:
     about how their research may or may not be adopted by decision-makers.
   keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
   DOI: 10.1002/2015WR016943
-  ISSN: '1944-7973'
+  ISSN: 1944-7973
 
 - id: nay:2015:decision.models
   type: paper-conference
@@ -1155,15 +1193,15 @@ references:
   - family: Yilmaz
     given: L.
   - family: Chan
-    given: W.K.V.
+    given: W. K. V.
   - family: Moon
     given: I.
   - family: Roeder
-    given: T.M.K.
+    given: T. M. K.
   - family: Macal
     given: C.
   - family: Rossetti
-    given: M.D.
+    given: M. D.
   issued:
   - year: 2015
   accessed:
@@ -1175,7 +1213,7 @@ references:
   collection-title: WSC ’15
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: '2752-2763'
+  page: 2752-2763
   status: published
   abstract: This article outlines a method for automatically generating models of
     dynamic decision-making that both have strong predictive power and are interpretable
@@ -1191,7 +1229,7 @@ references:
     models and degrees of stochasticity.
   URL: https://dl.acm.org/citation.cfm?id=2888619.2888935
   DOI: 10.1109/WSC.2015.7408381
-  ISBN: '978-1-4673-9741-4'
+  ISBN: 978-1-4673-9741-4
 
 - id: vandenbergh:2015:beyond.gridlock
   type: article-journal
@@ -1204,7 +1242,7 @@ references:
   - year: 2015
   title: Beyond gridlock
   container-title: Columbia Journal of Environmental Law
-  page: '217-303'
+  page: 217-303
   volume: '40'
   issue: '2'
   status: published
@@ -1240,11 +1278,11 @@ references:
   title: Accounting for political feasibility in climate instrument choice
   title-short: Accounting for political feasibility
   container-title: Virginia Environmental Law Journal
-  page: '1-26'
+  page: 1-26
   volume: '32'
   status: published
-  abstract: 'This Essay argues for consideration of political opportunity costs
-    in the criteria used to evaluate climate policy instruments. Law and policy debates
+  abstract: 'This Essay argues for consideration of political opportunity costs in
+    the criteria used to evaluate climate policy instruments. Law and policy debates
     typically evaluate policy instruments by their expected performance after adoption,
     tacitly excluding consideration of the timing of adoption. Under this standard,
     a comprehensive carbon pricing instrument, either in the form of a cap and trade
@@ -1277,7 +1315,7 @@ references:
   title: 'Energy and climate change: A climate prediction market'
   title-short: A climate prediction market
   container-title: UCLA Law Review
-  page: '1962-2017'
+  page: 1962-2017
   volume: '61'
   status: published
   abstract: 'Much of energy policy is driven by concerns about climate change. Views
@@ -1319,17 +1357,17 @@ references:
   issued:
   - year: 2013
     month: 2
-  title: 'Building resilience to environmental stress in coastal Bangladesh: An
-    integrated social, environmental, and engineering perspective'
+  title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated
+    social, environmental, and engineering perspective'
   title-short: Resilience to environmental stress in bangladesh
-  container-title: 'Bridging the policy-action divide: Challenges and prospects
-    for Bangladesh'
+  container-title: 'Bridging the policy-action divide: Challenges and prospects for
+    Bangladesh'
   publisher: Bangladesh Development Initiative
   publisher-place: Berkeley, CA
   status: published
-  abstract: 'Environmental vulnerability in Bangladesh—especially vulnerability
-    to climate change—is too often treated in isolation from the social, economic,
-    and political contexts in which communities and their inhabitants make their livelihood.
+  abstract: 'Environmental vulnerability in Bangladesh—especially vulnerability to
+    climate change—is too often treated in isolation from the social, economic, and
+    political contexts in which communities and their inhabitants make their livelihood.
     We propose that resilience and vulnerability to environmental stress are best
     understood in terms of a modification of Ostrom’s socioecological systems paradigm
     that we call “multiple dynamic equilibria:”multiple dynamic equilibria: livelihoods
@@ -1349,7 +1387,7 @@ references:
   - family: Rogers
     given: Kimberly G.
   - family: Syvitski
-    given: James P.M.
+    given: James P. M.
   - family: Overeem
     given: Irina
   - family: Higgins
@@ -1363,7 +1401,7 @@ references:
   collection-title: IAHS publ.
   publisher: Int’l. Assoc. Hydrolog. Sci.
   publisher-place: Gothenberg SE
-  page: '133-142'
+  page: 133-142
   volume: '358'
   status: published
   abstract: Deltas are dynamic landforms that have been the foci of agri- and aquacultural
@@ -1375,7 +1413,7 @@ references:
     farming in a dynamic environment can lead to socio-economic conflicts. Adaptation
     to these constantly changing variables requires flexible farming practices that
     must keep pace with changing climate.
-  ISBN: '978-1907161360'
+  ISBN: 978-1907161360
 
 - id: carrico:2011:behavioral.wedge.lessons
   type: article-journal
@@ -1394,15 +1432,14 @@ references:
     given: Jonathan M.
   issued:
   - year: 2011
-  title: 'Energy and climate change: Key lessons for implementing the behavioral
-    wedge'
+  title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
   title-short: Key lessons for implementing the behavioral wedge
   container-title: Journal of Energy & Environmental Law
-  page: '61-67'
+  page: 61-67
   volume: '2'
   status: published
-  abstract: 'The individual and household sector accounts for roughly 40 percent
-    of United States energy use and carbon dioxide emissions, yet the laws and policies
+  abstract: 'The individual and household sector accounts for roughly 40 percent of
+    United States energy use and carbon dioxide emissions, yet the laws and policies
     directed at reductions from this sector often reflect a remarkably simplistic
     model of behavior. This Essay addresses one of the obstacles to achieving a “behavioral
     wedge”behavioral wedge of individual and household emissions reductions: the lack
@@ -1445,7 +1482,7 @@ references:
   title: 'Macro-risks: The challenge for rational risk regulation'
   title-short: Macro risks
   container-title: Duke Environmental Law and Policy Forum
-  page: '401-431'
+  page: 401-431
   volume: '21'
   status: published
   abstract: Drawing on the recent financial crisis, we introduce the concept of macro-risk.
@@ -1552,10 +1589,10 @@ references:
   - year: 2010
   title: The behavioral wedge
   container-title: Significance
-  page: '17-20'
+  page: 17-20
   volume: '7'
   status: published
-  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   abstract: When nations fail to agree, can individual citizens make a difference?
     The third of our post-Copenhagen features is by Jonathan Gilligan, Thomas Dietz,
     Gerald T. Gardner, Paul C. Stern, and Michael P. Vandenbergh. They look at the
@@ -1577,7 +1614,7 @@ references:
   title-short: Ethics and future generations
   container-title: 'Opposing viewpoints: Ethics'
   publisher: Gale
-  page: '20-32'
+  page: 20-32
   volume: '2'
   status: published
 
@@ -1599,7 +1636,7 @@ references:
   title: Design principles for carbon emissions reduction programs
   title-short: Design principles for emissions reduction programs
   container-title: Environmental Science & Technology
-  page: '4847-4848'
+  page: 4847-4848
   volume: '44'
   status: published
   abstract: The goal, articulated by President Obama in 2009, of reducing U.S. carbon
@@ -1625,11 +1662,11 @@ references:
     emissions reduction programs'
   title-short: Implementing the behavioral wedge
   container-title: Environmental Law Reporter
-  page: '547-554'
+  page: 547-554
   volume: '40'
   status: published
-  note: ' Selected by Environmental Law Institute to reprint as the featured cover
-    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
+  note: Selected by Environmental Law Institute to reprint as the featured cover story
+    of the 2010 summer reading issue for policymakers of Environmental Forum.
   abstract: The time is ripe to identify additional politically viable, low-cost,
     nonintrusive strategies to reduce carbon emissions. This article examines how
     laws and policies can reduce U.S. carbon emissions by 7
@@ -1653,7 +1690,7 @@ references:
     vehicles'
   title-short: Costly myths
   container-title: Energy Policy
-  page: '2881-2888'
+  page: 2881-2888
   volume: '37'
   status: published
   abstract: Despite the large contribution of individuals and households to climate
@@ -1691,7 +1728,7 @@ references:
     emissions
   title-short: Behavioral wedge
   container-title: PNAS
-  page: '18452-18456'
+  page: 18452-18456
   volume: '106'
   status: published
   abstract: Most climate change policy attention has been addressed to long-term options,
@@ -1727,10 +1764,10 @@ references:
     and metabolism
   title-short: Dual-camera system
   container-title: Experimental Biology and Medicine
-  page: '1355-1372'
+  page: 1355-1372
   volume: '234'
   status: published
-  note: ' *Selected by the editors as the feature article of the month.*'
+  note: '*Selected by the editors as the feature article of the month.*'
   abstract: Fluorescence imaging has become a common modality in cardiac electrodynamics.
     A single fluorescent parameter is typically measured. Given the growing emphasis
     on simultaneous imaging of more than one cardiac variable, we present an analysis
@@ -1763,7 +1800,7 @@ references:
   title: 'Individual carbon emissions: The low-hanging fruit'
   title-short: Individual carbon emissions
   container-title: UCLA Law Review
-  page: '1701-1758'
+  page: 1701-1758
   volume: '55'
   status: published
   abstract: The individual and household sector generates roughly 30 to 40 percent
@@ -1788,7 +1825,7 @@ references:
   - family: Mashburn
     given: David N.
   - family: Hinkson
-    given: S.J.
+    given: S. J.
   - family: Woods
     given: Marcella C.
   - family: Gilligan
@@ -1803,7 +1840,7 @@ references:
     bath
   title-short: High-voltage cardiac stimulator
   container-title: Review of Scientific Instruments
-  page: '104302-104309'
+  page: 104302-104309
   volume: '78'
   status: published
   abstract: Defibrillators are a critical tool for treating heart disease; however,
@@ -1835,7 +1872,7 @@ references:
     risks'
   title-short: Managing nanotechnology risks
   container-title: Environmental Law Reporter
-  page: '10924-10930'
+  page: 10924-10930
   volume: '36'
   issue: '12'
   status: published
@@ -1870,7 +1907,7 @@ references:
     due to free-electron laser radiation
   title-short: Cornea and cartilege denaturation
   container-title: Journal of Biomedical Optics
-  page: '216-222'
+  page: 216-222
   volume: '8'
   issue: '2'
   status: published
@@ -1911,9 +1948,9 @@ references:
   - family: Talley
     given: D.
   - family: Sanghera
-    given: J.S.
+    given: J. S.
   - family: Aggarwal
-    given: I.D.
+    given: I. D.
   - family: Gilligan
     given: Jonathan M.
   - family: Tolk
@@ -1923,7 +1960,7 @@ references:
   title: Surface characterisation by near-field microscopy and atomic force microscopy
   title-short: Surface characterisation by near-field microscopy
   container-title: Advances in Science and Technology
-  page: '183-192'
+  page: 183-192
   volume: '32'
   status: published
 
@@ -1945,14 +1982,14 @@ references:
   - family: Tolk
     given: N.
   - family: Taylor
-    given: P.C.
+    given: P. C.
   issued:
   - year: 2002
   title: Defect transition energies and the density of electronic states in hydrogenated
     amorphous silicon
   title-short: Defects in amorphous silicon
   container-title: Journal of Non-Crystalline Solids
-  page: '621-625'
+  page: 621-625
   volume: '299'
   status: published
   abstract: Using photoluminescence excitation (PLE) spectroscopy, we report detailed
@@ -1980,9 +2017,9 @@ references:
   - family: Talley
     given: David
   - family: Sanghera
-    given: J.S.
+    given: J. S.
   - family: Aggarwal
-    given: I.D.
+    given: I. D.
   - family: Gilligan
     given: Jonathan Mark
   - family: Tolk
@@ -1993,7 +2030,7 @@ references:
     laser: $\ce{CH2}$ bond imaging in diamond films'
   title-short: Spectroscopic near-field microscopy
   container-title: Journal of Microscopy
-  page: '446-450'
+  page: 446-450
   volume: '202'
   status: published
   abstract: Hydrogen chemistry in thin films and biological systems is one of the
@@ -2036,7 +2073,7 @@ references:
   title: Infrared free-electron laser photoablation of diamond films
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   publisher: International Society for Optics; Photonics
-  page: '206-211'
+  page: 206-211
   status: published
   abstract: We report first IR free-electron laser experiments to compare and elucidate
     the effects of surface-localized vibrational excitation versus bulk vibrational
@@ -2075,7 +2112,7 @@ references:
     selective materials modification'
   title-short: Materials science at the WM Keck free electron laser
   container-title: Condensed Matter Theories
-  page: '349-364'
+  page: 349-364
   volume: '14'
   status: published
 
@@ -2101,16 +2138,16 @@ references:
   page: '78'
   volume: '3925'
   status: published
-  abstract: 'The effect of temperature dependent shift of water absorption band,
-    known for pure water, has been examined, for the first time, for tissue water,
-    using the IR Free Electron Laser radiation. Cooling kinetics of cartilage and
-    cornea irradiated was measured with a fluorimeter. We have modified the computation
-    algorithm to calculate the optical properties from these measurements more precisely.
-    Temperature dependence of the absorption coefficient of tissue water is studied,
-    for both sides of water absorption bands at 3.0 and 6.1 micrometers . It is shown
-    that cooling kinetics for samples irradiated with small laser intensity is the
-    same, for both wavelengths of each pair: 6.2 and 6.0; 6.35 and 5.92; 3.22 and
-    2.81; 3.15 and 2.87 micrometers .'
+  abstract: 'The effect of temperature dependent shift of water absorption band, known
+    for pure water, has been examined, for the first time, for tissue water, using
+    the IR Free Electron Laser radiation. Cooling kinetics of cartilage and cornea
+    irradiated was measured with a fluorimeter. We have modified the computation algorithm
+    to calculate the optical properties from these measurements more precisely. Temperature
+    dependence of the absorption coefficient of tissue water is studied, for both
+    sides of water absorption bands at 3.0 and 6.1 micrometers . It is shown that
+    cooling kinetics for samples irradiated with small laser intensity is the same,
+    for both wavelengths of each pair: 6.2 and 6.0; 6.35 and 5.92; 3.22 and 2.81;
+    3.15 and 2.87 micrometers .'
   DOI: 10.1117/12.384255
 
 - id: talley:2000:snom.tips
@@ -2119,11 +2156,11 @@ references:
   - family: Talley
     given: David B.
   - family: Shaw
-    given: L.B.
+    given: L. B.
   - family: Sanghera
-    given: J.S.
+    given: J. S.
   - family: Aggarwal
-    given: I.D.
+    given: I. D.
   - family: Cricenti
     given: Antonio
   - family: Generosi
@@ -2140,7 +2177,7 @@ references:
   - year: 2000
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   container-title: Materials Letters
-  page: '339-344'
+  page: 339-344
   volume: '42'
   status: published
   abstract: Chalcogenide glass optical fibers were fabricated into functional apertured
@@ -2177,7 +2214,7 @@ references:
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
     optical microscopy
   container-title: 'Physica Status Solidi A: Applied Research'
-  page: '345-349'
+  page: 345-349
   volume: '175'
   status: published
   abstract: We observed chemical contrast with subwavelength resolution on a III-V
@@ -2220,7 +2257,7 @@ references:
   title: Interface applications of scanning near-field optical microscopy with a free
     electron laser
   container-title: 'Physica Status Solidi A: Applied Research'
-  page: '317-329'
+  page: 317-329
   volume: '175'
   status: published
   abstract: The study of semiconductor interfaces and of solid interfaces in general
@@ -2263,7 +2300,7 @@ references:
   title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
     in metals and semiconductors
   container-title: 'Soviet Physics: Technical Physics'
-  page: '1069-1072'
+  page: 1069-1072
   volume: '44'
   status: published
   abstract: Studies of nonlinear, energy-selective material interactions localized
@@ -2306,7 +2343,7 @@ references:
   title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
     infrared optical microscopy
   container-title: Optical Engineering
-  page: '1381-1385'
+  page: 1381-1385
   volume: '38'
   status: published
   abstract: We fabricate scanning near-field optical microscope (IR-SNOM) probe tips
@@ -2348,7 +2385,7 @@ references:
   - year: 1999
   title: Singlemode chalcogenide fiber infrared SNOM probes
   container-title: Ultramicroscopy
-  page: '77-81'
+  page: 77-81
   volume: '77'
   status: published
   abstract: We have fabricated and tested infrared scanning near-field optical microscope
@@ -2384,7 +2421,7 @@ references:
     laser radiation
   container-title: International biomedical optics symposium
   publisher: SPIE
-  page: '122-129'
+  page: 122-129
   volume: '3601'
   status: published
   abstract: We consider the denaturation process as an alteration in ordered organization
@@ -2447,7 +2484,7 @@ references:
   title: First experimental results with the free electron laser coupled to a scanning
     near-field optical microscope
   container-title: 'Physica Status Solidi A: Applied Research'
-  page: '241-247'
+  page: 241-247
   volume: '170'
   status: published
   abstract: First experiments of coupling a free electron laser to a scanning near-field
@@ -2482,7 +2519,7 @@ references:
   - year: 1998
   title: Free-electron-laser near-field nanospectroscopy
   container-title: Applied Physics Letters
-  page: '151-153'
+  page: 151-153
   volume: '73'
   status: published
   abstract: First experiments at the Vanderbilt free electron lasers measured the
@@ -2517,11 +2554,11 @@ references:
   - year: 1998
   title: Infrared wavelength-selective photodesorption on diamond surfaces
   container-title: Applied Surface Science
-  page: '59-63'
+  page: 59-63
   volume: '129'
   status: published
-  abstract: 'We report first studies of photodesorption from diamond films using
-    the Vanderbilt Free-Electron Laser at two infrared wavelengths: 3.5 micron, corresponding
+  abstract: 'We report first studies of photodesorption from diamond films using the
+    Vanderbilt Free-Electron Laser at two infrared wavelengths: 3.5 micron, corresponding
     to localized absorption by C-H bonds at grain boundaries, and 5 micron, corresponding
     to two-phonon absorption by the bulk diamond. At 3.5 micron we observe two photodesorption
     thresholds at fluences well below the onset of ablation. In contrast, at 5 micron,
@@ -2566,7 +2603,7 @@ references:
   title: Molecular effects in measured sputtering yields on gold at near threshold
     energies
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
-  page: '676-679'
+  page: 676-679
   volume: '62'
   status: published
 
@@ -2597,7 +2634,7 @@ references:
   - year: 1998
   title: Coupled electron-hole dynamics at the $\ce{Si/SiO2}$ interface
   container-title: Physical Review Letters
-  page: '4224-4227'
+  page: 4224-4227
   volume: '81'
   status: published
   DOI: 10.1103/PhysRevLett.81.4224
@@ -2635,7 +2672,7 @@ references:
   - year: 1998
   title: New molecular collisional interaction effect in low-energy sputtering
   container-title: Physical Review Letters
-  page: '550-553'
+  page: 550-553
   volume: '81'
   status: published
   DOI: 10.1103/PhysRevLett.81.550
@@ -2669,7 +2706,7 @@ references:
   - year: 1997
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
   container-title: Acta Physica Polonica A
-  page: '689-696'
+  page: 689-696
   volume: '91'
   status: published
 
@@ -2698,7 +2735,7 @@ references:
   - year: 1997
   title: Evaluation of source gas lifetimes from stratospheric observations
   container-title: 'Journal of Geophysical Research: Atmospheres'
-  page: '25543-25564'
+  page: 25543-25564
   volume: '102'
   status: published
   DOI: 10.1029/97JD02215
@@ -2761,7 +2798,7 @@ references:
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
     in the upper troposphere and lower stratosphere
   container-title: Geophysical Research Letters
-  page: '347-350'
+  page: 347-350
   volume: '23'
   status: published
   DOI: 10.1029/96GL00244
@@ -2797,7 +2834,7 @@ references:
   - year: 1996
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
   container-title: Science
-  page: '1763-1768'
+  page: 1763-1768
   volume: '272'
   status: published
   DOI: 10.1126/science.272.5269.1763
@@ -2846,7 +2883,7 @@ references:
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
     from *in situ* measurements during <span class="smallcaps">aase ii</span>
   container-title: Journal of Geophysical Research
-  page: '3057-3064'
+  page: 3057-3064
   volume: '100'
   status: published
   DOI: 10.1029/94JD02744
@@ -2899,7 +2936,7 @@ references:
   - year: 1993
   title: Interference in the resonance fluorescence of two trapped atoms
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
-  page: '43-48'
+  page: 43-48
   status: published
   DOI: 10.1063/1.45075
 
@@ -2924,7 +2961,7 @@ references:
   - year: 1993
   title: Young’s interference experiment with light scattered from two atoms
   container-title: Physical Review Letters
-  page: '2359-2362'
+  page: 2359-2362
   volume: '70'
   status: published
   DOI: 10.1103/PhysRevLett.70.2359
@@ -2949,7 +2986,7 @@ references:
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
   title-short: Quantum projection noise
   container-title: Physical Review A
-  page: '3554-3570'
+  page: 3554-3570
   volume: '47'
   status: published
   DOI: 10.1103/PhysRevA.47.3554
@@ -2977,7 +3014,7 @@ references:
   - year: 1993
   title: Quantum measurements of trapped ions
   container-title: Vistas in Astronomy
-  page: '169-183'
+  page: 169-183
   status: published
 
 - id: itano:1993:spectroscopy
@@ -3003,7 +3040,7 @@ references:
   - year: 1993
   title: Ultra-high precision spectroscopy for fundamental physics
   container-title: Hyperfine Interactions
-  page: '211-220'
+  page: 211-220
   volume: '78'
   status: published
 
@@ -3028,7 +3065,7 @@ references:
   - year: 1993
   title: Light scattered from two atoms
   container-title: Proceedings of the 11^th^ International Conference on Laser Science
-  page: '410-419'
+  page: 410-419
   status: published
 
 - id: shiner:1993:calibration
@@ -3047,7 +3084,7 @@ references:
   title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
     of several iodine lines
   container-title: Physical Review A
-  page: '4042-4045'
+  page: 4042-4045
   volume: '47'
   status: published
   DOI: 10.1103/PhysRevA.47.4042
@@ -3064,7 +3101,7 @@ references:
   title: Precise determinations of ionization potentials and $EF$ state energy levels
     of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$
   container-title: Physical Review A
-  page: '3676-3690'
+  page: 3676-3690
   volume: '46'
   status: published
   abstract: 'We report measurements of excited states in the three stable isotopic
@@ -3102,7 +3139,7 @@ references:
   - year: 1992
   title: Ionic crystals in a linear Paul trap
   container-title: Physical Review A
-  page: '6493-6501'
+  page: 6493-6501
   volume: '45'
   status: published
   DOI: 10.1103/PhysRevA.45.6493
@@ -3124,7 +3161,7 @@ references:
   - year: 1992
   title: Linear trap for high-accuracy spectroscopy of stored ions
   container-title: Journal of Modern Optics
-  page: '233-242'
+  page: 233-242
   volume: '39'
   status: published
   DOI: 10.1080/09500349214550241
@@ -3177,7 +3214,7 @@ references:
   title: High-resolution three-photon spectroscopy and multiphoton interference in
     molecular hydrogen
   container-title: Physical Review A
-  page: '6406-6409'
+  page: 6406-6409
   volume: '43'
   status: published
   DOI: 10.1103/PhysRevA.43.6406
@@ -3211,7 +3248,7 @@ references:
     and Technology
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  page: '553-567'
+  page: 553-567
   status: published
 
 - id: wineland:1991:spectroscopy
@@ -3242,7 +3279,7 @@ references:
   title: High-resolution spectroscopy of laser-cooled ions
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  page: '539-551'
+  page: 539-551
   status: published
 
 - id: mccormack:1989:h2.ip
@@ -3260,7 +3297,7 @@ references:
   - year: 1989
   title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
   container-title: Physical Review A
-  page: '2260-2263'
+  page: 2260-2263
   volume: '39'
   status: published
 
@@ -3278,7 +3315,7 @@ references:
   title: Precise multiphoton spectroscopy of $\ce{H2}$
   container-title: Advances in laser spectroscopy III
   collection-title: AIP conference proceedings
-  page: '331-333'
+  page: 331-333
   volume: '172'
   status: published
 
@@ -3299,7 +3336,7 @@ references:
   - year: 1987
   title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
   container-title: Physical Review A
-  page: '3486-3489'
+  page: 3486-3489
   volume: '36'
   status: published
 
@@ -3315,7 +3352,7 @@ references:
   title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
   container-title: Advances in laser spectroscopy II
   collection-title: AIP conference proceedings
-  page: '388-390'
+  page: 388-390
   volume: '160'
   status: published
 
@@ -3334,7 +3371,7 @@ references:
   container-title: Proceedings of the XV International Conference on Quantum Electronics
   collection-title: Technical digest series
   publisher: Optical Society of America
-  page: '58-60'
+  page: 58-60
   volume: '21'
   status: published
 ...

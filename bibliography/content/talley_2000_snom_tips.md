@@ -4,11 +4,11 @@ author:
 - family: Talley
   given: David B.
 - family: Shaw
-  given: L.B.
+  given: L. B.
 - family: Sanghera
-  given: J.S.
+  given: J. S.
 - family: Aggarwal
-  given: I.D.
+  given: I. D.
 - family: Cricenti
   given: Antonio
 - family: Generosi
@@ -34,7 +34,7 @@ pub_type: article-journal
 pubdate: '2000-01-01'
 short_author:
 - family: Talley
-  given: D. B.
+  given: D.B.
 - family: Shaw
   given: L.B.
 - family: Sanghera
@@ -50,9 +50,9 @@ short_author:
 - family: Margaritondo
   given: G.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: Scanning near field infrared microscopy using chalcogenide fiber tips
 volume: '42'

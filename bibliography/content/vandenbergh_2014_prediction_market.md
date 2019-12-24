@@ -19,11 +19,11 @@ pub_type: article-journal
 pubdate: '2014-01-01'
 short_author:
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Toner
-  given: K. E.
+  given: K.E.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: A climate prediction market
 ssrn: '2372321'
 ssrn_id: '2372321'

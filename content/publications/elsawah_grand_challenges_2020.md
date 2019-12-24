@@ -36,45 +36,46 @@ date: '2020-01-01'
 file:
 - desc: full text
   file: elsawah_2020_grand_challenges.pdf
-id: elsawah_grand_challenges_2019
+id: elsawah_grand_challenges_2020
 issued:
 - day: 1
   month: 1
   year: 2020
 page: '16226'
 pub_type: article-journal
-pubdate: '2019-09-30'
+pubdate: '2019-12-23'
 short_author:
 - family: Elsawah
   given: S.
 - family: Filatova
   given: T.
 - family: Jakeman
-  given: A. J.
+  given: A.J.
 - family: Kettner
-  given: A. J.
+  given: A.J.
 - family: Zellner
-  given: M. L.
+  given: M.L.
 - family: Athanasiadis
-  given: I. N.
+  given: I.N.
 - family: Hamilton
-  given: S. H.
+  given: S.H.
 - family: Axtell
-  given: R. L.
+  given: R.L.
 - family: Brown
-  given: D. G.
+  given: D.G.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Janssen
-  given: M. A.
+  given: M.A.
 - family: Robinson
-  given: D. T.
+  given: D.T.
 - family: Rozenberg
   given: J.
 - family: Ullah
-  given: I. I. T.
+  given: I.I.T.
 - family: Lade
-  given: S. J.
+  given: S.J.
+short_title: Grand challenges for SES modeling
 status: published
 title: Eight grand challenges in socio-environmental systems modeling
 volume: '2'

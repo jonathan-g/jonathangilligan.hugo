@@ -26,7 +26,7 @@ short_author:
 - family: Burchfield
   given: E.
 - family: Nay
-  given: J. J.
+  given: J.J.
 - family: Gilligan
   given: J.
 short_title: Prediction of vegetation health

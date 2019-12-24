@@ -24,15 +24,15 @@ pub_type: article-journal
 pubdate: '2009-01-01'
 short_author:
 - family: Carrico
-  given: A. R.
+  given: A.R.
 - family: Padgett
   given: P.
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Gilligan
   given: J.
 - family: Wallston
-  given: K. A.
+  given: K.A.
 short_title: Costly myths
 status: published
 title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor

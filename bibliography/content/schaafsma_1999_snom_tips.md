@@ -36,17 +36,17 @@ pub_type: article-journal
 pubdate: '1999-01-01'
 short_author:
 - family: Schaafsma
-  given: D. T.
+  given: D.T.
 - family: Mossadegh
   given: R.
 - family: Sanghera
-  given: J. S.
+  given: J.S.
 - family: Aggarwal
-  given: I. D.
+  given: I.D.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Luce
   given: M.
 - family: Generosi

@@ -26,17 +26,17 @@ pub_type: article-journal
 pubdate: '1993-01-01'
 short_author:
 - family: Itano
-  given: W. M.
+  given: W.M.
 - family: Bergquist
-  given: J. C.
+  given: J.C.
 - family: Bollinger
-  given: J. J.
+  given: J.J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Moore
-  given: F. L.
+  given: F.L.
 - family: Raizen
-  given: M. G.
+  given: M.G.
 short_title: Quantum projection noise
 status: published
 title: 'Quantum projection noise: Population fluctuations in two-level systems'

@@ -40,15 +40,15 @@ short_author:
 - family: Di Ventra
   given: M.
 - family: Pantelides
-  given: S. T.
+  given: S.T.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Kizilyalli
-  given: I. C.
+  given: I.C.
 - family: Roy
-  given: P. K.
+  given: P.K.
 - family: Margaritondo
   given: G.
 - family: Lucovsky

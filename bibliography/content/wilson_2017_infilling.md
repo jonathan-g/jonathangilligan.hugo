@@ -43,6 +43,7 @@ short_author:
   given: B.
 - family: Hale
   given: R.
+short_title: Infilling of tidal channels
 status: published
 title: Widespread infilling of tidal channels and navigable waterways in human-modified
   tidal deltaplain of southwest Bangladesh

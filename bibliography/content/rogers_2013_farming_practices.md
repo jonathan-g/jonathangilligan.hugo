@@ -4,7 +4,7 @@ author:
 - family: Rogers
   given: Kimberly G.
 - family: Syvitski
-  given: James P.M.
+  given: James P. M.
 - family: Overeem
   given: Irina
 - family: Higgins
@@ -27,15 +27,15 @@ publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
 publisher_place: Gothenberg SE
 short_author:
 - family: Rogers
-  given: K. G.
+  given: K.G.
 - family: Syvitski
-  given: J. P.M.
+  given: J.P.M.
 - family: Overeem
   given: I.
 - family: Higgins
   given: S.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 status: published
 title: Farming practices and anthropogenic delta dynamics
 volume: '358'

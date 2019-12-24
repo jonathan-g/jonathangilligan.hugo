@@ -24,9 +24,9 @@ short_author:
 - family: Shiner
   given: D.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Cook
-  given: B. M.
+  given: B.M.
 - family: Lichten
   given: W.
 status: published

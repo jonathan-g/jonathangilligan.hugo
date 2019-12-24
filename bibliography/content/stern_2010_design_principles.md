@@ -24,15 +24,15 @@ pub_type: article-journal
 pubdate: '2010-01-01'
 short_author:
 - family: Stern
-  given: P. C.
+  given: P.C.
 - family: Gardner
-  given: G. T.
+  given: G.T.
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Dietz
   given: T.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Design principles for emissions reduction programs
 status: published
 title: Design principles for carbon emissions reduction programs

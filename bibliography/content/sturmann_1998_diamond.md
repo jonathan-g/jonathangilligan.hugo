@@ -32,19 +32,19 @@ short_author:
 - family: Sturmann
   given: J.
 - family: Albridge
-  given: R. G.
+  given: R.G.
 - family: Barnes
-  given: A. V.
+  given: A.V.
 - family: Davidson
-  given: J. L.
+  given: J.L.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Lupke
   given: G.
 - family: Ueda
   given: A.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: Infrared wavelength-selective photodesorption on diamond surfaces
 volume: '129'

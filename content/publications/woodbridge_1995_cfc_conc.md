@@ -50,41 +50,41 @@ pub_type: article-journal
 pubdate: '1995-01-01'
 short_author:
 - family: Woodbridge
-  given: E. L.
+  given: E.L.
 - family: Elkins
-  given: J. W.
+  given: J.W.
 - family: Fahey
-  given: D. W.
+  given: D.W.
 - family: Heidt
-  given: L. E.
+  given: L.E.
 - family: Solomon
   given: S.
 - family: Baring
-  given: T. J.
+  given: T.J.
 - family: Gilpin
-  given: T. J.
+  given: T.J.
 - family: Pollock
-  given: W. H.
+  given: W.H.
 - family: Schauffler
-  given: S. M.
+  given: S.M.
 - family: Atlas
-  given: E. L.
+  given: E.L.
 - family: Lowenstein
   given: M.
 - family: Podolske
-  given: J. R.
+  given: J.R.
 - family: Webster
-  given: C. R.
+  given: C.R.
 - family: May
-  given: R. D.
+  given: R.D.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Montzka
-  given: S. A.
+  given: S.A.
 - family: Boering
-  given: K. A.
+  given: K.A.
 - family: Salawitch
-  given: R. J.
+  given: R.J.
 status: published
 title: Estimates of total organic and inorganic chlorine in the lower stratosphere
   from *in situ* measurements during <span class="smallcaps">aase ii</span>

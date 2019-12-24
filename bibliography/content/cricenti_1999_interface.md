@@ -46,9 +46,9 @@ short_author:
 - family: Almeida
   given: J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Coluzza
   given: C.
 - family: Spajer
@@ -56,7 +56,7 @@ short_author:
 - family: Courjon
   given: D.
 - family: Aggarwal
-  given: I. D.
+  given: I.D.
 status: published
 title: Interface applications of scanning near-field optical microscopy with a free
   electron laser

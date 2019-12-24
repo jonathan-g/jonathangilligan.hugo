@@ -20,11 +20,11 @@ short_author:
 - family: McCormack
   given: E.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Cornaggia
   given: C.
 - family: Eyler
-  given: E. E.
+  given: E.E.
 status: published
 title: Measurement of high Rydberg states and the ionization potential of $\ce{H2}$
 volume: '39'

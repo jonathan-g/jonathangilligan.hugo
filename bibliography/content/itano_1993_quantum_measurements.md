@@ -26,21 +26,21 @@ pub_type: article-journal
 pubdate: '1993-01-01'
 short_author:
 - family: Itano
-  given: W. M.
+  given: W.M.
 - family: Bergquist
-  given: J. C.
+  given: J.C.
 - family: Bollinger
-  given: J. J.
+  given: J.J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Heinzen
-  given: D. J.
+  given: D.J.
 - family: Moore
-  given: F. L.
+  given: F.L.
 - family: Raizen
-  given: M. G.
+  given: M.G.
 - family: Wineland
-  given: D. J.
+  given: D.J.
 status: published
 title: Quantum measurements of trapped ions
 ---

@@ -21,23 +21,23 @@ file:
 id: holcomb_2009_dual_camera
 issued:
 - year: 2009
-note: ' *Selected by the editors as the feature article of the month.*'
+note: '*Selected by the editors as the feature article of the month.*'
 page: 1355-1372
 pub_type: article-journal
 pubdate: '2009-01-01'
 short_author:
 - family: Holcomb
-  given: M. R.
+  given: M.R.
 - family: Woods
-  given: M. C.
+  given: M.C.
 - family: Uzelac
   given: I.
 - family: Wikswo
-  given: J. P.
+  given: J.P.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Sidorov
-  given: V. Y.
+  given: V.Y.
 short_title: Dual-camera system
 status: published
 title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology

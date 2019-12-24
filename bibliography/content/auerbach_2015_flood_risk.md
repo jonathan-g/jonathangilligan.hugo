@@ -36,25 +36,25 @@ pub_type: article-journal
 pubdate: '2015-01-01'
 short_author:
 - family: Auerbach
-  given: L. W.
+  given: L.W.
 - family: Goodbred
-  given: S. L.
+  given: S.L.
 - family: Mondal
-  given: D. R.
+  given: D.R.
 - family: Wilson
-  given: C. A.
+  given: C.A.
 - family: Ahmed
-  given: K. R.
+  given: K.R.
 - family: Roy
   given: K.
 - family: Steckler
-  given: M. S.
+  given: M.S.
 - family: Small
   given: C.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Ackerly
-  given: B. A.
+  given: B.A.
 short_title: Flood risk of natural and embanked landscapes
 status: published
 title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal

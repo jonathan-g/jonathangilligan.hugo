@@ -31,11 +31,11 @@ short_author:
 - family: McKinney
   given: E.
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Cohen
-  given: M. A.
+  given: M.A.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Employee energy benefits
 status: published
 title: 'Employee energy benefits: What are they and what effects do they have on employees?'

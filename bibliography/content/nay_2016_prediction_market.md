@@ -12,9 +12,9 @@ container_title: Proceedings of the 2016 Winter Simulation Conference
 date: '2016-12-02'
 editor:
 - family: Roeder
-  given: T.M.K.
+  given: T. M. K.
 - family: Frazier
-  given: P.I.
+  given: P. I.
 - family: Szechtman
   given: R.
 - family: Zhou
@@ -22,7 +22,7 @@ editor:
 - family: Huschka
   given: T.
 - family: Chick
-  given: S.E.
+  given: S. E.
 file:
 - desc: full text
   file: nay_2016_betting_belief.pdf
@@ -41,11 +41,11 @@ publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
 - family: Nay
-  given: J. J.
+  given: J.J.
 - family: Van der Linden
   given: M.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_editor:
 - family: Roeder
   given: T.M.K.

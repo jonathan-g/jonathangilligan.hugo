@@ -34,13 +34,13 @@ pub_type: article-journal
 pubdate: '1999-01-01'
 short_author:
 - family: Schaafsma
-  given: D. T.
+  given: D.T.
 - family: Mossadegh
   given: R.
 - family: Sanghera
-  given: J. S.
+  given: J.S.
 - family: Aggarwal
-  given: I. D.
+  given: I.D.
 - family: Luce
   given: M.
 - family: Generosi
@@ -50,9 +50,9 @@ short_author:
 - family: Cricenti
   given: A.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
   infrared optical microscopy

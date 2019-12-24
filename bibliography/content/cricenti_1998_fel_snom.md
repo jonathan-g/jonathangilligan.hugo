@@ -54,13 +54,13 @@ short_author:
 - family: Margaritondo
   given: G.
 - family: Schaafsma
-  given: D. T.
+  given: D.T.
 - family: Aggarwal
-  given: I. D.
+  given: I.D.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: First experimental results with the free electron laser coupled to a scanning
   near-field optical microscope

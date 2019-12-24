@@ -17,9 +17,9 @@ pub_type: article-journal
 pubdate: '2011-01-01'
 short_author:
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Macro risks
 ssrn: '2004671'
 ssrn_id: '2004671'

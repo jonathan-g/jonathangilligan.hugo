@@ -18,9 +18,9 @@ pub_type: article-journal
 pubdate: '2014-01-01'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 short_title: Accounting for political feasibility
 ssrn: '2220788'
 ssrn_id: '2220788'

@@ -30,17 +30,17 @@ short_author:
 - family: Eichmann
   given: U.
 - family: Bergquist
-  given: J. C.
+  given: J.C.
 - family: Bollinger
-  given: J. J.
+  given: J.J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Itano
-  given: W. M.
+  given: W.M.
 - family: Raizen
-  given: J. G.
+  given: J.G.
 - family: Wineland
-  given: D. J.
+  given: D.J.
 status: published
 title: Interference in the resonance fluorescence of two trapped atoms
 ---

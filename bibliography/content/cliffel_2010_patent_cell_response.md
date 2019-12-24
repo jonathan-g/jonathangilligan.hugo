@@ -29,15 +29,15 @@ short_author:
 - family: Cliffel
   given: D.
 - family: Baudenbacher
-  given: F. J.
+  given: F.J.
 - family: Wikswo
-  given: J. P.
+  given: J.P.
 - family: Eklund
   given: S.
 - family: Balcarcel
-  given: R. R.
+  given: R.R.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 status: published
 title: Device and methods for detecting the response of a plurality of cells to at
   least one analyte of interest

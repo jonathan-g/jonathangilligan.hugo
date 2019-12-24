@@ -19,15 +19,15 @@ editor:
 - family: Yilmaz
   given: L.
 - family: Chan
-  given: W.K.V.
+  given: W. K. V.
 - family: Moon
   given: I.
 - family: Roeder
-  given: T.M.K.
+  given: T. M. K.
 - family: Macal
   given: C.
 - family: Rossetti
-  given: M.D.
+  given: M. D.
 file:
 - desc: full text
   file: gilligan_2015_flood_partsim.pdf
@@ -42,13 +42,13 @@ publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Brady
   given: C.
 - family: Camp
-  given: J. V.
+  given: J.V.
 - family: Nay
-  given: J. J.
+  given: J.J.
 - family: Sengupta
   given: P.
 short_editor:

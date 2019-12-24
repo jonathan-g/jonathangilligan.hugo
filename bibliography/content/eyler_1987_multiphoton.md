@@ -15,9 +15,9 @@ pub_type: paper-conference
 pubdate: '1987-01-01'
 short_author:
 - family: Eyler
-  given: E. E.
+  given: E.E.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 status: published
 title: Precise multiphoton spectroscopy of excited states of $\ce{H2}$
 volume: '160'

@@ -25,17 +25,17 @@ pub_type: article-journal
 pubdate: '2011-01-01'
 short_author:
 - family: Carrico
-  given: A. R.
+  given: A.R.
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Stern
-  given: P. C.
+  given: P.C.
 - family: Gardner
-  given: G. T.
+  given: G.T.
 - family: Dietz
   given: T.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Key lessons for implementing the behavioral wedge
 ssrn: '1612224'
 ssrn_id: '1612224'

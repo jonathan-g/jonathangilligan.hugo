@@ -30,7 +30,7 @@ short_author:
 - family: Marka
   given: Z.
 - family: Cheney
-  given: C. P.
+  given: C.P.
 - family: Wang
   given: W.
 - family: Lupke
@@ -40,7 +40,7 @@ short_author:
 - family: Yao
   given: Y.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
   in metals and semiconductors

@@ -41,19 +41,19 @@ short_author:
 - family: Albert
   given: MM
 - family: Albridge
-  given: R. G
+  given: R.G
 - family: Gilligan
-  given: J. M
+  given: J.M
 - family: Luepke
   given: G.
 - family: Singh
   given: SK
 - family: Davidson
-  given: J. L
+  given: J.L
 - family: Husinsky
   given: W.
 - family: Tolk
-  given: N. H
+  given: N.H
 status: published
 title: Infrared free-electron laser photoablation of diamond films
 ---

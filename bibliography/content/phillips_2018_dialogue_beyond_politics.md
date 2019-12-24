@@ -28,14 +28,14 @@ short_author:
 - family: Phillips
   given: C.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Harper
   given: S.
 - family: Roberts
   given: J.
 - family: Vandenbergh
-  given: M. P.
-short_title: Dialogue
+  given: M.P.
+short_title: 'Dialogue: Beyond politics'
 ssrn: '3295695'
 ssrn_id: '3295695'
 status: published

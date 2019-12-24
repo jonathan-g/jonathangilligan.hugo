@@ -31,9 +31,9 @@ pubdate: '2016-07-01'
 publisher: Wiley Online Library
 short_author:
 - family: Hess
-  given: D. J.
+  given: D.J.
 - family: Wold
-  given: C. A.
+  given: C.A.
 - family: Hunter
   given: E.
 - family: Nay
@@ -43,7 +43,7 @@ short_author:
 - family: Gilligan
   given: J.
 - family: Hornberger
-  given: G. M.
+  given: G.M.
 status: published
 title: Drought, risk, and institutional politics in the American Southwest
 volume: '31'

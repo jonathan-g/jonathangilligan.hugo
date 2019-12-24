@@ -18,22 +18,22 @@ file:
 id: vandenbergh_2010_implementing_behavioral_wedge
 issued:
 - year: 2010
-note: ' Selected by Environmental Law Institute to reprint as the featured cover story
-  of the 2010 summer reading issue for policymakers of Environmental Forum.'
+note: Selected by Environmental Law Institute to reprint as the featured cover story
+  of the 2010 summer reading issue for policymakers of Environmental Forum.
 page: 547-554
 pub_type: article-journal
 pubdate: '2010-01-01'
 short_author:
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Stern
-  given: P. C.
+  given: P.C.
 - family: Gardner
-  given: G. T.
+  given: G.T.
 - family: Dietz
   given: T.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Implementing the behavioral wedge
 ssrn: '1617426'
 ssrn_id: '1617426'

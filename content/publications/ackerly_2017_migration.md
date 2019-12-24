@@ -38,7 +38,7 @@ publisher: Routledge
 publisher_place: New York
 short_author:
 - family: Ackerly
-  given: B. A.
+  given: B.A.
 - family: Anam
   given: M.
 - family: Gilligan

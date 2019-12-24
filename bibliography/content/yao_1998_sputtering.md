@@ -46,21 +46,21 @@ short_author:
 - family: Albert
   given: M.
 - family: Albridge
-  given: R. G.
+  given: R.G.
 - family: Barnes
-  given: A. V.
+  given: A.V.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Ferguson
-  given: B. P.
+  given: B.P.
 - family: Lupke
   given: G.
 - family: Gordon
-  given: V. D.
+  given: V.D.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Tully
-  given: J. C.
+  given: J.C.
 - family: Betz
   given: G.
 - family: Husinsky

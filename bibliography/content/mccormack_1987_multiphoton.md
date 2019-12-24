@@ -20,9 +20,9 @@ short_author:
 - family: McCormack
   given: E.
 - family: Eyler
-  given: E. E.
+  given: E.E.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 status: published
 title: Precise photodissociation and multiphoton spectroscopy of $\ce{H2}$
 volume: '21'

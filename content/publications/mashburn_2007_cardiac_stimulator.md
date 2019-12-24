@@ -4,7 +4,7 @@ author:
 - family: Mashburn
   given: David N.
 - family: Hinkson
-  given: S.J.
+  given: S. J.
 - family: Woods
   given: Marcella C.
 - family: Gilligan
@@ -26,17 +26,17 @@ pub_type: article-journal
 pubdate: '2007-01-01'
 short_author:
 - family: Mashburn
-  given: D. N.
+  given: D.N.
 - family: Hinkson
   given: S.J.
 - family: Woods
-  given: M. C.
+  given: M.C.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Holcomb
-  given: M. R.
+  given: M.R.
 - family: Wikswo
-  given: J. P.
+  given: J.P.
 short_title: High-voltage cardiac stimulator
 status: published
 title: A high-voltage cardiac stimulator for field shocks of a whole heart in a bath

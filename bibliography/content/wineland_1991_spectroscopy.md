@@ -31,25 +31,25 @@ pub_type: paper-conference
 pubdate: '1991-01-01'
 short_author:
 - family: Wineland
-  given: D. J.
+  given: D.J.
 - family: Bergquist
-  given: J. C.
+  given: J.C.
 - family: Bollinger
-  given: J. J.
+  given: J.J.
 - family: Itano
-  given: W. M.
+  given: W.M.
 - family: Moore
-  given: F. L.
+  given: F.L.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Raizen
-  given: M. G.
+  given: M.G.
 - family: Heinzen
-  given: D. J.
+  given: D.J.
 - family: Weimer
-  given: C. S.
+  given: C.S.
 - family: Manney
-  given: C. H.
+  given: C.H.
 status: published
 title: High-resolution spectroscopy of laser-cooled ions
 ---

@@ -22,11 +22,12 @@ pub_type: article-journal
 pubdate: '2017-12-18'
 short_author:
 - family: Nay
-  given: J. J.
+  given: J.J.
 - family: Burchfield
-  given: E. K.
+  given: E.K.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
+short_title: Forecasting vegetation health
 status: published
 title: A machine-learning approach to forecasting remotely sensed vegetation health
 volume: '39'

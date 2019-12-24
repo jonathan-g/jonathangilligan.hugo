@@ -15,9 +15,9 @@ pub_type: article-journal
 pubdate: '1992-01-01'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Eyler
-  given: E. E.
+  given: E.E.
 status: published
 title: Precise determinations of ionization potentials and $EF$ state energy levels
   of $\ce{H2}$, $\ce{HD}$, and $\ce{D2}$

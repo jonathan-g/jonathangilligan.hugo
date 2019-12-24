@@ -118,6 +118,15 @@ def gen_refs(bibfile):
 
 clean_expr = re.compile('[^a-zA-z0-9]+')
 
+given_s1_expr = re.compile('\\b([A-Z])[a-z]+\\b')
+given_s2_expr = re.compile('\\. +')
+
+def shorten_given(s, f):
+    s1 = re.sub(given_s1_expr, '\\1.', s)
+    s2 = re.sub(given_s2_expr, '.', s1)
+    print('fam = "', f, '", s = "', s, '", s1 = "', s1, '", s2 = "', s2, '"')
+    return s2
+
 def gen_items(bib):
     output_keys = ['title', 'author', 'short_author',
                    'short_title',
@@ -150,9 +159,9 @@ def gen_items(bib):
         if 'publisher-place' in item.keys():
             item['publisher_place'] = item['publisher-place']
         if 'author' in item.keys():
-            item['short_author'] = [ {'family':n['family'], 'given':re.sub('\\b([A-Z])[a-z][a-z]+\\b', '\\1.', n['given'])} for n in item['author'] ]
+            item['short_author'] = [ {'family':n['family'], 'given':shorten_given(n['given'], n['family'])} for n in item['author'] ]
         if 'editor' in item.keys():
-            item['short_editor'] = [ {'family':n['family'], 'given':re.sub('\\b([A-Z])[a-z][a-z]+\\b', '\\1.', n['given'])} for n in item['editor'] ]
+            item['short_editor'] = [ {'family':n['family'], 'given':shorten_given(n['given'], n['family'])} for n in item['editor'] ]
         header_items = dict([(k, v) for (k, v) in item.items() if k in output_keys])
         # for tk in title_keys:
         #     if (tk in header_items.keys()):

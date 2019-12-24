@@ -18,9 +18,9 @@ pub_type: article-journal
 pubdate: '1991-01-01'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Eyler
-  given: E. E.
+  given: E.E.
 status: published
 title: High-resolution three-photon spectroscopy and multiphoton interference in molecular
   hydrogen

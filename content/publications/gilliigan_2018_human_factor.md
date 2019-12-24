@@ -19,8 +19,8 @@ pub_type: article-journal
 pubdate: '2018-01-01'
 short_author:
 - family: Gilligan
-  given: J. M.
-short_title: Climate modeling
+  given: J.M.
+short_title: Accounting for the human factor
 status: published
 title: 'Climate modeling: Accounting for the human factor'
 volume: '8'

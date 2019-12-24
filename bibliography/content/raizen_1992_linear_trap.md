@@ -24,15 +24,15 @@ pub_type: article-journal
 pubdate: '1992-01-01'
 short_author:
 - family: Raizen
-  given: M. G.
+  given: M.G.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Bergquist
-  given: J. C.
+  given: J.C.
 - family: Itano
-  given: W. M.
+  given: W.M.
 - family: Wineland
-  given: D. J.
+  given: D.J.
 status: published
 title: Linear trap for high-accuracy spectroscopy of stored ions
 volume: '39'

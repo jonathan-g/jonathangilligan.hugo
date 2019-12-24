@@ -14,9 +14,9 @@ author:
 - family: Talley
   given: David
 - family: Sanghera
-  given: J.S.
+  given: J. S.
 - family: Aggarwal
-  given: I.D.
+  given: I. D.
 - family: Gilligan
   given: Jonathan Mark
 - family: Tolk
@@ -50,9 +50,9 @@ short_author:
 - family: Aggarwal
   given: I.D.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 short_title: Spectroscopic near-field microscopy
 status: published
 title: "Spectroscopic scanning near-field optical microscopy with a free electron\

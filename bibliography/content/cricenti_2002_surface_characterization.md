@@ -13,9 +13,9 @@ author:
 - family: Talley
   given: D.
 - family: Sanghera
-  given: J.S.
+  given: J. S.
 - family: Aggarwal
-  given: I.D.
+  given: I. D.
 - family: Gilligan
   given: Jonathan M.
 - family: Tolk
@@ -46,9 +46,9 @@ short_author:
 - family: Aggarwal
   given: I.D.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 short_title: Surface characterisation by near-field microscopy
 status: published
 title: Surface characterisation by near-field microscopy and atomic force microscopy

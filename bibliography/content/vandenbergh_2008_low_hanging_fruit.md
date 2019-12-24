@@ -19,11 +19,11 @@ pub_type: article-journal
 pubdate: '2008-01-01'
 short_author:
 - family: Vandenbergh
-  given: M. P.
+  given: M.P.
 - family: Barkenbus
   given: J.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 short_title: Individual carbon emissions
 ssrn: '1161143'
 ssrn_id: '1161143'

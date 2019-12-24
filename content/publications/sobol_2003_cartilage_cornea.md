@@ -33,11 +33,11 @@ short_author:
 - family: Kitai
   given: M.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Edwards
-  given: G. S.
+  given: G.S.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 short_title: Cornea and cartilege denaturation
 status: published
 title: Time-resolved light scattering measurements of cartilage and cornea denaturation

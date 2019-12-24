@@ -34,9 +34,9 @@ short_author:
 - family: Perfetti
   given: P.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 - family: Coluzza
   given: C.
 - family: Margaritondo

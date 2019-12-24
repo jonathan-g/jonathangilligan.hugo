@@ -32,21 +32,21 @@ issued:
   month: 12
   year: 2019
 pub_type: paper-conference
-pubdate: '2019-09-30'
+pubdate: '2019-12-09'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
 - family: Ding
-  given: Ke
+  given: K.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Hornberger
-  given: G. M.
+  given: G.M.
 short_editor:
 - family: Mustafee
   given: N.
 - family: Bae
-  given: K.-H. G.
+  given: K.-H.G.
 - family: Lazarova-Molnar
   given: S.
 - family: Rabe

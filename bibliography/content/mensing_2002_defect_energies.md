@@ -16,7 +16,7 @@ author:
 - family: Tolk
   given: N.
 - family: Taylor
-  given: P.C.
+  given: P. C.
 container_title: Journal of Non-Crystalline Solids
 date: '2002-01-01'
 file:

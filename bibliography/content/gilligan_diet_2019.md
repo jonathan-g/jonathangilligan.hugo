@@ -17,7 +17,7 @@ pub_url: https://rdcu.be/bOaoY
 pubdate: '2019-08-09'
 short_author:
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 status: published
 title: Modelling diet choices
 volume: '2'

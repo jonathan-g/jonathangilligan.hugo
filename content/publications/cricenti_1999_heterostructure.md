@@ -42,9 +42,9 @@ short_author:
 - family: Margaritondo
   given: G.
 - family: Gilligan
-  given: J. M.
+  given: J.M.
 - family: Tolk
-  given: N. H.
+  given: N.H.
 status: published
 title: Chemical contrast observed at a III-V heterostructure by scanning near-field
   optical microscopy
