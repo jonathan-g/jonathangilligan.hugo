@@ -6,7 +6,7 @@ slug: private-governance-framework
 categories: [blog post]
 tags: [Beyond Politics, Private governance]
 ---
-Mike Vandenbergh and I have a new paper out, in the journal 
+Mike Vandenbergh and I have [a new paper out](https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY), in the journal 
 _Energy Research & Social Science_, on our three-part framework for assessing 
 the impacts of private cliamte governance.
 
@@ -28,7 +28,7 @@ for assessing non-state initiatives to reduce greenhouse gas emissions and to
 allocate impacts when multiple actors (e.g., state and local governments, or 
 governments and private actors) contribute to joint or overlapping initiatives.
 
-We conclude that the potential for private cliamte governance is even greater 
+We conclude that the potential for private climate governance is even greater 
 than we estimated in our book, 
 [_Beyond Politics_](https://beyondpoliticsbook.com),
 and that methods and data exist to make reasonable estimates of this potential
@@ -44,4 +44,9 @@ that the adoption of energy-efficient light bulbs by U.S. homes has reduced
 greenhouse gas emissions in the residential sector by almost 130 million metric
 tons per year of CO2 equivalent (detailed calculations are available in the 
 [supporting information](https://github.com/jonathan-g/private_governance_framework_si)).
-.
+
+Until Feb. 11, 2020 you can [read the paper for free](https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY).
+After that date, you can access 
+[the published version](https://doi.org/10.1016/j.erss.2019.101400) 
+at the journal's web site or read 
+[the preprint](/files/pubs/pdfs/gilligan_2020_framework_final.pdf) here.
