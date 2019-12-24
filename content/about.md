@@ -92,7 +92,6 @@ The following bio may be used in media releases without further permission.
 
 Click to download a high-resolution version. These may be used in media releases without further permission.
 
-[![Blue](/files/headshots/Gilligan_Jonathan_blue_thumb.jpg)](/files/headshots/Gilligan_Jonathan_blue.jpg)
 [![Brown](/files/headshots/Gilligan_Jonathan_brown_thumb.jpg)](/files/headshots/Gilligan_Jonathan_brown.jpg)
 [![Informal](/files/headshots/Gilligan_Jonathan_informal_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_close.jpg)
 [![Informal Large](/files/headshots/Gilligan_Jonathan_informal_large_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_large.jpg)

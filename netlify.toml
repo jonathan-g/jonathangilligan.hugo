@@ -1,0 +1,19 @@
+[build]
+  publish = "public/"
+  command = "hugo"
+[build.environment]
+  HUGO_VERSION = "0.62.0"
+[context.production]
+  branch = "master"
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  prettify_urls = true
+[build.processing.images]
+  compress = true

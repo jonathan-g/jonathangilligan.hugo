@@ -46,13 +46,45 @@ menu:
 permalinks:
   post: /post/:year/:month/:day/:slug
   news: /news/:year/:month/:day/:slug
-blackfriday:
-  smartypants: true
-  angledQuotes: false
-  fractions: false
-  smartDashes: true
-  latexDashes: true
-  hrefTargetBlank: true
+markup:
+  defaultMarkdownHandler: goldmark
+  blackfriday:
+    smartypants: true
+    angledQuotes: false
+    fractions: false
+    smartDashes: true
+    latexDashes: true
+    hrefTargetBlank: true
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
 googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Gilligan"
