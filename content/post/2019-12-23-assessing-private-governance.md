@@ -42,8 +42,7 @@ initiatives.
 One particularly hopeful result that we report in this paper is that we estimate
 that the adoption of energy-efficient light bulbs by U.S. homes has reduced 
 greenhouse gas emissions in the residential sector by almost 130 million metric
-tons per year of CO2 equivalent (detailed calculations are available in the 
-[supporting information](https://github.com/jonathan-g/private_governance_framework_si)).
+tons per year of CO2 equivalent.
 
 Until Feb. 11, 2020 you can [read the paper for free](https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY).
 After that date, you can access 
