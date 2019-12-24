@@ -50,3 +50,6 @@ After that date, you can access
 [the published version](https://doi.org/10.1016/j.erss.2019.101400) 
 at the journal's web site or read 
 [the preprint](/files/pubs/pdfs/gilligan_2020_framework_final.pdf) here.
+
+The details of our calculations of the impact of select private governance 
+initiatives are [available on GitHub](https://github.com/jonathan-g/private_governance_framework_si)
