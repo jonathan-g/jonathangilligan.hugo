@@ -9,7 +9,7 @@ container_title: Energy Research and Social Science
 date: '2020-02-01'
 file:
 - desc: full text
-  file: gilligan_2020_framework_final.pdf
+  file: gilligan_2020_framework.pdf
 id: gilligan_framework_2020
 issued:
 - day: 1
@@ -18,7 +18,7 @@ issued:
 page: '101400'
 pub_type: article-journal
 pub_url: https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY
-pubdate: '2019-12-23'
+pubdate: '2020-02-01'
 short_author:
 - family: Gilligan
   given: J.M.
