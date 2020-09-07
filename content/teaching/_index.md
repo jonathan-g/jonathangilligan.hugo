@@ -1,3 +1,3 @@
 ---
-title: Teaching Foo
+title: Teaching
 ---
