@@ -12,5 +12,3 @@ a list of the top environmental books of the last 50 years in a
 [retrospective](/files/misc/mehan_houck_2019_top_books.pdf) 
 by Oliver A. Houck and G Tracy Mehan in _Environmental Forum_, published by 
 the Environmental Law Institute.
-
-Foo Foo
