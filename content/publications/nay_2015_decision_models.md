@@ -6,8 +6,7 @@ author:
   given: John J.
 - family: Gilligan
   given: Jonathan M.
-collection_title: "WSC \u201915"
-container_title: Proceedings of the 2015 Winter Simulation Conference
+container_title: Proceedings of the 2015 winter simulation conference
 date: '2015-01-01'
 editor:
 - family: Yilmaz
@@ -28,6 +27,8 @@ file:
 id: nay_2015_decision_models
 issued:
 - year: 2015
+keyword: tenuretrack
+note: '00000'
 page: 2752-2763
 pub_type: paper-conference
 pub_url: https://dl.acm.org/citation.cfm?id=2888619.2888935
@@ -55,4 +56,3 @@ short_editor:
 status: published
 title: Data-driven dynamic decision models
 ---
-This article outlines a method for automatically generating models of dynamic decision-making that both have strong predictive power and are interpretable in human terms. This is useful for designing empirically grounded agent-based simulations and for gaining direct insight into observed dynamic processes. We use an efficient model representation and a genetic algorithm-based estimation process to generate simple approximations that explain most of the structure of complex stochastic processes. This method, implemented in C++ and R, scales well to large data sets. We apply our methods to empirical data from human subjects game experiments and international relations. We also demonstrate the method&#8217;s ability to recover known data-generating processes by simulating data with agent-based models and correctly deriving the underlying decision models for multiple agent models and degrees of stochasticity.

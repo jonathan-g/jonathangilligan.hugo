@@ -14,6 +14,8 @@ author:
 container_title: Significance
 date: '2010-01-01'
 file:
+- desc: ''
+  file: Gilligan_2010_Behavioral_Wedge.pdf
 - desc: full text
   file: gilligan_2010_behavioral_wedge.pdf
 id: gilligan_2010_behavioral_wedge
@@ -38,4 +40,3 @@ status: published
 title: The behavioral wedge
 volume: '7'
 ---
-When nations fail to agree, can individual citizens make a difference? The third of our post-Copenhagen features is by Jonathan Gilligan, Thomas Dietz, Gerald T. Gardner, Paul C. Stern, and Michael P. Vandenbergh. They look at the effects that voluntary actions by individuals can have, and at the policies that can best encourage such actions.

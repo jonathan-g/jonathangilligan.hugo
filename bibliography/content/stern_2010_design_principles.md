@@ -33,9 +33,7 @@ short_author:
   given: T.
 - family: Gilligan
   given: J.M.
-short_title: Design principles for emissions reduction programs
 status: published
 title: Design principles for carbon emissions reduction programs
 volume: '44'
 ---
-The goal, articulated by President Obama in 2009, of reducing U.S. carbon emissions 17

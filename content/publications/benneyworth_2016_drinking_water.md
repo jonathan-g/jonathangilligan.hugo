@@ -24,21 +24,20 @@ author:
 - family: Piya
   given: Bhumika
 container_title: International Journal of Environmental Health Research
-date: '2016-06-01'
+date: '2016-01-01'
 file:
-- desc: full text
+- desc: Full Text
   file: benneyworth_2016_drinking_water.pdf
 id: benneyworth_2016_drinking_water
 issued:
-- day: 1
-  month: 6
-  year: 2016
+- year: 2016
+keyword: tenuretrack
 note: "Featured by Taylor & Francis publishers as part of their observance of World\
   \ Water Day 2017. T&F opened free access to the article and published an accompanying\
-  \ \u201CResearch Story\u201D with background on the article: <https://explore.tandfonline.com/page/gen/world-water-day-2017>."
+  \ \u201CResearch Story\u201D with background on the article: <https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>."
 page: 508-524
 pub_type: article-journal
-pubdate: '2016-06-01'
+pubdate: '2016-01-01'
 short_author:
 - family: Benneyworth
   given: L.

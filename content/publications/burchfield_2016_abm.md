@@ -5,9 +5,8 @@ author:
   given: Emily K.
 - family: Gilligan
   given: Jonathan M.
-collection_title: "WSC\u201916"
-container_title: Proceedings of the 2016 Winter Simulation Conference
-date: '2016-12-01'
+container_title: Proceedings of the 2016 winter simulation conference
+date: '2016-01-01'
 editor:
 - family: Roeder
   given: T. M. K.
@@ -22,19 +21,17 @@ editor:
 - family: Chick
   given: S. E.
 file:
-- desc: full text
+- desc: Full Text
   file: burchfield_2016_collective_adaptation.pdf
 id: burchfield_2016_abm
 issued:
-- day: 1
-  month: 12
-  year: 2016
+- year: 2016
 keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
-  decision science, drought, Prospect Theory, Sustainability
+  decision science, drought, Prospect Theory, Sustainability, tenuretrack
 page: 1678-1689
 pub_type: paper-conference
 pub_url: https://papers.ssrn.com/abstract=2807452
-pubdate: '2016-12-01'
+pubdate: '2016-01-01'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
@@ -55,7 +52,6 @@ short_editor:
   given: T.
 - family: Chick
   given: S.E.
-short_title: Agricultural adaptation to water scarcity
 status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity
 ---

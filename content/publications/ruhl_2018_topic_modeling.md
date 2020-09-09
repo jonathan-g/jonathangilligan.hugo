@@ -16,7 +16,10 @@ issued:
 - day: 6
   month: 10
   year: 2018
+keyword: tenuretrack
 page: 1243-1315
+preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
+preprint_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
 pub_type: article-journal
 pub_url: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
 pubdate: '2018-10-06'
@@ -28,8 +31,6 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Topic modeling the president
-ssrn: '3086226'
-ssrn_id: '3086226'
 status: published
 title: 'Topic modeling the president: Conventional and computational methods'
 volume: '86'

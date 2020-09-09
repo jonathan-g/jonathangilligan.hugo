@@ -12,6 +12,9 @@ author:
   given: Edward
 container_title: Physical Review A
 date: '1987-01-01'
+file:
+- desc: full text
+  file: eyler_1987_two_photon.pdf
 id: eyler_1987_ef_state
 issued:
 - year: 1987
@@ -30,6 +33,6 @@ short_author:
 - family: Pollack
   given: E.
 status: published
-title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in $\ce{H2}$
+title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
 volume: '36'
 ---

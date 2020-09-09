@@ -1,6 +1,5 @@
 ---
-ISBN: 978-1107181229 (hardcover), 978-1316632482 (paper)
-amazon: https://www.amazon.com/dp/B075V8QVYD/
+ISBN: 978-1107181229
 author:
 - family: Vandenbergh
   given: Michael P.
@@ -12,6 +11,7 @@ issued:
 - day: 30
   month: 11
   year: 2017
+keyword: tenuretrack
 note: 494 pp.
 pub_type: book
 pubdate: '2017-11-30'
@@ -23,7 +23,7 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Beyond politics
-status: In press; publication date 30 November, 2017
+status: published
 title: 'Beyond politics: The private governance response to climate change'
 ---
 Private sector action provides one of the most promising opportunities to reduce the risks of climate change, buying time while governments move slowly or even oppose climate mitigation. Starting with the insight that much of the resistance to climate mitigation is grounded in concern about the role of government, this books draws on law, policy, social science, and climate science to demonstrate how private initiatives are already bypassing government inaction in the US and around the globe. It makes a persuasive case that private governance can reduce global carbon emissions by a billion tons per year over the next decade. Combining an examination of the growth of private climate initiatives over the last decade, a theory of why private actors are motivated to reduce emissions, and a review of viable next steps, this book speaks to scholars, business and advocacy group managers, philanthropists, policymakers, and anyone interested in climate change.

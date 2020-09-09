@@ -14,7 +14,7 @@ author:
   given: Mark G.
 - family: Wineland
   given: David J.
-container_title: Proceedings of the 11^th^ International Conference on Laser Science
+container_title: Proceedings of the 11^th^ international conference on laser science
 date: '1993-01-01'
 file:
 - desc: full text

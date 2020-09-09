@@ -1,5 +1,4 @@
 ---
-DOI: 10.1103/PhysRevA.47.4042
 author:
 - family: Shiner
   given: David
@@ -30,7 +29,7 @@ short_author:
 - family: Lichten
   given: W.
 status: published
-title: $\ce{H2}$, $\ce{D2}$, and $\ce{HD}$ ionization potentials by accurate calibration
-  of several iodine lines
+title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
+  lines
 volume: '47'
 ---

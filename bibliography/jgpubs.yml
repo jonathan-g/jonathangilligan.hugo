@@ -1,0 +1,2942 @@
+---
+references:
+- id: gilligan:2020:beyond.wickedness
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Vandenbergh
+    given: M. P.
+  issued:
+  - year: 2020
+    month: 12
+    day: 31
+  title: 'Beyond wickedness: Managing complex systems and climate change'
+  title-short: Beyond wickedness
+  container-title: Vanderbilt Law Review
+  status: in press
+
+- id: carrico:2020:marriage
+  type: article-journal
+  author:
+  - family: Carrico
+    given: Amanda R.
+  - family: Donato
+    given: Katharine M.
+  - family: Best
+    given: Kelsea
+  - family: Gilligan
+    given: Jonathan
+  issued:
+  - year: 2020
+    month: 12
+    day: 1
+  title: Extreme weather and marriage among girls and women in Bangladesh
+  container-title: Global Environmental Change
+  status: in press
+  keyword: posttenure
+  language: en-US
+
+- id: vandenbergh:2020:revolving.door
+  type: article-journal
+  author:
+  - family: Vandenbergh
+    given: M. P.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Feuerman
+    given: Haley
+  issued:
+  - year: 2020
+    month: 9
+    day: 8
+  title: The new revolving door
+  container-title: Case Western Reserve Law Review
+  page: 1121-1149
+  volume: '70'
+  status: in press
+  abstract: 'This Article demonstrates that a new revolving door is emerging between
+    environmental-advocacy groups and the private sector. Since the birth of the modern
+    regulatory state, scholars have raised concerns that the revolving door between
+    corporations and government agencies could induce government officials to pursue
+    corporate interests rather than the public interest. The legal and political-science
+    literatures have identified several benefits that may arise from the revolving
+    door, but the thrust of the scholarship to date has emphasized the potential harms.
+    Using several data sources, we demonstrate that as the private sector has begun
+    to play an increasing role in environmental governance in recent years, a new
+    revolving door has emerged between environmental-advocacy groups and corporations,
+    institutional investment firms, and private equity firms. We demonstrate that
+    this new revolving door is surprisingly common, and we examine the implications
+    for the future of public and private environmental governance. Although this new
+    revolving door creates new risks, we argue that it may turn on its head the central
+    concern about the revolving door: The movement of environmental advocates into
+    corporate management positions may play the role of greening corporate behavior
+    and may accelerate the development of private environmental initiatives. We focus
+    on the movement of employees in the environmental area—a new green revolving door—but
+    we suggest that this new revolving door also may be emerging in labor, health
+    and safety, and other regulatory areas.'
+  URL: https://scholarlycommons.law.case.edu/caselrev/vol70/iss4/14/
+
+- id: best:2020:random.forest
+  other-ids:
+  - bestRandomForestAnalysis2020a
+  type: article-journal
+  author:
+  - family: Best
+    given: Kelsea B.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Baroud
+    given: Hiba
+  - family: Carrico
+    given: Amanda R.
+  - family: Donato
+    given: Katharine M.
+  - family: Ackerly
+    given: Brooke A.
+  - family: Mallick
+    given: Bishawjit
+  issued:
+  - year: 2020
+    month: 3
+    day: 11
+  accessed:
+  - year: 2020
+    month: 3
+    day: 14
+  title: Random forest analysis of two household surveys can identify important predictors
+    of migration in Bangladesh
+  container-title: Journal of Computational Social Science
+  container-title-short: J Comput Soc Sc
+  status: advance
+  abstract: The decision to migrate is complex and is often influenced by a combination
+    of economic, social, political, and environmental pressures. Household survey
+    instruments can capture detailed information about migration histories and their
+    contexts, but it can be challenging to identify important predictors from large
+    numbers of covariates with standard statistical methods, such as regression analyses.
+    Machine learning techniques are well suited to pattern identification and can
+    identify important covariates from large datasets. We report on the application
+    of machine learning approaches to two large surveys collected from a total of
+    more than 2800 households in southwestern Bangladesh. We applied random forest
+    classification and regression models to identify significant covariates with the
+    greatest predictive power for household migration decisions. The results show
+    that random forest models are able to identify nuances in predictors of different
+    types of migration and migration in different communities. Random forests also
+    outperform logistic regression and support vector machines in predicting migration
+    in all cases analyzed. Therefore, random forest models and other machine learning
+    methods can be useful for improving the predictive accuracy of migration models
+    and identifying patterns in complex social datasets. Future work should continue
+    to explore the potential of machine learning techniques applied to questions of
+    environmental migration.
+  keyword: tenuretrack
+  URL: https://doi.org/10.1007/s42001-020-00066-9
+  DOI: 10.1007/s42001-020-00066-9
+  ISSN: 2432-2725
+  language: en-US
+
+- id: gilligan:2020:assessing.private.governance
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Vandenbergh
+    given: Michael P.
+  issued:
+  - year: 2020
+    month: 2
+    day: 1
+  accessed:
+  - year: 2019
+    month: 12
+    day: 23
+  title: A framework for assessing the impact of private climate governance
+  container-title: Energy Research & Social Science
+  container-title-short: Energy Research & Social Science
+  page: '101400'
+  volume: '60'
+  status: published
+  abstract: The growing sense of urgency by the public for action to address climate
+    change stands in stark contrast to the slow pace and limited accomplishments of
+    national and international institutions to reduce greenhouse gas emissions. Political
+    institutions face significant structural barriers to taking strong and rapid action
+    to cut emissions, but private environmental governance has potential to avoid
+    those barriers and achieve rapid emissions reductions. It appears unlikely that
+    private governance alone can reduce emissions enough to stabilize the climate,
+    but it does have the potential to reduce emissions sufficiently and quickly enough
+    to buy time for enacting more comprehensive public governance measures. In this
+    Perspective, we review what is known about private governance, present a framework
+    for analyzing private governance initiatives, outline the prospects of the framework
+    for understanding and guiding private governance, and identify future research
+    priorities for applying this framework.
+  keyword: Climate change, Climate policy, Greenhouse gas mitigation, Private climate
+    governance, Private environmental governance, Private governance, tenuretrack
+  URL: http://www.sciencedirect.com/science/article/pii/S2214629619310370
+  DOI: 10.1016/j.erss.2019.101400
+  ISSN: 2214-6296
+  language: en-US
+
+- id: elsawah:2020:grand.challenges
+  type: article-journal
+  author:
+  - family: Elsawah
+    given: Sondoss
+  - family: Filatova
+    given: Tatiana
+  - family: Jakeman
+    given: Anthony J.
+  - family: Kettner
+    given: Albert J.
+  - family: Zellner
+    given: Moira L.
+  - family: Athanasiadis
+    given: Ioannis N.
+  - family: Hamilton
+    given: Serena H.
+  - family: Axtell
+    given: Robert L.
+  - family: Brown
+    given: Daniel G.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Janssen
+    given: Marco A.
+  - family: Robinson
+    given: Derek T.
+  - family: Rozenberg
+    given: Julie
+  - family: Ullah
+    given: Isaac I. T.
+  - family: Lade
+    given: Steven J.
+  issued:
+  - year: 2020
+  title: Eight grand challenges in socio-environmental systems modeling
+  container-title: Socio-Environmental Systems Modeling
+  page: '16226'
+  volume: '2'
+  status: published
+  abstract: 'Modeling is essential to characterize and explore complex societal and
+    environmental issues in systematic and collaborative ways. Socio-environmental
+    systems (SES) modeling integrates knowledge and perspectives into conceptual and
+    computational tools that explicitly recognize how human decisions affect the environment.
+    Depending on the modeling purpose, many SES modelers also realize that involvement
+    of stakeholders and experts is fundamental to support social learning and decision-making
+    processes for achieving improved environmental and social outcomes. The contribution
+    of this paper lies in identifying and formulating grand challenges that need to
+    be overcome to accelerate the development and adaptation of SES modeling. Eight
+    challenges are delineated: bridging epistemologies across disciplines; multi-dimensional
+    uncertainty assessment and management; scales and scaling issues; combining qualitative
+    and quantitative methods and data; furthering the adoption and impacts of SES
+    modeling on policy; capturing structural changes; representing human dimensions
+    in SES; and leveraging new data types and sources. These challenges limit our
+    ability to effectively use SES modeling to provide the knowledge and information
+    essential for supporting decision making. Whereas some of these challenges are
+    not unique to SES modeling and may be pervasive in other scientific fields, they
+    still act as barriers as well as research opportunities for the SES modeling community.
+    For each challenge, we outline basic steps that can be taken to surmount the underpinning
+    barriers. Thus, the paper identifies priority research areas in SES modeling,
+    chiefly related to progressing modeling products, processes and practices.'
+  DOI: 10.18174/sesmo.2020a16226
+
+- id: gilligan:2019:diet
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2019
+    month: 8
+    day: 9
+  title: Modelling diet choices
+  container-title: Nature Sustainability
+  page: 661-662
+  volume: '2'
+  status: published
+  note: Invited “News and Views” commentary.
+  abstract: Meat is an important source of greenhouse-gas emissions, but not enough
+    people are giving it up. A new model integrates diets, land use and climate change
+    to explore the potential and implications of mass adoption of vegetarian diets.
+  URL: https://rdcu.be/bOaoY
+  DOI: 10.1038/s41893-019-0354-7
+
+- id: ding:2019:day.zero
+  type: paper-conference
+  author:
+  - family: Ding
+    given: Ke
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Hornberger
+    given: George M.
+  editor:
+  - family: Mustafee
+    given: N.
+  - family: Bae
+    given: K.-H. G.
+  - family: Lazarova-Molnar
+    given: S.
+  - family: Rabe
+    given: M.
+  - family: Szabo
+    given: C.
+  - family: Haas
+    given: P.
+  - family: Son
+    given: Y.-J.
+  issued:
+  - year: 2019
+  title: 'Avoiding “day-zero”: A testbed for evaluating integrated food-energy-water
+    management in cape town, south africa'
+  title-short: Avoiding “day-zero”
+  container-title: Proceedings of the 2019 winter simulation conference
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  page: 866-877
+  status: published
+  abstract: 'Deep connections between water resources and food and energy production—the
+    food-energy-water (FEW) nexus—complicate the challenge of sustainably managing
+    an uncertain water supply. We present an agent-based model as a computational
+    testbed for studying different approaches to managing the FEW nexus and apply
+    the model to the 2017–2018 water crisis in Cape Town South Africa. We treat the
+    FEW nexus connecting municipal water use by Cape Town residents, agricultural
+    water use by vineyards, and hydroelectric generation. We compare two scenarios
+    for responding to drought: business-as-usual (BAU), and holistic adaptive management
+    (HAM), where BAU takes no action until the monthly supply is insufficient to meet
+    demand, whereas HAM takes action by raising water tariffs when the reservoir storage
+    level drops below its pre-drought monthly average. Simulation results suggest
+    that holistic adaptive management can alleviate the impact of drought on agricultural
+    production, hydropower generation, and the availability of water for residential
+    consumption.'
+  DOI: 10.1109/WSC40007.2019.9004889
+
+- id: gilligan:2019:collaboration
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2019
+  title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
+    disaster research teams'
+  title-short: Expertise across disciplines
+  container-title: Risk Analysis
+  status: advance
+  abstract: 'Hazards and disasters arise from interactions between environmental and
+    social processes so interdisciplinary research is crucial to understanding and
+    effectively managing them. Despite support and encouragement from funding agencies,
+    universities, and journals and growing interest from researchers, interdisciplinary
+    disaster research teams face significant obstacles, such as the difficulty of
+    establishing effective communication and understanding across disciplines. Better
+    understanding of interdisciplinary teamwork can also have important practical
+    benefits for operational disaster planning and response.Social studies of science
+    distinguishes different kinds of expertise and different modes of communication.
+    Understanding these differences can help interdisciplinary research teams communicate
+    more clearly and work together more effectively. The primary role of a researcher
+    is in *contributory expertise*contributory expertise (the ability to make original
+    contributions to a discipline); but *interactional expertise*interactional expertise
+    in other disciplines (the ability to understand their literature and communicate
+    with their practitioners) can play an important role in interdisciplinary collaborations.
+    Developing interactional expertise requires considerable time and effort, which
+    can be challenging for a busy researcher, and also requires a foundation of trust
+    and communication among team members. Three distinct aspects of communication
+    play important roles in effective interdisciplinary communication: *dialects*dialects,
+    *metaphors*metaphors, and *articulation*articulation.There are different ways
+    to develop interactional expertise and effective communication, so researchers
+    can pursue approaches that suit their circumstances. It will be important for
+    future research on interdisciplinary disaster research to identify best practices
+    for building trust, facilitating communication, and developing interactional expertise.'
+  DOI: 10.1111/risa.13407
+
+- id: gilligan:2018:carrots.sticks
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: J. M.
+  issued:
+  - year: 2018
+    month: 12
+    day: 31
+  title: Carrots and sticks in private climate governance
+  container-title: Texas A&M Law Review
+  page: 179-198
+  volume: '6'
+  status: published
+  abstract: When public governance fails to address important environmental threats—such
+    as climate change—private governance by firms, not-for-profits, individuals, and
+    households can produce significant reductions in greenhouse gas emissions. Private
+    governance can take the form of either a carrot or a stick, using incentives or
+    punishments. Shareholder activism as a form of private governance of corporations
+    has largely been confrontational, leading most climate-related actions to fail.
+    This Article examines the potential for private governance to take a more collaborative
+    approach and to frame shareholder engagement with management in terms of opportunity.
+    It also examines private governance successes at reducing household emissions
+    and finds that these too emphasize making it attractive and convenient for households
+    to act.
+  keyword: tenuretrack
+  URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
+
+- id: ruhl:2018:topic.modeling
+  type: article-journal
+  author:
+  - family: Ruhl
+    given: J. B.
+  - family: Nay
+    given: John
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2018
+    month: 10
+    day: 6
+  title: 'Topic modeling the president: Conventional and computational methods'
+  title-short: Topic modeling the president
+  container-title: George Washington Law Review
+  page: 1243-1315
+  volume: '86'
+  status: published
+  abstract: Law is generally represented through text, and lawyers have for centuries
+    classified large bodies of legal text into distinct topics — they “topic model”
+    the law. But large bodies of legal documents present challenges for conventional
+    topic modeling methods. The task of gathering, reviewing, coding, sorting, and
+    assessing a body of tens of thousands of legal documents is a daunting proposition.
+    Recent advances in computational text analytics, a subset of the field of “artificial
+    intelligence,” are already gaining traction in legal practice settings such as
+    e-discovery by leveraging the speed and capacity of computers to process enormous
+    bodies of documents. Differences between conventional and computational methods,
+    however, suggest that computational text modeling has its own limitations, but
+    that the two methods used in unison could be a powerful research tool for legal
+    scholars in their research as well.
+  keyword: tenuretrack
+  URL: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
+
+- id: maki:2018:benefits
+  type: article-journal
+  author:
+  - family: Maki
+    given: Alexander
+  - family: McKinney
+    given: Emmett
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Cohen
+    given: Mark A.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2018
+    month: 8
+    day: 7
+  title: 'Employee energy benefits: What are they and what effects do they have on
+    employees?'
+  title-short: Employee energy benefits
+  container-title: Energy Efficiency
+  page: 1065-1083
+  volume: '12'
+  issue: '5'
+  status: published
+  abstract: Employee energy benefits (EEBs), such as subsidies for employee home energy
+    audits and financial incentives for carpooling to work, aim to influence employees’
+    environmental behaviors outside of work. Exploring these understudied benefits
+    would offer new insights that can enrich theories of employer and employee motivations
+    for engaging in environmental behavior, as well as reveal new strategies for making
+    significant progress on environment goals. By drawing upon employer reports and
+    conducting a survey of 482 US adults employed full-time, we found that there are
+    a wide range of types of EEBs currently offered by employers, and furthermore,
+    they were more likely to be offered in certain industries, such as state and local
+    governments but not others such as retail. These benefits were offered to 17%
+    of employees and included a vast array of strategies and approaches. Guided by
+    theorizing on employer and employee motivation, open-ended responses suggested
+    employers were perceived to offer EEBs to maximize competiveness and because of
+    social responsibility concerns, and employees tended to enroll because they wanted
+    to save money and time or because they cared about the environment. Finally, EEBs
+    were linked to employee environmental behavior and morale. The findings reveal
+    new information about the types of EEBs being offered, motivations for offering
+    and enrolling in EEBs, and their relationship to employee behavior and morale.
+    This work suggests numerous lines of promising new research.
+  keyword: tenuretrack
+  DOI: 10.1007/s12053-018-9721-x
+
+- id: gilligan:2018:water.conservation
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Wold
+    given: Christopher A.
+  - family: Worland
+    given: Scott C.
+  - family: Nay
+    given: John J.
+  - family: Hess
+    given: David J.
+  - family: Hornberger
+    given: George M.
+  issued:
+  - year: 2018
+    month: 6
+    day: 12
+  title: Urban water conservation policies in the united states
+  container-title: Earth’s Future
+  page: 955-967
+  volume: '6'
+  status: published
+  abstract: Urban water supply systems in the United States are increasingly stressed
+    as economic and population growth confront limited water resources. Demand management,
+    through conservation and improved efficiency, has long been promoted as a practical
+    alternative to building Promethean energy-intensive water-supply infrastructure.
+    Some cities are making great progress at managing their demand, but study of conservation
+    policies has been limited and often regionally focused. We present a hierarchical
+    Bayesian analysis of a new measure of urban water conservation policy, the Vanderbilt
+    Water Conservation Index (VWCI), for 195 cities in 45 states in the contiguous
+    United States. This study does not attempt to establish causal relationships,
+    but does observe that cities in states with arid climates tend to adopt more conservation
+    measures. Within a state, cities with more Democratic-leaning voting preferences
+    and large and rapidly growing populations tend to adopt more conservation measures.
+    Economic factors and climatic differences between cities do not correlate with
+    the number of measures adopted, but they do correlate with the character of the
+    measures, with arid cities favoring mandatory conservation actions and cities
+    in states with lower real personal income favoring rebates for voluntary actions.
+    Understanding relationships between environmental and societal factors and cities’
+    support for water conservation measures can help planners and policy-makers identify
+    obstacles and opportunities to increase the role of conservation and efficiency
+    in making urban water supply systems sustainable.
+  keyword: tenuretrack
+  DOI: 10.1029/2017EF000797
+
+- id: gilligan:2018:human.factor
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2018
+    month: 1
+    day: 1
+  title: 'Climate modeling: Accounting for the human factor'
+  title-short: Climate modeling
+  container-title: Nature Climate Change
+  page: 14-15
+  volume: '8'
+  status: published
+  note: Invited “News and Views” commentary.
+  abstract: One of the greatest sources of uncertainty about future climate change
+    is the path greenhouse gas emissions will take. Now research using a coupled model
+    of human behaviour and climate finds that individual behaviour can significantly
+    alter emissions trajectories and global temperature.
+  keyword: tenuretrack
+  DOI: 10.1038/s41558-017-0038-0
+
+- id: nay:2018:vegetation.health
+  type: article-journal
+  author:
+  - family: Nay
+    given: John J.
+  - family: Burchfield
+    given: Emily K.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2018
+    month: 1
+    day: 1
+  title: A machine-learning approach to forecasting remotely sensed vegetation health
+  container-title: International Journal of Remote Sensing
+  page: 1800-1816
+  volume: '39'
+  status: published
+  abstract: 'Drought threatens food and water security around the world, and this
+    threat is likely to become more severe under climate change. High-resolution predictive
+    information can help farmers, water managers, and others to manage the effects
+    of drought. We have created an open-source tool to produce short-term forecasts
+    of vegetation health at high spatial resolution, using data that are global in
+    coverage. The tool automates downloading and processing Moderate Resolution Imaging
+    Spectroradiometer (MODIS) data sets and training gradient-boosted machine models
+    on hundreds of millions of observations to predict future values of the enhanced
+    vegetation index. We compared the predictive power of different sets of variables
+    (MODIS surface reflectance data and Level-3 MODIS products) in two regions with
+    distinct agro-ecological systems, climates, and cloud coverage: Sri Lanka and
+    California. Performance in California is higher because of more cloud-free days
+    and less missing data. In both regions, the correlation between the actual and
+    model predicted vegetation health values in agricultural areas is above 0.75.
+    Predictive power more than doubles in agricultural areas compared to a baseline
+    model.'
+  keyword: tenuretrack
+  DOI: 10.1080/01431161.2017.1410296
+
+- id: phillips:2018:beyond.politics
+  type: article-journal
+  author:
+  - family: Phillips
+    given: Cassie
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Harper
+    given: Stephen
+  - family: Roberts
+    given: Jackie
+  - family: Vandenbergh
+    given: Michael P.
+  issued:
+  - year: 2018
+  title: 'Dialogue: Beyond politics: The private governance response to climate change'
+  title-short: Dialogue
+  container-title: Environmental Law Reporter
+  page: 11049-11062
+  volume: '48'
+  status: published
+  keyword: tenuretrack
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
+
+- id: wilson:2017:infilling
+  type: article-journal
+  author:
+  - family: Wilson
+    given: Carol
+  - family: Goodbred
+    given: Steven
+  - family: Small
+    given: Christopher
+  - family: Gilligan
+    given: Jonathan
+  - family: Sams
+    given: Sarah
+  - family: Mallick
+    given: Bishawjit
+  - family: Hale
+    given: Richard
+  issued:
+  - year: 2017
+    month: 12
+    day: 27
+  title: Widespread infilling of tidal channels and navigable waterways in the human-modified
+    tidal deltaplain of southwest Bangladesh
+  container-title: Elementa
+  page: '78'
+  volume: '5'
+  status: published
+  abstract: Since the 1960s, $\sim 5000~\text{km}^2$ of tidal deltaplain in southwest
+    Bangladesh has been embanked and converted to densely inhabited, agricultural
+    islands (i.e., polders). This landscape is juxtaposed to the adjacent Sundarbans,
+    a pristine mangrove forest, both well connected by a dense network of tidal channels
+    that effectively convey water and sediment throughout the region. The extensive
+    embanking in poldered areas, however, has greatly reduced the tidal prism (i.e.,
+    volume of water) transported through local channels. We reveal that $>600~\text{km}$
+    of these major waterways have infilled in recent decades, converting to land through
+    enhanced sedimentation and the direct blocking of waterways by embankments and
+    sluice gates. Nearly all of the observed closures ($\sim 98\%$) have occurred
+    along the embanked polder systems, with no comparable changes occurring in channels
+    of the Sundarbans ($<2\%$ change). We attribute most of the channel infilling
+    to the local reduction of tidal prism in poldered areas and the associated decline
+    in current velocities. The infilled channels account for $\sim 90~\text{km}^2$
+    of new land in the last 40–50 years, the rate of which, $\sim 2~\text{km}^2/\text{yr}$,
+    offsets the $4~\text{km}^2/\text{yr}$ that is eroded at the coast, and is equivalent
+    to $\sim 20\%$ of the new land produced naturally at the Ganges-Brahmaputra tidal
+    rivermouth. Most of this new land, called ‘khas’ in Bengali, has been reclaimed
+    for agriculture or aquaculture, contributing to the local economy. However, benefits
+    are tempered by the loss of navigable waterways for commerce, transportation,
+    and fishing, as well as the forced rerouting of tidal waters and sediments necessary
+    to sustain this low-lying landscape against rising sea level. A more sustainable
+    delta will require detailed knowledge of the consequences of these hydrodynamic
+    changes to support more scientifically-grounded management of water, sediment,
+    and tidal energy distribution.
+  keyword: tenuretrack
+  DOI: 10.1525/elementa.263
+
+- id: vandenbergh:2017:beyond.politics
+  type: book
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2017
+    month: 11
+    day: 30
+  title: 'Beyond politics: The private governance response to climate change'
+  title-short: Beyond politics
+  publisher: Cambridge University Press
+  publisher-place: New York, NY
+  status: published
+  note: 494 pp.
+  abstract: Private sector action provides one of the most promising opportunities
+    to reduce the risks of climate change, buying time while governments move slowly
+    or even oppose climate mitigation. Starting with the insight that much of the
+    resistance to climate mitigation is grounded in concern about the role of government,
+    this books draws on law, policy, social science, and climate science to demonstrate
+    how private initiatives are already bypassing government inaction in the US and
+    around the globe. It makes a persuasive case that private governance can reduce
+    global carbon emissions by a billion tons per year over the next decade. Combining
+    an examination of the growth of private climate initiatives over the last decade,
+    a theory of why private actors are motivated to reduce emissions, and a review
+    of viable next steps, this book speaks to scholars, business and advocacy group
+    managers, philanthropists, policymakers, and anyone interested in climate change.
+  keyword: tenuretrack
+  ISBN: 978-1107181229
+
+- id: ackerly:2017:climate.community
+  type: chapter
+  author:
+  - family: Ackerly
+    given: Brooke A.
+  - family: Anam
+    given: Mujibul
+  - family: Gilligan
+    given: Jonathan
+  - family: Goodbred
+    given: Steven
+  editor:
+  - family: Manou
+    given: Dimitra
+  - family: Baldwin
+    given: Andrew
+  - family: Cubie
+    given: Dug
+  - family: Mijr
+    given: Anja
+  - family: Thorp
+    given: Teresa
+  issued:
+  - year: 2017
+  title: 'Climate and community: The human rights, livelihood, and migration impacts
+    of climate change'
+  title-short: Climate and community
+  container-title: Climate change, migration, and human rights
+  publisher: Routledge
+  publisher-place: New York
+  page: 189-202
+  status: published
+  keyword: tenuretrack
+  ISBN: '9780367136161'
+
+- id: gilligan:2017:science.beat
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2017
+  title: Are cops on the science beat?
+  container-title: Issues in Science and Technology
+  page: 6-8
+  volume: '34'
+  issue: 1, Fall
+  status: published
+  note: Commentary invited by the editor
+  keyword: tenuretrack
+  URL: http://issues.org/34-1/forum-36/
+
+- id: gunda:2016:drought
+  type: article-journal
+  author:
+  - family: Gunda
+    given: Thushara
+  - family: Hornberger
+    given: George M.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2016
+    month: 2
+  accessed:
+  - year: 2016
+    month: 2
+    day: 12
+  title: 'Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881–2010'
+  title-short: Spatiotemporal patterns of agricultural drought in Sri Lanka
+  container-title: International Journal of Climatology
+  page: 563-575
+  volume: '36'
+  issue: '2'
+  abstract: A spatiotemporal analysis of two well-known agricultural drought indices,
+    the Palmer Drought Severity Index (PDSI) and the Standardized Precipitation Index
+    at a 9-month scale (SPI-9), is presented for Sri Lanka. The analysis was conducted
+    based on monthly precipitation and temperature data from January 1881 to December
+    2010 using 13 stations distributed across the three climatic zones of the country.
+    Principal component analysis shows that the first two principal components of
+    PDSI and SPI-9 are spatially comparable and could physically represent the two
+    main monsoons. A wavelet analysis of these principal components’ scores for both
+    indices indicates a stronger association between the Northeastern monsoon and
+    El-Niño in recent decades. Correlation analysis with agricultural metrics suggests
+    that different indices might be appropriate for each of the climatic zones in
+    Sri Lanka. PDSI correlated best with the intermediate zone districts; SPI-9 correlated
+    best with the dry zone districts; but neither index correlated well with the wet
+    zone districts.
+  keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets, tenuretrack
+  DOI: 10.1002/joc.4365
+  ISSN: 1097-0088
+
+- id: benneyworth:2016:drinking.water
+  type: article-journal
+  author:
+  - family: Benneyworth
+    given: Laura
+  - family: Gilligan
+    given: Jonathan
+  - family: Ayers
+    given: John C.
+  - family: Goodbred
+    given: Steven
+  - family: George
+    given: Gregory
+  - family: Carrico
+    given: Amanda
+  - family: Karim
+    given: Md Rezaul
+  - family: Akter
+    given: Farjana
+  - family: Fry
+    given: David
+  - family: Donato
+    given: Katherine
+  - family: Piya
+    given: Bhumika
+  issued:
+  - year: 2016
+  accessed:
+  - year: 2016
+    month: 6
+    day: 9
+  title: 'Drinking water insecurity: Water quality and access in coastal south-western
+    Bangladesh'
+  title-short: Drinking water insecurity
+  container-title: International Journal of Environmental Health Research
+  page: 508-524
+  volume: '26'
+  status: published
+  note: 'Featured by Taylor & Francis publishers as part of their observance of World
+    Water Day 2017. T&F opened free access to the article and published an accompanying
+    “Research Story” with background on the article: <https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>.'
+  abstract: National drinking water assessments for Bangladesh do not reflect local
+    variability, or temporal differences. This paper reports on the findings of an
+    interdisciplinary investigation of drinking water insecurity in a rural coastal
+    south-western Bangladesh. Drinking water quality is assessed by comparison of
+    locally measured concentrations to national levels and water quality criteria;
+    resident’s access to potable water and their perceptions are based on local social
+    surveys. Residents in the study area use groundwater far less than the national
+    average; salinity and local rainwater scarcity necessitates the use of multiple
+    water sources throughout the year. Groundwater concentrations of arsenic and specific
+    conductivity (SpC) were greater than surface water (pond) concentrations; there
+    was no statistically significant seasonal difference in mean concentrations in
+    groundwater, but there was for ponds, with arsenic higher in the dry season. Average
+    arsenic concentrations in local water drinking were 2–4 times times the national
+    average. All of the local groundwater samples exceeded the Bangladesh guidance
+    for SpC, although the majority of residents surveyed did not perceive their water
+    as having a “bad” or “salty” taste.
+  keyword: tenuretrack
+  DOI: 10.1080/09603123.2016.1194383
+  ISSN: 0960-3123
+  PMID: '27277537'
+
+- id: burchfield:2016:abm
+  type: paper-conference
+  author:
+  - family: Burchfield
+    given: Emily K.
+  - family: Gilligan
+    given: Jonathan M.
+  editor:
+  - family: Roeder
+    given: T. M. K.
+  - family: Frazier
+    given: P. I.
+  - family: Szechtman
+    given: R.
+  - family: Zhou
+    given: E.
+  - family: Huschka
+    given: T.
+  - family: Chick
+    given: S. E.
+  issued:
+  - year: 2016
+  title: Dynamics of individual and collective agricultural adaptation to water scarcity
+  container-title: Proceedings of the 2016 winter simulation conference
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  page: 1678-1689
+  status: published
+  abstract: 'Drought and water scarcity are growing challenges to agriculture around
+    the world. Farmers can adapt through both individual and community-based collective
+    actions. We draw on extensive field-work conducted with paddy farmers in rural
+    Sri Lanka to study adaptations to water scarcity, including switching to less
+    water-intensive crops, farming collectively on shared land, and individually turning
+    to groundwater by digging wells. We explore how variability in climate affects
+    agricultural decision-making at the community and individual levels using three
+    types of decision-making, each characterized by an objective function: risk-averse
+    expected utility, regret-adjusted expected utility, and prospect theory loss-aversion.
+    We also assess how the introduction of individualized access to irrigation water
+    with wells affects community-based drought mitigation practices. Preliminary results
+    suggest that the growth of well-irrigation may produce sudden disruptions to community-based
+    adaptations, but that this depends on the mental models farmers use to think about
+    risk and make decisions under uncertainty.'
+  keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
+    decision science, drought, Prospect Theory, Sustainability, tenuretrack
+  URL: https://papers.ssrn.com/abstract=2807452
+  DOI: 10.1109/WSC.2016.7822216
+
+- id: burchfield:2016:ag.adaptation
+  type: article-journal
+  author:
+  - family: Burchfield
+    given: Emily K.
+  - family: Gilligan
+    given: Jonathan
+  issued:
+  - year: 2016
+  title: Agricultural adaptation to drought in the sri lankan dry zone
+  container-title: Applied Geography
+  publisher: Elsevier
+  page: 92-100
+  volume: '77'
+  status: published
+  abstract: Droughts affect more people than any other natural disaster. Drought severity
+    is not merely a function of precipitation; it emerges from a web of interrelations
+    between human and natural systems. The impacts of drought are equally complex,
+    shifting across temporal scales, economic sectors, and regions. Even in regions
+    with similar hydroclimatic characteristics, there is tremendous variation in the
+    effects of drought. This study combines satellite imagery, geospatial data, and
+    qualitative data to identify the multi-scalar factors that drive variations in
+    agricultural responses to drought. We analyzed eleven years of remotely sensed
+    imagery to identify agricultural areas in which cultivation occurred during an
+    extreme drought in Sri Lanka. We visited a subset of these communities and conducted
+    interviews with officials and farmers to identify the factors that influenced
+    agricultural adaptation. Results suggest that though structural factors such as
+    infrastructural capacity and physical environment significantly affect agricultural
+    adaptation, dynamic factors such as local control of water supply, perceived risk,
+    community cohesion, and farmer experience explain significant variation in the
+    adaptive capacity of agricultural systems.
+  keyword: Drought, Adaptive capacity, Multi-scale, Remote sensing, Mixed methods,
+    tenuretrack
+  URL: https://www.sciencedirect.com/science/article/pii/S0143622816306063
+  DOI: 10.1016/j.apgeog.2016.10.003
+
+- id: burchfield:2016:vegetation.health
+  type: article-journal
+  author:
+  - family: Burchfield
+    given: Emily
+  - family: Nay
+    given: John J.
+  - family: Gilligan
+    given: Jonathan
+  issued:
+  - year: 2016
+  accessed:
+  - year: 2016
+    month: 7
+    day: 6
+  title: Application of machine learning to the prediction of vegetation health
+  container-title: ISPRS—International Archives of the Photogrammetry, Remote Sensing
+    and Spatial Information Sciences
+  page: 465-469
+  volume: XLI-B2
+  status: published
+  keyword: tenuretrack
+  URL: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
+  DOI: 10.5194/isprs-archives-XLI-B2-465-2016
+  ISSN: 1682-1750
+
+- id: hess:2016:drought
+  type: article-journal
+  author:
+  - family: Hess
+    given: David J.
+  - family: Wold
+    given: Christopher A.
+  - family: Hunter
+    given: Elise
+  - family: Nay
+    given: John
+  - family: Worland
+    given: Scott
+  - family: Gilligan
+    given: Jonathan
+  - family: Hornberger
+    given: George M.
+  issued:
+  - year: 2016
+  title: Drought, risk, and institutional politics in the american southwest
+  container-title: Sociological Forum
+  publisher: Wiley Online Library
+  page: 807-827
+  volume: '31'
+  status: published
+  keyword: tenuretrack
+  DOI: 10.1111/socf.12274
+
+- id: nay:2016:betting.belief
+  type: paper-conference
+  author:
+  - family: Nay
+    given: John J.
+  - family: Van der Linden
+    given: Martin
+  - family: Gilligan
+    given: Jonathan M.
+  editor:
+  - family: Roeder
+    given: T. M. K.
+  - family: Frazier
+    given: P. I.
+  - family: Szechtman
+    given: R.
+  - family: Zhou
+    given: E.
+  - family: Huschka
+    given: T.
+  - family: Chick
+    given: S. E.
+  issued:
+  - year: 2016
+  accessed:
+  - year: 2016
+    month: 7
+    day: 14
+  title: 'Betting and belief: Prediction markets and attribution of climate change'
+  title-short: Betting and Belief
+  container-title: Proceedings of the 2016 winter simulation conference
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  page: 1666-1677
+  status: published
+  abstract: Despite much scientific evidence, a large fraction of the American public
+    doubts that greenhouse gases are causing global warming. We present a simulation
+    model as a computational test-bed for climate prediction markets. Traders adapt
+    their beliefs about future temperatures based on the profits of other traders
+    in their social network. We simulate two alternative climate futures, in which
+    global temperatures are primarily driven either by carbon dioxide or by solar
+    irradiance. These represent, respectively, the scientific consensus and a hypothesis
+    advanced by prominent skeptics. We conduct sensitivity analyses to determine how
+    a variety of factors describing both the market and the physical climate may affect
+    traders’ beliefs about the cause of global climate change. Market participation
+    causes most traders to converge quickly toward believing the "true" climate model,
+    suggesting that a climate market could be useful for building public consensus.
+  keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
+    Finance - Economics, tenuretrack
+  URL: https://arxiv.org/abs/1603.08961
+  DOI: 10.1109/WSC.2016.7822215
+
+- id: ackerly:2015:political.economies
+  type: chapter
+  author:
+  - family: Ackerly
+    given: Brooke A.
+  - family: Anam
+    given: Mujibul
+  - family: Gilligan
+    given: Jonathan
+  editor:
+  - family: Mallick
+    given: Bishawjit
+  - family: Etzold
+    given: Benjamin
+  issued:
+  - year: 2015
+  title: Environment, political economies, and livelihood change
+  container-title: 'Environment, migration and adaptation: Evidence and politics of
+    climate change in bangladesh'
+  publisher: AH Development Publishing House
+  publisher-place: Dhaka, Bangladesh
+  page: 27-39
+  status: published
+  keyword: tenuretrack
+  ISBN: '9789849103790'
+
+- id: auerbach:2015:polder.reply
+  type: article-journal
+  author:
+  - family: Auerbach
+    given: L. W.
+  - family: Goodbred Jr
+    given: S. L.
+  - family: Mondal
+    given: D. R.
+  - family: Wilson
+    given: C. A.
+  - family: Ahmed
+    given: K. R.
+  - family: Roy
+    given: K.
+  - family: Steckler
+    given: M. S.
+  - family: Small
+    given: C.
+  - family: Gilligan
+    given: J. M.
+  - family: Ackerly
+    given: B. A.
+  issued:
+  - year: 2015
+  accessed:
+  - year: 2015
+    month: 6
+    day: 3
+  title: Reply to ‘Tidal river management in Bangladesh’
+  container-title: Nature Climate Change
+  page: 492-493
+  volume: '5'
+  issue: '6'
+  status: published
+  keyword: tenuretrack
+  URL: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
+  DOI: 10.1038/nclimate2620
+  ISSN: 1758-678X
+
+- id: auerbach:2015:polders
+  type: article-journal
+  author:
+  - family: Auerbach
+    given: Leslie W.
+  - family: Goodbred
+    given: S. L.
+    suffix: Jr.
+  - family: Mondal
+    given: Dhiman R.
+  - family: Wilson
+    given: Carol A.
+  - family: Ahmed
+    given: Kazi R.
+  - family: Roy
+    given: Kushal
+  - family: Steckler
+    given: Michael S.
+  - family: Small
+    given: Christopher
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Ackerly
+    given: Brooke A.
+  issued:
+  - year: 2015
+  title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
+    delta plain
+  container-title: Nature Climate Change
+  page: 152-157
+  volume: '5'
+  issue: '2'
+  status: published
+  keyword: tenuretrack
+  DOI: 10.1038/nclimate2472
+
+- id: gilligan:2015:flood.partsim
+  type: paper-conference
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Brady
+    given: Corey
+  - family: Camp
+    given: Janey V.
+  - family: Nay
+    given: John J.
+  - family: Sengupta
+    given: Pratim
+  editor:
+  - family: Yilmaz
+    given: L.
+  - family: Chan
+    given: W. K. V.
+  - family: Moon
+    given: I.
+  - family: Roeder
+    given: T. M. K.
+  - family: Macal
+    given: C.
+  - family: Rossetti
+    given: M. D.
+  issued:
+  - year: 2015
+  accessed:
+  - year: 2016
+    month: 2
+    day: 25
+  title: Participatory simulations of urban flooding for learning and decision support
+  container-title: Proceedings of the 2015 Winter Simulation Conference
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  page: 3174-3175
+  status: published
+  note: '00000'
+  keyword: tenuretrack
+  URL: https://dl.acm.org/citation.cfm?id=2888619.2889027
+  DOI: 10.1109/WSC.2015.7408456
+  ISBN: 978-1-4673-9741-4
+
+- id: hornberger:2015:hydro.transitions
+  type: article-journal
+  author:
+  - family: Hornberger
+    given: George M.
+  - family: Hess
+    given: David J.
+  - family: Gilligan
+    given: Jonathan
+  issued:
+  - year: 2015
+  accessed:
+  - year: 2016
+    month: 2
+    day: 12
+  title: Water conservation and hydrological transitions in cities in the United States
+  container-title: Water Resources Research
+  page: 4635-4649
+  volume: '51'
+  issue: '6'
+  status: published
+  abstract: Cities across the world have had to diversify and expand their water supply
+    systems in response to demand growth, groundwater depletion and pollution, and
+    instability and inadequacy of regional surface freshwater sources. In the U.S.,
+    these problems plague not only the arid Western cities but increasingly also cities
+    in the Eastern portions of the country. Although cities continue to seek out new
+    sources of water via Promethean projects of long-distance supply systems, desalinization
+    plants, and the recharge of aquifers with surface water, they also pursue water
+    conservation because of its low cost and other benefits. We examine water conservation
+    as a complex sociotechnical system comprising interactions of political, sociodemographic,
+    economic, and hydroclimatological factors. We provide quantitative data on the
+    factors that affect more and less advanced transitions in water conservation regimes,
+    and we show that water stress and other hydrological data can only partially predict
+    the transition. We also provide qualitative case studies to identify institutional
+    and political barriers to more advanced water conservation regimes. This interdisciplinary,
+    mixed methods approach typifies the need for knowledge that informs hydrologists
+    about how their research may or may not be adopted by decision-makers.
+  keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation,
+    tenuretrack
+  DOI: 10.1002/2015WR016943
+  ISSN: 1944-7973
+
+- id: nay:2015:decision.models
+  type: paper-conference
+  author:
+  - family: Nay
+    given: John J.
+  - family: Gilligan
+    given: Jonathan M.
+  editor:
+  - family: Yilmaz
+    given: L.
+  - family: Chan
+    given: W. K. V.
+  - family: Moon
+    given: I.
+  - family: Roeder
+    given: T. M. K.
+  - family: Macal
+    given: C.
+  - family: Rossetti
+    given: M. D.
+  issued:
+  - year: 2015
+  accessed:
+  - year: 2016
+    month: 2
+    day: 25
+  title: Data-driven dynamic decision models
+  container-title: Proceedings of the 2015 winter simulation conference
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  page: 2752-2763
+  status: published
+  note: '00000'
+  keyword: tenuretrack
+  URL: https://dl.acm.org/citation.cfm?id=2888619.2888935
+  DOI: 10.1109/WSC.2015.7408381
+  ISBN: 978-1-4673-9741-4
+
+- id: vandenbergh:2015:beyond.gridlock
+  type: article-journal
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2015
+  title: Beyond gridlock
+  container-title: Columbia Journal of Environmental Law
+  page: 217-303
+  volume: '40'
+  issue: '2'
+  status: published
+  note: '**<span class="smallcaps">Note:</span>** This paper won the 2017 Morrison
+    Prize for the highest-impact paper on sustainability law and policy in 2015'
+  keyword: tenuretrack
+  URL: http://www.columbiaenvironmentallaw.org/beyond-gridlock/
+  DOI: 10.2139/ssrn.2533643
+
+- id: gilligan:2014:political.feasibility
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Vandenbergh
+    given: Michael P.
+  issued:
+  - year: 2014
+  title: Accounting for political feasibility in climate instrument choice
+  container-title: Virginia Environmental Law Journal
+  page: 1-26
+  volume: '32'
+  status: published
+  keyword: tenuretrack
+  DOI: 10.2139/ssrn.2220788
+
+- id: vandenbergh:2014:prediction.markets
+  type: article-journal
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Toner
+    given: Kaitlin E.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2014
+  title: 'Energy and climate change: A climate prediction market'
+  title-short: Energy and climate change
+  container-title: UCLA Law Review
+  page: 1962-2017
+  volume: '61'
+  status: published
+  keyword: tenuretrack
+
+- id: gilligan:2013:isee
+  type: paper-conference
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Ackerly
+    given: Brooke A.
+  - family: Goodbred
+    given: Steven L.
+  issued:
+  - year: 2013
+    month: 2
+    day: 22
+  title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated
+    social, environmental, and engineering perspective'
+  title-short: Building resilience to environmental stress in coastal Bangladesh
+  container-title: 'Bridging the policy-action divide: Challenges and prospects for
+    bangladesh'
+  publisher: Bangladesh Development Initiative
+  publisher-place: Berkeley, CA
+  status: published
+
+- id: rogers:2013:farming
+  type: paper-conference
+  author:
+  - family: Rogers
+    given: Kimberly G.
+  - family: Syvitski
+    given: James P. M.
+  - family: Overeem
+    given: Irina
+  - family: Higgins
+    given: Stephanie
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2013
+  title: Farming practices and anthropogenic delta dynamics
+  container-title: 'Deltas: Landforms, ecosystems and human activities'
+  collection-title: IAHS publ.
+  publisher: Int’l. Assoc. Hydrolog. Sci.
+  publisher-place: Gothenberg SE
+  page: 133-142
+  volume: '358'
+  status: published
+
+- id: carrico:2011:key.lessons
+  type: article-journal
+  author:
+  - family: Carrico
+    given: Amanda R.
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Stern
+    given: Paul C.
+  - family: Gardner
+    given: Gerald T.
+  - family: Dietz
+    given: Thomas
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2011
+  title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
+  title-short: Energy and climate change
+  container-title: Journal of Energy & Environmental Law
+  page: 61-67
+  volume: '2'
+  status: published
+
+- id: vandenbergh:2011:macro.risks
+  type: article-journal
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2011
+  title: 'Macro-risks: The challenge for rational risk regulation'
+  title-short: Macro-risks
+  container-title: Duke Environmental Law and Policy Forum
+  page: 401-431
+  volume: '21'
+  status: published
+
+- id: cliffel:2010:patent.plurality
+  type: patent
+  author:
+  - family: Cliffel
+    given: David
+  - family: Baudenbacher
+    given: Franz J.
+  - family: Wikswo
+    given: John P.
+  - family: Eklund
+    given: Sven
+  - family: Balcarcel
+    given: Robert R.
+  - family: Gilligan
+    given: Jonathan Mark
+  issued:
+  - year: 2010
+    month: 5
+    day: 11
+  title: Device and methods for detecting the response of a plurality of cells to
+    at least one analyte of interest
+  status: published
+  number: 7,713,733 B2
+
+- id: baudenbacher:2010:patent.metabolic
+  type: patent
+  author:
+  - family: Baudenbacher
+    given: Franz J.
+  - family: Wikswo
+    given: John P.
+  - family: Balcarcel
+    given: Robert R.
+  - family: Cliffel
+    given: David
+  - family: Eklund
+    given: Sven
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: McGuinness
+    given: Owen
+  - family: Monroe
+    given: Todd
+  - family: Prokop
+    given: Ales
+  - family: Stremler
+    given: Michael
+  - family: Werdich
+    given: Andreas
+  issued:
+  - year: 2010
+    month: 4
+    day: 27
+  title: Apparatus and methods for monitoring the status of a metabolically active
+    cell
+  status: published
+  number: 7,704,745 B2
+
+- id: gilligan:2010:behavioral.wedge
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan
+  - family: Dietz
+    given: Thomas
+  - family: Gardner
+    given: Gerald
+  - family: Stern
+    given: Paul
+  - family: Vandenbergh
+    given: Michael
+  issued:
+  - year: 2010
+  title: The behavioral wedge
+  container-title: Significance
+  page: 17-20
+  volume: '7'
+  status: published
+  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  DOI: 10.1111/j.1740-9713.2010.00405.x
+
+- id: gilligan:2010:future.generations
+  type: chapter
+  author:
+  - family: Gilligan
+    given: Jonathan
+  editor:
+  - family: Espejo
+    given: R.
+  issued:
+  - year: 2010
+  title: People should behave ethically for the sake of future generations
+  container-title: 'Opposing viewpoints: Ethics'
+  publisher: Gale
+  page: 20-32
+  volume: '2'
+  status: published
+
+- id: stern:2010:design.principles
+  type: article-journal
+  author:
+  - family: Stern
+    given: Paul C.
+  - family: Gardner
+    given: Gerald T.
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Dietz
+    given: Thomas
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2010
+  title: Design principles for carbon emissions reduction programs
+  container-title: Environmental Science & Technology
+  page: 4847-4848
+  volume: '44'
+  status: published
+  DOI: 10.1021/es100896p
+
+- id: vandenbergh:2010:implementing
+  type: article-journal
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Stern
+    given: Paul C.
+  - family: Gardner
+    given: Gerald T.
+  - family: Dietz
+    given: Thomas
+  - family: Gilligan
+    given: Jonathan M.
+  issued:
+  - year: 2010
+  title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
+    emissions reduction programs'
+  title-short: Implementing the behavioral wedge
+  container-title: Environmental Law Reporter
+  page: 547-554
+  volume: '40'
+  status: published
+  note: Selected by Environmental Law Institute to reprint as the featured cover story
+    of the 2010 summer reading issue for policymakers of Environmental Forum.
+
+- id: carrico:2009:costly.myths
+  type: article-journal
+  author:
+  - family: Carrico
+    given: Amanda R.
+  - family: Padgett
+    given: Paul
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan
+  - family: Wallston
+    given: Kenneth A.
+  issued:
+  - year: 2009
+  title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
+    vehicles'
+  title-short: Costly myths
+  container-title: Energy Policy
+  page: 2881-2888
+  volume: '37'
+  status: published
+  DOI: 10.1016/j.enpol.2009.03.031
+
+- id: dietz:2009:behavioral.wedge
+  type: article-journal
+  author:
+  - family: Dietz
+    given: Thomas
+  - family: Gardner
+    given: Gerald
+  - family: Gilligan
+    given: Jonathan
+  - family: Stern
+    given: Paul
+  - family: Vandenbergh
+    given: Michael
+  issued:
+  - year: 2009
+  title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
+    emissions
+  container-title: PNAS
+  page: 18452-18456
+  volume: '106'
+  status: published
+  DOI: 10.1073/pnas.0908738106
+
+- id: holcomb:2009:dual.camera
+  type: article-journal
+  author:
+  - family: Holcomb
+    given: Mark R.
+  - family: Woods
+    given: Marcella C.
+  - family: Uzelac
+    given: Illja
+  - family: Wikswo
+    given: J. P.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Sidorov
+    given: Venyamin Y.
+  issued:
+  - year: 2009
+  title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
+    and metabolism
+  container-title: Experimental Biology and Medicine
+  page: 1355-1372
+  volume: '234'
+  status: published
+  note: '*Selected by the editors as the feature article of the month.*'
+
+- id: vandenbergh:2008:low.hanging.fruit
+  type: article-journal
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Barkenbus
+    given: Jack
+  - family: Gilligan
+    given: Jonathan Mark
+  issued:
+  - year: 2008
+  title: 'Individual carbon emissions: The low-hanging fruit'
+  title-short: Individual carbon emissions
+  container-title: UCLA Law Review
+  page: 1701-1758
+  volume: '55'
+  status: published
+
+- id: mashburn:2007:cardiac.stimulator
+  type: article-journal
+  author:
+  - family: Mashburn
+    given: David N.
+  - family: Hinkson
+    given: S. J.
+  - family: Woods
+    given: Marcella C.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Holcomb
+    given: Mark R.
+  - family: Wikswo
+    given: John P.
+  issued:
+  - year: 2007
+  title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
+    bath
+  container-title: Review of Scientific Instruments
+  page: 104302-104309
+  volume: '78'
+  status: published
+
+- id: gilligan:2006:nanotech
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan Mark
+  issued:
+  - year: 2006
+  title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
+    risks'
+  title-short: Flexibility, clarity, and legitimacy
+  container-title: Environmental Law Reporter
+  page: 10924-10930
+  volume: '36'
+  issue: '12'
+  status: published
+
+- id: sobol:2003:light.scattering
+  type: article-journal
+  author:
+  - family: Sobol
+    given: Emil
+  - family: Sviridov
+    given: Aleksandr
+  - family: Kitai
+    given: Moshe
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Edwards
+    given: Glenn S.
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 2003
+  title: Time-resolved light scattering measurements of cartilage and cornea denaturation
+    due to free-electron laser radiation
+  container-title: Journal of Biomedical Optics
+  page: 216-222
+  volume: '8'
+  issue: '2'
+  status: published
+  abstract: Light scattering is used to monitor the dynamics and energy thresholds
+    of laser-induced structural alterations in biopolymers due to irradiation by a
+    free electron laser (FEL) in the infrared (IR) wavelength range 2.2 to 8.5 $\mu$m.
+    Attenuated total reflectance (ATR) Fourier-transform IR (FTIR) spectroscopy is
+    used to examine infrared tissue absorption spectra before and after irradiation.
+    Light scattering by bovine and porcine cartilage and cornea samples is measured
+    in real time during FEL irradiation using a 650-nm diode laser and a diode photoarray
+    with time resolution of 10 ms. The data on the time dependence of light scattering
+    in the tissue are modeled to estimate the approximate values of kinetic parameters
+    for denaturation as functions of laser wavelength and radiant exposure. We found
+    that the denaturation threshold is slightly lower for cornea than for cartilage,
+    and both depend on laser wavelength. An inverse correlation between denaturation
+    thresholds and the absorption spectrum of the tissue is observed for many wavelengths;
+    however, for wavelengths near 3 and 6 $\mu$m, the denaturation threshold does
+    not exhibit the inverse correlation, instead being governed by heating kinetics
+    of tissue. It is shown that light scattering is useful for measuring the denaturation
+    thresholds and dynamics for different biotissues, except where the initial absorptivity
+    is very high.
+  PMID: '12683847'
+
+- id: cricenti:2002:snom.surface
+  type: article-journal
+  author:
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Luce
+    given: Marco
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: G.
+  - family: Talley
+    given: D.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Tolk
+    given: Norman H.
+  issued:
+  - year: 2002
+  title: Surface characterisation by near-field microscopy and atomic force microscopy
+  container-title: Advances in Science and Technology
+  page: 183-192
+  volume: '32'
+  status: published
+
+- id: mensing:2002:defect.energies
+  type: article-journal
+  author:
+  - family: Mensing
+    given: G.
+  - family: Gilligan
+    given: J.
+  - family: Hari
+    given: P.
+  - family: Hurt
+    given: E.
+  - family: Lüpke
+    given: G.
+  - family: Pantelides
+    given: S.
+  - family: Tolk
+    given: N.
+  - family: Taylor
+    given: P. C.
+  issued:
+  - year: 2002
+  title: Defect transition energies and the density of electronic states in hydrogenated
+    amorphous silicon
+  container-title: Journal of Non-Crystalline Solids
+  page: 621-625
+  volume: '299'
+  status: published
+
+- id: cricenti:2001:snom.spectroscopy
+  type: article-journal
+  author:
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Luce
+    given: Marco
+  - family: Perfetti
+    given: Paolo
+  - family: Margaritondo
+    given: Giorgio
+  - family: Talley
+    given: David
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 2001
+  title: 'Spectroscopic scanning near-field optical microscopy with a free electron
+    laser: CH$_2$ bond imaging in diamond films'
+  title-short: Spectroscopic scanning near-field optical microscopy with a free electron
+    laser
+  container-title: Journal of Microscopy
+  page: 446-450
+  volume: '202'
+  status: published
+  abstract: Hydrogen chemistry in thin films and biological systems is one of the
+    most difficult experimental problems in today’s science and technology. We successfully
+    tested a novel solution, based on the spectroscopic version of scanning near-field
+    optical microscopy (SNOM). The tunable infrared radiation of the Vanderbilt free-electron
+    laser enabled us to reveal clearly hydrogen-decorated grain boundaries on nominally
+    hydrogen-free diamond films. The images were obtained by SNOM detection of reflected
+    3.5 micron photons, corresponding to the C-H stretch absorption, and reached a
+    lateral resolution of 0.2 micron, well below the $\lambda/2$ ($\lambda$ = wavelength)
+    limit of classical microscopy.
+  PMID: '11309110'
+
+- id: sturmann:2001:fel
+  type: paper-conference
+  author:
+  - family: Sturmann
+    given: Judit
+  - family: Marka
+    given: Z.
+  - family: Albert
+    given: M. M.
+  - family: Albridge
+    given: Royal G.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Luepke
+    given: Gunter
+  - family: Singh
+    given: S. K.
+  - family: Davidson
+    given: Jeffrey L.
+  - family: Husinsky
+    given: Wolfgang
+  - family: Tolk
+    given: Norman H.
+  issued:
+  - year: 2001
+  title: Infrared free-electron laser photoablation of diamond films
+  container-title: Nonresonant laser-matter interaction (nlmi-10)
+  publisher: International Society for Optics; Photonics
+  page: 206-211
+  status: published
+
+- id: lupke:2000:selective.modification
+  type: article-journal
+  author:
+  - family: Lupke
+    given: Gunter
+  - family: Cheney
+    given: Christine Parks
+  - family: Sturman
+    given: Judit
+  - family: Keay
+    given: Joel C.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Feldman
+    given: Leondard C.
+  - family: Tolk
+    given: Norman H.
+  issued:
+  - year: 2000
+  title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
+    selective materials modification'
+  title-short: Materials science at the WM Keck free electron laser
+  container-title: Condensed Matter Theories
+  page: 349-364
+  volume: '14'
+  status: published
+
+- id: sobol:2000:tissue.absorption
+  type: paper-conference
+  author:
+  - family: Sobol
+    given: Emil
+  - family: Sviridov
+    given: Aleksandr
+  - family: Kitai
+    given: Moshe
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Edwards
+    given: Glenn S.
+  issued:
+  - year: 2000
+  title: Alteration of absorption coefficients of tissue water as a result of heating
+    under IR FEL radiation with different wavelengths
+  container-title: International biomedical optics symposium
+  publisher: SPIE
+  page: '78'
+  volume: '3925'
+  status: published
+
+- id: talley:2000:snom
+  type: article-journal
+  author:
+  - family: Talley
+    given: David B.
+  - family: Shaw
+    given: L. B.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Luce
+    given: Marco
+  - family: Margaritondo
+    given: Giorgio
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Tolk
+    given: Norman H.
+  issued:
+  - year: 2000
+  title: Scanning near field infrared microscopy using chalcogenide fiber tips
+  container-title: Materials Letters
+  page: 339-344
+  volume: '42'
+  status: published
+
+- id: cricenti:1999:snom.contrast
+  type: article-journal
+  author:
+  - family: Cricenti
+    given: Antonio
+  - family: Generosi
+    given: Renato
+  - family: Herold
+    given: George
+  - family: Chiaradia
+    given: P.
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: Giorgio
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 1999
+  title: Chemical contrast observed at a III-V heterostructure by scanning near-field
+    optical microscopy
+  container-title: 'Physica Status Solidi A: Applied Research'
+  page: 345-349
+  volume: '175'
+  status: published
+
+- id: cricenti:1999:snom.interface
+  type: article-journal
+  author:
+  - family: Cricenti
+    given: A.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: G.
+  - family: Almeida
+    given: J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Coluzza
+    given: C.
+  - family: Spajer
+    given: M.
+  - family: Courjon
+    given: D.
+  - family: Aggarwal
+    given: I. D.
+  issued:
+  - year: 1999
+  title: Interface applications of scanning near-field optical microscopy with a free
+    electron laser
+  container-title: 'Physica Status Solidi A: Applied Research'
+  page: 317-329
+  volume: '175'
+  status: published
+
+- id: marka:1999:nonlinear.modification
+  type: article-journal
+  author:
+  - family: Marka
+    given: Z.
+  - family: Cheney
+    given: C. P.
+  - family: Wang
+    given: W.
+  - family: Lupke
+    given: G.
+  - family: Gilligan
+    given: Jonathan
+  - family: Yao
+    given: Y.
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 1999
+  title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
+    in metals and semiconductors
+  container-title: 'Soviet Physics: Technical Physics'
+  page: 1069-1072
+  volume: '44'
+  status: published
+
+- id: schaafsma:1999:snom.probe
+  type: article-journal
+  author:
+  - family: Schaafsma
+    given: D. T.
+  - family: Mossadegh
+    given: R.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Luce
+    given: M.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Cricenti
+    given: A.
+  - family: Margaritondo
+    given: G.
+  issued:
+  - year: 1999
+  title: Singlemode chalcogenide fiber infrared SNOM probes
+  container-title: Ultramicroscopy
+  page: 77-81
+  volume: '77'
+  status: published
+
+- id: schaafsma:1999:snom.tips
+  type: article-journal
+  author:
+  - family: Schaafsma
+    given: D. T.
+  - family: Mossadegh
+    given: R.
+  - family: Sanghera
+    given: J. S.
+  - family: Aggarwal
+    given: I. D.
+  - family: Luce
+    given: M.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Cricenti
+    given: A.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 1999
+  title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
+    infrared optical microscopy
+  container-title: Optical Engineering
+  page: 1381-1385
+  volume: '38'
+  status: published
+
+- id: sobol:1999:threshold
+  type: paper-conference
+  author:
+  - family: Sobol
+    given: E.
+  - family: Sviridov
+    given: A.
+  - family: Kitai
+    given: M.
+  - family: Edwards
+    given: Glenn S.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 1999
+  title: Effect of wavelength on threshold and kinetics of tissue denaturation under
+    laser radiation
+  container-title: International biomedical optics symposium
+  publisher: SPIE
+  page: 122-129
+  volume: '3601'
+  status: published
+
+- id: cricenti:1998:snom.fel
+  type: article-journal
+  author:
+  - family: Cricenti
+    given: A.
+  - family: Generosi
+    given: R.
+  - family: Barchesi
+    given: C.
+  - family: Luce
+    given: M.
+  - family: Rinaldi
+    given: M.
+  - family: Coluzza
+    given: C.
+  - family: Perfetti
+    given: P.
+  - family: Margaritondo
+    given: G.
+  - family: Schaafsma
+    given: D. T.
+  - family: Aggarwal
+    given: I. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 1998
+  title: First experimental results with the free electron laser coupled to a scanning
+    near-field optical microscope
+  container-title: 'Physica Status Solidi A: Applied Research'
+  page: 241-247
+  volume: '170'
+  status: published
+
+- id: cricenti:1998:snom.spectroscopy
+  type: article-journal
+  author:
+  - family: Cricenti
+    given: A.
+  - family: Generosi
+    given: R.
+  - family: Perfetti
+    given: P.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Coluzza
+    given: C.
+  - family: Margaritondo
+    given: G.
+  issued:
+  - year: 1998
+  title: Free-electron-laser near-field nanospectroscopy
+  container-title: Applied Physics Letters
+  page: 151-153
+  volume: '73'
+  status: published
+
+- id: sturmann:1998:diamond
+  type: article-journal
+  author:
+  - family: Sturmann
+    given: J.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Davidson
+    given: J. L.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Lupke
+    given: G.
+  - family: Ueda
+    given: A.
+  - family: Tolk
+    given: Norman Henry
+  issued:
+  - year: 1998
+  title: Infrared wavelength-selective photodesorption on diamond surfaces
+  container-title: Applied Surface Science
+  page: 59-63
+  volume: '129'
+  status: published
+
+- id: tolk:1998:molecular.sputtering
+  type: article-journal
+  author:
+  - family: Tolk
+    given: Norman Henry
+  - family: Hargitai
+    given: Z.
+  - family: Yao
+    given: Y.
+  - family: Pratt-Ferguson
+    given: B.
+  - family: Albert
+    given: M. M.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Gordon
+    given: V. D.
+  - family: Lupke
+    given: G.
+  - family: Puckett
+    given: A.
+  - family: Tully
+    given: J.
+  - family: Betz
+    given: G.
+  - family: Husinsky
+    given: W.
+  issued:
+  - year: 1998
+  title: Molecular effects in measured sputtering yields on gold at near threshold
+    energies
+  container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
+  page: 676-679
+  volume: '62'
+  status: published
+
+- id: wang:1998:interface.dynamics
+  type: article-journal
+  author:
+  - family: Wang
+    given: W.
+  - family: Lupke
+    given: G.
+  - family: Di Ventra
+    given: M.
+  - family: Pantelides
+    given: S. T.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Tolk
+    given: Norman Henry
+  - family: Kizilyalli
+    given: I. C.
+  - family: Roy
+    given: P. K.
+  - family: Margaritondo
+    given: G.
+  - family: Lucovsky
+    given: G.
+  issued:
+  - year: 1998
+  title: Coupled electron-hole dynamics at the Si/SiO2 interface
+  container-title: Physical Review Letters
+  page: 4224-4227
+  volume: '81'
+  status: published
+
+- id: yao:1998:molecular.collision
+  type: article-journal
+  author:
+  - family: Yao
+    given: Y.
+  - family: Hargitai
+    given: Z.
+  - family: Albert
+    given: M.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Ferguson
+    given: B. P.
+  - family: Lupke
+    given: G.
+  - family: Gordon
+    given: V. D.
+  - family: Tolk
+    given: Norman Henry
+  - family: Tully
+    given: J. C.
+  - family: Betz
+    given: G.
+  - family: Husinsky
+    given: W.
+  issued:
+  - year: 1998
+  title: New molecular collisional interaction effect in low-energy sputtering
+  container-title: Physical Review Letters
+  page: 550-553
+  volume: '81'
+  status: published
+
+- id: sturmann:1997:fel
+  type: article-journal
+  author:
+  - family: Sturmann
+    given: J.
+  - family: Albridge
+    given: R. G.
+  - family: Barnes
+    given: A. V.
+  - family: Gilligan
+    given: J.
+  - family: Graham
+    given: M. T.
+  - family: McKinley
+    given: J. T.
+  - family: Wang
+    given: W.
+  - family: Yang
+    given: X.
+  - family: Tolk
+    given: Norman Henry
+  - family: Davidson
+    given: J. L.
+  - family: Margaritondo
+    given: G.
+  issued:
+  - year: 1997
+  title: Photoexcitation spectroscopy and material alteration with free-electron laser
+  container-title: Acta Physica Polonica A
+  page: 689-696
+  volume: '91'
+  status: published
+
+- id: volk:1997:lifetimes
+  type: article-journal
+  author:
+  - family: Volk
+    given: C. M.
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Dutton
+    given: G. S.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Loewenstein
+    given: M.
+  - family: Podolske
+    given: J. R.
+  - family: Chan
+    given: K. R.
+  - family: Gunson
+    given: M. R.
+  issued:
+  - year: 1997
+  title: Evaluation of source gas lifetimes from stratospheric observations
+  container-title: 'Journal of Geophysical Research: Atmospheres'
+  page: 25543-25564
+  volume: '102'
+  status: published
+
+- id: elkins:1996:acats
+  type: article-journal
+  author:
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Dutton
+    given: G. S.
+  - family: Baring
+    given: T. J.
+  - family: Volk
+    given: C. M.
+  - family: Dunn
+    given: R. E.
+  - family: Myers
+    given: R. C.
+  - family: Montzka
+    given: S. A.
+  - family: Wamsley
+    given: P. R.
+  - family: Hayden
+    given: A. H.
+  - family: Butler
+    given: J. H.
+  - family: Thompson
+    given: T. M.
+  - family: Swanson
+    given: T. H.
+  - family: Dlugokencky
+    given: E. J.
+  - family: Novelli
+    given: P. C.
+  - family: Hurst
+    given: D. F.
+  - family: Lobert
+    given: J. M.
+  - family: Ciciora
+    given: S. J.
+  - family: McLaughlin
+    given: R. J.
+  - family: Thompson
+    given: T. L.
+  - family: Winkler
+    given: R. H.
+  - family: Fraser
+    given: P. J.
+  - family: Steele
+    given: L. P.
+  - family: Lucarelli
+    given: M. P.
+  issued:
+  - year: 1996
+  title: Airborne gas chromatograph for *in situ* measurements of long-lived species
+    in the upper troposphere and lower stratosphere
+  container-title: Geophysical Research Letters
+  page: 347-350
+  volume: '23'
+  status: published
+
+- id: volk:1996:transport
+  type: article-journal
+  author:
+  - family: Volk
+    given: C. M.
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Salawitch
+    given: R. J.
+  - family: Dutton
+    given: G. S.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Proffitt
+    given: M. H.
+  - family: Loewenstein
+    given: M.
+  - family: Podolske
+    given: J. R.
+  - family: Minschwaner
+    given: K.
+  - family: Margitan
+    given: J. J.
+  - family: Chan
+    given: K. R.
+  issued:
+  - year: 1996
+  title: Quantifying transport between the tropical and mid-latitude lower stratosphere
+  container-title: Science
+  page: 1763-1768
+  volume: '272'
+  status: published
+
+- id: woodbridge:1995:chlorine.budget
+  type: article-journal
+  author:
+  - family: Woodbridge
+    given: E. L.
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Heidt
+    given: L. E.
+  - family: Solomon
+    given: S.
+  - family: Baring
+    given: T. J.
+  - family: Gilpin
+    given: T. J.
+  - family: Pollock
+    given: W. H.
+  - family: Schauffler
+    given: S. M.
+  - family: Atlas
+    given: E. L.
+  - family: Lowenstein
+    given: M.
+  - family: Podolske
+    given: J. R.
+  - family: Webster
+    given: C. R.
+  - family: May
+    given: R. D.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Montzka
+    given: S. A.
+  - family: Boering
+    given: K. A.
+  - family: Salawitch
+    given: R. J.
+  issued:
+  - year: 1995
+  title: Estimates of total organic and inorganic chlorine in the lower stratosphere
+    from *in situ* measurements during <span class="smallcaps">aase ii</span>
+  container-title: Journal of Geophysical Research
+  page: 3057-3064
+  volume: '100'
+  status: published
+
+- id: gilligan:1994:chlorine.budget
+  type: paper-conference
+  author:
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Elkins
+    given: James W.
+  - family: Fahey
+    given: David W.
+  - family: Dutton
+    given: G. S.
+  - family: Volk
+    given: C. M.
+  - family: Baring
+    given: T. J.
+  - family: Dunn
+    given: R. E.
+  - family: Myers
+    given: R. C.
+  issued:
+  - year: 1994
+  title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
+    with a new *in situ* instrument, airborne chromatograph for atmospheric trace
+    species (<span class="smallcaps">acats-iv</span>)
+  container-title: Atmospheric effects of aviation project workshop
+  status: published
+
+- id: eichmann:1993:two.slit.a
+  type: article-journal
+  author:
+  - family: Eichmann
+    given: Ullrich
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Itano
+    given: Wayne M.
+  - family: Wineland
+    given: David J.
+  - family: Raizen
+    given: Mark G.
+  issued:
+  - year: 1993
+  title: Young’s interference experiment with light scattered from two atoms
+  container-title: Physical Review Letters
+  page: 2359-2362
+  volume: '70'
+  status: published
+
+- id: eichmann:1993:two.slit.b
+  type: paper-conference
+  author:
+  - family: Eichmann
+    given: Ullrich
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Itano
+    given: Wayne M.
+  - family: Raizen
+    given: J. G.
+  - family: Wineland
+    given: David J.
+  issued:
+  - year: 1993
+  title: Interference in the resonance fluorescence of two trapped atoms
+  container-title: Proceedings of the 11^th^ international conference on laser science
+  page: 43-48
+  status: published
+
+- id: itano:1993:projection.noise
+  type: article-journal
+  author:
+  - family: Itano
+    given: Wayne M.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Moore
+    given: Fred L.
+  - family: Raizen
+    given: Mark G.
+  issued:
+  - year: 1993
+  title: 'Quantum projection noise: Population fluctuations in two-level systems'
+  title-short: Quantum projection noise
+  container-title: Physical Review A
+  page: 3554-3570
+  volume: '47'
+  status: published
+
+- id: itano:1993:quantum.measurement
+  type: article-journal
+  author:
+  - family: Itano
+    given: Wayne M.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Heinzen
+    given: Daniel J.
+  - family: Moore
+    given: Fred L.
+  - family: Raizen
+    given: Mark G.
+  - family: Wineland
+    given: David J.
+  issued:
+  - year: 1993
+  title: Quantum measurements of trapped ions
+  container-title: Vistas in Astronomy
+  page: 169-183
+  status: published
+
+- id: itano:1993:spectroscopy
+  type: article-journal
+  author:
+  - family: Itano
+    given: Wayne M.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Heinzen
+    given: Daniel J.
+  - family: Moore
+    given: Fred L.
+  - family: Raizen
+    given: Mark G.
+  - family: Wineland
+    given: David J.
+  issued:
+  - year: 1993
+  title: Ultra-high precision spectroscopy for fundamental physics
+  container-title: Hyperfine Interactions
+  page: 211-220
+  volume: '78'
+  status: published
+
+- id: itano:1993:two.slit
+  type: paper-conference
+  author:
+  - family: Itano
+    given: Wayne M.
+  - family: Eichmann
+    given: Ullrich
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Raizen
+    given: Mark G.
+  - family: Wineland
+    given: David J.
+  issued:
+  - year: 1993
+  title: Light scattered from two atoms
+  container-title: Proceedings of the 11^th^ international conference on laser science
+  page: 410-419
+  status: published
+
+- id: shiner:1993:calibration
+  type: article-journal
+  author:
+  - family: Shiner
+    given: David
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Cook
+    given: B. M.
+  - family: Lichten
+    given: William
+  issued:
+  - year: 1993
+  title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
+    lines
+  container-title: Physical Review A
+  page: 4042-4045
+  volume: '47'
+  status: published
+
+- id: gilligan:1992:ionization.potentials
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Eyler
+    given: Edward Eugene
+  issued:
+  - year: 1992
+  title: Precise determinations of ionization potentials and $EF$ state energy levels
+    of H$_2$, HD, and D$_2$
+  container-title: Physical Review A
+  page: 3676-3690
+  volume: '46'
+  status: published
+
+- id: raizen:1992:crystals
+  type: article-journal
+  author:
+  - family: Raizen
+    given: Mark G.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Bergquist
+    given: James C.
+  - family: Itano
+    given: Wayne M.
+  - family: Wineland
+    given: David J.
+  issued:
+  - year: 1992
+  title: Ionic crystals in a linear Paul trap
+  container-title: Physical Review A
+  page: 6493-6501
+  volume: '45'
+  status: published
+
+- id: raizen:1992:linear.trap
+  type: article-journal
+  author:
+  - family: Raizen
+    given: Mark G.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Bergquist
+    given: James C.
+  - family: Itano
+    given: Wayne M.
+  - family: Wineland
+    given: David J.
+  issued:
+  - year: 1992
+  title: Linear trap for high-accuracy spectroscopy of stored ions
+  container-title: Journal of Modern Optics
+  page: 233-242
+  volume: '39'
+  status: published
+
+- id: gilligan:1991:dissertation
+  type: thesis
+  author:
+  - family: Gilligan
+    given: Jonathan Mark
+  issued:
+  - year: 1991
+  title: Precise multiphoton spectroscopy of the H2, HD, and D2 molecules and a new
+    determination of the ionization potential of HD
+  publisher: Yale University
+  genre: PhD thesis
+
+- id: gilligan:1991:three.photon
+  type: article-journal
+  author:
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Eyler
+    given: Edward Eugene
+  issued:
+  - year: 1991
+  title: High-resolution three-photon spectroscopy and multiphoton interference in
+    molecular hydrogen
+  container-title: Physical Review A
+  page: 6406-6409
+  volume: '43'
+  status: published
+
+- id: wineland:1991:spectrosopy
+  type: paper-conference
+  author:
+  - family: Wineland
+    given: David J.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Itano
+    given: Wayne M.
+  - family: Moore
+    given: Fred L.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Raizen
+    given: Mark G.
+  - family: Heinzen
+    given: Daniel J.
+  - family: Weimer
+    given: Carl S.
+  - family: Manney
+    given: C. H.
+  issued:
+  - year: 1991
+  title: High-resolution spectroscopy of laser-cooled ions
+  container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
+    of atoms and ions, July 1991, Varenna, Italy
+  page: 539-551
+  status: published
+
+- id: wineland:1991:trapped.ions
+  type: paper-conference
+  author:
+  - family: Wineland
+    given: David J.
+  - family: Bergquist
+    given: James C.
+  - family: Bollinger
+    given: John J.
+  - family: Itano
+    given: Wayne M.
+  - family: Moore
+    given: Fred L.
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Raizen
+    given: Mark G.
+  - family: Heinzen
+    given: Daniel J.
+  - family: Weimer
+    given: Carl S.
+  - family: Manney
+    given: C. H.
+  issued:
+  - year: 1991
+  title: Recent experiments on trapped ions at the National Institute of Standards
+    and Technology
+  container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
+    of atoms and ions, July 1991, Varenna, Italy
+  page: 553-567
+  status: published
+
+- id: mccormack:1989:rydberg
+  type: article-journal
+  author:
+  - family: McCormack
+    given: Elizabeth
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: Cornaggia
+    given: Christian
+  - family: Eyler
+    given: Edward Eugene
+  issued:
+  - year: 1989
+  title: Measurement of high Rydberg states and the ionization potential of H$_2$
+  container-title: Physical Review A
+  page: 2260-2263
+  volume: '39'
+  status: published
+
+- id: eyler:1988:multiphoton.spectroscopy
+  type: paper-conference
+  author:
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: McCormack
+    given: Elizabeth
+  issued:
+  - year: 1988
+  title: Precise multiphoton spectroscopy of H2
+  container-title: Advances in laser spectroscopy iii
+  collection-title: AIP conference proceedings
+  page: 331-333
+  volume: '172'
+  status: published
+
+- id: eyler:1987:ef.state
+  type: article-journal
+  author:
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
+  - family: McCormack
+    given: Elizabeth
+  - family: Nussenzweig
+    given: André
+  - family: Pollack
+    given: Edward
+  issued:
+  - year: 1987
+  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
+  container-title: Physical Review A
+  page: 3486-3489
+  volume: '36'
+  status: published
+
+- id: eyler:1987:multiphoton.spectroscopy
+  type: paper-conference
+  author:
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
+  issued:
+  - year: 1987
+  title: Precise multiphoton spectroscopy of excited states of H2
+  container-title: Advances in laser spectroscopy ii
+  collection-title: AIP conference proceedings
+  page: 388-390
+  volume: '160'
+  status: published
+
+- id: mccormack:1987:photodissociation
+  type: paper-conference
+  author:
+  - family: McCormack
+    given: Elizabeth
+  - family: Eyler
+    given: Edward Eugene
+  - family: Gilligan
+    given: Jonathan Mark
+  issued:
+  - year: 1987
+  title: Precise photodissociation and multiphoton spectroscopy of H2
+  container-title: Proceedings of the xv international conference on quantum electronics
+  collection-title: Technical digest series
+  publisher: Optical Society of America
+  page: 58-60
+  volume: '21'
+  status: published
+...

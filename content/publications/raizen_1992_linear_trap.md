@@ -1,5 +1,4 @@
 ---
-DOI: 10.1080/09500349214550241
 author:
 - family: Raizen
   given: Mark G.

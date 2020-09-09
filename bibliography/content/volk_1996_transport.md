@@ -1,5 +1,4 @@
 ---
-DOI: 10.1126/science.272.5269.1763
 author:
 - family: Volk
   given: C. M.

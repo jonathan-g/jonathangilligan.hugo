@@ -1,5 +1,4 @@
 ---
-DOI: 10.1103/PhysRevA.47.3554
 author:
 - family: Itano
   given: Wayne M.

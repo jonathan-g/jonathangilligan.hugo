@@ -1,5 +1,4 @@
 ---
-DOI: 10.1103/PhysRevA.43.6406
 author:
 - family: Gilligan
   given: Jonathan Mark

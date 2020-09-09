@@ -23,7 +23,6 @@ short_author:
 short_editor:
 - family: Espejo
   given: R.
-short_title: Ethics and future generations
 status: published
 title: People should behave ethically for the sake of future generations
 volume: '2'

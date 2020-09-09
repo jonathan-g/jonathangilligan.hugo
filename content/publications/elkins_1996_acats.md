@@ -1,5 +1,4 @@
 ---
-DOI: 10.1029/96GL00244
 author:
 - family: Elkins
   given: James W.

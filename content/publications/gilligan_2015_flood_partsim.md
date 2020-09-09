@@ -12,7 +12,6 @@ author:
   given: John J.
 - family: Sengupta
   given: Pratim
-collection_title: "WSC \u201915"
 container_title: Proceedings of the 2015 Winter Simulation Conference
 date: '2015-01-01'
 editor:
@@ -34,9 +33,11 @@ file:
 id: gilligan_2015_flood_partsim
 issued:
 - year: 2015
+keyword: tenuretrack
+note: '00000'
 page: 3174-3175
 pub_type: paper-conference
-pub_url: https://ieeexplore.ieee.org/document/7408456/
+pub_url: https://dl.acm.org/citation.cfm?id=2888619.2889027
 pubdate: '2015-01-01'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
@@ -67,4 +68,3 @@ short_editor:
 status: published
 title: Participatory simulations of urban flooding for learning and decision support
 ---
-Flood-control measures, such as levees and floodwalls, can backfire and increase risks of disastrous floods by giving the public a false sense of security and thus encouraging people to build valuable property in high-risk locations. More generally, nonlinear interactions between human land-use and natural processes can produce unexpected emergent phenomena in coupled human-natural systems (CHNS). We describe a participatory agent-based simulation of coupled urban development and flood risks and discuss the potential of this simulation to help educate a wide range of the public-from middle- and high-school students to public officials-about emergence in CHNS and present results from two pilot studies.
