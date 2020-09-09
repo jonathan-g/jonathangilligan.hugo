@@ -16,27 +16,6 @@ references:
   container-title: Vanderbilt Law Review
   status: in press
 
-- id: carrico:2020:marriage
-  type: article-journal
-  author:
-  - family: Carrico
-    given: Amanda R.
-  - family: Donato
-    given: Katharine M.
-  - family: Best
-    given: Kelsea
-  - family: Gilligan
-    given: Jonathan
-  issued:
-  - year: 2020
-    month: 12
-    day: 1
-  title: Extreme weather and marriage among girls and women in Bangladesh
-  container-title: Global Environmental Change
-  status: in press
-  keyword: posttenure
-  language: en-US
-
 - id: vandenbergh:2020:revolving.door
   type: article-journal
   author:
