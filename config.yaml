@@ -89,6 +89,8 @@ googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Gilligan"
   bio_name: "Jonathan Gilligan"
+  gender: "male"
+  pronouns: "he/him/his"
   bio_twitter: "jg_environ"
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"

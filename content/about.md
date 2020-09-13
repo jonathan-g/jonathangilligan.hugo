@@ -99,6 +99,7 @@ Click to download a high-resolution version. These may be used in media releases
 ## Academic/Professional Data:
 
 <ul class="fa-ul">
+  {{< pronouns "  list" >}}
   <li><i class="fa-li ai ai-cv" style="padding-opt:3px;"></i> <a href="/files/cv/gilligan_cv.pdf"><em><strong>Curriculum Vitae</strong></em></a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small pdf"><i class="fal fa-file-pdf"></i>&nbsp;&nbsp;pdf</a>
   <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
   <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
