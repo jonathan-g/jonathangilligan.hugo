@@ -127,6 +127,22 @@ def shorten_given(s, f):
     print('fam = "', f, '", s = "', s, '", s1 = "', s1, '", s2 = "', s2, '"')
     return s2
 
+def fix_particles(name):
+    if ('family' in name.keys()):
+        if ('non-dropping-particle' in name.keys()):
+            print('*** fam = "', name['family'], '", nd part = "', 
+                name['non-dropping-particle'], '"')
+            name['family'] = name['non-dropping-particle'].rstrip() + ' ' +  \
+                name['family'].lstrip()
+            name.pop('non-dropping-particle')
+        if ('dropping-particle' in name.keys()):
+            print('*** fam = "', name['family'], '", d part = "', 
+                name['dropping-particle'], '"')
+            name['family'] = name['dropping-particle'].rstrip() + ' ' +  \
+                name['family'].lstrip()
+            name.pop('dropping-particle')
+    return name
+
 def gen_items(bib):
     output_keys = ['title', 'author', 'short_author',
                    'short_title',
@@ -159,8 +175,10 @@ def gen_items(bib):
         if 'publisher-place' in item.keys():
             item['publisher_place'] = item['publisher-place']
         if 'author' in item.keys():
+            item['author'] = [ fix_particles(n) for n in item['author']]
             item['short_author'] = [ {'family':n['family'], 'given':shorten_given(n['given'], n['family'])} for n in item['author'] ]
         if 'editor' in item.keys():
+            item['editor'] = [ fix_particles(n) for n in item['editor']]
             item['short_editor'] = [ {'family':n['family'], 'given':shorten_given(n['given'], n['family'])} for n in item['editor'] ]
         header_items = dict([(k, v) for (k, v) in item.items() if k in output_keys])
         # for tk in title_keys:
