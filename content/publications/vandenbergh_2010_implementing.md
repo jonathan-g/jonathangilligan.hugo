@@ -35,6 +35,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Implementing the behavioral wedge
+ssrn: '1617426'
+ssrn_id: '1617426'
 status: published
 title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
   emissions reduction programs'

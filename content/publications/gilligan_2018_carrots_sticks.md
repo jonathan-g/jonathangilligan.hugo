@@ -20,6 +20,8 @@ pubdate: '2018-12-31'
 short_author:
 - family: Gilligan
   given: J.M.
+ssrn: '3284035'
+ssrn_id: '3284035'
 status: published
 title: Carrots and sticks in private climate governance
 volume: '6'

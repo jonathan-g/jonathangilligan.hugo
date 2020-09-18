@@ -17,6 +17,7 @@ issued:
 keyword: tenuretrack
 page: 1962-2017
 pub_type: article-journal
+pub_url: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
 pubdate: '2014-01-01'
 short_author:
 - family: Vandenbergh
@@ -26,6 +27,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Energy and climate change
+ssrn: '2372321'
+ssrn_id: '2372321'
 status: published
 title: 'Energy and climate change: A climate prediction market'
 volume: '61'

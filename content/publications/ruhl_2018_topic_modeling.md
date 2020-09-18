@@ -31,6 +31,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Topic modeling the president
+ssrn: '3086226'
+ssrn_id: '3086226'
 status: published
 title: 'Topic modeling the president: Conventional and computational methods'
 volume: '86'

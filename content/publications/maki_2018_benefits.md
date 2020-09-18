@@ -38,6 +38,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Employee energy benefits
+ssrn: '2801607'
+ssrn_id: '2801607'
 status: published
 title: 'Employee energy benefits: What are they and what effects do they have on employees?'
 volume: '12'

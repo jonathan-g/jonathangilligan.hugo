@@ -105,8 +105,6 @@ references:
   URL: https://scholarlycommons.law.case.edu/caselrev/vol70/iss4/14/
 
 - id: best:2020:random.forest
-  other-ids:
-  - bestRandomForestAnalysis2020a
   type: article-journal
   author:
   - family: Best
@@ -1326,6 +1324,7 @@ references:
   volume: '61'
   status: published
   keyword: tenuretrack
+  URL: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
 
 - id: gilligan:2013:isee
   type: paper-conference
@@ -1412,6 +1411,7 @@ references:
   page: 401-431
   volume: '21'
   status: published
+  URL: https://scholarship.law.duke.edu/delpf/vol21/iss2/8/
 
 - id: cliffel:2010:patent.plurality
   type: patent

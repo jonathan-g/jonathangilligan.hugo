@@ -14,6 +14,7 @@ issued:
 - year: 2011
 page: 401-431
 pub_type: article-journal
+pub_url: https://scholarship.law.duke.edu/delpf/vol21/iss2/8/
 pubdate: '2011-01-01'
 short_author:
 - family: Vandenbergh
@@ -21,6 +22,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Macro-risks
+ssrn: '2004671'
+ssrn_id: '2004671'
 status: published
 title: 'Macro-risks: The challenge for rational risk regulation'
 volume: '21'

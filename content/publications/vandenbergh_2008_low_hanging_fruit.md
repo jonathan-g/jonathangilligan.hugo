@@ -25,6 +25,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Individual carbon emissions
+ssrn: '1161143'
+ssrn_id: '1161143'
 status: published
 title: 'Individual carbon emissions: The low-hanging fruit'
 volume: '55'

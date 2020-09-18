@@ -30,6 +30,7 @@ references:
   - day: 31
     month: 12
     year: 2020
+  ssrn: '3543639'
   status: in press
   title: 'Climate law and policy: Forks in the road'
   title-short: Climate law and policy
@@ -101,6 +102,7 @@ references:
     month: 9
     year: 2020
   page: 1121-1149
+  ssrn: '3543639'
   status: in press
   title: The new revolving door
   type: article-journal
@@ -158,8 +160,6 @@ references:
     year: 2020
   keyword: tenuretrack
   language: en-US
-  other-ids:
-  - bestRandomForestAnalysis2020a
   status: advance
   title: Random forest analysis of two household surveys can identify important predictors
     of migration in Bangladesh
@@ -413,6 +413,7 @@ references:
     year: 2018
   keyword: tenuretrack
   page: 179-198
+  ssrn: '3284035'
   status: published
   title: Carrots and sticks in private climate governance
   type: article-journal
@@ -449,6 +450,7 @@ references:
   keyword: tenuretrack
   page: 1243-1315
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
+  ssrn: '3086226'
   status: published
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
@@ -497,6 +499,7 @@ references:
     year: 2018
   keyword: tenuretrack
   page: 1065-1083
+  ssrn: '2801607'
   status: published
   title: 'Employee energy benefits: What are they and what effects do they have on
     employees?'
@@ -939,6 +942,7 @@ references:
   page: 1678-1689
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
+  ssrn: '2807452'
   status: published
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
   type: paper-conference
@@ -1089,6 +1093,7 @@ references:
   page: 1666-1677
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
+  ssrn: '2808284'
   status: published
   title: 'Betting and belief: Prediction markets and attribution of climate change'
   title-short: Betting and Belief
@@ -1325,6 +1330,7 @@ references:
   page: 2752-2763
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
+  ssrn: '3040601'
   status: published
   title: Data-driven dynamic decision models
   type: paper-conference
@@ -1347,6 +1353,7 @@ references:
   note: '**<span class="smallcaps">Note:</span>** This paper won the 2017 Morrison
     Prize for the highest-impact paper on sustainability law and policy in 2015'
   page: 217-303
+  ssrn: '2533643'
   status: published
   title: Beyond gridlock
   type: article-journal
@@ -1366,11 +1373,13 @@ references:
   - year: 2014
   keyword: tenuretrack
   page: 1-26
+  ssrn: '2220788'
   status: published
   title: Accounting for political feasibility in climate instrument choice
   type: article-journal
   volume: '32'
-- author:
+- URL: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
+  author:
   - family: Vandenbergh
     given: Michael P.
   - family: Toner
@@ -1386,6 +1395,7 @@ references:
   - year: 2014
   keyword: tenuretrack
   page: 1962-2017
+  ssrn: '2372321'
   status: published
   title: 'Energy and climate change: A climate prediction market'
   title-short: Energy and climate change
@@ -1462,12 +1472,14 @@ references:
   issued:
   - year: 2011
   page: 61-67
+  ssrn: '1612224'
   status: published
   title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
   title-short: Energy and climate change
   type: article-journal
   volume: '2'
-- author:
+- URL: https://scholarship.law.duke.edu/delpf/vol21/iss2/8/
+  author:
   - family: Vandenbergh
     given: Michael P.
   - family: Gilligan
@@ -1480,6 +1492,7 @@ references:
   issued:
   - year: 2011
   page: 401-431
+  ssrn: '2004671'
   status: published
   title: 'Macro-risks: The challenge for rational risk regulation'
   title-short: Macro-risks
@@ -1632,6 +1645,7 @@ references:
   note: Selected by Environmental Law Institute to reprint as the featured cover story
     of the 2010 summer reading issue for policymakers of Environmental Forum.
   page: 547-554
+  ssrn: '1617426'
   status: published
   title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
     emissions reduction programs'
@@ -1733,6 +1747,7 @@ references:
   issued:
   - year: 2008
   page: 1701-1758
+  ssrn: '1161143'
   status: published
   title: 'Individual carbon emissions: The low-hanging fruit'
   title-short: Individual carbon emissions

@@ -52,6 +52,8 @@ short_editor:
   given: T.
 - family: Chick
   given: S.E.
+ssrn: '2807452'
+ssrn_id: '2807452'
 status: published
 title: Dynamics of individual and collective agricultural adaptation to water scarcity
 ---

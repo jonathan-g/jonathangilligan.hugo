@@ -57,6 +57,8 @@ short_editor:
 - family: Chick
   given: S.E.
 short_title: Betting and Belief
+ssrn: '2808284'
+ssrn_id: '2808284'
 status: published
 title: 'Betting and belief: Prediction markets and attribution of climate change'
 ---

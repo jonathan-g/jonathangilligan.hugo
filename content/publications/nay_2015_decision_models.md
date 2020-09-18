@@ -53,6 +53,8 @@ short_editor:
   given: C.
 - family: Rossetti
   given: M.D.
+ssrn: '3040601'
+ssrn_id: '3040601'
 status: published
 title: Data-driven dynamic decision models
 ---

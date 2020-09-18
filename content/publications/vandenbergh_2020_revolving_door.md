@@ -27,6 +27,8 @@ short_author:
   given: J.M.
 - family: Feuerman
   given: H.
+ssrn: '3543639'
+ssrn_id: '3543639'
 status: in press
 title: The new revolving door
 volume: '70'

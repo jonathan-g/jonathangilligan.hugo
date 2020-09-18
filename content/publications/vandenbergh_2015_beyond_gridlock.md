@@ -26,6 +26,8 @@ short_author:
   given: M.P.
 - family: Gilligan
   given: J.M.
+ssrn: '2533643'
+ssrn_id: '2533643'
 status: published
 title: Beyond gridlock
 volume: '40'

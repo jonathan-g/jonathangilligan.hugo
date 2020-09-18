@@ -19,6 +19,8 @@ short_author:
 - family: Gilligan
   given: J.M.
 short_title: Climate law and policy
+ssrn: '3543639'
+ssrn_id: '3543639'
 status: in press
 title: 'Climate law and policy: Forks in the road'
 volume: '30'
