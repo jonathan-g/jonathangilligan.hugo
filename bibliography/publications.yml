@@ -3202,3 +3202,46 @@ references:
   title-short: Improving climate change mitigation analysis
   type: article-journal
   volume: '3'
+- DOI: 10.1016/j.gloenvcha.2020.102160
+  abstract: Climate change interacts with social, economic, and political forces in
+    ways that can shape demographic behavior. Yet, the link between environmental
+    stress and marriage has received limited attention. Using survey data from 615
+    Bangladeshi households, we examine the relationship between extreme weather in
+    the form of heat waves and dry spells, and the risk of marriage over the period
+    from 1989 to 2013. We find that girls and women are at an increased risk of marrying
+    in the year of or following heat waves. The link is strongest for women aged 18
+    to 23, and weakest for those 11 to 14. We also explore the hypothesis that extreme
+    weather leads families to accept less desirable marriage proposals for daughters.
+    We find that those who wed during periods of extreme heat married into poorer
+    households and to husbands with less education. Similarly, those who married during
+    abnormally dry periods married men man with less education and who were more supportive
+    of intimate partner violence. Together these results suggest that, when Bangladeshi
+    families face environmental shocks, they cope by hastening the marriage of daughters
+    or accepting less desirable marriage proposals. Such practices are likely to have
+    long-term impacts on the health and well-being of women and children, and underscore
+    the unique vulnerabilities faced by women as climate change intensifies.
+  author:
+  - family: Carrico
+    given: Amanda R.
+  - family: Donato
+    given: Katharine M.
+  - family: Best
+    given: Kelsea
+  - family: Gilligan
+    given: Jonathan
+  container-title: Global Environmental Change
+  file:
+  - desc: full text
+    file: carrico_2020_marriage.pdf
+  id: carrico:marriage:2020
+  issued:
+  - day: 29
+    month: 9
+    year: 2020
+  keyword: posttenure
+  language: en-US
+  page: '102160'
+  status: published
+  title: Extreme weather and marriage among girls and women in Bangladesh
+  type: article-journal
+  volume: '65'
