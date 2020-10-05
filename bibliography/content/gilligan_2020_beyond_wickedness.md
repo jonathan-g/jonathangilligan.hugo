@@ -1,4 +1,5 @@
 ---
+DOI: 10.2139/ssrn.3695265
 author:
 - family: Gilligan
   given: Jonathan M.
@@ -6,19 +7,24 @@ author:
   given: M. P.
 container_title: Vanderbilt Law Review
 date: '2020-12-31'
+file:
+- desc: full text
+  file: gilligan_2020_beyond_wickedness.pdf
 id: gilligan_2020_beyond_wickedness
 issued:
 - day: 31
   month: 12
   year: 2020
 pub_type: article-journal
-pubdate: '2020-09-29'
+pubdate: '2020-10-04'
 short_author:
 - family: Gilligan
   given: J.M.
 - family: Vandenbergh
   given: M.P.
 short_title: Beyond wickedness
+ssrn: '3695265'
+ssrn_id: '3695265'
 status: in press
 title: 'Beyond wickedness: Managing complex systems and climate change'
 ---

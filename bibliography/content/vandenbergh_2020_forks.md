@@ -1,4 +1,5 @@
 ---
+DOI: 10.2139/ssrn.3543639
 author:
 - family: Vandenbergh
   given: Michael P.
@@ -6,13 +7,16 @@ author:
   given: Jonathan M.
 container_title: Duke Environmental Law and Policy Forum
 date: '2020-12-31'
+file:
+- desc: full text
+  file: vandenbergh_2020_revolving_door.pdf
 id: vandenbergh_2020_forks
 issued:
 - day: 31
   month: 12
   year: 2020
 pub_type: article-journal
-pubdate: '2020-09-29'
+pubdate: '2020-10-04'
 short_author:
 - family: Vandenbergh
   given: M.P.

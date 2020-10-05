@@ -1,4 +1,5 @@
 ---
+DOI: 10.2139/ssrn.3570889
 author:
 - family: Vandenbergh
   given: M. P.
@@ -27,8 +28,8 @@ short_author:
   given: J.M.
 - family: Feuerman
   given: H.
-ssrn: '3543639'
-ssrn_id: '3543639'
+ssrn: '3570889'
+ssrn_id: '3570889'
 status: in press
 title: The new revolving door
 volume: '70'

@@ -1,5 +1,6 @@
 references:
-- abstract: This Essay provides a simple heuristic to enable public and private policymakers
+- DOI: 10.2139/ssrn.3543639
+  abstract: This Essay provides a simple heuristic to enable public and private policymakers
     to focus on the most important climate mitigation options. Policymakers face a
     blizzard of information, advocacy, and policy options, and it is easy to lose
     sight of the forest for the trees. Many options are attractive on the surface
@@ -25,6 +26,9 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Duke Environmental Law and Policy Forum
+  file:
+  - desc: full text
+    file: vandenbergh_2020_revolving_door.pdf
   id: vandenbergh:2020:forks
   issued:
   - day: 31
@@ -36,7 +40,8 @@ references:
   title-short: Climate law and policy
   type: article-journal
   volume: '30'
-- abstract: "This Article examines the argument that climate change is a \u201Csuper-wicked\u201D\
+- DOI: 10.2139/ssrn.3695265
+  abstract: "This Article examines the argument that climate change is a \u201Csuper-wicked\u201D\
     \ problem. It concludes that the wicked problem concept is best viewed as a rhetorical\
     \ device that served a valuable function in arguing against technocratic hubris\
     \ in the early 1970s but is unhelpful and possibly counterproductive as a tool\
@@ -54,16 +59,21 @@ references:
   - family: Vandenbergh
     given: M. P.
   container-title: Vanderbilt Law Review
+  file:
+  - desc: full text
+    file: gilligan_2020_beyond_wickedness.pdf
   id: gilligan:2020:beyond.wickedness
   issued:
   - day: 31
     month: 12
     year: 2020
+  ssrn: '3695265'
   status: in press
   title: 'Beyond wickedness: Managing complex systems and climate change'
   title-short: Beyond wickedness
   type: article-journal
-- URL: https://scholarlycommons.law.case.edu/caselrev/vol70/iss4/14/
+- DOI: 10.2139/ssrn.3570889
+  URL: https://scholarlycommons.law.case.edu/caselrev/vol70/iss4/14/
   abstract: "This Article demonstrates that a new revolving door is emerging between\
     \ environmental-advocacy groups and the private sector. Since the birth of the\
     \ modern regulatory state, scholars have raised concerns that the revolving door\
@@ -102,7 +112,7 @@ references:
     month: 9
     year: 2020
   page: 1121-1149
-  ssrn: '3543639'
+  ssrn: '3570889'
   status: in press
   title: The new revolving door
   type: article-journal
