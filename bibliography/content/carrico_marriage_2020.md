@@ -19,7 +19,6 @@ issued:
 - day: 29
   month: 9
   year: 2020
-keyword: posttenure
 page: '102160'
 pub_type: article-journal
 pubdate: '2020-09-29'

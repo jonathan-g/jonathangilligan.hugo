@@ -32,16 +32,18 @@ author:
 - family: Lade
   given: Steven J.
 container_title: Socio-Environmental Systems Modeling
-date: '2020-01-01'
+date: '2020-02-01'
 file:
 - desc: full text
   file: elsawah_2020_grand_challenges.pdf
 id: elsawah_2020_grand_challenges
 issued:
-- year: 2020
+- day: 1
+  month: 2
+  year: 2020
 page: '16226'
 pub_type: article-journal
-pubdate: '2020-01-01'
+pubdate: '2020-02-01'
 short_author:
 - family: Elsawah
   given: S.

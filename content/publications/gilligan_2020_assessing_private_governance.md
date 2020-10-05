@@ -16,7 +16,7 @@ issued:
   month: 2
   year: 2020
 keyword: Climate change, Climate policy, Greenhouse gas mitigation, Private climate
-  governance, Private environmental governance, Private governance, tenuretrack
+  governance, Private environmental governance, Private governance
 page: '101400'
 pub_type: article-journal
 pub_url: http://www.sciencedirect.com/science/article/pii/S2214629619310370

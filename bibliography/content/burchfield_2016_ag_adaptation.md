@@ -13,7 +13,7 @@ file:
 id: burchfield_2016_ag_adaptation
 issued:
 - year: 2016
-keyword: Drought, Adaptive capacity, Multi-scale, Remote sensing, Mixed methods, tenuretrack
+keyword: Drought, Adaptive capacity, Multi-scale, Remote sensing, Mixed methods
 page: 92-100
 pub_type: article-journal
 pub_url: https://www.sciencedirect.com/science/article/pii/S0143622816306063

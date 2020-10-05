@@ -27,7 +27,6 @@ file:
 id: nay_2015_decision_models
 issued:
 - year: 2015
-keyword: tenuretrack
 note: '00000'
 page: 2752-2763
 pub_type: paper-conference

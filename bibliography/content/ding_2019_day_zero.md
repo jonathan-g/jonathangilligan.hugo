@@ -8,7 +8,7 @@ author:
 - family: Hornberger
   given: George M.
 container_title: Proceedings of the 2019 winter simulation conference
-date: '2019-01-01'
+date: '2019-12-31'
 editor:
 - family: Mustafee
   given: N.
@@ -29,10 +29,12 @@ file:
   file: ding_2019_day_zero.pdf
 id: ding_2019_day_zero
 issued:
-- year: 2019
+- day: 31
+  month: 12
+  year: 2019
 page: 866-877
 pub_type: paper-conference
-pubdate: '2019-01-01'
+pubdate: '2019-12-31'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:

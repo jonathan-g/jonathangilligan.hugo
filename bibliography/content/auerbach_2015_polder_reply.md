@@ -27,7 +27,6 @@ id: auerbach_2015_polder_reply
 issue: '6'
 issued:
 - year: 2015
-keyword: tenuretrack
 page: 492-493
 pub_type: article-journal
 pub_url: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html

@@ -16,7 +16,6 @@ issued:
 - day: 6
   month: 10
   year: 2018
-keyword: tenuretrack
 page: 1243-1315
 preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
 preprint_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226

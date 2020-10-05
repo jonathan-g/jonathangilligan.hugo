@@ -16,8 +16,7 @@ id: hornberger_2015_hydro_transitions
 issue: '6'
 issued:
 - year: 2015
-keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation,
-  tenuretrack
+keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation
 page: 4635-4649
 pub_type: article-journal
 pubdate: '2015-01-01'

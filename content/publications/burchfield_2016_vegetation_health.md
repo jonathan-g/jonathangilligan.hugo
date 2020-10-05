@@ -16,7 +16,6 @@ file:
 id: burchfield_2016_vegetation_health
 issued:
 - year: 2016
-keyword: tenuretrack
 page: 465-469
 pub_type: article-journal
 pub_url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/

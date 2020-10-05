@@ -18,7 +18,6 @@ file:
 id: phillips_2018_beyond_politics
 issued:
 - year: 2018
-keyword: tenuretrack
 page: 11049-11062
 pub_type: article-journal
 pub_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695

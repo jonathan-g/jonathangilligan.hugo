@@ -8,7 +8,6 @@ id: gilligan_2017_science_beat
 issue: 1, Fall
 issued:
 - year: 2017
-keyword: tenuretrack
 note: Commentary invited by the editor
 page: 6-8
 pub_type: article-journal

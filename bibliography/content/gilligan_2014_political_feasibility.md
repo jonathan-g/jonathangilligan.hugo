@@ -13,7 +13,6 @@ file:
 id: gilligan_2014_political_feasibility
 issued:
 - year: 2014
-keyword: tenuretrack
 page: 1-26
 pub_type: article-journal
 pubdate: '2014-01-01'

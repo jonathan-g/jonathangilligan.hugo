@@ -33,7 +33,6 @@ file:
 id: gilligan_2015_flood_partsim
 issued:
 - year: 2015
-keyword: tenuretrack
 note: '00000'
 page: 3174-3175
 pub_type: paper-conference

@@ -22,7 +22,6 @@ issued:
 - day: 7
   month: 8
   year: 2018
-keyword: tenuretrack
 page: 1065-1083
 pub_type: article-journal
 pubdate: '2018-08-07'

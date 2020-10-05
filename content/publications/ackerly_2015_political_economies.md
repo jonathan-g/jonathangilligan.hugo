@@ -21,7 +21,6 @@ file:
 id: ackerly_2015_political_economies
 issued:
 - year: 2015
-keyword: tenuretrack
 page: 27-39
 pub_type: chapter
 pubdate: '2015-01-01'

@@ -25,7 +25,6 @@ issued:
 - day: 27
   month: 12
   year: 2017
-keyword: tenuretrack
 page: '78'
 pub_type: article-journal
 pubdate: '2017-12-27'

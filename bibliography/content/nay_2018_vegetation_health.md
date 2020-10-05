@@ -17,7 +17,6 @@ issued:
 - day: 1
   month: 1
   year: 2018
-keyword: tenuretrack
 page: 1800-1816
 pub_type: article-journal
 pubdate: '2018-01-01'

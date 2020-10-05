@@ -28,7 +28,6 @@ file:
 id: ackerly_2017_climate_community
 issued:
 - year: 2017
-keyword: tenuretrack
 page: 189-202
 pub_type: chapter
 pubdate: '2017-01-01'

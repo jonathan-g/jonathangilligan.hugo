@@ -205,6 +205,17 @@ def gen_items(bib):
         if 'ssrn' in item.keys():
             header_items['ssrn_id'] = item['ssrn']
         header_items['pub_type'] = item['type']
+        if 'keyword' in header_items.keys():
+            k = header_items['keyword']
+            k = re.sub("[a-z\\- ]*tenure[a-z\\- ]*", "", k)
+            k = re.sub(", *,", ",", k)
+            k = re.sub("^, *", "", k)
+            k = re.sub(" *, *$", "", k)
+            k = k.strip()
+            if (len(k) == 0):
+                del header_items['keyword']
+            else:
+                header_items['keyword'] = k
         if (item['type'] == 'patent' and 'number' in item.keys()):
             header_items['patent_num'] = patent_strip(item['number'])
         outfile = open(os.path.join('content', key + '.md'), 'w', encoding="utf-8")

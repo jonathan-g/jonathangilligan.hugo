@@ -29,7 +29,7 @@ id: nay_2016_betting_belief
 issued:
 - year: 2016
 keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
-  Finance - Economics, tenuretrack
+  Finance - Economics
 page: 1666-1677
 pub_type: paper-conference
 pub_url: https://arxiv.org/abs/1603.08961

@@ -23,7 +23,6 @@ file:
 id: hess_2016_drought
 issued:
 - year: 2016
-keyword: tenuretrack
 page: 807-827
 pub_type: article-journal
 pubdate: '2016-01-01'

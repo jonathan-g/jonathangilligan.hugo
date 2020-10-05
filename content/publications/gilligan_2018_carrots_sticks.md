@@ -12,7 +12,6 @@ issued:
 - day: 31
   month: 12
   year: 2018
-keyword: tenuretrack
 page: 179-198
 pub_type: article-journal
 pub_url: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/

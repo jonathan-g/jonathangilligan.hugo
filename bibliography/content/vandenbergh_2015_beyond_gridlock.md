@@ -14,7 +14,6 @@ id: vandenbergh_2015_beyond_gridlock
 issue: '2'
 issued:
 - year: 2015
-keyword: tenuretrack
 note: '**<span class="smallcaps">Note:</span>** This paper won the 2017 Morrison Prize
   for the highest-impact paper on sustainability law and policy in 2015'
 page: 217-303

@@ -15,9 +15,10 @@ file:
 id: gunda_2016_drought
 issue: '2'
 issued:
-- month: 2
+- day: 1
+  month: 2
   year: 2016
-keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets, tenuretrack
+keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets
 page: 563-575
 pub_type: article-journal
 pubdate: '2016-02-01'

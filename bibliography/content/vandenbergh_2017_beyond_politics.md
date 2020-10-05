@@ -11,7 +11,6 @@ issued:
 - day: 30
   month: 11
   year: 2017
-keyword: tenuretrack
 note: 494 pp.
 pub_type: book
 pubdate: '2017-11-30'

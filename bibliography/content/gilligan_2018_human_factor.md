@@ -13,7 +13,6 @@ issued:
 - day: 1
   month: 1
   year: 2018
-keyword: tenuretrack
 note: "Invited \u201CNews and Views\u201D commentary."
 page: 14-15
 pub_type: article-journal

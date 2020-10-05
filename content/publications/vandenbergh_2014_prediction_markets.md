@@ -14,7 +14,6 @@ file:
 id: vandenbergh_2014_prediction_markets
 issued:
 - year: 2014
-keyword: tenuretrack
 page: 1962-2017
 pub_type: article-journal
 pub_url: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/

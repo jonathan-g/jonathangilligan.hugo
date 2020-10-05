@@ -31,7 +31,6 @@ id: auerbach_2015_polders
 issue: '2'
 issued:
 - year: 2015
-keyword: tenuretrack
 page: 152-157
 pub_type: article-journal
 pubdate: '2015-01-01'

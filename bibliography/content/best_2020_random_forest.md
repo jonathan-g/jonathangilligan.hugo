@@ -25,7 +25,6 @@ issued:
 - day: 11
   month: 3
   year: 2020
-keyword: tenuretrack
 pub_type: article-journal
 pub_url: https://doi.org/10.1007/s42001-020-00066-9
 pubdate: '2020-03-11'

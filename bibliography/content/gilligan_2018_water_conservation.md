@@ -23,7 +23,6 @@ issued:
 - day: 12
   month: 6
   year: 2018
-keyword: tenuretrack
 page: 955-967
 pub_type: article-journal
 pubdate: '2018-06-12'
