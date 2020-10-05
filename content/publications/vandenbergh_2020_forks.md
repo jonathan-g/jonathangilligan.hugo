@@ -9,7 +9,7 @@ container_title: Duke Environmental Law and Policy Forum
 date: '2020-12-31'
 file:
 - desc: full text
-  file: vandenbergh_2020_revolving_door.pdf
+  file: vandenbergh_2020_forks_in_the_road.pdf
 id: vandenbergh_2020_forks
 issued:
 - day: 31
