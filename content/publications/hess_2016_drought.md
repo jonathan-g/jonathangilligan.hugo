@@ -44,6 +44,6 @@ short_author:
 - family: Hornberger
   given: G.M.
 status: published
-title: Drought, risk, and institutional politics in the american southwest
+title: Drought, risk, and institutional politics in the American Southwest
 volume: '31'
 ---

@@ -8,7 +8,7 @@ author:
 - family: Gilligan
   given: Jonathan
 container_title: 'Environment, migration and adaptation: Evidence and politics of
-  climate change in bangladesh'
+  climate change in Bangladesh'
 date: '2015-01-01'
 editor:
 - family: Mallick

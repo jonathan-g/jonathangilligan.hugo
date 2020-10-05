@@ -83,7 +83,7 @@ references:
   container-title: Case Western Reserve Law Review
   page: 1121-1149
   volume: '70'
-  status: in press
+  status: published
   abstract: 'This Article demonstrates that a new revolving door is emerging between
     environmental-advocacy groups and the private sector. Since the birth of the modern
     regulatory state, scholars have raised concerns that the revolving door between
@@ -314,7 +314,7 @@ references:
   issued:
   - year: 2019
   title: 'Avoiding “day-zero”: A testbed for evaluating integrated food-energy-water
-    management in cape town, south africa'
+    management in Cape Town, South Africa'
   title-short: Avoiding “day-zero”
   container-title: Proceedings of the 2019 winter simulation conference
   publisher: IEEE Press
@@ -503,7 +503,7 @@ references:
   - year: 2018
     month: 6
     day: 12
-  title: Urban water conservation policies in the united states
+  title: Urban water conservation policies in the United States
   container-title: Earth’s Future
   page: 955-967
   volume: '6'
@@ -912,7 +912,7 @@ references:
     given: Jonathan
   issued:
   - year: 2016
-  title: Agricultural adaptation to drought in the sri lankan dry zone
+  title: Agricultural adaptation to drought in the Sri Lankan dry zone
   container-title: Applied Geography
   publisher: Elsevier
   page: 92-100
@@ -984,7 +984,7 @@ references:
     given: George M.
   issued:
   - year: 2016
-  title: Drought, risk, and institutional politics in the american southwest
+  title: Drought, risk, and institutional politics in the American Southwest
   container-title: Sociological Forum
   publisher: Wiley Online Library
   page: 807-827
@@ -1063,7 +1063,7 @@ references:
   - year: 2015
   title: Environment, political economies, and livelihood change
   container-title: 'Environment, migration and adaptation: Evidence and politics of
-    climate change in bangladesh'
+    climate change in Bangladesh'
   publisher: AH Development Publishing House
   publisher-place: Dhaka, Bangladesh
   page: 27-39

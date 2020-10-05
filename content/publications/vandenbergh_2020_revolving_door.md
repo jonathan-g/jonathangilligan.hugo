@@ -30,7 +30,7 @@ short_author:
   given: H.
 ssrn: '3570889'
 ssrn_id: '3570889'
-status: in press
+status: published
 title: The new revolving door
 volume: '70'
 ---

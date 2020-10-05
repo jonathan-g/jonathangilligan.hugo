@@ -113,7 +113,7 @@ references:
     year: 2020
   page: 1121-1149
   ssrn: '3570889'
-  status: in press
+  status: published
   title: The new revolving door
   type: article-journal
   volume: '70'
@@ -354,7 +354,7 @@ references:
   publisher-place: Piscataway, NJ, USA
   status: published
   title: "Avoiding \u201Cday-zero\u201D: A testbed for evaluating integrated food-energy-water\
-    \ management in cape town, south africa"
+    \ management in Cape Town, South Africa"
   title-short: "Avoiding \u201Cday-zero\u201D"
   type: paper-conference
 - DOI: 10.1111/risa.13407
@@ -563,7 +563,7 @@ references:
   keyword: tenuretrack
   page: 955-967
   status: published
-  title: Urban water conservation policies in the united states
+  title: Urban water conservation policies in the United States
   type: article-journal
   volume: '6'
 - DOI: 10.1038/s41558-017-0038-0
@@ -991,7 +991,7 @@ references:
   page: 92-100
   publisher: Elsevier
   status: published
-  title: Agricultural adaptation to drought in the sri lankan dry zone
+  title: Agricultural adaptation to drought in the Sri Lankan dry zone
   type: article-journal
   volume: '77'
 - DOI: 10.5194/isprs-archives-XLI-B2-465-2016
@@ -1049,7 +1049,7 @@ references:
   page: 807-827
   publisher: Wiley Online Library
   status: published
-  title: Drought, risk, and institutional politics in the american southwest
+  title: Drought, risk, and institutional politics in the American Southwest
   type: article-journal
   volume: '31'
 - DOI: 10.1109/WSC.2016.7822215
@@ -1117,7 +1117,7 @@ references:
   - family: Gilligan
     given: Jonathan
   container-title: 'Environment, migration and adaptation: Evidence and politics of
-    climate change in bangladesh'
+    climate change in Bangladesh'
   editor:
   - family: Mallick
     given: Bishawjit
