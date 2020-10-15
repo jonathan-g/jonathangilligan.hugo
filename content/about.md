@@ -82,7 +82,8 @@ The following bio may be used in media releases without further permission.
 > [_Beyond Politics: The Private Governance Response to Climate Change_](https://beyondpoliticsbook.com)
 > (co-authored with Michael Vandenbergh) was recognized with 
 > a [Vanderbilt Chancellor’s Award for Research](https://news.vanderbilt.edu/2018/08/24/gould-awarded-10k-prize-for-achievement-in-research-at-fall-assembly/) 
-> in 2018. 
+> in 2018 and was named by _Environmental Forum_ as [one of the most important
+> books on enviroonmental law and policy of the last 50 years](/news/2019/12/23/top-books/).
 >
 > He also co-authored, with his mother Carol Gilligan, the play 
 > [_The Scarlet Letter_]({{< ref "creative/scarlet_letter.md" >}}) 
