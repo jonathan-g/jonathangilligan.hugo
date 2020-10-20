@@ -85,7 +85,7 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 2
-googleAnalytics: "UA-101117636-1"
+# googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Gilligan"
   bio_name: "Jonathan Gilligan"
