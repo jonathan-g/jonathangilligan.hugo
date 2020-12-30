@@ -215,24 +215,27 @@ references:
   issued:
   - year: 2020
     month: 12
-    day: 31
+    day: 22
   title: 'Beyond wickedness: Managing complex systems and climate change'
   title-short: Beyond wickedness
   container-title: Vanderbilt Law Review
-  status: in press
-  abstract: This Article examines the argument that climate change is a “super-wicked”
+  page: 1177-1810
+  volume: '73'
+  issue: '6'
+  status: published
+  abstract: This Article examines the argument that climate change is a “super wicked”
     problem. It concludes that the wicked problem concept is best viewed as a rhetorical
     device that served a valuable function in arguing against technocratic hubris
     in the early 1970s but is unhelpful and possibly counterproductive as a tool for
     modern climate policy analysis. Richard Lazarus improved on this analysis by emphasizing
     the urgency of a climate response in his characterization of the climate problem
-    as “super-wicked.” We suggest another approach based on Charles Lindblom’s “science
+    as “super wicked.” We suggest another approach based on Charles Lindblom’s “science
     of muddling through.” The muddling through approach supports the rhetorical points
     for which the original wicked problem concept was introduced and provides greater
     practical guidance for developing new laws and policies to address climate change
     and other complex and messy environmental problems.
   keyword: posttenure
-  DOI: 10.2139/ssrn.3695265
+  URL: https://vanderbiltlawreview.org/lawreview/2020/12/beyond-wickedness-managing-complex-systems-and-climate-change/
   language: en-US
 
 - id: nielsen:2020:mitigation.analysis

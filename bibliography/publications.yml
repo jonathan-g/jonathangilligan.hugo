@@ -212,14 +212,14 @@ references:
   title: A framework for assessing the impact of private climate governance
   type: article-journal
   volume: '60'
-- DOI: 10.2139/ssrn.3695265
-  abstract: "This Article examines the argument that climate change is a \u201Csuper-wicked\u201D\
-    \ problem. It concludes that the wicked problem concept is best viewed as a rhetorical\
-    \ device that served a valuable function in arguing against technocratic hubris\
-    \ in the early 1970s but is unhelpful and possibly counterproductive as a tool\
-    \ for modern climate policy analysis. Richard Lazarus improved on this analysis\
-    \ by emphasizing the urgency of a climate response in his characterization of\
-    \ the climate problem as \u201Csuper-wicked.\u201D We suggest another approach\
+- URL: https://vanderbiltlawreview.org/lawreview/2020/12/beyond-wickedness-managing-complex-systems-and-climate-change/
+  abstract: "This Article examines the argument that climate change is a \u201Csuper\
+    \ wicked\u201D problem. It concludes that the wicked problem concept is best viewed\
+    \ as a rhetorical device that served a valuable function in arguing against technocratic\
+    \ hubris in the early 1970s but is unhelpful and possibly counterproductive as\
+    \ a tool for modern climate policy analysis. Richard Lazarus improved on this\
+    \ analysis by emphasizing the urgency of a climate response in his characterization\
+    \ of the climate problem as \u201Csuper wicked.\u201D We suggest another approach\
     \ based on Charles Lindblom\u2019s \u201Cscience of muddling through.\u201D The\
     \ muddling through approach supports the rhetorical points for which the original\
     \ wicked problem concept was introduced and provides greater practical guidance\
@@ -235,17 +235,20 @@ references:
   - desc: full text
     file: gilligan_2020_beyond_wickedness.pdf
   id: gilligan:2020:beyond.wickedness
+  issue: '6'
   issued:
-  - day: 31
+  - day: 22
     month: 12
     year: 2020
   keyword: posttenure
   language: en-US
+  page: 1177-1810
   ssrn: '3695265'
-  status: in press
+  status: published
   title: 'Beyond wickedness: Managing complex systems and climate change'
   title-short: Beyond wickedness
   type: article-journal
+  volume: '73'
 - DOI: 10.1016/j.oneear.2020.08.007
   URL: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
   abstract: "Limiting global warming to 2C or less compared with pre-industrial temperatures\
