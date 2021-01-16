@@ -18,8 +18,8 @@ file:
 id: vandenbergh_2010_implementing
 issued:
 - year: 2010
-note: Selected by Environmental Law Institute to reprint as the featured cover story
-  of the 2010 summer reading issue for policymakers of Environmental Forum.
+note: ' Selected by Environmental Law Institute to reprint as the featured cover story
+  of the 2010 summer reading issue for policymakers of Environmental Forum.'
 page: 547-554
 pub_type: article-journal
 pubdate: '2010-01-01'
