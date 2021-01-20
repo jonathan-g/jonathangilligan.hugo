@@ -1,10 +1,10 @@
 ---
 title: Agent- and Individual-Based Computational Modeling
-date: "2019-08-21"
-enddate: "2019-12-05"
+date: "2021-08-25"
+enddate: "2021-12-10"
 publishdate: "2017-06-12"
-last_date: "2018-01-08"
-last_enddate: "2018-04-23"
+last_date: "2019-08-21"
+last_enddate: "2019-12-05"
 host: "Vanderbilt University"
 keywords:
   - agent-based modeling
