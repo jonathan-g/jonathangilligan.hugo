@@ -13,8 +13,8 @@ The following bio may be used in media releases without further permission.
 > [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees)
 > and Associate Professor of 
 > [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
-> at [Vanderbilt University](https://www.vanderbilt.edu/),
-> where he is director of Vanderbilt's interdisciplinary Grand Challenge 
+> at [Vanderbilt University](https://www.vanderbilt.edu/).
+> He is director of Vanderbilt's interdisciplinary Grand Challenge 
 > Initiative on Climate and Society 
 > and a member of the 
 > [Vanderbilt Institute for Energy and Environment](https://www.vanderbilt.edu/viee/),
@@ -57,12 +57,15 @@ The following bio may be used in media releases without further permission.
 > [Department of Earth and Environmental Sciences](https://www.vanderbilt.edu/ees), 
 > where he collaborates on interdisciplinary research 
 > into interactions between human behavior, society, and environmental change. 
-> His research projects range from 
-> studying the role of the private sector in regulating greenhouse gas emissions 
-> to studying interactions between climate change, land use, 
-> and rural agricultural communities in Sri Lanka and Bangladesh. 
+> His recent research projects include
+> studying the role of the private sector in regulating greenhouse gas emissions,
+> studying water-conservation policies in U.S. cities,
+> studying interactions between climate change, land use, 
+> and rural agricultural communities in Sri Lanka and Bangladesh,
+> and applying machine-learning methods to studying gentrification and its
+> impacts on inequalities in mobility and access to public transport.
 >
-> Gilligan has published one book and 85 scholarly articles and holds two patents. 
+> Gilligan has published one book and 95 scholarly articles and holds two patents. 
 > His paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly Reduce 
 > U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
 > (co-authored with 
@@ -70,22 +73,23 @@ The following bio may be used in media releases without further permission.
 > Gerald Gardner, [Paul Stern](http://www.seri-us.org/content/paul-c-stern), 
 > and [Michael Vandenbergh](https://law.vanderbilt.edu/bio/michael-vandenbergh)) 
 > has been cited 
-> [more than 1000 times](https://scholar.google.com/citations?user=B8RVAU0AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DB8RVAU0AAAAJ%26citation_for_view%3DB8RVAU0AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300) 
+> [more than 1,200 times](https://scholar.google.com/citations?user=B8RVAU0AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DB8RVAU0AAAAJ%26citation_for_view%3DB8RVAU0AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300) 
 > and his paper, 
 > "[Beyond Gridlock]({{< ref "publications/vandenbergh_2015_beyond_gridlock.md" >}})" 
 > (co-authored with Michael Vandenbergh) won 
 > the [2017 Morrison Prize](https://www.prnewswire.com/news-releases/morrison-prize-winners-highlight-the-importance-of-private-action-in-battling-climate-change-300405452.html), 
-> given each year by the Law School at Arizona State University to the 
-> highest-impact paper on sustainability law and policy published in the 
-> previous year. 
+> for the highest-impact paper of the year on sustainability law and policy. 
 > His book, 
 > [_Beyond Politics: The Private Governance Response to Climate Change_](https://beyondpoliticsbook.com)
 > (co-authored with Michael Vandenbergh) was recognized with 
 > a [Vanderbilt Chancellor’s Award for Research](https://news.vanderbilt.edu/2018/08/24/gould-awarded-10k-prize-for-achievement-in-research-at-fall-assembly/) 
-> in 2018 and was named by _Environmental Forum_ as [one of the most important
-> books on environmental law and policy of the last 50 years](/news/2019/12/23/top-books/).
+> in 2018 and was named [one of the most important books on environmental 
+> policy of the last 50 years](/news/2019/12/23/top-books/)
+> by _Environmental Forum_.
 >
-> He also co-authored, with his mother Carol Gilligan, the play 
+> He also collaborated with his mother, 
+> [Carol Gilligan](https://en.wikipedia.org/wiki/Carol_Gilligan), 
+> to write the play 
 > [_The Scarlet Letter_]({{< ref "creative/scarlet_letter.md" >}}) 
 > (a feminist adaptation of Hawthorne) 
 > and the libretto for the opera [_Pearl_]({{< ref "creative/pearl.md" >}}).
