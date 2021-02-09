@@ -8,7 +8,7 @@ tags: [Beyond Politics, Private governance]
 ---
 Mike Vandenbergh and I have [a new paper out](https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY), in the journal 
 _Energy Research & Social Science_, on our three-part framework for assessing 
-the impacts of private cliamte governance.
+the impacts of private climate governance.
 
 <!-- more -->
 We discussed our three-part framework in previous writing, such as
