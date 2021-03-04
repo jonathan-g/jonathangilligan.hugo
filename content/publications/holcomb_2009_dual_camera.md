@@ -20,7 +20,7 @@ file:
 id: holcomb_2009_dual_camera
 issued:
 - year: 2009
-note: ' *Selected by the editors as the feature article of the month.*'
+note: '*Selected by the editors as the feature article of the month.*'
 page: 1355-1372
 pub_type: article-journal
 pubdate: '2009-01-01'
