@@ -67,3 +67,4 @@ short_editor:
 status: published
 title: Participatory simulations of urban flooding for learning and decision support
 ---
+Flood-control measures, such as levees and floodwalls, can backfire and increase risks of disastrous floods by giving the public a false sense of security and thus encouraging people to build valuable property in high-risk locations. More generally, nonlinear interactions between human land-use and natural processes can produce unexpected emergent phenomena in coupled human-natural systems (CHNS). We describe a participatory agent-based simulation of coupled urban development and flood risks and discuss the potential of this simulation to help educate a wide range of the public&#8212;from middle- and high-school students to public officials&#8212;about emergence in CHNS and present results from two pilot studies.
