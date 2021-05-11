@@ -20,18 +20,18 @@ references:
   - family: Mallick
     given: Bishawjit
   issued:
-  - year: 2020
-    month: 3
-    day: 11
+  - year: 2021
   accessed:
-  - year: 2020
-    month: 3
-    day: 14
+  - year: 2021
+    month: 5
+    day: 1
   title: Random forest analysis of two household surveys can identify important predictors
     of migration in Bangladesh
   container-title: Journal of Computational Social Science
   container-title-short: J Comput Soc Sc
-  status: advance
+  page: 77-100
+  volume: '14'
+  status: published
   abstract: The decision to migrate is complex and is often influenced by a combination
     of economic, social, political, and environmental pressures. Household survey
     instruments can capture detailed information about migration histories and their
@@ -56,6 +56,51 @@ references:
   DOI: 10.1007/s42001-020-00066-9
   ISSN: 2432-2725
   language: en-US
+
+- id: ding:2021:Cape-Town
+  type: article-journal
+  author:
+  - family: Ding
+    given: Ke Jack
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Yang
+    given: Y. C. Ethan
+  - family: Wolski
+    given: Piotr
+  - family: Hornberger
+    given: G. M.
+  issued:
+  - year: 2021
+  title: 'Assessing food-energy-water resources management strategies at city scale:
+    An agent-based modeling approach for cape town, south africa'
+  title-short: Assessing food-energy-water resources management strategies at city
+    scale
+  container-title: Resources, Conservation and Recycling
+  page: '105573'
+  volume: '170'
+  status: published
+  abstract: The impact of human activities and climate change occurs across a range
+    of spatial and temporal scales, and the city or regional scale is critical for
+    managing food-energy-water (FEW) resources. We develop a coupled human-natural
+    system model for Cape Town, South Africa, which consists of an agent-based model
+    and a regional hydrologic model, to study the FEW nexus connecting the agricultural,
+    urban, and hydroelectric generation sectors. We use the model to compare three
+    policies—a simple adaptive approach, adaptation with free water to indigent households,
+    and water supply augmentation—and assess their ability to provide reliable FEW
+    services to the different stakeholders under four different climate scenarios,
+    representing moderate to severe amounts of warming. Our results indicate that
+    Cape Town is likely to face increasing water stress as temperatures rise, and
+    that adaptation strategies could effectively mitigate the effects of water limitations
+    and avoid severe failures in providing FEW services across sectors. One way to
+    manage demand for FEW services is by adjusting water price tariffs, but high prices
+    create inequality in access to water for households with different incomes. Our
+    analysis suggests that the water supply system in Cape Town may already be at,
+    if not over, its sustainable capacity within the FEW nexus. Our model serves as
+    a test-bed for assessing policies to manage stresses on water resources for the
+    benefit of stakeholders across FEW sectors. This model can be adapted to cities
+    and regions around the globe.
+  DOI: 10.1016/j.resconrec.2021.105573
 
 - id: carrico:marriage:2020
   type: article-journal
