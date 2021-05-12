@@ -44,8 +44,8 @@ references:
   container-title-short: J Comput Soc Sc
   file:
   - desc: full text
-    file: best_2020_random_forest.pdf
-  id: best:2020:random.forest
+    file: best_2021_random_forest.pdf
+  id: best:2021:random.forest
   issued:
   - year: 2021
   keyword: posttenure
@@ -91,6 +91,9 @@ references:
   - family: Hornberger
     given: G. M.
   container-title: Resources, Conservation and Recycling
+  file:
+  - desc: full text
+    file: ding_2021_cape_town.pdf
   id: ding:2021:Cape-Town
   issued:
   - year: 2021

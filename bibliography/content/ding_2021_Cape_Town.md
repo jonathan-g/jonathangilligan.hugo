@@ -13,6 +13,9 @@ author:
   given: G. M.
 container_title: Resources, Conservation and Recycling
 date: '2021-01-01'
+file:
+- desc: full text
+  file: ding_2021_cape_town.pdf
 id: ding_2021_Cape_Town
 issued:
 - year: 2021
