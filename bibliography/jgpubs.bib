@@ -1,4 +1,12 @@
 % Encoding: US-ASCII
+%
+% Special fields:
+% pubstate: can be published, inpress, or advance
+% peerreviewed: true or false
+% entrytype Article, Book, etc.
+% group Articles, Books, etc. for CV
+% groups similar, but allows multiple groups
+% author+an for assigning ids (self, student)
 
 @String{apl   = {Applied Physics Letters}}
 @String{grl   = {Geophysical Research Letters}}
@@ -9,11 +17,46 @@
 @String{pspie = {Proceedings of the SPIE}}
 @String{pssa  = {Physica Status Solidi A: Applied Research}}
 
+@Article{schenuit:2021:geoengineering,
+  author = {Schenuit, Felix and Gilligan, Jonathan and
+    Viswamohanan, Anjali},
+  title = {A Scenario of Solar Geoengineering Governance: Vulnerable States
+    Demand, and Act},
+  journaltitle = {Futures},
+  date = {2021},
+  doi = {10.1016/j.futures.2021.102809},
+  pubstate = {inpress},
+  abstract = {The paper examines a scenario exercise concerning deployment of
+    solar geoengineering by a small group of states that are particularly
+    vulnerable to climate change. Two groups of participants were each asked
+    to provide expert decision-making advice to an alliance comprising great
+    powers, and to propose a political response to the deployment initiative.
+    This paper discusses the initial governance proposals and examines
+    differences and exchanges between the groups throughout the exercise.
+    The two groups delivered distinct governance proposals. The differences,
+    which were driven largely by divergent worldviews and assumptions about
+    the geopolitical context, provide insights into the complexities of
+    responses to the ``free-driver'' of solar geoengineering deployment,
+    internal functioning and cohesion of coalitions, and interactions among
+    multiple responses to climate change.},
+  author+an    = {2=self},
+  entrytype    = {Article},
+  group        = {Articles},
+  groups       = {Articles},
+  keywords     = {posttenure},
+  langid       = {english},
+  peerreviewed = {true},
+  xxx_file = {full text:pdfs/schenuit_2021_geoengineering.pdf:PDF},
+}
+
 @Article{best:2021:random.forest,
-  author       = {Best, Kelsea B. and Gilligan, Jonathan M. and Baroud, Hiba and Carrico, Amanda R. and Donato, Katharine M. and Ackerly, Brooke A. and Mallick, Bishawjit},
+  author       = {Best, Kelsea B. and Gilligan, Jonathan M. and Baroud, Hiba
+    and Carrico, Amanda R. and Donato, Katharine M. and Ackerly, Brooke A.
+    and Mallick, Bishawjit},
   date         = {2021},
   journaltitle = {Journal of Computational Social Science},
-  title        = {Random Forest Analysis of Two Household Surveys Can Identify Important Predictors of Migration in {Bangladesh}},
+  title        = {Random Forest Analysis of Two Household Surveys Can Identify
+    Important Predictors of Migration in {Bangladesh}},
   doi          = {10.1007/s42001-020-00066-9},
   issn         = {2432-2725},
   pages        = {77--100},
@@ -21,7 +64,27 @@
   url          = {https://doi.org/10.1007/s42001-020-00066-9},
   urldate      = {2021-05-01},
   volume       = {14},
-  abstract     = {The decision to migrate is complex and is often influenced by a combination of economic, social, political, and environmental pressures. Household survey instruments can capture detailed information about migration histories and their contexts, but it can be challenging to identify important predictors from large numbers of covariates with standard statistical methods, such as regression analyses. Machine learning techniques are well suited to pattern identification and can identify important covariates from large datasets. We report on the application of machine learning approaches to two large surveys collected from a total of more than 2800 households in southwestern Bangladesh. We applied random forest classification and regression models to identify significant covariates with the greatest predictive power for household migration decisions. The results show that random forest models are able to identify nuances in predictors of different types of migration and migration in different communities. Random forests also outperform logistic regression and support vector machines in predicting migration in all cases analyzed. Therefore, random forest models and other machine learning methods can be useful for improving the predictive accuracy of migration models and identifying patterns in complex social datasets. Future work should continue to explore the potential of machine learning techniques applied to questions of environmental migration.},
+  abstract     = {The decision to migrate is complex and is often influenced by
+    a combination of economic, social, political, and environmental pressures.
+    Household survey instruments can capture detailed information about
+    migration histories and their contexts, but it can be challenging to
+    identify important predictors from large numbers of covariates with
+    standard statistical methods, such as regression analyses. Machine learning
+    techniques are well suited to pattern identification and can identify
+    important covariates from large datasets. We report on the application of
+    machine learning approaches to two large surveys collected from a total of
+    more than 2800 households in southwestern Bangladesh. We applied random
+    forest classification and regression models to identify significant
+    covariates with the greatest predictive power for household migration
+    decisions. The results show that random forest models are able to identify
+    nuances in predictors of different types of migration and migration in
+    different communities. Random forests also outperform logistic regression
+    and support vector machines in predicting migration in all cases analyzed.
+    Therefore, random forest models and other machine learning methods can be
+    useful for improving the predictive accuracy of migration models and
+    identifying patterns in complex social datasets. Future work should
+    continue to explore the potential of machine learning techniques applied to
+    questions of environmental migration.},
   author+an    = {1=student;2=self},
   entrytype    = {Article},
   file         = {full text:pdfs/best_2021_random_forest.pdf:PDF},
@@ -432,13 +495,13 @@
   pubstate     = {published},
   url          = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695},
   volume       = {48},
-  abstract     = {When the United States withdrew from the Paris Climate Agreement, 100 private corporations reaffirmed 
-their commitment to fighting climate change. While governments are often tasked with facing climate 
-change, many major private institutions are taking steps to significantly reduce carbon emissions, reaping 
-the benefits of favorable public image and reduced operational costs from energy and other savings. On 
-September 5, 2018, ELI held an expert panel discussing the role of private institutions in climate change 
-mitigation, the incentives for private actors pursuing carbon reduction initiatives, key factors in successful 
-case studies, and methods for developing and evaluating successful private climate initiatives. Below, we 
+  abstract     = {When the United States withdrew from the Paris Climate Agreement, 100 private corporations reaffirmed
+their commitment to fighting climate change. While governments are often tasked with facing climate
+change, many major private institutions are taking steps to significantly reduce carbon emissions, reaping
+the benefits of favorable public image and reduced operational costs from energy and other savings. On
+September 5, 2018, ELI held an expert panel discussing the role of private institutions in climate change
+mitigation, the incentives for private actors pursuing carbon reduction initiatives, key factors in successful
+case studies, and methods for developing and evaluating successful private climate initiatives. Below, we
 present a transcript of the discussion, which has been edited for style, clarity, and space considerations.},
   author+an    = {2=self},
   credit       = {This is a transcript of a panel discussion. Each author's contributions are identified in the text.},
@@ -492,22 +555,22 @@ research as well.},
   pages        = {189--202},
   publisher    = {Routledge},
   pubstate     = {published},
-  abstract     = {Climate change is a \emph{global\/} problem. Food, water, health, housing, and life are 
-basic \emph{individual\/} human rights. However, \emph{between\/} the global forces 
-of climate change and individual challenges of meeting basic needs, communities are 
-the context in which people experience the effects of climate change and seek to adapt 
-to its impact on their livelihoods. Such adaptation may include permanent migration 
-and certainly, this has been one of the foci of international relations and security politics 
-related to climate change. Of course, such migration will have human rights consequences 
-and there are human rights causes to some of this migration as well. Of equal importance, 
-but gaining less attention, are the problems related to climate change effects that do 
-not cause mass migration, that may include short-term seasonal migration, and that also 
-have human rights causes and consequences. In this chapter, we use a study in rural 
-Bangladesh to demonstrate the import of the human rights considerations of this second, 
-community-level, impact of climate change on human rights. We find that the human 
-rights impacts of slow and rapid onset environmental change are a function of 
-democratic, social, and economic rights, that is, those human rights that are best 
-understood as enjoyed \emph{through\/} political community are equally worthy of our 
+  abstract     = {Climate change is a \emph{global\/} problem. Food, water, health, housing, and life are
+basic \emph{individual\/} human rights. However, \emph{between\/} the global forces
+of climate change and individual challenges of meeting basic needs, communities are
+the context in which people experience the effects of climate change and seek to adapt
+to its impact on their livelihoods. Such adaptation may include permanent migration
+and certainly, this has been one of the foci of international relations and security politics
+related to climate change. Of course, such migration will have human rights consequences
+and there are human rights causes to some of this migration as well. Of equal importance,
+but gaining less attention, are the problems related to climate change effects that do
+not cause mass migration, that may include short-term seasonal migration, and that also
+have human rights causes and consequences. In this chapter, we use a study in rural
+Bangladesh to demonstrate the import of the human rights considerations of this second,
+community-level, impact of climate change on human rights. We find that the human
+rights impacts of slow and rapid onset environmental change are a function of
+democratic, social, and economic rights, that is, those human rights that are best
+understood as enjoyed \emph{through\/} political community are equally worthy of our
 rights attention because they are essential to climate change adaptation.},
   author+an    = {2=student;3=self;},
   credit       = {The concept was developed equally by the four authors as an integrated interdisciplinary research project. Ackerly, Anam, and Goodbred collected data. All four authors contributed to data analysis. All four authors interpreted the results. Ackerly wrote most of the chapter.},
@@ -697,22 +760,22 @@ incollection{gilligan:2017:pathways,
   url          = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/},
   urldate      = {2016-07-06},
   volume       = {XLI-B2},
-  abstract     = {This project applies machine learning techniques to remotely sensed imagery 
-to train and validate predictive models of vegetation health in Bangladesh and 
-Sri Lanka. For both locations, we downloaded and processed eleven years of 
-imagery from multiple MODIS datasets which were combined and transformed 
-into two-dimensional matrices. We applied a gradient boosted machines model 
-to the lagged dataset values to forecast future values of the Enhanced Vegetation 
-Index (EVI). The predictive power of raw spectral data MODIS products were 
-compared across time periods and land use categories. Our models have 
-significantly more predictive power on held-out datasets than a baseline. 
-Though the tool was built to increase capacity to monitor vegetation health in 
-data scarce regions like South Asia, users may include ancillary spatiotemporal 
-datasets relevant to their region of interest to increase predictive power and to 
-facilitate interpretation of model results. The tool can automatically update 
-predictions as new MODIS data is made available by NASA. The tool is 
-particularly well-suited for decision makers interested in understanding and 
-predicting vegetation health dynamics in countries in which environmental 
+  abstract     = {This project applies machine learning techniques to remotely sensed imagery
+to train and validate predictive models of vegetation health in Bangladesh and
+Sri Lanka. For both locations, we downloaded and processed eleven years of
+imagery from multiple MODIS datasets which were combined and transformed
+into two-dimensional matrices. We applied a gradient boosted machines model
+to the lagged dataset values to forecast future values of the Enhanced Vegetation
+Index (EVI). The predictive power of raw spectral data MODIS products were
+compared across time periods and land use categories. Our models have
+significantly more predictive power on held-out datasets than a baseline.
+Though the tool was built to increase capacity to monitor vegetation health in
+data scarce regions like South Asia, users may include ancillary spatiotemporal
+datasets relevant to their region of interest to increase predictive power and to
+facilitate interpretation of model results. The tool can automatically update
+predictions as new MODIS data is made available by NASA. The tool is
+particularly well-suited for decision makers interested in understanding and
+predicting vegetation health dynamics in countries in which environmental
 data is scarce and cloud cover is a significant concern.},
   author+an    = {1=student;2=student;3=self;},
   credit       = {I proposed the idea for the research that led to this paper. My students, Burchfield and Nay, did all the work of putting the idea into practice and wrote all the computer code and performed all the analysis. The three of us wrote the paper together.},
@@ -763,21 +826,21 @@ well with the wet zone districts.},
   pages        = {807--827},
   pubstate     = {published},
   volume       = {31},
-  abstract     = {Although there are multiple causes of the water scarcity crisis in the American Southwest, 
-it can be used as a model of the long-term problem of freshwater shortages that climate 
-change will exacerbate. We examine the water-supply crisis for 22 cities in the extended 
-Southwest of the United States and develop a unique, new measure of water conservation 
-policies and programs. Convergent qualitative and quantitative analyses suggest that 
-political conflicts play an important role in the transition of water-supply regimes 
-toward higher levels of demandreduction policies and programs. Qualitative analysis 
-using institutional theory identifies the interaction of four types of motivating 
-logics---development, rural preservation, environmental, and urban consumer---and 
-shows how demand-reduction strategies can potentially satisfy all four. Quantitative 
-analysis of the explanatory factors for the variation in the adoption of demand-reduction 
-policies points to the overwhelming importance of political preferences as defined by 
-Cook's Partisan Voting Index. We suggest that approaches to water-supply choices are 
-influenced less by direct partisan disagreements than by broad preferences for a 
-development logic based on supplyincrease strategies and discomfort with 
+  abstract     = {Although there are multiple causes of the water scarcity crisis in the American Southwest,
+it can be used as a model of the long-term problem of freshwater shortages that climate
+change will exacerbate. We examine the water-supply crisis for 22 cities in the extended
+Southwest of the United States and develop a unique, new measure of water conservation
+policies and programs. Convergent qualitative and quantitative analyses suggest that
+political conflicts play an important role in the transition of water-supply regimes
+toward higher levels of demandreduction policies and programs. Qualitative analysis
+using institutional theory identifies the interaction of four types of motivating
+logics---development, rural preservation, environmental, and urban consumer---and
+shows how demand-reduction strategies can potentially satisfy all four. Quantitative
+analysis of the explanatory factors for the variation in the adoption of demand-reduction
+policies points to the overwhelming importance of political preferences as defined by
+Cook's Partisan Voting Index. We suggest that approaches to water-supply choices are
+influenced less by direct partisan disagreements than by broad preferences for a
+development logic based on supplyincrease strategies and discomfort with
 demand-reduction strategies that clash with conservative beliefs.},
   author+an    = {2=student;3=student;4=student;5=student;6=self;},
   booktitle    = {Sociological {Forum}},
@@ -834,14 +897,14 @@ demand-reduction strategies that clash with conservative beliefs.},
 in political economy and livelihoods in southwestern Bangladesh illustrate that in
 order to understand the impacts on people and nations of climate change-related
 environmental changes---changes that are expected to include rising sea level,
-saline inundation, and increased likelihood and intensity of cyclones in 
-Bangladesh---we need to understand the dynamics of the built and natural 
-environment and the political economies these sustain. Meso-level political 
-economies affect the sources of income and livelihood available in distressed 
-environmental conditions, and therefore influence how well the people in 
-them can adapt to changing environmental conditions. In this study we have 
-seen the underlying political economies whose dynamics, and not slow onset 
-environmental changes or disastrous environmental events, are pushing 
+saline inundation, and increased likelihood and intensity of cyclones in
+Bangladesh---we need to understand the dynamics of the built and natural
+environment and the political economies these sustain. Meso-level political
+economies affect the sources of income and livelihood available in distressed
+environmental conditions, and therefore influence how well the people in
+them can adapt to changing environmental conditions. In this study we have
+seen the underlying political economies whose dynamics, and not slow onset
+environmental changes or disastrous environmental events, are pushing
 Bangladeshis to incorporate migration strategies into their livelihood strategies.},
   author+an    = {2=student;3=self;},
   credit       = {The concept was developed equally by Ackerly and myself. I developed technological and software tools used to collect and organize the data. Ackerly designed the research. Ackerly and Anam conducted the research and data analysis. Ackerly did most of the writing. Ackerly, Anam, and I interpreted the results.},
