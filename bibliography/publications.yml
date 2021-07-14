@@ -22,7 +22,9 @@ references:
   container-title: Futures
   id: schenuit:2021:geoengineering
   issued:
-  - year: 2021
+  - day: 14
+    month: 7
+    year: 2021
   keyword: posttenure
   language: en-US
   status: in press
