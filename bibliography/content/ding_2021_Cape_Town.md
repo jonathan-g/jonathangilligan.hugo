@@ -12,16 +12,18 @@ author:
 - family: Hornberger
   given: G. M.
 container_title: Resources, Conservation and Recycling
-date: '2021-01-01'
+date: '2021-07-01'
 file:
 - desc: full text
   file: ding_2021_cape_town.pdf
 id: ding_2021_Cape_Town
 issued:
-- year: 2021
+- day: 1
+  month: 7
+  year: 2021
 page: '105573'
 pub_type: article-journal
-pubdate: '2021-01-01'
+pubdate: '2021-07-01'
 short_author:
 - family: Ding
   given: K.J.

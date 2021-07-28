@@ -129,7 +129,9 @@ references:
     file: ding_2021_cape_town.pdf
   id: ding:2021:Cape-Town
   issued:
-  - year: 2021
+  - day: 1
+    month: 7
+    year: 2021
   page: '105573'
   status: published
   title: 'Assessing food-energy-water resources management strategies at city scale:
