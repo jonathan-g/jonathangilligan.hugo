@@ -575,16 +575,18 @@ references:
   container-title: Risk Analysis
   file:
   - desc: full text
-    file: gilligan_2019_expertise.pdf
+    file: gilligan_2021_expertise.pdf
   id: gilligan:2019:collaboration
   issued:
-  - year: 2019
+  - year: 2021
   keyword: tenuretrack
-  status: advance
+  page: 1171-1177
+  status: published
   title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
     disaster research teams'
   title-short: Expertise across disciplines
   type: article-journal
+  volume: '41'
 - DOI: 10.1038/s41893-019-0354-7
   URL: https://rdcu.be/bOaoY
   abstract: Meat is an important source of greenhouse-gas emissions, but not enough

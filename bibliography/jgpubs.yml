@@ -525,12 +525,14 @@ references:
   - family: Gilligan
     given: Jonathan M.
   issued:
-  - year: 2019
+  - year: 2021
   title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
     disaster research teams'
   title-short: Expertise across disciplines
   container-title: Risk Analysis
-  status: advance
+  page: 1171-1177
+  volume: '41'
+  status: published
   abstract: 'Hazards and disasters arise from interactions between environmental and
     social processes so interdisciplinary research is crucial to understanding and
     effectively managing them. Despite support and encouragement from funding agencies,
