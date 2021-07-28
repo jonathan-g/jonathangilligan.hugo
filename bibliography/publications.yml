@@ -22,8 +22,8 @@ references:
   container-title: Futures
   id: schenuit:2021:geoengineering
   issued:
-  - day: 14
-    month: 7
+  - day: 31
+    month: 12
     year: 2021
   keyword: posttenure
   language: en-US
@@ -576,10 +576,12 @@ references:
   file:
   - desc: full text
     file: gilligan_2021_expertise.pdf
-  id: gilligan:2019:collaboration
+  id: gilligan:2021:collaboration
   issued:
-  - year: 2021
-  keyword: tenuretrack
+  - day: 28
+    month: 7
+    year: 2021
+  keyword: posttenure
   page: 1171-1177
   status: published
   title: 'Expertise across disciplines: Establishing common ground in interdisciplinary

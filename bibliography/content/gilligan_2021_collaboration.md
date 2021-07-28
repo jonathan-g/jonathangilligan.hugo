@@ -4,16 +4,18 @@ author:
 - family: Gilligan
   given: Jonathan M.
 container_title: Risk Analysis
-date: '2021-01-01'
+date: '2021-07-28'
 file:
 - desc: full text
   file: gilligan_2021_expertise.pdf
-id: gilligan_2019_collaboration
+id: gilligan_2021_collaboration
 issued:
-- year: 2021
+- day: 28
+  month: 7
+  year: 2021
 page: 1171-1177
 pub_type: article-journal
-pubdate: '2021-01-01'
+pubdate: '2021-07-28'
 short_author:
 - family: Gilligan
   given: J.M.
