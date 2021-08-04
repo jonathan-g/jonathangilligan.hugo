@@ -11,13 +11,15 @@ references:
     given: Anjali
   issued:
   - year: 2021
-    month: 12
-    day: 31
+    month: 8
+    day: 4
   title: 'A scenario of solar geoengineering governance: Vulnerable states demand,
     and act'
   title-short: A scenario of solar geoengineering governance
   container-title: Futures
-  status: in press
+  page: '102809'
+  volume: '132'
+  status: published
   abstract: The paper examines a scenario exercise concerning deployment of solar
     geoengineering by a small group of states that are particularly vulnerable to
     climate change. Two groups of participants were each asked to provide expert decision-making
@@ -34,8 +36,6 @@ references:
   language: en-US
 
 - id: best:2021:random.forest
-  other-ids:
-  - bestRandomForestAnalysis2021
   type: article-journal
   author:
   - family: Best
@@ -62,7 +62,7 @@ references:
     of migration in Bangladesh
   container-title: Journal of Computational Social Science
   container-title-short: J Comput Soc Sc
-  page: 77-100
+  page: '77-100'
   volume: '14'
   status: published
   abstract: The decision to migrate is complex and is often influenced by a combination
@@ -87,7 +87,7 @@ references:
   keyword: posttenure
   URL: https://doi.org/10.1007/s42001-020-00066-9
   DOI: 10.1007/s42001-020-00066-9
-  ISSN: 2432-2725
+  ISSN: '2432-2725'
   language: en-US
 
 - id: ding:2021:Cape-Town
@@ -98,7 +98,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   - family: Yang
-    given: Y. C. Ethan
+    given: Y.C. Ethan
   - family: Wolski
     given: Piotr
   - family: Hornberger
@@ -220,8 +220,8 @@ references:
   page: '16226'
   volume: '2'
   status: published
-  abstract: 'Modeling is essential to characterize and explore complex societal and
-    environmental issues in systematic and collaborative ways. Socio-environmental
+  abstract: 'Modeling is essential to characterize and explore complex societal
+    and environmental issues in systematic and collaborative ways. Socio-environmental
     systems (SES) modeling integrates knowledge and perspectives into conceptual and
     computational tools that explicitly recognize how human decisions affect the environment.
     Depending on the modeling purpose, many SES modelers also realize that involvement
@@ -282,7 +282,7 @@ references:
     governance, Private environmental governance, Private governance, posttenure
   URL: http://www.sciencedirect.com/science/article/pii/S2214629619310370
   DOI: 10.1016/j.erss.2019.101400
-  ISSN: 2214-6296
+  ISSN: '2214-6296'
   language: en-US
 
 - id: gilligan:2020:beyond.wickedness
@@ -299,7 +299,7 @@ references:
   title: 'Beyond wickedness: Managing complex systems and climate change'
   title-short: Beyond wickedness
   container-title: Vanderbilt Law Review
-  page: 1177-1810
+  page: '1177-1810'
   volume: '73'
   issue: '6'
   status: published
@@ -362,23 +362,23 @@ references:
   container-title: One Earth
   container-title-short: One Earth
   publisher: Elsevier
-  page: 325-336
+  page: '325-336'
   volume: '3'
   issue: '3'
   status: published
-  abstract: 'Limiting global warming to 2C or less compared with pre-industrial temperatures
-    will require unprecedented rates of decarbonization globally. The scale and scope
-    of transformational change required across sectors and actors in society raises
-    critical questions of feasibility. Much of the literature on mitigation pathways
-    addresses technological and economic aspects of feasibility, but overlooks the
-    behavioral, cultural, and social factors that affect theoretical and practical
-    mitigation pathways. We present a tripartite framework that “unpacks” the concept
-    of mitigation pathways by distinguishing three factors that together determine
-    actual mitigation: technical potential, initiative feasibility, and behavioral
-    plasticity. The framework aims to integrate and streamline heterogeneous disciplinary
-    research traditions toward a more comprehensive and transparent approach that
-    will facilitate learning across disciplines and enable mitigation pathways to
-    more fully reflect available knowledge. We offer three suggestions for integrating
+  abstract: 'Limiting global warming to 2°C or less compared with pre-industrial
+    temperatures will require unprecedented rates of decarbonization globally. The
+    scale and scope of transformational change required across sectors and actors
+    in society raises critical questions of feasibility. Much of the literature on
+    mitigation pathways addresses technological and economic aspects of feasibility,
+    but overlooks the behavioral, cultural, and social factors that affect theoretical
+    and practical mitigation pathways. We present a tripartite framework that “unpacks”
+    the concept of mitigation pathways by distinguishing three factors that together
+    determine actual mitigation: technical potential, initiative feasibility, and
+    behavioral plasticity. The framework aims to integrate and streamline heterogeneous
+    disciplinary research traditions toward a more comprehensive and transparent approach
+    that will facilitate learning across disciplines and enable mitigation pathways
+    to more fully reflect available knowledge. We offer three suggestions for integrating
     the tripartite framework into current research on climate change mitigation.'
   keyword: climate change mitigation,interdisciplinarity,practical feasibility, posttenure
   URL: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
@@ -399,7 +399,7 @@ references:
   title: 'Climate law and policy: Forks in the road'
   title-short: Climate law and policy
   container-title: Duke Environmental Law and Policy Forum
-  page: 163-173
+  page: '163-173'
   volume: '31'
   status: published
   abstract: This Essay provides a simple heuristic to enable public and private policymakers
@@ -441,7 +441,7 @@ references:
     day: 8
   title: The new revolving door
   container-title: Case Western Reserve Law Review
-  page: 1121-1149
+  page: '1121-1149'
   volume: '70'
   status: published
   abstract: 'This Article demonstrates that a new revolving door is emerging between
@@ -502,7 +502,7 @@ references:
   container-title: Proceedings of the 2019 winter simulation conference
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: 866-877
+  page: '866-877'
   status: published
   abstract: 'Deep connections between water resources and food and energy production—the
     food-energy-water (FEW) nexus—complicate the challenge of sustainably managing
@@ -534,13 +534,13 @@ references:
     disaster research teams'
   title-short: Expertise across disciplines
   container-title: Risk Analysis
-  page: 1171-1177
+  page: '1171-1177'
   volume: '41'
   status: published
-  abstract: 'Hazards and disasters arise from interactions between environmental and
-    social processes so interdisciplinary research is crucial to understanding and
-    effectively managing them. Despite support and encouragement from funding agencies,
-    universities, and journals and growing interest from researchers, interdisciplinary
+  abstract: 'Hazards and disasters arise from interactions between environmental
+    and social processes so interdisciplinary research is crucial to understanding
+    and effectively managing them. Despite support and encouragement from funding
+    agencies, universities, and journals and growing interest from researchers, interdisciplinary
     disaster research teams face significant obstacles, such as the difficulty of
     establishing effective communication and understanding across disciplines. Better
     understanding of interdisciplinary teamwork can also have important practical
@@ -575,7 +575,7 @@ references:
     day: 9
   title: Modelling diet choices
   container-title: Nature Sustainability
-  page: 661-662
+  page: '661-662'
   volume: '2'
   status: published
   note: Invited “News and Views” commentary.
@@ -597,7 +597,7 @@ references:
     day: 31
   title: Carrots and sticks in private climate governance
   container-title: Texas A&M Law Review
-  page: 179-198
+  page: '179-198'
   volume: '6'
   status: published
   abstract: When public governance fails to address important environmental threats—such
@@ -626,7 +626,7 @@ references:
   title: 'Climate modeling: Accounting for the human factor'
   title-short: Climate modeling
   container-title: Nature Climate Change
-  page: 14-15
+  page: '14-15'
   volume: '8'
   status: published
   note: Invited “News and Views” commentary.
@@ -658,7 +658,7 @@ references:
     day: 12
   title: Urban water conservation policies in the United States
   container-title: Earth’s Future
-  page: 955-967
+  page: '955-967'
   volume: '6'
   status: published
   abstract: Urban water supply systems in the United States are increasingly stressed
@@ -701,11 +701,11 @@ references:
   - year: 2018
     month: 8
     day: 7
-  title: 'Employee energy benefits: What are they and what effects do they have on
-    employees?'
+  title: 'Employee energy benefits: What are they and what effects do they have
+    on employees?'
   title-short: Employee energy benefits
   container-title: Energy Efficiency
-  page: 1065-1083
+  page: '1065-1083'
   volume: '12'
   issue: '5'
   status: published
@@ -746,7 +746,7 @@ references:
     day: 1
   title: A machine-learning approach to forecasting remotely sensed vegetation health
   container-title: International Journal of Remote Sensing
-  page: 1800-1816
+  page: '1800-1816'
   volume: '39'
   status: published
   abstract: 'Drought threatens food and water security around the world, and this
@@ -783,10 +783,11 @@ references:
     given: Michael P.
   issued:
   - year: 2018
-  title: 'Dialogue: Beyond politics: The private governance response to climate change'
+  title: 'Dialogue: Beyond politics: The private governance response to climate
+    change'
   title-short: Dialogue
   container-title: Environmental Law Reporter
-  page: 11049-11062
+  page: '11049-11062'
   volume: '48'
   status: published
   abstract: When the United States withdrew from the Paris Climate Agreement, 100
@@ -819,7 +820,7 @@ references:
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   container-title: George Washington Law Review
-  page: 1243-1315
+  page: '1243-1315'
   volume: '86'
   status: published
   abstract: Law is generally represented through text, and lawyers have for centuries
@@ -867,7 +868,7 @@ references:
   container-title: Climate change, migration, and human rights
   publisher: Routledge
   publisher-place: New York
-  page: 189-202
+  page: '189-202'
   status: published
   abstract: Climate change is a *global* problem. Food, water, health, housing, and
     life are basic *individual* human rights. However, *between* the global forces
@@ -899,7 +900,7 @@ references:
   - year: 2017
   title: Are cops on the science beat?
   container-title: Issues in Science and Technology
-  page: 6-8
+  page: '6-8'
   volume: '34'
   issue: 1, Fall
   status: published
@@ -937,7 +938,7 @@ references:
     of viable next steps, this book speaks to scholars, business and advocacy group
     managers, philanthropists, policymakers, and anyone interested in climate change.
   keyword: tenuretrack
-  ISBN: 978-1107181229
+  ISBN: '978-1107181229'
 
 - id: wilson:2017:infilling
   type: article-journal
@@ -1029,11 +1030,11 @@ references:
     Bangladesh'
   title-short: Drinking water insecurity
   container-title: International Journal of Environmental Health Research
-  page: 508-524
+  page: '508-524'
   volume: '26'
   status: published
-  note: 'Featured by Taylor & Francis publishers as part of their observance of World
-    Water Day 2017. T&F opened free access to the article and published an accompanying
+  note: ' Featured by Taylor & Francis publishers as part of their observance of
+    World Water Day 2017. T&F opened free access to the article and published an accompanying
     “Research Story” with background on the article: <https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>.'
   abstract: National drinking water assessments for Bangladesh do not reflect local
     variability, or temporal differences. This paper reports on the findings of an
@@ -1053,7 +1054,7 @@ references:
     as having a “bad” or “salty” taste.
   keyword: tenuretrack
   DOI: 10.1080/09603123.2016.1194383
-  ISSN: 0960-3123
+  ISSN: '0960-3123'
   PMID: '27277537'
 
 - id: burchfield:2016:abm
@@ -1082,7 +1083,7 @@ references:
   container-title: Proceedings of the 2016 winter simulation conference
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: 1678-1689
+  page: '1678-1689'
   status: published
   abstract: 'Drought and water scarcity are growing challenges to agriculture around
     the world. Farmers can adapt through both individual and community-based collective
@@ -1115,7 +1116,7 @@ references:
   title: Agricultural adaptation to drought in the Sri Lankan dry zone
   container-title: Applied Geography
   publisher: Elsevier
-  page: 92-100
+  page: '92-100'
   volume: '77'
   status: published
   abstract: Droughts affect more people than any other natural disaster. Drought severity
@@ -1157,7 +1158,7 @@ references:
   title: Application of machine learning to the prediction of vegetation health
   container-title: ISPRS—International Archives of the Photogrammetry, Remote Sensing
     and Spatial Information Sciences
-  page: 465-469
+  page: '465-469'
   volume: XLI-B2
   status: published
   abstract: This project applies machine learning techniques to remotely sensed imagery
@@ -1179,7 +1180,7 @@ references:
   keyword: tenuretrack
   URL: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
   DOI: 10.5194/isprs-archives-XLI-B2-465-2016
-  ISSN: 1682-1750
+  ISSN: '1682-1750'
 
 - id: gunda:2016:drought
   type: article-journal
@@ -1201,7 +1202,7 @@ references:
   title: 'Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881–2010'
   title-short: Spatiotemporal patterns of agricultural drought in Sri Lanka
   container-title: International Journal of Climatology
-  page: 563-575
+  page: '563-575'
   volume: '36'
   issue: '2'
   abstract: A spatiotemporal analysis of two well-known agricultural drought indices,
@@ -1220,7 +1221,7 @@ references:
     zone districts.
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets, tenuretrack
   DOI: 10.1002/joc.4365
-  ISSN: 1097-0088
+  ISSN: '1097-0088'
 
 - id: hess:2016:drought
   type: article-journal
@@ -1244,7 +1245,7 @@ references:
   title: Drought, risk, and institutional politics in the American Southwest
   container-title: Sociological Forum
   publisher: Wiley Online Library
-  page: 807-827
+  page: '807-827'
   volume: '31'
   status: published
   abstract: Although there are multiple causes of the water scarcity crisis in the
@@ -1300,7 +1301,7 @@ references:
   container-title: Proceedings of the 2016 winter simulation conference
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: 1666-1677
+  page: '1666-1677'
   status: published
   abstract: Despite much scientific evidence, a large fraction of the American public
     doubts that greenhouse gases are causing global warming. We present a simulation
@@ -1336,11 +1337,11 @@ references:
   issued:
   - year: 2015
   title: Environment, political economies, and livelihood change
-  container-title: 'Environment, migration and adaptation: Evidence and politics of
-    climate change in Bangladesh'
+  container-title: 'Environment, migration and adaptation: Evidence and politics
+    of climate change in Bangladesh'
   publisher: AH Development Publishing House
   publisher-place: Dhaka, Bangladesh
-  page: 27-39
+  page: '27-39'
   status: published
   abstract: Between the national and household factors, community or “meso-level”
     changes in political economy and livelihoods in southwestern Bangladesh illustrate
@@ -1389,7 +1390,7 @@ references:
     day: 3
   title: Reply to ‘Tidal river management in Bangladesh’
   container-title: Nature Climate Change
-  page: 492-493
+  page: '492-493'
   volume: '5'
   issue: '6'
   status: published
@@ -1427,7 +1428,7 @@ references:
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
     delta plain
   container-title: Nature Climate Change
-  page: 152-157
+  page: '152-157'
   volume: '5'
   issue: '2'
   status: published
@@ -1487,7 +1488,7 @@ references:
   container-title: Proceedings of the 2015 Winter Simulation Conference
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: 3174-3175
+  page: '3174-3175'
   status: published
   note: '00000'
   abstract: Flood-control measures, such as levees and floodwalls, can backfire and
@@ -1502,7 +1503,7 @@ references:
   keyword: tenuretrack
   URL: https://dl.acm.org/citation.cfm?id=2888619.2889027
   DOI: 10.1109/WSC.2015.7408456
-  ISBN: 978-1-4673-9741-4
+  ISBN: '978-1-4673-9741-4'
 
 - id: hornberger:2015:hydro.transitions
   type: article-journal
@@ -1521,7 +1522,7 @@ references:
     day: 12
   title: Water conservation and hydrological transitions in cities in the United States
   container-title: Water Resources Research
-  page: 4635-4649
+  page: '4635-4649'
   volume: '51'
   issue: '6'
   status: published
@@ -1544,7 +1545,7 @@ references:
   keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation,
     tenuretrack
   DOI: 10.1002/2015WR016943
-  ISSN: 1944-7973
+  ISSN: '1944-7973'
 
 - id: nay:2015:decision.models
   type: paper-conference
@@ -1576,7 +1577,7 @@ references:
   container-title: Proceedings of the 2015 winter simulation conference
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  page: 2752-2763
+  page: '2752-2763'
   status: published
   note: '00000'
   abstract: This article outlines a method for automatically generating models of
@@ -1594,7 +1595,7 @@ references:
   keyword: tenuretrack
   URL: https://dl.acm.org/citation.cfm?id=2888619.2888935
   DOI: 10.1109/WSC.2015.7408381
-  ISBN: 978-1-4673-9741-4
+  ISBN: '978-1-4673-9741-4'
 
 - id: vandenbergh:2015:beyond.gridlock
   type: article-journal
@@ -1607,7 +1608,7 @@ references:
   - year: 2015
   title: Beyond gridlock
   container-title: Columbia Journal of Environmental Law
-  page: 217-303
+  page: '217-303'
   volume: '40'
   issue: '2'
   status: published
@@ -1645,11 +1646,11 @@ references:
   - year: 2014
   title: Accounting for political feasibility in climate instrument choice
   container-title: Virginia Environmental Law Journal
-  page: 1-26
+  page: '1-26'
   volume: '32'
   status: published
-  abstract: 'This Essay argues for consideration of political opportunity costs in
-    the criteria used to evaluate climate policy instruments. Law and policy debates
+  abstract: 'This Essay argues for consideration of political opportunity costs
+    in the criteria used to evaluate climate policy instruments. Law and policy debates
     typically evaluate policy instruments by their expected performance after adoption,
     tacitly excluding consideration of the timing of adoption. Under this standard,
     a comprehensive carbon pricing instrument, either in the form of a cap and trade
@@ -1683,7 +1684,7 @@ references:
   title: 'Energy and climate change: A climate prediction market'
   title-short: Energy and climate change
   container-title: UCLA Law Review
-  page: 1962-2017
+  page: '1962-2017'
   volume: '61'
   status: published
   abstract: 'Much of energy policy is driven by concerns about climate change. Views
@@ -1728,11 +1729,11 @@ references:
   - year: 2013
     month: 2
     day: 22
-  title: 'Building resilience to environmental stress in coastal Bangladesh: An integrated
-    social, environmental, and engineering perspective'
+  title: 'Building resilience to environmental stress in coastal Bangladesh: An
+    integrated social, environmental, and engineering perspective'
   title-short: Building resilience to environmental stress in coastal Bangladesh
-  container-title: 'Bridging the policy-action divide: Challenges and prospects for
-    bangladesh'
+  container-title: 'Bridging the policy-action divide: Challenges and prospects
+    for bangladesh'
   publisher: Bangladesh Development Initiative
   publisher-place: Berkeley, CA
   status: published
@@ -1771,7 +1772,7 @@ references:
   collection-title: IAHS publ.
   publisher: Int’l. Assoc. Hydrolog. Sci.
   publisher-place: Gothenberg SE
-  page: 133-142
+  page: '133-142'
   volume: '358'
   status: published
   abstract: Deltas are dynamic landforms that have been the foci of agri- and aquacultural
@@ -1801,14 +1802,15 @@ references:
     given: Jonathan M.
   issued:
   - year: 2011
-  title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
+  title: 'Energy and climate change: Key lessons for implementing the behavioral
+    wedge'
   title-short: Energy and climate change
   container-title: Journal of Energy & Environmental Law
-  page: 61-67
+  page: '61-67'
   volume: '2'
   status: published
-  abstract: 'The individual and household sector accounts for roughly 40 percent of
-    United States energy use and carbon dioxide emissions, yet the laws and policies
+  abstract: 'The individual and household sector accounts for roughly 40 percent
+    of United States energy use and carbon dioxide emissions, yet the laws and policies
     directed at reductions from this sector often reflect a remarkably simplistic
     model of behavior. This Essay addresses one of the obstacles to achieving a “behavioral
     wedge”behavioral wedge of individual and household emissions reductions: the lack
@@ -1851,7 +1853,7 @@ references:
   title: 'Macro-risks: The challenge for rational risk regulation'
   title-short: Macro-risks
   container-title: Duke Environmental Law and Policy Forum
-  page: 401-431
+  page: '401-431'
   volume: '21'
   status: published
   URL: https://scholarship.law.duke.edu/delpf/vol21/iss2/8/
@@ -1931,10 +1933,10 @@ references:
   - year: 2010
   title: The behavioral wedge
   container-title: Significance
-  page: 17-20
+  page: '17-20'
   volume: '7'
   status: published
-  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   DOI: 10.1111/j.1740-9713.2010.00405.x
 
 - id: gilligan:2010:future.generations
@@ -1950,7 +1952,7 @@ references:
   title: People should behave ethically for the sake of future generations
   container-title: 'Opposing viewpoints: Ethics'
   publisher: Gale
-  page: 20-32
+  page: '20-32'
   volume: '2'
   status: published
 
@@ -1971,7 +1973,7 @@ references:
   - year: 2010
   title: Design principles for carbon emissions reduction programs
   container-title: Environmental Science & Technology
-  page: 4847-4848
+  page: '4847-4848'
   volume: '44'
   status: published
   DOI: 10.1021/es100896p
@@ -1995,11 +1997,11 @@ references:
     emissions reduction programs'
   title-short: Implementing the behavioral wedge
   container-title: Environmental Law Reporter
-  page: 547-554
+  page: '547-554'
   volume: '40'
   status: published
-  note: Selected by Environmental Law Institute to reprint as the featured cover story
-    of the 2010 summer reading issue for policymakers of Environmental Forum.
+  note: ' Selected by Environmental Law Institute to reprint as the featured cover
+    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
 
 - id: carrico:2009:costly.myths
   type: article-journal
@@ -2020,7 +2022,7 @@ references:
     vehicles'
   title-short: Costly myths
   container-title: Energy Policy
-  page: 2881-2888
+  page: '2881-2888'
   volume: '37'
   status: published
   DOI: 10.1016/j.enpol.2009.03.031
@@ -2043,7 +2045,7 @@ references:
   title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
     emissions
   container-title: PNAS
-  page: 18452-18456
+  page: '18452-18456'
   volume: '106'
   status: published
   DOI: 10.1073/pnas.0908738106
@@ -2068,10 +2070,10 @@ references:
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
     and metabolism
   container-title: Experimental Biology and Medicine
-  page: 1355-1372
+  page: '1355-1372'
   volume: '234'
   status: published
-  note: '*Selected by the editors as the feature article of the month.*'
+  note: ' *Selected by the editors as the feature article of the month.*'
 
 - id: vandenbergh:2008:low.hanging.fruit
   type: article-journal
@@ -2087,7 +2089,7 @@ references:
   title: 'Individual carbon emissions: The low-hanging fruit'
   title-short: Individual carbon emissions
   container-title: UCLA Law Review
-  page: 1701-1758
+  page: '1701-1758'
   volume: '55'
   status: published
 
@@ -2111,7 +2113,7 @@ references:
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
     bath
   container-title: Review of Scientific Instruments
-  page: 104302-104309
+  page: '104302-104309'
   volume: '78'
   status: published
 
@@ -2126,7 +2128,7 @@ references:
     risks'
   title-short: Flexibility, clarity, and legitimacy
   container-title: Environmental Law Reporter
-  page: 10924-10930
+  page: '10924-10930'
   volume: '36'
   issue: '12'
   status: published
@@ -2151,7 +2153,7 @@ references:
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
     due to free-electron laser radiation
   container-title: Journal of Biomedical Optics
-  page: 216-222
+  page: '216-222'
   volume: '8'
   issue: '2'
   status: published
@@ -2202,7 +2204,7 @@ references:
   - year: 2002
   title: Surface characterisation by near-field microscopy and atomic force microscopy
   container-title: Advances in Science and Technology
-  page: 183-192
+  page: '183-192'
   volume: '32'
   status: published
 
@@ -2230,7 +2232,7 @@ references:
   title: Defect transition energies and the density of electronic states in hydrogenated
     amorphous silicon
   container-title: Journal of Non-Crystalline Solids
-  page: 621-625
+  page: '621-625'
   volume: '299'
   status: published
 
@@ -2264,7 +2266,7 @@ references:
   title-short: Spectroscopic scanning near-field optical microscopy with a free electron
     laser
   container-title: Journal of Microscopy
-  page: 446-450
+  page: '446-450'
   volume: '202'
   status: published
   abstract: Hydrogen chemistry in thin films and biological systems is one of the
@@ -2306,7 +2308,7 @@ references:
   title: Infrared free-electron laser photoablation of diamond films
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   publisher: International Society for Optics; Photonics
-  page: 206-211
+  page: '206-211'
   status: published
 
 - id: lupke:2000:selective.modification
@@ -2332,7 +2334,7 @@ references:
     selective materials modification'
   title-short: Materials science at the WM Keck free electron laser
   container-title: Condensed Matter Theories
-  page: 349-364
+  page: '349-364'
   volume: '14'
   status: published
 
@@ -2386,7 +2388,7 @@ references:
   - year: 2000
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   container-title: Materials Letters
-  page: 339-344
+  page: '339-344'
   volume: '42'
   status: published
 
@@ -2414,7 +2416,7 @@ references:
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
     optical microscopy
   container-title: 'Physica Status Solidi A: Applied Research'
-  page: 345-349
+  page: '345-349'
   volume: '175'
   status: published
 
@@ -2448,7 +2450,7 @@ references:
   title: Interface applications of scanning near-field optical microscopy with a free
     electron laser
   container-title: 'Physica Status Solidi A: Applied Research'
-  page: 317-329
+  page: '317-329'
   volume: '175'
   status: published
 
@@ -2474,7 +2476,7 @@ references:
   title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
     in metals and semiconductors
   container-title: 'Soviet Physics: Technical Physics'
-  page: 1069-1072
+  page: '1069-1072'
   volume: '44'
   status: published
 
@@ -2507,7 +2509,7 @@ references:
   - year: 1999
   title: Singlemode chalcogenide fiber infrared SNOM probes
   container-title: Ultramicroscopy
-  page: 77-81
+  page: '77-81'
   volume: '77'
   status: published
 
@@ -2539,7 +2541,7 @@ references:
   title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
     infrared optical microscopy
   container-title: Optical Engineering
-  page: 1381-1385
+  page: '1381-1385'
   volume: '38'
   status: published
 
@@ -2564,7 +2566,7 @@ references:
     laser radiation
   container-title: International biomedical optics symposium
   publisher: SPIE
-  page: 122-129
+  page: '122-129'
   volume: '3601'
   status: published
 
@@ -2600,7 +2602,7 @@ references:
   title: First experimental results with the free electron laser coupled to a scanning
     near-field optical microscope
   container-title: 'Physica Status Solidi A: Applied Research'
-  page: 241-247
+  page: '241-247'
   volume: '170'
   status: published
 
@@ -2625,7 +2627,7 @@ references:
   - year: 1998
   title: Free-electron-laser near-field nanospectroscopy
   container-title: Applied Physics Letters
-  page: 151-153
+  page: '151-153'
   volume: '73'
   status: published
 
@@ -2652,7 +2654,7 @@ references:
   - year: 1998
   title: Infrared wavelength-selective photodesorption on diamond surfaces
   container-title: Applied Surface Science
-  page: 59-63
+  page: '59-63'
   volume: '129'
   status: published
 
@@ -2692,7 +2694,7 @@ references:
   title: Molecular effects in measured sputtering yields on gold at near threshold
     energies
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
-  page: 676-679
+  page: '676-679'
   volume: '62'
   status: published
 
@@ -2723,7 +2725,7 @@ references:
   - year: 1998
   title: Coupled electron-hole dynamics at the Si/SiO2 interface
   container-title: Physical Review Letters
-  page: 4224-4227
+  page: '4224-4227'
   volume: '81'
   status: published
 
@@ -2760,7 +2762,7 @@ references:
   - year: 1998
   title: New molecular collisional interaction effect in low-energy sputtering
   container-title: Physical Review Letters
-  page: 550-553
+  page: '550-553'
   volume: '81'
   status: published
 
@@ -2793,7 +2795,7 @@ references:
   - year: 1997
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
   container-title: Acta Physica Polonica A
-  page: 689-696
+  page: '689-696'
   volume: '91'
   status: published
 
@@ -2822,7 +2824,7 @@ references:
   - year: 1997
   title: Evaluation of source gas lifetimes from stratospheric observations
   container-title: 'Journal of Geophysical Research: Atmospheres'
-  page: 25543-25564
+  page: '25543-25564'
   volume: '102'
   status: published
 
@@ -2884,7 +2886,7 @@ references:
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
     in the upper troposphere and lower stratosphere
   container-title: Geophysical Research Letters
-  page: 347-350
+  page: '347-350'
   volume: '23'
   status: published
 
@@ -2919,7 +2921,7 @@ references:
   - year: 1996
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
   container-title: Science
-  page: 1763-1768
+  page: '1763-1768'
   volume: '272'
   status: published
 
@@ -2967,7 +2969,7 @@ references:
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
     from *in situ* measurements during <span class="smallcaps">aase ii</span>
   container-title: Journal of Geophysical Research
-  page: 3057-3064
+  page: '3057-3064'
   volume: '100'
   status: published
 
@@ -3019,7 +3021,7 @@ references:
   - year: 1993
   title: Young’s interference experiment with light scattered from two atoms
   container-title: Physical Review Letters
-  page: 2359-2362
+  page: '2359-2362'
   volume: '70'
   status: published
 
@@ -3044,7 +3046,7 @@ references:
   - year: 1993
   title: Interference in the resonance fluorescence of two trapped atoms
   container-title: Proceedings of the 11^th^ international conference on laser science
-  page: 43-48
+  page: '43-48'
   status: published
 
 - id: itano:1993:projection.noise
@@ -3067,7 +3069,7 @@ references:
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
   title-short: Quantum projection noise
   container-title: Physical Review A
-  page: 3554-3570
+  page: '3554-3570'
   volume: '47'
   status: published
 
@@ -3094,7 +3096,7 @@ references:
   - year: 1993
   title: Quantum measurements of trapped ions
   container-title: Vistas in Astronomy
-  page: 169-183
+  page: '169-183'
   status: published
 
 - id: itano:1993:spectroscopy
@@ -3120,7 +3122,7 @@ references:
   - year: 1993
   title: Ultra-high precision spectroscopy for fundamental physics
   container-title: Hyperfine Interactions
-  page: 211-220
+  page: '211-220'
   volume: '78'
   status: published
 
@@ -3145,7 +3147,7 @@ references:
   - year: 1993
   title: Light scattered from two atoms
   container-title: Proceedings of the 11^th^ international conference on laser science
-  page: 410-419
+  page: '410-419'
   status: published
 
 - id: shiner:1993:calibration
@@ -3164,7 +3166,7 @@ references:
   title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
     lines
   container-title: Physical Review A
-  page: 4042-4045
+  page: '4042-4045'
   volume: '47'
   status: published
 
@@ -3180,7 +3182,7 @@ references:
   title: Precise determinations of ionization potentials and $EF$ state energy levels
     of H$_2$, HD, and D$_2$
   container-title: Physical Review A
-  page: 3676-3690
+  page: '3676-3690'
   volume: '46'
   status: published
 
@@ -3201,7 +3203,7 @@ references:
   - year: 1992
   title: Ionic crystals in a linear Paul trap
   container-title: Physical Review A
-  page: 6493-6501
+  page: '6493-6501'
   volume: '45'
   status: published
 
@@ -3222,7 +3224,7 @@ references:
   - year: 1992
   title: Linear trap for high-accuracy spectroscopy of stored ions
   container-title: Journal of Modern Optics
-  page: 233-242
+  page: '233-242'
   volume: '39'
   status: published
 
@@ -3250,7 +3252,7 @@ references:
   title: High-resolution three-photon spectroscopy and multiphoton interference in
     molecular hydrogen
   container-title: Physical Review A
-  page: 6406-6409
+  page: '6406-6409'
   volume: '43'
   status: published
 
@@ -3282,7 +3284,7 @@ references:
   title: High-resolution spectroscopy of laser-cooled ions
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  page: 539-551
+  page: '539-551'
   status: published
 
 - id: wineland:1991:trapped.ions
@@ -3314,7 +3316,7 @@ references:
     and Technology
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
-  page: 553-567
+  page: '553-567'
   status: published
 
 - id: mccormack:1989:rydberg
@@ -3332,7 +3334,7 @@ references:
   - year: 1989
   title: Measurement of high Rydberg states and the ionization potential of H$_2$
   container-title: Physical Review A
-  page: 2260-2263
+  page: '2260-2263'
   volume: '39'
   status: published
 
@@ -3350,7 +3352,7 @@ references:
   title: Precise multiphoton spectroscopy of H2
   container-title: Advances in laser spectroscopy iii
   collection-title: AIP conference proceedings
-  page: 331-333
+  page: '331-333'
   volume: '172'
   status: published
 
@@ -3371,7 +3373,7 @@ references:
   - year: 1987
   title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
   container-title: Physical Review A
-  page: 3486-3489
+  page: '3486-3489'
   volume: '36'
   status: published
 
@@ -3387,7 +3389,7 @@ references:
   title: Precise multiphoton spectroscopy of excited states of H2
   container-title: Advances in laser spectroscopy ii
   collection-title: AIP conference proceedings
-  page: 388-390
+  page: '388-390'
   volume: '160'
   status: published
 
@@ -3406,7 +3408,7 @@ references:
   container-title: Proceedings of the xv international conference on quantum electronics
   collection-title: Technical digest series
   publisher: Optical Society of America
-  page: 58-60
+  page: '58-60'
   volume: '21'
   status: published
 ...

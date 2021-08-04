@@ -22,16 +22,18 @@ references:
   container-title: Futures
   id: schenuit:2021:geoengineering
   issued:
-  - day: 31
-    month: 12
+  - day: 4
+    month: 8
     year: 2021
   keyword: posttenure
   language: en-US
-  status: in press
+  page: '102809'
+  status: published
   title: 'A scenario of solar geoengineering governance: Vulnerable states demand,
     and act'
   title-short: A scenario of solar geoengineering governance
   type: article-journal
+  volume: '132'
 - DOI: 10.1007/s42001-020-00066-9
   ISSN: 2432-2725
   URL: https://doi.org/10.1007/s42001-020-00066-9
@@ -83,8 +85,6 @@ references:
   - year: 2021
   keyword: posttenure
   language: en-US
-  other-ids:
-  - bestRandomForestAnalysis2021
   page: 77-100
   status: published
   title: Random forest analysis of two household surveys can identify important predictors
@@ -118,7 +118,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   - family: Yang
-    given: Y. C. Ethan
+    given: Y.C. Ethan
   - family: Wolski
     given: Piotr
   - family: Hornberger
@@ -333,16 +333,16 @@ references:
   volume: '73'
 - DOI: 10.1016/j.oneear.2020.08.007
   URL: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
-  abstract: "Limiting global warming to 2C or less compared with pre-industrial temperatures\
-    \ will require unprecedented rates of decarbonization globally. The scale and\
-    \ scope of transformational change required across sectors and actors in society\
-    \ raises critical questions of feasibility. Much of the literature on mitigation\
-    \ pathways addresses technological and economic aspects of feasibility, but overlooks\
-    \ the behavioral, cultural, and social factors that affect theoretical and practical\
-    \ mitigation pathways. We present a tripartite framework that \u201Cunpacks\u201D\
-    \ the concept of mitigation pathways by distinguishing three factors that together\
-    \ determine actual mitigation: technical potential, initiative feasibility, and\
-    \ behavioral plasticity. The framework aims to integrate and streamline heterogeneous\
+  abstract: "Limiting global warming to 2\xB0C or less compared with pre-industrial\
+    \ temperatures will require unprecedented rates of decarbonization globally. The\
+    \ scale and scope of transformational change required across sectors and actors\
+    \ in society raises critical questions of feasibility. Much of the literature\
+    \ on mitigation pathways addresses technological and economic aspects of feasibility,\
+    \ but overlooks the behavioral, cultural, and social factors that affect theoretical\
+    \ and practical mitigation pathways. We present a tripartite framework that \u201C\
+    unpacks\u201D the concept of mitigation pathways by distinguishing three factors\
+    \ that together determine actual mitigation: technical potential, initiative feasibility,\
+    \ and behavioral plasticity. The framework aims to integrate and streamline heterogeneous\
     \ disciplinary research traditions toward a more comprehensive and transparent\
     \ approach that will facilitate learning across disciplines and enable mitigation\
     \ pathways to more fully reflect available knowledge. We offer three suggestions\
@@ -1100,7 +1100,7 @@ references:
   issued:
   - year: 2016
   keyword: tenuretrack
-  note: "Featured by Taylor & Francis publishers as part of their observance of World\
+  note: " Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>."
   page: 508-524
@@ -2036,7 +2036,7 @@ references:
   id: gilligan:2010:behavioral.wedge
   issued:
   - year: 2010
-  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   page: 17-20
   status: published
   title: The behavioral wedge
@@ -2103,8 +2103,8 @@ references:
   id: vandenbergh:2010:implementing
   issued:
   - year: 2010
-  note: Selected by Environmental Law Institute to reprint as the featured cover story
-    of the 2010 summer reading issue for policymakers of Environmental Forum.
+  note: ' Selected by Environmental Law Institute to reprint as the featured cover
+    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
   page: 547-554
   ssrn: '1617426'
   status: published
@@ -2186,7 +2186,7 @@ references:
   id: holcomb:2009:dual.camera
   issued:
   - year: 2009
-  note: '*Selected by the editors as the feature article of the month.*'
+  note: ' *Selected by the editors as the feature article of the month.*'
   page: 1355-1372
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology

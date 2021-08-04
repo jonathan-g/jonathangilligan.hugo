@@ -8,14 +8,15 @@ author:
 - family: Viswamohanan
   given: Anjali
 container_title: Futures
-date: '2021-12-31'
+date: '2021-08-04'
 id: schenuit_2021_geoengineering
 issued:
-- day: 31
-  month: 12
+- day: 4
+  month: 8
   year: 2021
+page: '102809'
 pub_type: article-journal
-pubdate: '2021-07-28'
+pubdate: '2021-08-04'
 short_author:
 - family: Schenuit
   given: F.
@@ -24,8 +25,9 @@ short_author:
 - family: Viswamohanan
   given: A.
 short_title: A scenario of solar geoengineering governance
-status: in press
+status: published
 title: 'A scenario of solar geoengineering governance: Vulnerable states demand, and
   act'
+volume: '132'
 ---
 The paper examines a scenario exercise concerning deployment of solar geoengineering by a small group of states that are particularly vulnerable to climate change. Two groups of participants were each asked to provide expert decision-making advice to an alliance comprising great powers, and to propose a political response to the deployment initiative. This paper discusses the initial governance proposals and examines differences and exchanges between the groups throughout the exercise. The two groups delivered distinct governance proposals. The differences, which were driven largely by divergent worldviews and assumptions about the geopolitical context, provide insights into the complexities of responses to the &#8220;free-driver&#8221; of solar geoengineering deployment, internal functioning and cohesion of coalitions, and interactions among multiple responses to climate change.

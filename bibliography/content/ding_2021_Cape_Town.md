@@ -6,7 +6,7 @@ author:
 - family: Gilligan
   given: Jonathan M.
 - family: Yang
-  given: Y. C. Ethan
+  given: Y.C. Ethan
 - family: Wolski
   given: Piotr
 - family: Hornberger
