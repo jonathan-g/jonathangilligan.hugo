@@ -9,6 +9,9 @@ author:
   given: Anjali
 container_title: Futures
 date: '2021-08-04'
+file:
+- desc: full text
+  file: schenuit_2021_geoengineering.pdf
 id: schenuit_2021_geoengineering
 issued:
 - day: 4

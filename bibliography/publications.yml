@@ -20,6 +20,9 @@ references:
   - family: Viswamohanan
     given: Anjali
   container-title: Futures
+  file:
+  - desc: full text
+    file: schenuit_2021_geoengineering.pdf
   id: schenuit:2021:geoengineering
   issued:
   - day: 4
