@@ -123,7 +123,6 @@ Click to download a high-resolution version. These may be used in media releases
   <li><i class="fa-li {{< fa_icon weight="s" icon="university" >}}"></i> <b>Office:</b> Room 5735, 7<sup style="font-size:70%;">th</sup> floor, Stevenson Center #5 (Science &amp; Engineering Building),<br/><a href="https://www.vanderbilt.edu/ees">Dep't of Earth &amp; Environmental Sciences</a>, <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, Nashville, TN, USA</li>
   <li><i class="fa-li {{< fa_icon weight="s" icon="phone" >}}"></i> 615.322.2420</li>
   <li><i class="fa-li {{< fa_icon weight="s" icon="envelope" >}}"></i> <a href="mailto:jonathan.gilligan@vanderbilt.edu">jonathan.gilligan@vanderbilt.edu</a></li>
-  <li><i class="fa-li {{< fa_icon weight="b" icon="skype" >}}"></i> jonathan_gilligan on Skype</li>
 </ul>
 
 
