@@ -1,42 +1,4 @@
 references:
-- DOI: 10.1016/j.futures.2021.102809
-  abstract: "The paper examines a scenario exercise concerning deployment of solar\
-    \ geoengineering by a small group of states that are particularly vulnerable to\
-    \ climate change. Two groups of participants were each asked to provide expert\
-    \ decision-making advice to an alliance comprising great powers, and to propose\
-    \ a political response to the deployment initiative. This paper discusses the\
-    \ initial governance proposals and examines differences and exchanges between\
-    \ the groups throughout the exercise. The two groups delivered distinct governance\
-    \ proposals. The differences, which were driven largely by divergent worldviews\
-    \ and assumptions about the geopolitical context, provide insights into the complexities\
-    \ of responses to the \u201Cfree-driver\u201D of solar geoengineering deployment,\
-    \ internal functioning and cohesion of coalitions, and interactions among multiple\
-    \ responses to climate change."
-  author:
-  - family: Schenuit
-    given: Felix
-  - family: Gilligan
-    given: Jonathan
-  - family: Viswamohanan
-    given: Anjali
-  container-title: Futures
-  file:
-  - desc: full text
-    file: schenuit_2021_geoengineering.pdf
-  id: schenuit:2021:geoengineering
-  issued:
-  - day: 4
-    month: 8
-    year: 2021
-  keyword: posttenure
-  language: en-US
-  page: '102809'
-  status: published
-  title: 'A scenario of solar geoengineering governance: Vulnerable states demand,
-    and act'
-  title-short: A scenario of solar geoengineering governance
-  type: article-journal
-  volume: '132'
 - DOI: 10.1007/s42001-020-00066-9
   ISSN: 2432-2725
   URL: https://doi.org/10.1007/s42001-020-00066-9
@@ -88,12 +50,51 @@ references:
   - year: 2021
   keyword: posttenure
   language: en-US
+  other-ids:
+  - bestRandomForestAnalysis2021
   page: 77-100
   status: published
   title: Random forest analysis of two household surveys can identify important predictors
     of migration in Bangladesh
   type: article-journal
   volume: '14'
+- abstract: Environmental change interacts with population migration in complex ways
+    that depend on interactions between impacts on individual households and on communities.
+    These coupled individual-collective dynamics make agent-based simulations useful
+    for studying environmental migration. We present an original agent-based model
+    that simulates environment-migration dynamics in terms of the impacts of natural
+    hazards on labor markets in rural communities, with households deciding whether
+    to migrate based on maximizing their expected income. We use a pattern-oriented
+    approach that seeks to reproduce observed patterns of environmentally-driven migration
+    in Bangladesh. The model is parameterized with empirical data and unknown parameters
+    are calibrated to reproduce the observed patterns. This model can reproduce these
+    patterns, but only for a narrow range of parameters. Future work will compare
+    income-maximizing decisions to psychologically complex decision heuristics that
+    include non-economic considerations.
+  author:
+  - family: Best
+    given: Kelsea B.
+  - family: Qu
+    given: Ao
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Proceedings of the 2021 winter simulation conference
+  file:
+  - desc: fulltext
+    file: best_2021_abm.pdf
+  id: best:2021:WSC
+  issued:
+  - day: 31
+    month: 12
+    year: 2021
+  keyword: posttenure
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  status: in press
+  title: 'Modeling multi-level patterns of environmental migration in bangladesh:
+    An agent-based approach'
+  title-short: Modeling multi-level patterns of environmental migration in bangladesh
+  type: paper-conference
 - DOI: 10.1016/j.resconrec.2021.105573
   abstract: "The impact of human activities and climate change occurs across a range\
     \ of spatial and temporal scales, and the city or regional scale is critical for\
@@ -121,7 +122,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   - family: Yang
-    given: Y.C. Ethan
+    given: Y. C. Ethan
   - family: Wolski
     given: Piotr
   - family: Hornberger
@@ -143,6 +144,153 @@ references:
     scale
   type: article-journal
   volume: '170'
+- DOI: 10.1111/risa.13407
+  abstract: 'Hazards and disasters arise from interactions between environmental and
+    social processes so interdisciplinary research is crucial to understanding and
+    effectively managing them. Despite support and encouragement from funding agencies,
+    universities, and journals and growing interest from researchers, interdisciplinary
+    disaster research teams face significant obstacles, such as the difficulty of
+    establishing effective communication and understanding across disciplines. Better
+    understanding of interdisciplinary teamwork can also have important practical
+    benefits for operational disaster planning and response.Social studies of science
+    distinguishes different kinds of expertise and different modes of communication.
+    Understanding these differences can help interdisciplinary research teams communicate
+    more clearly and work together more effectively. The primary role of a researcher
+    is in *contributory expertise*contributory expertise (the ability to make original
+    contributions to a discipline); but *interactional expertise*interactional expertise
+    in other disciplines (the ability to understand their literature and communicate
+    with their practitioners) can play an important role in interdisciplinary collaborations.
+    Developing interactional expertise requires considerable time and effort, which
+    can be challenging for a busy researcher, and also requires a foundation of trust
+    and communication among team members. Three distinct aspects of communication
+    play important roles in effective interdisciplinary communication: *dialects*dialects,
+    *metaphors*metaphors, and *articulation*articulation.There are different ways
+    to develop interactional expertise and effective communication, so researchers
+    can pursue approaches that suit their circumstances. It will be important for
+    future research on interdisciplinary disaster research to identify best practices
+    for building trust, facilitating communication, and developing interactional expertise.'
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Risk Analysis
+  file:
+  - desc: full text
+    file: gilligan_2021_expertise.pdf
+  id: gilligan:2021:collaboration
+  issued:
+  - day: 28
+    month: 7
+    year: 2021
+  keyword: posttenure
+  page: 1171-1177
+  status: published
+  title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
+    disaster research teams'
+  title-short: Expertise across disciplines
+  type: article-journal
+  volume: '41'
+- URL: https://par.nsf.gov/biblio/10249350-predicting-public-transportation-load-estimate-probability-social-distancing-violations
+  abstract: "Public transit agencies struggle to maintain transit accessibility with\
+    \ reduced resources, unreliable ridership data, reduced vehicle capacities due\
+    \ to social distancing, and reduced services due to driver unavailability. In\
+    \ collaboration with transit agencies from two large metropolitan areas in the\
+    \ USA, we are designing novel approaches for addressing the afore-mentioned challenges\
+    \ by collecting accurate real-time ridership data, providing guidance to commuters,\
+    \ and performing operational optimization for public transit. We estimate rider-ship\
+    \ data using historical automated passenger counting data, conditional on a set\
+    \ of relevant determinants. Accurate ridership forecasting is essential to optimize\
+    \ the public transit schedule, which is necessary to improve current fixed lines\
+    \ with on-demand transit. Also, passenger crowding has been a problem for public\
+    \ transportation since it deteriorates passengers\u2019 wellbeing and satisfaction.\
+    \ During the COVID-19 pandemic, passenger crowding has gained importance since\
+    \ it represents a risk for social distancing violations. Therefore, we are creating\
+    \ optimization models to ensure that social distancing norms can be adequately\
+    \ followed while ensuring that the total demand for transit is met. We will then\
+    \ use accurate forecasts for operational optimization that includes (a) proactive\
+    \ fixed-line schedule optimization based on predicted demand, (b) dispatch of\
+    \ on-demand micro-transit, prioritizing at-risk populations, and (c) allocation\
+    \ of vehicles to transit and cargo trips, considering exigent vehicle maintenance\
+    \ requirements (i.e., disinfection). Finally, this paper presents some initial\
+    \ results from our project regarding the estimation of ridership in public transit."
+  accessed:
+  - day: 26
+    month: 1
+    year: 2022
+  author:
+  - family: Martinez
+    given: Juan
+  - family: Mukhopadhyay
+    given: Ayan
+  - family: Ayman
+    given: Afiya
+  - family: Wilbur
+    given: Michael
+  - family: Pugliese
+    given: Philip
+  - family: Freudberg
+    given: Dan
+  - family: Gilligan
+    given: Jonathan
+  - family: Laszka
+    given: Aron
+  - family: Dubey
+    given: Abhishek
+  container-title: Proceedings of the workshop on ai for urban mobility at the 35th
+    aaai conference on artificial intelligence
+  file:
+  - desc: full text
+    file: martinez_2021_predicting_transit_load.pdf
+  id: martinez:2021:transit
+  issued:
+  - day: 8
+    month: 2
+    year: 2021
+  keyword: posttenure
+  language: en-US
+  other-ids:
+  - martinezPredictingPublicTransportation
+  status: in press
+  title: Predicting public transportation load to estimate the probability of social
+    distancing violations
+  type: paper-conference
+- DOI: 10.1016/j.futures.2021.102809
+  abstract: "The paper examines a scenario exercise concerning deployment of solar\
+    \ geoengineering by a small group of states that are particularly vulnerable to\
+    \ climate change. Two groups of participants were each asked to provide expert\
+    \ decision-making advice to an alliance comprising great powers, and to propose\
+    \ a political response to the deployment initiative. This paper discusses the\
+    \ initial governance proposals and examines differences and exchanges between\
+    \ the groups throughout the exercise. The two groups delivered distinct governance\
+    \ proposals. The differences, which were driven largely by divergent worldviews\
+    \ and assumptions about the geopolitical context, provide insights into the complexities\
+    \ of responses to the \u201Cfree-driver\u201D of solar geoengineering deployment,\
+    \ internal functioning and cohesion of coalitions, and interactions among multiple\
+    \ responses to climate change."
+  author:
+  - family: Schenuit
+    given: Felix
+  - family: Gilligan
+    given: Jonathan
+  - family: Viswamohanan
+    given: Anjali
+  container-title: Futures
+  file:
+  - desc: full text
+    file: schenuit_2021_geoengineering.pdf
+  id: schenuit:2021:geoengineering
+  issued:
+  - day: 4
+    month: 8
+    year: 2021
+  keyword: posttenure
+  language: en-US
+  page: '102809'
+  status: published
+  title: 'A scenario of solar geoengineering governance: Vulnerable states demand,
+    and act'
+  title-short: A scenario of solar geoengineering governance
+  type: article-journal
+  volume: '132'
 - DOI: 10.1016/j.gloenvcha.2020.102160
   abstract: Climate change interacts with social, economic, and political forces in
     ways that can shape demographic behavior. Yet, the link between environmental
@@ -336,16 +484,16 @@ references:
   volume: '73'
 - DOI: 10.1016/j.oneear.2020.08.007
   URL: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
-  abstract: "Limiting global warming to 2\xB0C or less compared with pre-industrial\
-    \ temperatures will require unprecedented rates of decarbonization globally. The\
-    \ scale and scope of transformational change required across sectors and actors\
-    \ in society raises critical questions of feasibility. Much of the literature\
-    \ on mitigation pathways addresses technological and economic aspects of feasibility,\
-    \ but overlooks the behavioral, cultural, and social factors that affect theoretical\
-    \ and practical mitigation pathways. We present a tripartite framework that \u201C\
-    unpacks\u201D the concept of mitigation pathways by distinguishing three factors\
-    \ that together determine actual mitigation: technical potential, initiative feasibility,\
-    \ and behavioral plasticity. The framework aims to integrate and streamline heterogeneous\
+  abstract: "Limiting global warming to 2C or less compared with pre-industrial temperatures\
+    \ will require unprecedented rates of decarbonization globally. The scale and\
+    \ scope of transformational change required across sectors and actors in society\
+    \ raises critical questions of feasibility. Much of the literature on mitigation\
+    \ pathways addresses technological and economic aspects of feasibility, but overlooks\
+    \ the behavioral, cultural, and social factors that affect theoretical and practical\
+    \ mitigation pathways. We present a tripartite framework that \u201Cunpacks\u201D\
+    \ the concept of mitigation pathways by distinguishing three factors that together\
+    \ determine actual mitigation: technical potential, initiative feasibility, and\
+    \ behavioral plasticity. The framework aims to integrate and streamline heterogeneous\
     \ disciplinary research traditions toward a more comprehensive and transparent\
     \ approach that will facilitate learning across disciplines and enable mitigation\
     \ pathways to more fully reflect available knowledge. We offer three suggestions\
@@ -549,51 +697,6 @@ references:
     \ management in Cape Town, South Africa"
   title-short: "Avoiding \u201Cday-zero\u201D"
   type: paper-conference
-- DOI: 10.1111/risa.13407
-  abstract: 'Hazards and disasters arise from interactions between environmental and
-    social processes so interdisciplinary research is crucial to understanding and
-    effectively managing them. Despite support and encouragement from funding agencies,
-    universities, and journals and growing interest from researchers, interdisciplinary
-    disaster research teams face significant obstacles, such as the difficulty of
-    establishing effective communication and understanding across disciplines. Better
-    understanding of interdisciplinary teamwork can also have important practical
-    benefits for operational disaster planning and response.Social studies of science
-    distinguishes different kinds of expertise and different modes of communication.
-    Understanding these differences can help interdisciplinary research teams communicate
-    more clearly and work together more effectively. The primary role of a researcher
-    is in *contributory expertise*contributory expertise (the ability to make original
-    contributions to a discipline); but *interactional expertise*interactional expertise
-    in other disciplines (the ability to understand their literature and communicate
-    with their practitioners) can play an important role in interdisciplinary collaborations.
-    Developing interactional expertise requires considerable time and effort, which
-    can be challenging for a busy researcher, and also requires a foundation of trust
-    and communication among team members. Three distinct aspects of communication
-    play important roles in effective interdisciplinary communication: *dialects*dialects,
-    *metaphors*metaphors, and *articulation*articulation.There are different ways
-    to develop interactional expertise and effective communication, so researchers
-    can pursue approaches that suit their circumstances. It will be important for
-    future research on interdisciplinary disaster research to identify best practices
-    for building trust, facilitating communication, and developing interactional expertise.'
-  author:
-  - family: Gilligan
-    given: Jonathan M.
-  container-title: Risk Analysis
-  file:
-  - desc: full text
-    file: gilligan_2021_expertise.pdf
-  id: gilligan:2021:collaboration
-  issued:
-  - day: 28
-    month: 7
-    year: 2021
-  keyword: posttenure
-  page: 1171-1177
-  status: published
-  title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
-    disaster research teams'
-  title-short: Expertise across disciplines
-  type: article-journal
-  volume: '41'
 - DOI: 10.1038/s41893-019-0354-7
   URL: https://rdcu.be/bOaoY
   abstract: Meat is an important source of greenhouse-gas emissions, but not enough
@@ -1103,7 +1206,7 @@ references:
   issued:
   - year: 2016
   keyword: tenuretrack
-  note: " Featured by Taylor & Francis publishers as part of their observance of World\
+  note: "Featured by Taylor & Francis publishers as part of their observance of World\
     \ Water Day 2017. T&F opened free access to the article and published an accompanying\
     \ \u201CResearch Story\u201D with background on the article: <https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>."
   page: 508-524
@@ -2039,7 +2142,7 @@ references:
   id: gilligan:2010:behavioral.wedge
   issued:
   - year: 2010
-  note: ' *Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
   page: 17-20
   status: published
   title: The behavioral wedge
@@ -2106,8 +2209,8 @@ references:
   id: vandenbergh:2010:implementing
   issued:
   - year: 2010
-  note: ' Selected by Environmental Law Institute to reprint as the featured cover
-    story of the 2010 summer reading issue for policymakers of Environmental Forum.'
+  note: Selected by Environmental Law Institute to reprint as the featured cover story
+    of the 2010 summer reading issue for policymakers of Environmental Forum.
   page: 547-554
   ssrn: '1617426'
   status: published
@@ -2189,7 +2292,7 @@ references:
   id: holcomb:2009:dual.camera
   issued:
   - year: 2009
-  note: ' *Selected by the editors as the feature article of the month.*'
+  note: '*Selected by the editors as the feature article of the month.*'
   page: 1355-1372
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
