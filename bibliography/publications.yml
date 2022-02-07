@@ -80,7 +80,7 @@ references:
     given: Jonathan M.
   container-title: Proceedings of the 2021 winter simulation conference
   file:
-  - desc: fulltext
+  - desc: full text
     file: best_2021_abm.pdf
   id: best:2021:WSC
   issued:

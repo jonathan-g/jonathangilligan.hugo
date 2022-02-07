@@ -9,7 +9,7 @@ author:
 container_title: Proceedings of the 2021 winter simulation conference
 date: '2021-12-31'
 file:
-- desc: fulltext
+- desc: full text
   file: best_2021_abm.pdf
 id: best_2021_WSC
 issued:
