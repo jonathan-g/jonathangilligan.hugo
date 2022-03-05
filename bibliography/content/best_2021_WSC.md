@@ -1,4 +1,5 @@
 ---
+DOI: 10.1109/WSC52266.2021.9715380
 author:
 - family: Best
   given: Kelsea B.
@@ -8,6 +9,21 @@ author:
   given: Jonathan M.
 container_title: Proceedings of the 2021 winter simulation conference
 date: '2021-12-31'
+editor:
+- family: Kim
+  given: S.
+- family: Feng
+  given: B.
+- family: Smith
+  given: K.
+- family: Masoud
+  given: S.
+- family: Zhang
+  given: Z.
+- family: Czabo
+  given: C.
+- family: Lopez
+  given: M.
 file:
 - desc: full text
   file: best_2021_abm.pdf
@@ -27,8 +43,23 @@ short_author:
   given: A.
 - family: Gilligan
   given: J.M.
+short_editor:
+- family: Kim
+  given: S.
+- family: Feng
+  given: B.
+- family: Smith
+  given: K.
+- family: Masoud
+  given: S.
+- family: Zhang
+  given: Z.
+- family: Czabo
+  given: C.
+- family: Lopez
+  given: M.
 short_title: Modeling multi-level patterns of environmental migration in bangladesh
-status: in press
+status: published
 title: 'Modeling multi-level patterns of environmental migration in bangladesh: An
   agent-based approach'
 ---

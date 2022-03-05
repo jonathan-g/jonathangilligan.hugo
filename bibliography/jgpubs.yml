@@ -66,6 +66,21 @@ references:
     given: Ao
   - family: Gilligan
     given: Jonathan M.
+  editor:
+  - family: Kim
+    given: S.
+  - family: Feng
+    given: B.
+  - family: Smith
+    given: K.
+  - family: Masoud
+    given: S.
+  - family: Zhang
+    given: Z.
+  - family: Czabo
+    given: C.
+  - family: Lopez
+    given: M.
   issued:
   - year: 2021
     month: 12
@@ -76,7 +91,7 @@ references:
   container-title: Proceedings of the 2021 winter simulation conference
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  status: in press
+  status: published
   abstract: Environmental change interacts with population migration in complex ways
     that depend on interactions between impacts on individual households and on communities.
     These coupled individual-collective dynamics make agent-based simulations useful
@@ -91,6 +106,7 @@ references:
     income-maximizing decisions to psychologically complex decision heuristics that
     include non-economic considerations.
   keyword: posttenure
+  DOI: 10.1109/WSC52266.2021.9715380
 
 - id: ding:2021:Cape-Town
   type: article-journal

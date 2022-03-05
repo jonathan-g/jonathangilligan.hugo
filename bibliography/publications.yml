@@ -58,7 +58,8 @@ references:
     of migration in Bangladesh
   type: article-journal
   volume: '14'
-- abstract: Environmental change interacts with population migration in complex ways
+- DOI: 10.1109/WSC52266.2021.9715380
+  abstract: Environmental change interacts with population migration in complex ways
     that depend on interactions between impacts on individual households and on communities.
     These coupled individual-collective dynamics make agent-based simulations useful
     for studying environmental migration. We present an original agent-based model
@@ -79,6 +80,21 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Proceedings of the 2021 winter simulation conference
+  editor:
+  - family: Kim
+    given: S.
+  - family: Feng
+    given: B.
+  - family: Smith
+    given: K.
+  - family: Masoud
+    given: S.
+  - family: Zhang
+    given: Z.
+  - family: Czabo
+    given: C.
+  - family: Lopez
+    given: M.
   file:
   - desc: full text
     file: best_2021_abm.pdf
@@ -90,7 +106,7 @@ references:
   keyword: posttenure
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
-  status: in press
+  status: published
   title: 'Modeling multi-level patterns of environmental migration in bangladesh:
     An agent-based approach'
   title-short: Modeling multi-level patterns of environmental migration in bangladesh
