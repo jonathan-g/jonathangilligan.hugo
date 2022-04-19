@@ -23,7 +23,7 @@ author:
 container_title: Nonresonant laser-matter interaction (nlmi-10)
 date: '2001-01-01'
 file:
-- desc: ''
+- desc: full text
   file: sturmann_2001_photoablation.pdf
 id: sturmann_2001_fel
 issued:

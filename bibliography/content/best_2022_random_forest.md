@@ -16,7 +16,7 @@ author:
 container_title: Regional Enviroonmental Change
 date: '2022-03-25'
 file:
-- desc: fulltext
+- desc: full text
   file: best_2022_applying_machine_learning_to.pdf
 id: best_2022_random_forest
 issued:

@@ -38,7 +38,7 @@ references:
     given: Bishawjit
   container-title: Regional Enviroonmental Change
   file:
-  - desc: fulltext
+  - desc: full text
     file: best_2022_applying_machine_learning_to.pdf
   id: best:2022:random.forest
   issued:
@@ -2205,8 +2205,6 @@ references:
     given: Michael
   container-title: Significance
   file:
-  - desc: ''
-    file: Gilligan_2010_Behavioral_Wedge.pdf
   - desc: full text
     file: gilligan_2010_behavioral_wedge.pdf
   id: gilligan:2010:behavioral.wedge
@@ -2606,7 +2604,7 @@ references:
     given: Norman H.
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   file:
-  - desc: ''
+  - desc: full text
     file: sturmann_2001_photoablation.pdf
   id: sturmann:2001:fel
   issued:
@@ -3120,8 +3118,6 @@ references:
     given: G.
   container-title: Acta Physica Polonica A
   file:
-  - desc: ''
-    file: _________________.pdf
   - desc: full text
     file: sturmann_1997_photoexcitation.pdf
   id: sturmann:1997:fel

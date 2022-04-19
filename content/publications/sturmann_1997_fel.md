@@ -25,8 +25,6 @@ author:
 container_title: Acta Physica Polonica A
 date: '1997-01-01'
 file:
-- desc: ''
-  file: _________________.pdf
 - desc: full text
   file: sturmann_1997_photoexcitation.pdf
 id: sturmann_1997_fel
