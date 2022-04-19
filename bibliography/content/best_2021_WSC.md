@@ -58,9 +58,9 @@ short_editor:
   given: C.
 - family: Lopez
   given: M.
-short_title: Modeling multi-level patterns of environmental migration in bangladesh
+short_title: Modeling multi-level patterns of environmental migration in Bangladesh
 status: published
-title: 'Modeling multi-level patterns of environmental migration in bangladesh: An
+title: 'Modeling multi-level patterns of environmental migration in Bangladesh: An
   agent-based approach'
 ---
 Environmental change interacts with population migration in complex ways that depend on interactions between impacts on individual households and on communities. These coupled individual-collective dynamics make agent-based simulations useful for studying environmental migration. We present an original agent-based model that simulates environment-migration dynamics in terms of the impacts of natural hazards on labor markets in rural communities, with households deciding whether to migrate based on maximizing their expected income. We use a pattern-oriented approach that seeks to reproduce observed patterns of environmentally-driven migration in Bangladesh. The model is parameterized with empirical data and unknown parameters are calibrated to reproduce the observed patterns. This model can reproduce these patterns, but only for a narrow range of parameters. Future work will compare income-maximizing decisions to psychologically complex decision heuristics that include non-economic considerations.
