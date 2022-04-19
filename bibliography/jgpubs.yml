@@ -1,5 +1,57 @@
 ---
 references:
+- id: best:2022:random.forest
+  type: article-journal
+  author:
+  - family: Best
+    given: Kelsea
+  - family: Gilligan
+    given: Jonathan
+  - family: Baroud
+    given: Hiba
+  - family: Carrico
+    given: Amanda
+  - family: Donato
+    given: Katharine
+  - family: Mallick
+    given: Bishawjit
+  issued:
+  - year: 2022
+    month: 3
+    day: 25
+  title: 'Applying machine learning to social datasets: A study of migration in southwestern
+    bangladesh using random forests'
+  title-short: Applying machine learning to social datasets
+  container-title: Regional Enviroonmental Change
+  page: '52'
+  volume: '22'
+  status: published
+  abstract: As researchers collect large amounts of data in the social sciences through
+    household surveys, challenges may arise in how best to analyze such datasets,
+    especially where motivating theories are unclear or conflicting. New analytical
+    methods may be necessary to extract information from these datasets. Machine learning
+    techniques are promising methods for identifying patterns in large datasets, but
+    have not yet been widely used to identify important variables in social surveys
+    with many questions. To demonstrate the potential of machine learning to analyze
+    large social datasets, we apply machine learning techniques to the study of migration
+    in Bangladesh. The complexity of migration decisions makes them suitable for analysis
+    with machine learning techniques, which enable pattern identification in large
+    datasets with many covariates. In this paper, we apply random forest methods to
+    analyzing a large survey which captures approximately 2000 variables from approximately
+    1700 households in southwestern Bangladesh. Our analysis ranked the covariates
+    in the dataset in terms of their predictive power for migration decisions. The
+    results identified the most important covariates, but there exists a tradeoff
+    between predictive ability and interpretability. To address this tradeoff, random
+    forests and other machine learning algorithms may be especially useful in combination
+    with more traditional regression methods. To develop insights into how the important
+    variables identified by the random forest algorithm impact migration, we performed
+    a survival analysis of household time to first migration. With this combined analysis,
+    we found that variables related to wealth and household composition are important
+    predictors of migration. Such multi-methods approaches may help to shed light
+    on factors contributing to migration and non-migration.
+  keyword: posttenure
+  DOI: 10.1007/s10113-022-01915-1
+
 - id: best:2021:random.forest
   other-ids:
   - bestRandomForestAnalysis2021

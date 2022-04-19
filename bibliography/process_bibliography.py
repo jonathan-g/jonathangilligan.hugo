@@ -185,19 +185,23 @@ def gen_items(bib):
         #     if (tk in header_items.keys()):
         #         header_items[tk] = re.sub('\\^([^\\^]+)\\^', '<sup>\\1</sup>', header_items[tk])
         header_items['id'] = key
-        dd = header_items['issued'][0]
-        y = int(dd['year'])
-        m = 1
-        d = 1
-        if 'month' in dd.keys():
-            m = int(dd['month'])
-        if 'day' in dd.keys():
-            d = int(dd['day'])
-        header_items['date'] = ("%04d-%02d-%02d" % (y, m, d))
-        d = datetime.datetime.strptime(header_items['date'], "%Y-%m-%d").date()
-        if (d > datetime.date.today()):
-            d = datetime.date.today()
-        header_items['pubdate'] = d.isoformat()
+        if ('issued' in header_items.keys()):
+          dd = header_items['issued'][0]
+          y = int(dd['year'])
+          m = 1
+          d = 1
+          if 'month' in dd.keys():
+              m = int(dd['month'])
+          if 'day' in dd.keys():
+              d = int(dd['day'])
+          header_items['date'] = ("%04d-%02d-%02d" % (y, m, d))
+          d = datetime.datetime.strptime(header_items['date'], "%Y-%m-%d").date()
+          if (d > datetime.date.today()):
+              d = datetime.date.today()
+          header_items['pubdate'] = d.isoformat()
+        else :
+          print("No issued date for ", header_items['id'])
+          continue
         if 'URL' in item.keys():
             header_items['pub_url'] = item['URL']
         if 'preprint' in item.keys():
