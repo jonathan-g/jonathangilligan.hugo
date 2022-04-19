@@ -19,7 +19,7 @@ keyword: Climate change, Climate policy, Greenhouse gas mitigation, Private clim
   governance, Private environmental governance, Private governance
 page: '101400'
 pub_type: article-journal
-pub_url: http://www.sciencedirect.com/science/article/pii/S2214629619310370
+pub_url: https://www.sciencedirect.com/science/article/pii/S2214629619310370
 pubdate: '2020-02-01'
 short_author:
 - family: Gilligan

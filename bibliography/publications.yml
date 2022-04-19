@@ -474,7 +474,7 @@ references:
   volume: '2'
 - DOI: 10.1016/j.erss.2019.101400
   ISSN: 2214-6296
-  URL: http://www.sciencedirect.com/science/article/pii/S2214629619310370
+  URL: https://www.sciencedirect.com/science/article/pii/S2214629619310370
   abstract: The growing sense of urgency by the public for action to address climate
     change stands in stark contrast to the slow pace and limited accomplishments of
     national and international institutions to reduce greenhouse gas emissions. Political
@@ -1116,7 +1116,7 @@ references:
     of climate change'
   title-short: Climate and community
   type: chapter
-- URL: http://issues.org/34-1/forum-36/
+- URL: https://issues.org/34-1/forum-36/
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -1853,7 +1853,7 @@ references:
   title: Data-driven dynamic decision models
   type: paper-conference
 - DOI: 10.2139/ssrn.2533643
-  URL: http://www.columbiaenvironmentallaw.org/beyond-gridlock/
+  URL: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
   abstract: "This Article examines how private governance can bypass government gridlock\
     \ on climate change and buy time for a national and international carbon price.\
     \ A carbon price\u2014whether in the form of a carbon tax or a cap-and-trade program\u2014\

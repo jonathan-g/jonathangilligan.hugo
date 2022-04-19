@@ -18,7 +18,7 @@ note: '**<span class="smallcaps">Note:</span>** This paper won the 2017 Morrison
   for the highest-impact paper on sustainability law and policy in 2015'
 page: 217-303
 pub_type: article-journal
-pub_url: http://www.columbiaenvironmentallaw.org/beyond-gridlock/
+pub_url: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
 pubdate: '2015-01-01'
 short_author:
 - family: Vandenbergh
