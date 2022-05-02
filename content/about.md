@@ -9,17 +9,15 @@ title: "About me"
 
 The following bio may be used in media releases without further permission.
 
-> Jonathan Gilligan is Associate Professor of 
-> [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees)
+> Jonathan Gilligan is 
+> [The Alexander Heard Distinguished Service Professor](https://www.vanderbilt.edu/faculty-affairs/faculty-development/faculty-awards/vu-internal-awards/alexander-heard-distinguished-professor-award/),
+> Associate Professor of 
+> [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees),
 > and Associate Professor of 
 > [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
 > at [Vanderbilt University](https://www.vanderbilt.edu/).
 > He is director of Vanderbilt's interdisciplinary Grand Challenge 
-> Initiative on Climate and Society 
-> and a member of the 
-> [Vanderbilt Institute for Energy and Environment](https://www.vanderbilt.edu/viee/),
-> the [Vanderbilt Initiative on Smart-City Operations Research](https://www.vanderbilt.edu/visor),
-> and the [Computational Thinking and Learning Initiative](https://www.vanderbilt.edu/ctli).
+> Initiative on Climate and Society.
 >
 > Gilligan received his BA in Physics, with a minor in Philosophy from 
 > [Swarthmore College ](https://www.swarthmore.edu/)
