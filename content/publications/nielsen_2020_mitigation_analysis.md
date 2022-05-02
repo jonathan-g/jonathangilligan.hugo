@@ -33,15 +33,14 @@ file:
 - desc: full text
   file: nielsen_2020_improving_climate_change.pdf
 id: nielsen_2020_mitigation_analysis
-issue: '3'
+issue: 3
 issued:
-- day: 18
+  day: 18
   month: 9
   year: 2020
 keyword: climate change mitigation,interdisciplinarity,practical feasibility
 page: 325-336
 pub_type: article-journal
-pub_url: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
 pubdate: '2020-09-18'
 publisher: Elsevier
 short_author:
@@ -74,6 +73,6 @@ short_author:
 short_title: Improving climate change mitigation analysis
 status: published
 title: 'Improving climate change mitigation analysis: A framework for examining feasibility'
-volume: '3'
+volume: 3
 ---
-Limiting global warming to 2C or less compared with pre-industrial temperatures will require unprecedented rates of decarbonization globally. The scale and scope of transformational change required across sectors and actors in society raises critical questions of feasibility. Much of the literature on mitigation pathways addresses technological and economic aspects of feasibility, but overlooks the behavioral, cultural, and social factors that affect theoretical and practical mitigation pathways. We present a tripartite framework that &#8220;unpacks&#8221; the concept of mitigation pathways by distinguishing three factors that together determine actual mitigation: technical potential, initiative feasibility, and behavioral plasticity. The framework aims to integrate and streamline heterogeneous disciplinary research traditions toward a more comprehensive and transparent approach that will facilitate learning across disciplines and enable mitigation pathways to more fully reflect available knowledge. We offer three suggestions for integrating the tripartite framework into current research on climate change mitigation.
+Limiting global warming to 2`\degree `{=latex}C or less compared with pre-industrial temperatures will require unprecedented rates of decarbonization globally. The scale and scope of transformational change required across sectors and actors in society raises critical questions of feasibility. Much of the literature on mitigation pathways addresses technological and economic aspects of feasibility, but overlooks the behavioral, cultural, and social factors that affect theoretical and practical mitigation pathways. We present a tripartite framework that &quot;unpacks&quot; the concept of mitigation pathways by distinguishing three factors that together determine actual mitigation: technical potential, initiative feasibility, and behavioral plasticity. The framework aims to integrate and streamline heterogeneous disciplinary research traditions toward a more comprehensive and transparent approach that will facilitate learning across disciplines and enable mitigation pathways to more fully reflect available knowledge. We offer three suggestions for integrating the tripartite framework into current research on climate change mitigation.

@@ -18,7 +18,7 @@ file:
   file: carrico_2009_costly_myths.pdf
 id: carrico_2009_costly_myths
 issued:
-- year: 2009
+  year: 2009
 page: 2881-2888
 pub_type: article-journal
 pubdate: '2009-01-01'
@@ -37,5 +37,5 @@ short_title: Costly myths
 status: published
 title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
   vehicles'
-volume: '37'
+volume: 37
 ---

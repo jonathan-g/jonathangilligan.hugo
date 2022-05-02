@@ -21,7 +21,7 @@ file:
   file: eichmann_1993_two_slit.pdf
 id: eichmann_1993_two_slit_a
 issued:
-- year: 1993
+  year: 1993
 page: 2359-2362
 pub_type: article-journal
 pubdate: '1993-01-01'
@@ -41,6 +41,6 @@ short_author:
 - family: Raizen
   given: M.G.
 status: published
-title: "Young\u2019s interference experiment with light scattered from two atoms"
-volume: '70'
+title: Young's interference experiment with light scattered from two atoms
+volume: 70
 ---

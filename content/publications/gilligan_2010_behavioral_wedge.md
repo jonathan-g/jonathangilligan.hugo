@@ -18,8 +18,9 @@ file:
   file: gilligan_2010_behavioral_wedge.pdf
 id: gilligan_2010_behavioral_wedge
 issued:
-- year: 2010
-note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  year: 2010
+note: '`\Note{}`{=latex} *Invited paper, subsequently named one of the best papers
+  of 2009 by Significance.*'
 page: 17-20
 pub_type: article-journal
 pubdate: '2010-01-01'
@@ -36,5 +37,5 @@ short_author:
   given: M.
 status: published
 title: The behavioral wedge
-volume: '7'
+volume: 7
 ---

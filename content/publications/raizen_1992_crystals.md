@@ -17,7 +17,7 @@ file:
   file: raizen_1992_ionic_crystals.pdf
 id: raizen_1992_crystals
 issued:
-- year: 1992
+  year: 1992
 page: 6493-6501
 pub_type: article-journal
 pubdate: '1992-01-01'
@@ -34,5 +34,5 @@ short_author:
   given: D.J.
 status: published
 title: Ionic crystals in a linear Paul trap
-volume: '45'
+volume: 45
 ---

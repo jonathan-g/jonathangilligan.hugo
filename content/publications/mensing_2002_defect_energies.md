@@ -20,7 +20,7 @@ container_title: Journal of Non-Crystalline Solids
 date: '2002-01-01'
 id: mensing_2002_defect_energies
 issued:
-- year: 2002
+  year: 2002
 page: 621-625
 pub_type: article-journal
 pubdate: '2002-01-01'
@@ -44,5 +44,5 @@ short_author:
 status: published
 title: Defect transition energies and the density of electronic states in hydrogenated
   amorphous silicon
-volume: '299'
+volume: 299
 ---

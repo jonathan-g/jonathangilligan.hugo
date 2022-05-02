@@ -21,7 +21,7 @@ file:
   file: itano_1993_two_atoms.pdf
 id: itano_1993_two_slit
 issued:
-- year: 1993
+  year: 1993
 page: 410-419
 pub_type: paper-conference
 pubdate: '1993-01-01'

@@ -24,12 +24,11 @@ author:
 container_title: Nature Climate Change
 date: '2015-01-01'
 id: auerbach_2015_polder_reply
-issue: '6'
+issue: 6
 issued:
-- year: 2015
+  year: 2015
 page: 492-493
 pub_type: article-journal
-pub_url: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
 pubdate: '2015-01-01'
 short_author:
 - family: Auerbach
@@ -53,6 +52,6 @@ short_author:
 - family: Ackerly
   given: B.A.
 status: published
-title: "Reply to \u2018Tidal river management in Bangladesh\u2019"
-volume: '5'
+title: Reply to 'Tidal river management in Bangladesh'
+volume: 5
 ---

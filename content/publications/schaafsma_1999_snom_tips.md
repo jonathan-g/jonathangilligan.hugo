@@ -27,7 +27,7 @@ file:
   file: schaafsma_1999_ir_snom_tips.pdf
 id: schaafsma_1999_snom_tips
 issued:
-- year: 1999
+  year: 1999
 page: 1381-1385
 pub_type: article-journal
 pubdate: '1999-01-01'
@@ -55,5 +55,5 @@ short_author:
 status: published
 title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
   infrared optical microscopy
-volume: '38'
+volume: 38
 ---

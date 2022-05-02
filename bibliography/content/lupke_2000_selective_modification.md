@@ -18,7 +18,7 @@ container_title: Condensed Matter Theories
 date: '2000-01-01'
 id: lupke_2000_selective_modification
 issued:
-- year: 2000
+  year: 2000
 page: 349-364
 pub_type: article-journal
 pubdate: '2000-01-01'
@@ -41,5 +41,5 @@ short_title: Materials science at the WM Keck free electron laser
 status: published
 title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
   selective materials modification'
-volume: '14'
+volume: 14
 ---

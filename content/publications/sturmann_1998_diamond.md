@@ -23,7 +23,7 @@ file:
   file: sturmann_1998_diamond.pdf
 id: sturmann_1998_diamond
 issued:
-- year: 1998
+  year: 1998
 page: 59-63
 pub_type: article-journal
 pubdate: '1998-01-01'
@@ -46,5 +46,5 @@ short_author:
   given: N.H.
 status: published
 title: Infrared wavelength-selective photodesorption on diamond surfaces
-volume: '129'
+volume: 129
 ---

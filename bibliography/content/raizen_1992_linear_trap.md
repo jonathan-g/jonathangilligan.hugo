@@ -17,7 +17,7 @@ file:
   file: raizen_1992_linear_trap.pdf
 id: raizen_1992_linear_trap
 issued:
-- year: 1992
+  year: 1992
 page: 233-242
 pub_type: article-journal
 pubdate: '1992-01-01'
@@ -34,5 +34,5 @@ short_author:
   given: D.J.
 status: published
 title: Linear trap for high-accuracy spectroscopy of stored ions
-volume: '39'
+volume: 39
 ---

@@ -16,6 +16,7 @@ import html
 import yaml
 # import string
 import datetime
+from dateutil.parser import parse as duparse
 import pybtex.database as ptd
 
 def fix_files(path):
@@ -72,7 +73,14 @@ def preprocess(infile, outfile):
     modified.close()
 
 def call_citeproc(source, target):
-    os.system('pandoc-citeproc -y ' + source + ' > ' + target)
+    os.system('pandoc ' + source + ' -s -f biblatex -t markdown > ' + target)
+    f = open(target, 'rt')
+    lines = f.readlines()
+    lines = [l for l in lines if l != '---\n']
+    f.close()
+    f = open(target, 'wt')
+    f.writelines(lines)
+    f.close()
 
 file_expr = re.compile('^(?P<desc>[^:]*):(?P<path>[^:]+)[\\\\/](?P<file>[^:/\\\\]+):(?P<type>[^:;]*)$')
 
@@ -166,6 +174,8 @@ def gen_items(bib):
         os.mkdir('content')
     for item in bib:
         key = clean_expr.sub('_', item['id'])
+        if 'doi' in item.keys():
+          item['DOI'] = item.pop('doi')
         if 'title-short' in item.keys():
             item['short_title'] = item['title-short']
         if 'container-title' in item.keys():
@@ -186,14 +196,28 @@ def gen_items(bib):
         #         header_items[tk] = re.sub('\\^([^\\^]+)\\^', '<sup>\\1</sup>', header_items[tk])
         header_items['id'] = key
         if ('issued' in header_items.keys()):
-          dd = header_items['issued'][0]
+          issued = header_items['issued']
+          if isinstance(issued, str):
+            dt = duparse(issued)
+            dd = { 'year': dt.year, 'month': dt.month, 'day': dt.day}
+            print("dd = ", dd)
+          elif isinstance(issued, tuple) or isinstance(issued, list):
+            dd = header_items['issued'][0]
+          elif isinstance(issued, datetime.date):
+            dd = {'year': issued.year, 'month': issued.month, 'day': issued.day}
+          elif isinstance(issued, int):
+            dd = {'year': issued}
+          else:
+            print("issued: type = ", type(issued), ", value = ", issued)
+            exit(1)
+          header_items['issued'] = dd
           y = int(dd['year'])
           m = 1
           d = 1
           if 'month' in dd.keys():
               m = int(dd['month'])
           if 'day' in dd.keys():
-              d = int(dd['day'])
+            d = int(dd['day'])
           header_items['date'] = ("%04d-%02d-%02d" % (y, m, d))
           d = datetime.datetime.strptime(header_items['date'], "%Y-%m-%d").date()
           if (d > datetime.date.today()):
@@ -258,37 +282,41 @@ def move_pdf_files(src = 'pdfs', dest = '../static/files/pubs/pdfs'):
 def decode_version(s):
     def next_version(ss):
         m = re.search('(?P<major>\\d+)(?P<minor>(\\.\\d+)*)$', ss)
-        return [m.groupdict()['major'], m.groupdict()['minor']]
+        if (m):
+          return [m.groupdict()['major'], m.groupdict()['minor']]
+        else:
+          print("Could not parse version ", ss)
     version = []
     minor = s
     while(len(minor) > 0):
         major, minor = next_version(minor)
         version.append(int(major))
+    print("Version = ", version)
     return version
 
 def pandoc_version_check():
-    version_check = subprocess.run(['pandoc-citeproc', '--version'],
+    version_check = subprocess.run(['pandoc', '--version'],
                                    stdout = subprocess.PIPE, stderr = subprocess.PIPE)
     if (version_check.returncode != 0):
-        sys.stderr.writelines(['Error running pandoc-citeproc:',
+        sys.stderr.writelines(['Error running pandoc:',
                                version_check.stderr.strip().decode('utf-8')])
         return None
-    version = decode_version(version_check.stdout.strip().decode('utf-8'))
-    return (version[0] > 0 or version[1] >= 11)
+    version_str = version_check.stdout.decode('utf-8').split('\n')[0].strip()
+    version = decode_version(version_str)
+    return (version[0] >= 2 and (version[0] > 2 or version[1] >= 18))
 
 def main():
     source = sys.argv[1]
     version_ok = pandoc_version_check()
     if version_ok is None:
-        sys.stderr.write("Error: Could not find pandoc-citeproc. Try instlling pandoc.")
+        sys.stderr.write("Error: Could not find pandoc. Try instlling pandoc.")
         return(1)
     if version_ok:
         print("Skipping pre-processing step")
         intermediate = source
     else:
-        print("Preprocessing BibTeX file")
-        intermediate = os.path.splitext(source)[0] + "_an" + ".bib"
-        preprocess(source, intermediate)
+      sys.stderr.write("Error: you need to update Pandoc to version 2.18 or higher.")
+      return(1)
     bib = gen_refs(intermediate)
     gen_items(bib['references'])
     move_md_files()

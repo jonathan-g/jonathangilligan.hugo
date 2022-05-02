@@ -13,7 +13,7 @@ file:
   file: vandenbergh_2008_low_hanging_fruit.pdf
 id: vandenbergh_2008_low_hanging_fruit
 issued:
-- year: 2008
+  year: 2008
 page: 1701-1758
 pub_type: article-journal
 pubdate: '2008-01-01'
@@ -29,5 +29,5 @@ ssrn: '1161143'
 ssrn_id: '1161143'
 status: published
 title: 'Individual carbon emissions: The low-hanging fruit'
-volume: '55'
+volume: 55
 ---

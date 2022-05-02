@@ -29,7 +29,7 @@ file:
   file: schaafsma_1999_single_mode_tips.pdf
 id: schaafsma_1999_snom_probe
 issued:
-- year: 1999
+  year: 1999
 page: 77-81
 pub_type: article-journal
 pubdate: '1999-01-01'
@@ -58,5 +58,5 @@ short_author:
   given: G.
 status: published
 title: Singlemode chalcogenide fiber infrared SNOM probes
-volume: '77'
+volume: 77
 ---

@@ -25,7 +25,7 @@ author:
 date: '2010-04-27'
 id: baudenbacher_2010_patent_metabolic
 issued:
-- day: 27
+  day: 27
   month: 4
   year: 2010
 number: 7,704,745 B2

@@ -17,9 +17,10 @@ file:
   file: vandenbergh_2010_implementing_behavioral_wedge.pdf
 id: vandenbergh_2010_implementing
 issued:
-- year: 2010
-note: Selected by Environmental Law Institute to reprint as the featured cover story
-  of the 2010 summer reading issue for policymakers of Environmental Forum.
+  year: 2010
+note: '`\Note{}`{=latex} Selected by Environmental Law Institute to reprint as the
+  featured cover story of the 2010 summer reading issue for policymakers of Environmental
+  Forum.'
 page: 547-554
 pub_type: article-journal
 pubdate: '2010-01-01'
@@ -40,5 +41,5 @@ ssrn_id: '1617426'
 status: published
 title: 'Implementing the behavioral wedge: Designing and adopting effective carbon
   emissions reduction programs'
-volume: '40'
+volume: 40
 ---

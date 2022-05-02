@@ -32,7 +32,7 @@ container_title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
 date: '1998-01-01'
 id: tolk_1998_molecular_sputtering
 issued:
-- year: 1998
+  year: 1998
 page: 676-679
 pub_type: article-journal
 pubdate: '1998-01-01'
@@ -67,5 +67,5 @@ short_author:
   given: W.
 status: published
 title: Molecular effects in measured sputtering yields on gold at near threshold energies
-volume: '62'
+volume: 62
 ---

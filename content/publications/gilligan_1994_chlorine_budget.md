@@ -20,7 +20,7 @@ container_title: Atmospheric effects of aviation project workshop
 date: '1994-01-01'
 id: gilligan_1994_chlorine_budget
 issued:
-- year: 1994
+  year: 1994
 pub_type: paper-conference
 pubdate: '1994-01-01'
 short_author:
@@ -43,5 +43,5 @@ short_author:
 status: published
 title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
   with a new *in situ* instrument, airborne chromatograph for atmospheric trace species
-  (<span class="smallcaps">acats-iv</span>)
+  ([acats-iv]{.smallcaps})
 ---

@@ -20,14 +20,14 @@ author:
   given: Wolfgang
 - family: Tolk
   given: Norman H.
-container_title: Nonresonant laser-matter interaction (nlmi-10)
+container_title: Nonresonant laser-matter interaction (NLMI-10)
 date: '2001-01-01'
 file:
 - desc: full text
   file: sturmann_2001_photoablation.pdf
 id: sturmann_2001_fel
 issued:
-- year: 2001
+  year: 2001
 page: 206-211
 pub_type: paper-conference
 pubdate: '2001-01-01'

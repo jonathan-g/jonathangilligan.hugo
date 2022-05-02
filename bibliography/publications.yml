@@ -1,6 +1,6 @@
+nocite: '[@*]'
 references:
-- DOI: 10.1007/s10113-022-01915-1
-  abstract: As researchers collect large amounts of data in the social sciences through
+- abstract: As researchers collect large amounts of data in the social sciences through
     household surveys, challenges may arise in how best to analyze such datasets,
     especially where motivating theories are unclear or conflicting. New analytical
     methods may be necessary to extract information from these datasets. Machine learning
@@ -36,27 +36,22 @@ references:
     given: Katharine
   - family: Mallick
     given: Bishawjit
-  container-title: Regional Enviroonmental Change
+  container-title: Regional Environmental Change
+  doi: 10.1007/s10113-022-01915-1
   file:
   - desc: full text
     file: best_2022_applying_machine_learning_to.pdf
   id: best:2022:random.forest
-  issued:
-  - day: 25
-    month: 3
-    year: 2022
+  issued: 2022-03-25
   keyword: posttenure
-  page: '52'
+  page: 52
   status: published
   title: 'Applying machine learning to social datasets: A study of migration in southwestern
     Bangladesh using random forests'
   title-short: Applying machine learning to social datasets
   type: article-journal
-  volume: '22'
-- DOI: 10.1007/s42001-020-00066-9
-  ISSN: 2432-2725
-  URL: https://doi.org/10.1007/s42001-020-00066-9
-  abstract: The decision to migrate is complex and is often influenced by a combination
+  volume: 22
+- abstract: The decision to migrate is complex and is often influenced by a combination
     of economic, social, political, and environmental pressures. Household survey
     instruments can capture detailed information about migration histories and their
     contexts, but it can be challenging to identify important predictors from large
@@ -75,10 +70,7 @@ references:
     and identifying patterns in complex social datasets. Future work should continue
     to explore the potential of machine learning techniques applied to questions of
     environmental migration.
-  accessed:
-  - day: 1
-    month: 5
-    year: 2021
+  accessed: 2021-05-01
   author:
   - family: Best
     given: Kelsea B.
@@ -96,24 +88,24 @@ references:
     given: Bishawjit
   container-title: Journal of Computational Social Science
   container-title-short: J Comput Soc Sc
+  doi: 10.1007/s42001-020-00066-9
   file:
   - desc: full text
     file: best_2021_random_forest.pdf
   id: best:2021:random.forest
-  issued:
-  - year: 2021
+  issn: 2432-2725
+  issued: 2021
   keyword: posttenure
   language: en-US
-  other-ids:
-  - bestRandomForestAnalysis2021
+  other-ids: bestRandomForestAnalysis2021
   page: 77-100
   status: published
   title: Random forest analysis of two household surveys can identify important predictors
     of migration in Bangladesh
   type: article-journal
-  volume: '14'
-- DOI: 10.1109/WSC52266.2021.9715380
-  abstract: Environmental change interacts with population migration in complex ways
+  url: https://doi.org/10.1007/s42001-020-00066-9
+  volume: 14
+- abstract: Environmental change interacts with population migration in complex ways
     that depend on interactions between impacts on individual households and on communities.
     These coupled individual-collective dynamics make agent-based simulations useful
     for studying environmental migration. We present an original agent-based model
@@ -134,6 +126,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Proceedings of the 2021 winter simulation conference
+  doi: 10.1109/WSC52266.2021.9715380
   editor:
   - family: Kim
     given: S.
@@ -153,10 +146,7 @@ references:
   - desc: full text
     file: best_2021_abm.pdf
   id: best:2021:WSC
-  issued:
-  - day: 31
-    month: 12
-    year: 2021
+  issued: 2021-12-31
   keyword: posttenure
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -165,27 +155,26 @@ references:
     An agent-based approach'
   title-short: Modeling multi-level patterns of environmental migration in Bangladesh
   type: paper-conference
-- DOI: 10.1016/j.resconrec.2021.105573
-  abstract: "The impact of human activities and climate change occurs across a range\
-    \ of spatial and temporal scales, and the city or regional scale is critical for\
-    \ managing food-energy-water (FEW) resources. We develop a coupled human-natural\
-    \ system model for Cape Town, South Africa, which consists of an agent-based model\
-    \ and a regional hydrologic model, to study the FEW nexus connecting the agricultural,\
-    \ urban, and hydroelectric generation sectors. We use the model to compare three\
-    \ policies\u2014a simple adaptive approach, adaptation with free water to indigent\
-    \ households, and water supply augmentation\u2014and assess their ability to provide\
-    \ reliable FEW services to the different stakeholders under four different climate\
-    \ scenarios, representing moderate to severe amounts of warming. Our results indicate\
-    \ that Cape Town is likely to face increasing water stress as temperatures rise,\
-    \ and that adaptation strategies could effectively mitigate the effects of water\
-    \ limitations and avoid severe failures in providing FEW services across sectors.\
-    \ One way to manage demand for FEW services is by adjusting water price tariffs,\
-    \ but high prices create inequality in access to water for households with different\
-    \ incomes. Our analysis suggests that the water supply system in Cape Town may\
-    \ already be at, if not over, its sustainable capacity within the FEW nexus. Our\
-    \ model serves as a test-bed for assessing policies to manage stresses on water\
-    \ resources for the benefit of stakeholders across FEW sectors. This model can\
-    \ be adapted to cities and regions around the globe."
+- abstract: The impact of human activities and climate change occurs across a range
+    of spatial and temporal scales, and the city or regional scale is critical for
+    managing food-energy-water (FEW) resources. We develop a coupled human-natural
+    system model for Cape Town, South Africa, which consists of an agent-based model
+    and a regional hydrologic model, to study the FEW nexus connecting the agricultural,
+    urban, and hydroelectric generation sectors. We use the model to compare three
+    policies---a simple adaptive approach, adaptation with free water to indigent
+    households, and water supply augmentation---and assess their ability to provide
+    reliable FEW services to the different stakeholders under four different climate
+    scenarios, representing moderate to severe amounts of warming. Our results indicate
+    that Cape Town is likely to face increasing water stress as temperatures rise,
+    and that adaptation strategies could effectively mitigate the effects of water
+    limitations and avoid severe failures in providing FEW services across sectors.
+    One way to manage demand for FEW services is by adjusting water price tariffs,
+    but high prices create inequality in access to water for households with different
+    incomes. Our analysis suggests that the water supply system in Cape Town may already
+    be at, if not over, its sustainable capacity within the FEW nexus. Our model serves
+    as a test-bed for assessing policies to manage stresses on water resources for
+    the benefit of stakeholders across FEW sectors. This model can be adapted to cities
+    and regions around the globe.
   author:
   - family: Ding
     given: Ke Jack
@@ -198,24 +187,21 @@ references:
   - family: Hornberger
     given: G. M.
   container-title: Resources, Conservation and Recycling
+  doi: 10.1016/j.resconrec.2021.105573
   file:
   - desc: full text
     file: ding_2021_cape_town.pdf
   id: ding:2021:Cape-Town
-  issued:
-  - day: 1
-    month: 7
-    year: 2021
-  page: '105573'
+  issued: 2021-07-01
+  page: 105573
   status: published
   title: 'Assessing food-energy-water resources management strategies at city scale:
     An agent-based modeling approach for Cape Town, South Africa'
   title-short: Assessing food-energy-water resources management strategies at city
     scale
   type: article-journal
-  volume: '170'
-- DOI: 10.1111/risa.13407
-  abstract: 'Hazards and disasters arise from interactions between environmental and
+  volume: 170
+- abstract: 'Hazards and disasters arise from interactions between environmental and
     social processes so interdisciplinary research is crucial to understanding and
     effectively managing them. Despite support and encouragement from funding agencies,
     universities, and journals and growing interest from researchers, interdisciplinary
@@ -243,14 +229,12 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Risk Analysis
+  doi: 10.1111/risa.13407
   file:
   - desc: full text
     file: gilligan_2021_expertise.pdf
   id: gilligan:2021:collaboration
-  issued:
-  - day: 28
-    month: 7
-    year: 2021
+  issued: 2021-07-28
   keyword: posttenure
   page: 1171-1177
   status: published
@@ -258,34 +242,30 @@ references:
     disaster research teams'
   title-short: Expertise across disciplines
   type: article-journal
-  volume: '41'
-- URL: https://par.nsf.gov/biblio/10249350-predicting-public-transportation-load-estimate-probability-social-distancing-violations
-  abstract: "Public transit agencies struggle to maintain transit accessibility with\
-    \ reduced resources, unreliable ridership data, reduced vehicle capacities due\
-    \ to social distancing, and reduced services due to driver unavailability. In\
-    \ collaboration with transit agencies from two large metropolitan areas in the\
-    \ USA, we are designing novel approaches for addressing the afore-mentioned challenges\
-    \ by collecting accurate real-time ridership data, providing guidance to commuters,\
-    \ and performing operational optimization for public transit. We estimate rider-ship\
-    \ data using historical automated passenger counting data, conditional on a set\
-    \ of relevant determinants. Accurate ridership forecasting is essential to optimize\
-    \ the public transit schedule, which is necessary to improve current fixed lines\
-    \ with on-demand transit. Also, passenger crowding has been a problem for public\
-    \ transportation since it deteriorates passengers\u2019 wellbeing and satisfaction.\
-    \ During the COVID-19 pandemic, passenger crowding has gained importance since\
-    \ it represents a risk for social distancing violations. Therefore, we are creating\
-    \ optimization models to ensure that social distancing norms can be adequately\
-    \ followed while ensuring that the total demand for transit is met. We will then\
-    \ use accurate forecasts for operational optimization that includes (a) proactive\
-    \ fixed-line schedule optimization based on predicted demand, (b) dispatch of\
-    \ on-demand micro-transit, prioritizing at-risk populations, and (c) allocation\
-    \ of vehicles to transit and cargo trips, considering exigent vehicle maintenance\
-    \ requirements (i.e., disinfection). Finally, this paper presents some initial\
-    \ results from our project regarding the estimation of ridership in public transit."
-  accessed:
-  - day: 26
-    month: 1
-    year: 2022
+  volume: 41
+- abstract: Public transit agencies struggle to maintain transit accessibility with
+    reduced resources, unreliable ridership data, reduced vehicle capacities due to
+    social distancing, and reduced services due to driver unavailability. In collaboration
+    with transit agencies from two large metropolitan areas in the USA, we are designing
+    novel approaches for addressing the afore-mentioned challenges by collecting accurate
+    real-time ridership data, providing guidance to commuters, and performing operational
+    optimization for public transit. We estimate rider-ship data using historical
+    automated passenger counting data, conditional on a set of relevant determinants.
+    Accurate ridership forecasting is essential to optimize the public transit schedule,
+    which is necessary to improve current fixed lines with on-demand transit. Also,
+    passenger crowding has been a problem for public transportation since it deteriorates
+    passengers' wellbeing and satisfaction. During the COVID-19 pandemic, passenger
+    crowding has gained importance since it represents a risk for social distancing
+    violations. Therefore, we are creating optimization models to ensure that social
+    distancing norms can be adequately followed while ensuring that the total demand
+    for transit is met. We will then use accurate forecasts for operational optimization
+    that includes (a) proactive fixed-line schedule optimization based on predicted
+    demand, (b) dispatch of on-demand micro-transit, prioritizing at-risk populations,
+    and (c) allocation of vehicles to transit and cargo trips, considering exigent
+    vehicle maintenance requirements (i.e., disinfection). Finally, this paper presents
+    some initial results from our project regarding the estimation of ridership in
+    public transit.
+  accessed: 2022-01-26
   author:
   - family: Martinez
     given: Juan
@@ -305,37 +285,32 @@ references:
     given: Aron
   - family: Dubey
     given: Abhishek
-  container-title: Proceedings of the workshop on ai for urban mobility at the 35th
-    aaai conference on artificial intelligence
+  container-title: Proceedings of the workshop on AI for urban mobility at the 35th
+    AAAI conference on artificial intelligence
   file:
   - desc: full text
     file: martinez_2021_predicting_transit_load.pdf
   id: martinez:2021:transit
-  issued:
-  - day: 8
-    month: 2
-    year: 2021
+  issued: 2021-02-08
   keyword: posttenure
   language: en-US
-  other-ids:
-  - martinezPredictingPublicTransportation
+  other-ids: martinezPredictingPublicTransportation
   status: in press
   title: Predicting public transportation load to estimate the probability of social
     distancing violations
   type: paper-conference
-- DOI: 10.1016/j.futures.2021.102809
-  abstract: "The paper examines a scenario exercise concerning deployment of solar\
-    \ geoengineering by a small group of states that are particularly vulnerable to\
-    \ climate change. Two groups of participants were each asked to provide expert\
-    \ decision-making advice to an alliance comprising great powers, and to propose\
-    \ a political response to the deployment initiative. This paper discusses the\
-    \ initial governance proposals and examines differences and exchanges between\
-    \ the groups throughout the exercise. The two groups delivered distinct governance\
-    \ proposals. The differences, which were driven largely by divergent worldviews\
-    \ and assumptions about the geopolitical context, provide insights into the complexities\
-    \ of responses to the \u201Cfree-driver\u201D of solar geoengineering deployment,\
-    \ internal functioning and cohesion of coalitions, and interactions among multiple\
-    \ responses to climate change."
+  url: https://par.nsf.gov/biblio/10249350-predicting-public-transportation-load-estimate-probability-social-distancing-violations
+- abstract: The paper examines a scenario exercise concerning deployment of solar
+    geoengineering by a small group of states that are particularly vulnerable to
+    climate change. Two groups of participants were each asked to provide expert decision-making
+    advice to an alliance comprising great powers, and to propose a political response
+    to the deployment initiative. This paper discusses the initial governance proposals
+    and examines differences and exchanges between the groups throughout the exercise.
+    The two groups delivered distinct governance proposals. The differences, which
+    were driven largely by divergent worldviews and assumptions about the geopolitical
+    context, provide insights into the complexities of responses to the "free-driver"
+    of solar geoengineering deployment, internal functioning and cohesion of coalitions,
+    and interactions among multiple responses to climate change.
   author:
   - family: Schenuit
     given: Felix
@@ -344,25 +319,22 @@ references:
   - family: Viswamohanan
     given: Anjali
   container-title: Futures
+  doi: 10.1016/j.futures.2021.102809
   file:
   - desc: full text
     file: schenuit_2021_geoengineering.pdf
   id: schenuit:2021:geoengineering
-  issued:
-  - day: 4
-    month: 8
-    year: 2021
+  issued: 2021-08-04
   keyword: posttenure
   language: en-US
-  page: '102809'
+  page: 102809
   status: published
   title: 'A scenario of solar geoengineering governance: Vulnerable states demand,
     and act'
   title-short: A scenario of solar geoengineering governance
   type: article-journal
-  volume: '132'
-- DOI: 10.1016/j.gloenvcha.2020.102160
-  abstract: Climate change interacts with social, economic, and political forces in
+  volume: 132
+- abstract: Climate change interacts with social, economic, and political forces in
     ways that can shape demographic behavior. Yet, the link between environmental
     stress and marriage has received limited attention. Using survey data from 615
     Bangladeshi households, we examine the relationship between extreme weather in
@@ -389,23 +361,20 @@ references:
   - family: Gilligan
     given: Jonathan
   container-title: Global Environmental Change
+  doi: 10.1016/j.gloenvcha.2020.102160
   file:
   - desc: full text
     file: carrico_2020_marriage.pdf
   id: carrico:marriage:2020
-  issued:
-  - day: 29
-    month: 9
-    year: 2020
+  issued: 2020-09-29
   keyword: posttenure
   language: en-US
-  page: '102160'
+  page: 102160
   status: published
   title: Extreme weather and marriage among girls and women in Bangladesh
   type: article-journal
-  volume: '65'
-- DOI: 10.18174/sesmo.2020a16226
-  abstract: 'Modeling is essential to characterize and explore complex societal and
+  volume: 65
+- abstract: 'Modeling is essential to characterize and explore complex societal and
     environmental issues in systematic and collaborative ways. Socio-environmental
     systems (SES) modeling integrates knowledge and perspectives into conceptual and
     computational tools that explicitly recognize how human decisions affect the environment.
@@ -458,24 +427,19 @@ references:
   - family: Lade
     given: Steven J.
   container-title: Socio-Environmental Systems Modeling
+  doi: 10.18174/sesmo.2020a16226
   file:
   - desc: full text
     file: elsawah_2020_grand_challenges.pdf
   id: elsawah:2020:grand.challenges
-  issued:
-  - day: 1
-    month: 2
-    year: 2020
+  issued: 2020-02-01
   keyword: posttenure
-  page: '16226'
+  page: 16226
   status: published
   title: Eight grand challenges in socio-environmental systems modeling
   type: article-journal
-  volume: '2'
-- DOI: 10.1016/j.erss.2019.101400
-  ISSN: 2214-6296
-  URL: https://www.sciencedirect.com/science/article/pii/S2214629619310370
-  abstract: The growing sense of urgency by the public for action to address climate
+  volume: 2
+- abstract: The growing sense of urgency by the public for action to address climate
     change stands in stark contrast to the slow pace and limited accomplishments of
     national and international institutions to reduce greenhouse gas emissions. Political
     institutions face significant structural barriers to taking strong and rapid action
@@ -488,10 +452,7 @@ references:
     for analyzing private governance initiatives, outline the prospects of the framework
     for understanding and guiding private governance, and identify future research
     priorities for applying this framework.
-  accessed:
-  - day: 23
-    month: 12
-    year: 2019
+  accessed: 2019-12-23
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -499,35 +460,33 @@ references:
     given: Michael P.
   container-title: Energy Research & Social Science
   container-title-short: Energy Research & Social Science
+  doi: 10.1016/j.erss.2019.101400
   file:
   - desc: full text
     file: gilligan_2020_framework.pdf
   id: gilligan:2020:assessing.private.governance
-  issued:
-  - day: 1
-    month: 2
-    year: 2020
+  issn: 2214-6296
+  issued: 2020-02-01
   keyword: Climate change, Climate policy, Greenhouse gas mitigation, Private climate
     governance, Private environmental governance, Private governance, posttenure
   language: en-US
-  page: '101400'
+  page: 101400
   status: published
   title: A framework for assessing the impact of private climate governance
   type: article-journal
-  volume: '60'
-- URL: https://vanderbiltlawreview.org/lawreview/2020/12/beyond-wickedness-managing-complex-systems-and-climate-change/
-  abstract: "This Article examines the argument that climate change is a \u201Csuper\
-    \ wicked\u201D problem. It concludes that the wicked problem concept is best viewed\
-    \ as a rhetorical device that served a valuable function in arguing against technocratic\
-    \ hubris in the early 1970s but is unhelpful and possibly counterproductive as\
-    \ a tool for modern climate policy analysis. Richard Lazarus improved on this\
-    \ analysis by emphasizing the urgency of a climate response in his characterization\
-    \ of the climate problem as \u201Csuper wicked.\u201D We suggest another approach\
-    \ based on Charles Lindblom\u2019s \u201Cscience of muddling through.\u201D The\
-    \ muddling through approach supports the rhetorical points for which the original\
-    \ wicked problem concept was introduced and provides greater practical guidance\
-    \ for developing new laws and policies to address climate change and other complex\
-    \ and messy environmental problems."
+  url: https://www.sciencedirect.com/science/article/pii/S2214629619310370
+  volume: 60
+- abstract: This Article examines the argument that climate change is a "super wicked"
+    problem. It concludes that the wicked problem concept is best viewed as a rhetorical
+    device that served a valuable function in arguing against technocratic hubris
+    in the early 1970s but is unhelpful and possibly counterproductive as a tool for
+    modern climate policy analysis. Richard Lazarus improved on this analysis by emphasizing
+    the urgency of a climate response in his characterization of the climate problem
+    as "super wicked." We suggest another approach based on Charles Lindblom's "science
+    of muddling through." The muddling through approach supports the rhetorical points
+    for which the original wicked problem concept was introduced and provides greater
+    practical guidance for developing new laws and policies to address climate change
+    and other complex and messy environmental problems.
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -538,11 +497,7 @@ references:
   - desc: full text
     file: gilligan_2020_beyond_wickedness.pdf
   id: gilligan:2020:beyond.wickedness
-  issue: '6'
-  issued:
-  - day: 22
-    month: 12
-    year: 2020
+  issued: 2020-12-22
   keyword: posttenure
   language: en-US
   page: 1177-1810
@@ -551,28 +506,23 @@ references:
   title: 'Beyond wickedness: Managing complex systems and climate change'
   title-short: Beyond wickedness
   type: article-journal
-  volume: '73'
-- DOI: 10.1016/j.oneear.2020.08.007
-  URL: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
-  abstract: "Limiting global warming to 2C or less compared with pre-industrial temperatures\
-    \ will require unprecedented rates of decarbonization globally. The scale and\
-    \ scope of transformational change required across sectors and actors in society\
-    \ raises critical questions of feasibility. Much of the literature on mitigation\
-    \ pathways addresses technological and economic aspects of feasibility, but overlooks\
-    \ the behavioral, cultural, and social factors that affect theoretical and practical\
-    \ mitigation pathways. We present a tripartite framework that \u201Cunpacks\u201D\
-    \ the concept of mitigation pathways by distinguishing three factors that together\
-    \ determine actual mitigation: technical potential, initiative feasibility, and\
-    \ behavioral plasticity. The framework aims to integrate and streamline heterogeneous\
-    \ disciplinary research traditions toward a more comprehensive and transparent\
-    \ approach that will facilitate learning across disciplines and enable mitigation\
-    \ pathways to more fully reflect available knowledge. We offer three suggestions\
-    \ for integrating the tripartite framework into current research on climate change\
-    \ mitigation."
-  accessed:
-  - day: 18
-    month: 9
-    year: 2020
+  url: https://vanderbiltlawreview.org/lawreview/2020/12/beyond-wickedness-managing-complex-systems-and-climate-change/
+  volume: 73
+- abstract: 'Limiting global warming to 2`\degree `{=latex}C or less compared with
+    pre-industrial temperatures will require unprecedented rates of decarbonization
+    globally. The scale and scope of transformational change required across sectors
+    and actors in society raises critical questions of feasibility. Much of the literature
+    on mitigation pathways addresses technological and economic aspects of feasibility,
+    but overlooks the behavioral, cultural, and social factors that affect theoretical
+    and practical mitigation pathways. We present a tripartite framework that "unpacks"
+    the concept of mitigation pathways by distinguishing three factors that together
+    determine actual mitigation: technical potential, initiative feasibility, and
+    behavioral plasticity. The framework aims to integrate and streamline heterogeneous
+    disciplinary research traditions toward a more comprehensive and transparent approach
+    that will facilitate learning across disciplines and enable mitigation pathways
+    to more fully reflect available knowledge. We offer three suggestions for integrating
+    the tripartite framework into current research on climate change mitigation.'
+  accessed: 2020-09-18
   author:
   - family: Nielsen
     given: Kristian S.
@@ -603,15 +553,13 @@ references:
     given: Richard
   container-title: One Earth
   container-title-short: One Earth
+  doi: 10.1016/j.oneear.2020.08.007
   file:
   - desc: full text
     file: nielsen_2020_improving_climate_change.pdf
   id: nielsen:2020:mitigation.analysis
-  issue: '3'
-  issued:
-  - day: 18
-    month: 9
-    year: 2020
+  issue: 3
+  issued: 2020-09-18
   keyword: climate change mitigation,interdisciplinarity,practical feasibility, posttenure
   language: en-US
   page: 325-336
@@ -621,10 +569,9 @@ references:
     feasibility'
   title-short: Improving climate change mitigation analysis
   type: article-journal
-  volume: '3'
-- DOI: 10.2139/ssrn.3543639
-  URL: https://scholarship.law.duke.edu/delpf/vol31/iss1/3
-  abstract: This Essay provides a simple heuristic to enable public and private policymakers
+  url: https://www.cell.com/one-earth/abstract/S2590-3322(20)30416-4
+  volume: 3
+- abstract: This Essay provides a simple heuristic to enable public and private policymakers
     to focus on the most important climate mitigation options. Policymakers face a
     blizzard of information, advocacy, and policy options, and it is easy to lose
     sight of the forest for the trees. Many options are attractive on the surface
@@ -650,14 +597,12 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Duke Environmental Law and Policy Forum
+  doi: 10.2139/ssrn.3543639
   file:
   - desc: full text
     file: vandenbergh_2020_forks_in_the_road.pdf
   id: vandenbergh:2020:forks
-  issued:
-  - day: 31
-    month: 12
-    year: 2020
+  issued: 2020-12-31
   keyword: posttenure
   page: 163-173
   ssrn: '3543639'
@@ -665,30 +610,28 @@ references:
   title: 'Climate law and policy: Forks in the road'
   title-short: Climate law and policy
   type: article-journal
-  volume: '31'
-- DOI: 10.2139/ssrn.3570889
-  URL: https://scholarlycommons.law.case.edu/caselrev/vol70/iss4/14/
-  abstract: "This Article demonstrates that a new revolving door is emerging between\
-    \ environmental-advocacy groups and the private sector. Since the birth of the\
-    \ modern regulatory state, scholars have raised concerns that the revolving door\
-    \ between corporations and government agencies could induce government officials\
-    \ to pursue corporate interests rather than the public interest. The legal and\
-    \ political-science literatures have identified several benefits that may arise\
-    \ from the revolving door, but the thrust of the scholarship to date has emphasized\
-    \ the potential harms. Using several data sources, we demonstrate that as the\
-    \ private sector has begun to play an increasing role in environmental governance\
-    \ in recent years, a new revolving door has emerged between environmental-advocacy\
-    \ groups and corporations, institutional investment firms, and private equity\
-    \ firms. We demonstrate that this new revolving door is surprisingly common, and\
-    \ we examine the implications for the future of public and private environmental\
-    \ governance. Although this new revolving door creates new risks, we argue that\
-    \ it may turn on its head the central concern about the revolving door: The movement\
-    \ of environmental advocates into corporate management positions may play the\
-    \ role of greening corporate behavior and may accelerate the development of private\
-    \ environmental initiatives. We focus on the movement of employees in the environmental\
-    \ area\u2014a new green revolving door\u2014but we suggest that this new revolving\
-    \ door also may be emerging in labor, health and safety, and other regulatory\
-    \ areas."
+  url: https://scholarship.law.duke.edu/delpf/vol31/iss1/3
+  volume: 31
+- abstract: 'This Article demonstrates that a new revolving door is emerging between
+    environmental-advocacy groups and the private sector. Since the birth of the modern
+    regulatory state, scholars have raised concerns that the revolving door between
+    corporations and government agencies could induce government officials to pursue
+    corporate interests rather than the public interest. The legal and political-science
+    literatures have identified several benefits that may arise from the revolving
+    door, but the thrust of the scholarship to date has emphasized the potential harms.
+    Using several data sources, we demonstrate that as the private sector has begun
+    to play an increasing role in environmental governance in recent years, a new
+    revolving door has emerged between environmental-advocacy groups and corporations,
+    institutional investment firms, and private equity firms. We demonstrate that
+    this new revolving door is surprisingly common, and we examine the implications
+    for the future of public and private environmental governance. Although this new
+    revolving door creates new risks, we argue that it may turn on its head the central
+    concern about the revolving door: The movement of environmental advocates into
+    corporate management positions may play the role of greening corporate behavior
+    and may accelerate the development of private environmental initiatives. We focus
+    on the movement of employees in the environmental area---a new green revolving
+    door---but we suggest that this new revolving door also may be emerging in labor,
+    health and safety, and other regulatory areas.'
   author:
   - family: Vandenbergh
     given: M. P.
@@ -697,36 +640,34 @@ references:
   - family: Feuerman
     given: Haley
   container-title: Case Western Reserve Law Review
+  doi: 10.2139/ssrn.3570889
   file:
   - desc: full text
     file: vandenbergh_2020_revolving_door.pdf
   id: vandenbergh:2020:revolving.door
-  issued:
-  - day: 8
-    month: 9
-    year: 2020
+  issued: 2020-09-08
   keyword: posttenure
   page: 1121-1149
   ssrn: '3570889'
   status: published
   title: The new revolving door
   type: article-journal
-  volume: '70'
-- DOI: 10.1109/WSC40007.2019.9004889
-  abstract: "Deep connections between water resources and food and energy production\u2014\
-    the food-energy-water (FEW) nexus\u2014complicate the challenge of sustainably\
-    \ managing an uncertain water supply. We present an agent-based model as a computational\
-    \ testbed for studying different approaches to managing the FEW nexus and apply\
-    \ the model to the 2017\u20132018 water crisis in Cape Town South Africa. We treat\
-    \ the FEW nexus connecting municipal water use by Cape Town residents, agricultural\
-    \ water use by vineyards, and hydroelectric generation. We compare two scenarios\
-    \ for responding to drought: business-as-usual (BAU), and holistic adaptive management\
-    \ (HAM), where BAU takes no action until the monthly supply is insufficient to\
-    \ meet demand, whereas HAM takes action by raising water tariffs when the reservoir\
-    \ storage level drops below its pre-drought monthly average. Simulation results\
-    \ suggest that holistic adaptive management can alleviate the impact of drought\
-    \ on agricultural production, hydropower generation, and the availability of water\
-    \ for residential consumption."
+  url: https://scholarlycommons.law.case.edu/caselrev/vol70/iss4/14/
+  volume: 70
+- abstract: 'Deep connections between water resources and food and energy production---the
+    food-energy-water (FEW) nexus---complicate the challenge of sustainably managing
+    an uncertain water supply. We present an agent-based model as a computational
+    testbed for studying different approaches to managing the FEW nexus and apply
+    the model to the 2017--2018 water crisis in Cape Town South Africa. We treat the
+    FEW nexus connecting municipal water use by Cape Town residents, agricultural
+    water use by vineyards, and hydroelectric generation. We compare two scenarios
+    for responding to drought: business-as-usual (BAU), and holistic adaptive management
+    (HAM), where BAU takes no action until the monthly supply is insufficient to meet
+    demand, whereas HAM takes action by raising water tariffs when the reservoir storage
+    level drops below its pre-drought monthly average. Simulation results suggest
+    that holistic adaptive management can alleviate the impact of drought on agricultural
+    production, hydropower generation, and the availability of water for residential
+    consumption.'
   author:
   - family: Ding
     given: Ke
@@ -735,6 +676,7 @@ references:
   - family: Hornberger
     given: George M.
   container-title: Proceedings of the 2019 winter simulation conference
+  doi: 10.1109/WSC40007.2019.9004889
   editor:
   - family: Mustafee
     given: N.
@@ -754,55 +696,48 @@ references:
   - desc: full text
     file: ding_2019_day_zero.pdf
   id: ding:2019:day.zero
-  issued:
-  - day: 31
-    month: 12
-    year: 2019
+  issued: 2019-12-31
   keyword: tenuretrack
   page: 866-877
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
   status: published
-  title: "Avoiding \u201Cday-zero\u201D: A testbed for evaluating integrated food-energy-water\
-    \ management in Cape Town, South Africa"
-  title-short: "Avoiding \u201Cday-zero\u201D"
+  title: 'Avoiding "day-zero": A testbed for evaluating integrated food-energy-water
+    management in Cape Town, South Africa'
+  title-short: Avoiding "day-zero"
   type: paper-conference
-- DOI: 10.1038/s41893-019-0354-7
-  URL: https://rdcu.be/bOaoY
-  abstract: Meat is an important source of greenhouse-gas emissions, but not enough
+- abstract: Meat is an important source of greenhouse-gas emissions, but not enough
     people are giving it up. A new model integrates diets, land use and climate change
     to explore the potential and implications of mass adoption of vegetarian diets.
   author:
   - family: Gilligan
     given: Jonathan M.
   container-title: Nature Sustainability
+  doi: 10.1038/s41893-019-0354-7
   file:
   - desc: full text
     file: gilligan_2019_diet.pdf
   id: gilligan:2019:diet
-  issued:
-  - day: 9
-    month: 8
-    year: 2019
+  issued: 2019-08-09
   keyword: tenuretrack
-  note: "Invited \u201CNews and Views\u201D commentary."
+  note: Invited "News and Views" commentary.
   page: 661-662
   status: published
   title: Modelling diet choices
   type: article-journal
-  volume: '2'
-- URL: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
-  abstract: "When public governance fails to address important environmental threats\u2014\
-    such as climate change\u2014private governance by firms, not-for-profits, individuals,\
-    \ and households can produce significant reductions in greenhouse gas emissions.\
-    \ Private governance can take the form of either a carrot or a stick, using incentives\
-    \ or punishments. Shareholder activism as a form of private governance of corporations\
-    \ has largely been confrontational, leading most climate-related actions to fail.\
-    \ This Article examines the potential for private governance to take a more collaborative\
-    \ approach and to frame shareholder engagement with management in terms of opportunity.\
-    \ It also examines private governance successes at reducing household emissions\
-    \ and finds that these too emphasize making it attractive and convenient for households\
-    \ to act."
+  url: https://rdcu.be/bOaoY
+  volume: 2
+- abstract: When public governance fails to address important environmental threats---such
+    as climate change---private governance by firms, not-for-profits, individuals,
+    and households can produce significant reductions in greenhouse gas emissions.
+    Private governance can take the form of either a carrot or a stick, using incentives
+    or punishments. Shareholder activism as a form of private governance of corporations
+    has largely been confrontational, leading most climate-related actions to fail.
+    This Article examines the potential for private governance to take a more collaborative
+    approach and to frame shareholder engagement with management in terms of opportunity.
+    It also examines private governance successes at reducing household emissions
+    and finds that these too emphasize making it attractive and convenient for households
+    to act.
   author:
   - family: Gilligan
     given: J. M.
@@ -811,19 +746,16 @@ references:
   - desc: full text
     file: gilligan_2018_carrots_sticks.pdf
   id: gilligan:2018:carrots.sticks
-  issued:
-  - day: 31
-    month: 12
-    year: 2018
+  issued: 2018-12-31
   keyword: tenuretrack
   page: 179-198
   ssrn: '3284035'
   status: published
   title: Carrots and sticks in private climate governance
   type: article-journal
-  volume: '6'
-- DOI: 10.1038/s41558-017-0038-0
-  abstract: One of the greatest sources of uncertainty about future climate change
+  url: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
+  volume: 6
+- abstract: One of the greatest sources of uncertainty about future climate change
     is the path greenhouse gas emissions will take. Now research using a coupled model
     of human behaviour and climate finds that individual behaviour can significantly
     alter emissions trajectories and global temperature.
@@ -831,44 +763,40 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Nature Climate Change
+  doi: 10.1038/s41558-017-0038-0
   file:
   - desc: full text
     file: gilligan_2018_human_factor.pdf
   id: gilligan:2018:human.factor
-  issued:
-  - day: 1
-    month: 1
-    year: 2018
+  issued: 2018-01-01
   keyword: tenuretrack
-  note: "Invited \u201CNews and Views\u201D commentary."
+  note: Invited "News and Views" commentary.
   page: 14-15
   status: published
   title: 'Climate modeling: Accounting for the human factor'
   title-short: Climate modeling
   type: article-journal
-  volume: '8'
-- DOI: 10.1029/2017EF000797
-  abstract: "Urban water supply systems in the United States are increasingly stressed\
-    \ as economic and population growth confront limited water resources. Demand management,\
-    \ through conservation and improved efficiency, has long been promoted as a practical\
-    \ alternative to building Promethean energy-intensive water-supply infrastructure.\
-    \ Some cities are making great progress at managing their demand, but study of\
-    \ conservation policies has been limited and often regionally focused. We present\
-    \ a hierarchical Bayesian analysis of a new measure of urban water conservation\
-    \ policy, the Vanderbilt Water Conservation Index (VWCI), for 195 cities in 45\
-    \ states in the contiguous United States. This study does not attempt to establish\
-    \ causal relationships, but does observe that cities in states with arid climates\
-    \ tend to adopt more conservation measures. Within a state, cities with more Democratic-leaning\
-    \ voting preferences and large and rapidly growing populations tend to adopt more\
-    \ conservation measures. Economic factors and climatic differences between cities\
-    \ do not correlate with the number of measures adopted, but they do correlate\
-    \ with the character of the measures, with arid cities favoring mandatory conservation\
-    \ actions and cities in states with lower real personal income favoring rebates\
-    \ for voluntary actions. Understanding relationships between environmental and\
-    \ societal factors and cities\u2019 support for water conservation measures can\
-    \ help planners and policy-makers identify obstacles and opportunities to increase\
-    \ the role of conservation and efficiency in making urban water supply systems\
-    \ sustainable."
+  volume: 8
+- abstract: Urban water supply systems in the United States are increasingly stressed
+    as economic and population growth confront limited water resources. Demand management,
+    through conservation and improved efficiency, has long been promoted as a practical
+    alternative to building Promethean energy-intensive water-supply infrastructure.
+    Some cities are making great progress at managing their demand, but study of conservation
+    policies has been limited and often regionally focused. We present a hierarchical
+    Bayesian analysis of a new measure of urban water conservation policy, the Vanderbilt
+    Water Conservation Index (VWCI), for 195 cities in 45 states in the contiguous
+    United States. This study does not attempt to establish causal relationships,
+    but does observe that cities in states with arid climates tend to adopt more conservation
+    measures. Within a state, cities with more Democratic-leaning voting preferences
+    and large and rapidly growing populations tend to adopt more conservation measures.
+    Economic factors and climatic differences between cities do not correlate with
+    the number of measures adopted, but they do correlate with the character of the
+    measures, with arid cities favoring mandatory conservation actions and cities
+    in states with lower real personal income favoring rebates for voluntary actions.
+    Understanding relationships between environmental and societal factors and cities'
+    support for water conservation measures can help planners and policy-makers identify
+    obstacles and opportunities to increase the role of conservation and efficiency
+    in making urban water supply systems sustainable.
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -882,41 +810,38 @@ references:
     given: David J.
   - family: Hornberger
     given: George M.
-  container-title: "Earth\u2019s Future"
+  container-title: Earth's Future
+  doi: 10.1029/2017EF000797
   file:
   - desc: full text
     file: gilligan_2018_water_conservation.pdf
   id: gilligan:2018:water.conservation
-  issued:
-  - day: 12
-    month: 6
-    year: 2018
+  issued: 2018-06-12
   keyword: tenuretrack
   page: 955-967
   status: published
   title: Urban water conservation policies in the United States
   type: article-journal
-  volume: '6'
-- DOI: 10.1007/s12053-018-9721-x
-  abstract: "Employee energy benefits (EEBs), such as subsidies for employee home\
-    \ energy audits and financial incentives for carpooling to work, aim to influence\
-    \ employees\u2019 environmental behaviors outside of work. Exploring these understudied\
-    \ benefits would offer new insights that can enrich theories of employer and employee\
-    \ motivations for engaging in environmental behavior, as well as reveal new strategies\
-    \ for making significant progress on environment goals. By drawing upon employer\
-    \ reports and conducting a survey of 482 US adults employed full-time, we found\
-    \ that there are a wide range of types of EEBs currently offered by employers,\
-    \ and furthermore, they were more likely to be offered in certain industries,\
-    \ such as state and local governments but not others such as retail. These benefits\
-    \ were offered to 17% of employees and included a vast array of strategies and\
-    \ approaches. Guided by theorizing on employer and employee motivation, open-ended\
-    \ responses suggested employers were perceived to offer EEBs to maximize competiveness\
-    \ and because of social responsibility concerns, and employees tended to enroll\
-    \ because they wanted to save money and time or because they cared about the environment.\
-    \ Finally, EEBs were linked to employee environmental behavior and morale. The\
-    \ findings reveal new information about the types of EEBs being offered, motivations\
-    \ for offering and enrolling in EEBs, and their relationship to employee behavior\
-    \ and morale. This work suggests numerous lines of promising new research."
+  volume: 6
+- abstract: Employee energy benefits (EEBs), such as subsidies for employee home energy
+    audits and financial incentives for carpooling to work, aim to influence employees'
+    environmental behaviors outside of work. Exploring these understudied benefits
+    would offer new insights that can enrich theories of employer and employee motivations
+    for engaging in environmental behavior, as well as reveal new strategies for making
+    significant progress on environment goals. By drawing upon employer reports and
+    conducting a survey of 482 US adults employed full-time, we found that there are
+    a wide range of types of EEBs currently offered by employers, and furthermore,
+    they were more likely to be offered in certain industries, such as state and local
+    governments but not others such as retail. These benefits were offered to 17%
+    of employees and included a vast array of strategies and approaches. Guided by
+    theorizing on employer and employee motivation, open-ended responses suggested
+    employers were perceived to offer EEBs to maximize competiveness and because of
+    social responsibility concerns, and employees tended to enroll because they wanted
+    to save money and time or because they cared about the environment. Finally, EEBs
+    were linked to employee environmental behavior and morale. The findings reveal
+    new information about the types of EEBs being offered, motivations for offering
+    and enrolling in EEBs, and their relationship to employee behavior and morale.
+    This work suggests numerous lines of promising new research.
   author:
   - family: Maki
     given: Alexander
@@ -929,15 +854,12 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Energy Efficiency
+  doi: 10.1007/s12053-018-9721-x
   file:
   - desc: full text
     file: maki_2018_employee_benefits.pdf
   id: maki:2018:benefits
-  issue: '5'
-  issued:
-  - day: 7
-    month: 8
-    year: 2018
+  issued: 2018-08-07
   keyword: tenuretrack
   page: 1065-1083
   ssrn: '2801607'
@@ -946,9 +868,8 @@ references:
     employees?'
   title-short: Employee energy benefits
   type: article-journal
-  volume: '12'
-- DOI: 10.1080/01431161.2017.1410296
-  abstract: 'Drought threatens food and water security around the world, and this
+  volume: 12
+- abstract: 'Drought threatens food and water security around the world, and this
     threat is likely to become more severe under climate change. High-resolution predictive
     information can help farmers, water managers, and others to manage the effects
     of drought. We have created an open-source tool to produce short-term forecasts
@@ -972,22 +893,19 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: International Journal of Remote Sensing
+  doi: 10.1080/01431161.2017.1410296
   file:
   - desc: full text
     file: nay_2018_vegetation_health.pdf
   id: nay:2018:vegetation.health
-  issued:
-  - day: 1
-    month: 1
-    year: 2018
+  issued: 2018-01-01
   keyword: tenuretrack
   page: 1800-1816
   status: published
   title: A machine-learning approach to forecasting remotely sensed vegetation health
   type: article-journal
-  volume: '39'
-- URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
-  abstract: When the United States withdrew from the Paris Climate Agreement, 100
+  volume: 39
+- abstract: When the United States withdrew from the Paris Climate Agreement, 100
     private corporations reaffirmed their commitment to fighting climate change. While
     governments are often tasked with facing climate change, many major private institutions
     are taking steps to significantly reduce carbon emissions, reaping the benefits
@@ -1014,28 +932,27 @@ references:
   - desc: full text
     file: phillips_2018_dialogue_beyond_politics.pdf
   id: phillips:2018:beyond.politics
-  issued:
-  - year: 2018
+  issued: 2018
   keyword: tenuretrack
   page: 11049-11062
   status: published
   title: 'Dialogue: Beyond politics: The private governance response to climate change'
   title-short: Dialogue
   type: article-journal
-  volume: '48'
-- URL: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
-  abstract: "Law is generally represented through text, and lawyers have for centuries\
-    \ classified large bodies of legal text into distinct topics \u2014 they \u201C\
-    topic model\u201D the law. But large bodies of legal documents present challenges\
-    \ for conventional topic modeling methods. The task of gathering, reviewing, coding,\
-    \ sorting, and assessing a body of tens of thousands of legal documents is a daunting\
-    \ proposition. Recent advances in computational text analytics, a subset of the\
-    \ field of \u201Cartificial intelligence,\u201D are already gaining traction in\
-    \ legal practice settings such as e-discovery by leveraging the speed and capacity\
-    \ of computers to process enormous bodies of documents. Differences between conventional\
-    \ and computational methods, however, suggest that computational text modeling\
-    \ has its own limitations, but that the two methods used in unison could be a\
-    \ powerful research tool for legal scholars in their research as well."
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
+  volume: 48
+- abstract: Law is generally represented through text, and lawyers have for centuries
+    classified large bodies of legal text into distinct topics --- they "topic model"
+    the law. But large bodies of legal documents present challenges for conventional
+    topic modeling methods. The task of gathering, reviewing, coding, sorting, and
+    assessing a body of tens of thousands of legal documents is a daunting proposition.
+    Recent advances in computational text analytics, a subset of the field of "artificial
+    intelligence," are already gaining traction in legal practice settings such as
+    e-discovery by leveraging the speed and capacity of computers to process enormous
+    bodies of documents. Differences between conventional and computational methods,
+    however, suggest that computational text modeling has its own limitations, but
+    that the two methods used in unison could be a powerful research tool for legal
+    scholars in their research as well.
   author:
   - family: Ruhl
     given: J. B.
@@ -1048,10 +965,7 @@ references:
   - desc: full text
     file: ruhl_2018_topic_modeling.pdf
   id: ruhl:2018:topic.modeling
-  issued:
-  - day: 6
-    month: 10
-    year: 2018
+  issued: 2018-10-06
   keyword: tenuretrack
   page: 1243-1315
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086226
@@ -1060,9 +974,9 @@ references:
   title: 'Topic modeling the president: Conventional and computational methods'
   title-short: Topic modeling the president
   type: article-journal
-  volume: '86'
-- ISBN: '9780367136161'
-  abstract: Climate change is a *global* problem. Food, water, health, housing, and
+  url: https://www.gwlr.org/topic-modeling-the-president-conventional-and-computational-methods/
+  volume: 86
+- abstract: Climate change is a *global* problem. Food, water, health, housing, and
     life are basic *individual* human rights. However, *between* the global forces
     of climate change and individual challenges of meeting basic needs, communities
     are the context in which people experience the effects of climate change and seek
@@ -1105,8 +1019,8 @@ references:
   - desc: full text
     file: ackerly_2017_climate_community.pdf
   id: ackerly:2017:climate.community
-  issued:
-  - year: 2017
+  isbn: 9780367136161
+  issued: 2017
   keyword: tenuretrack
   page: 189-202
   publisher: Routledge
@@ -1116,24 +1030,22 @@ references:
     of climate change'
   title-short: Climate and community
   type: chapter
-- URL: https://issues.org/34-1/forum-36/
-  author:
+- author:
   - family: Gilligan
     given: Jonathan M.
   container-title: Issues in Science and Technology
   id: gilligan:2017:science.beat
   issue: 1, Fall
-  issued:
-  - year: 2017
+  issued: 2017
   keyword: tenuretrack
   note: Commentary invited by the editor
   page: 6-8
   status: published
   title: Are cops on the science beat?
   type: article-journal
-  volume: '34'
-- ISBN: 978-1107181229
-  abstract: Private sector action provides one of the most promising opportunities
+  url: https://issues.org/34-1/forum-36/
+  volume: 34
+- abstract: Private sector action provides one of the most promising opportunities
     to reduce the risks of climate change, buying time while governments move slowly
     or even oppose climate mitigation. Starting with the insight that much of the
     resistance to climate mitigation is grounded in concern about the role of government,
@@ -1151,10 +1063,8 @@ references:
   - family: Gilligan
     given: Jonathan M.
   id: vandenbergh:2017:beyond.politics
-  issued:
-  - day: 30
-    month: 11
-    year: 2017
+  isbn: 978-1107181229
+  issued: 2017-11-30
   keyword: tenuretrack
   note: 494 pp.
   publisher: Cambridge University Press
@@ -1163,33 +1073,31 @@ references:
   title: 'Beyond politics: The private governance response to climate change'
   title-short: Beyond politics
   type: book
-- DOI: 10.1525/elementa.263
-  abstract: "Since the 1960s, $\\sim 5000~\\text{km}^2$ of tidal deltaplain in southwest\
-    \ Bangladesh has been embanked and converted to densely inhabited, agricultural\
-    \ islands (i.e., polders). This landscape is juxtaposed to the adjacent Sundarbans,\
-    \ a pristine mangrove forest, both well connected by a dense network of tidal\
-    \ channels that effectively convey water and sediment throughout the region. The\
-    \ extensive embanking in poldered areas, however, has greatly reduced the tidal\
-    \ prism (i.e., volume of water) transported through local channels. We reveal\
-    \ that $>600~\\text{km}$ of these major waterways have infilled in recent decades,\
-    \ converting to land through enhanced sedimentation and the direct blocking of\
-    \ waterways by embankments and sluice gates. Nearly all of the observed closures\
-    \ ($\\sim 98\\%$) have occurred along the embanked polder systems, with no comparable\
-    \ changes occurring in channels of the Sundarbans ($<2\\%$ change). We attribute\
-    \ most of the channel infilling to the local reduction of tidal prism in poldered\
-    \ areas and the associated decline in current velocities. The infilled channels\
-    \ account for $\\sim 90~\\text{km}^2$ of new land in the last 40\u201350 years,\
-    \ the rate of which, $\\sim 2~\\text{km}^2/\\text{yr}$, offsets the $4~\\text{km}^2/\\\
-    text{yr}$ that is eroded at the coast, and is equivalent to $\\sim 20\\%$ of the\
-    \ new land produced naturally at the Ganges-Brahmaputra tidal rivermouth. Most\
-    \ of this new land, called \u2018khas\u2019 in Bengali, has been reclaimed for\
-    \ agriculture or aquaculture, contributing to the local economy. However, benefits\
-    \ are tempered by the loss of navigable waterways for commerce, transportation,\
-    \ and fishing, as well as the forced rerouting of tidal waters and sediments necessary\
-    \ to sustain this low-lying landscape against rising sea level. A more sustainable\
-    \ delta will require detailed knowledge of the consequences of these hydrodynamic\
-    \ changes to support more scientifically-grounded management of water, sediment,\
-    \ and tidal energy distribution."
+- abstract: Since the 1960s, $\sim 5000~\text{km}^2$ of tidal deltaplain in southwest
+    Bangladesh has been embanked and converted to densely inhabited, agricultural
+    islands (i.e., polders). This landscape is juxtaposed to the adjacent Sundarbans,
+    a pristine mangrove forest, both well connected by a dense network of tidal channels
+    that effectively convey water and sediment throughout the region. The extensive
+    embanking in poldered areas, however, has greatly reduced the tidal prism (i.e.,
+    volume of water) transported through local channels. We reveal that $>600~\text{km}$
+    of these major waterways have infilled in recent decades, converting to land through
+    enhanced sedimentation and the direct blocking of waterways by embankments and
+    sluice gates. Nearly all of the observed closures ($\sim 98\%$) have occurred
+    along the embanked polder systems, with no comparable changes occurring in channels
+    of the Sundarbans ($<2\%$ change). We attribute most of the channel infilling
+    to the local reduction of tidal prism in poldered areas and the associated decline
+    in current velocities. The infilled channels account for $\sim 90~\text{km}^2$
+    of new land in the last 40--50 years, the rate of which, $\sim 2~\text{km}^2/\text{yr}$,
+    offsets the $4~\text{km}^2/\text{yr}$ that is eroded at the coast, and is equivalent
+    to $\sim 20\%$ of the new land produced naturally at the Ganges-Brahmaputra tidal
+    rivermouth. Most of this new land, called 'khas' in Bengali, has been reclaimed
+    for agriculture or aquaculture, contributing to the local economy. However, benefits
+    are tempered by the loss of navigable waterways for commerce, transportation,
+    and fishing, as well as the forced rerouting of tidal waters and sediments necessary
+    to sustain this low-lying landscape against rising sea level. A more sustainable
+    delta will require detailed knowledge of the consequences of these hydrodynamic
+    changes to support more scientifically-grounded management of water, sediment,
+    and tidal energy distribution.
   author:
   - family: Wilson
     given: Carol
@@ -1206,45 +1114,36 @@ references:
   - family: Hale
     given: Richard
   container-title: Elementa
+  doi: 10.1525/elementa.263
   file:
   - desc: full text
     file: wilson_2017_infilling.pdf
   id: wilson:2017:infilling
-  issued:
-  - day: 27
-    month: 12
-    year: 2017
+  issued: 2017-12-27
   keyword: tenuretrack
-  page: '78'
+  page: 78
   status: published
   title: Widespread infilling of tidal channels and navigable waterways in the human-modified
     tidal deltaplain of southwest Bangladesh
   type: article-journal
-  volume: '5'
-- DOI: 10.1080/09603123.2016.1194383
-  ISSN: 0960-3123
-  PMID: '27277537'
-  abstract: "National drinking water assessments for Bangladesh do not reflect local\
-    \ variability, or temporal differences. This paper reports on the findings of\
-    \ an interdisciplinary investigation of drinking water insecurity in a rural coastal\
-    \ south-western Bangladesh. Drinking water quality is assessed by comparison of\
-    \ locally measured concentrations to national levels and water quality criteria;\
-    \ resident\u2019s access to potable water and their perceptions are based on local\
-    \ social surveys. Residents in the study area use groundwater far less than the\
-    \ national average; salinity and local rainwater scarcity necessitates the use\
-    \ of multiple water sources throughout the year. Groundwater concentrations of\
-    \ arsenic and specific conductivity (SpC) were greater than surface water (pond)\
-    \ concentrations; there was no statistically significant seasonal difference in\
-    \ mean concentrations in groundwater, but there was for ponds, with arsenic higher\
-    \ in the dry season. Average arsenic concentrations in local water drinking were\
-    \ 2\u20134 times times the national average. All of the local groundwater samples\
-    \ exceeded the Bangladesh guidance for SpC, although the majority of residents\
-    \ surveyed did not perceive their water as having a \u201Cbad\u201D or \u201C\
-    salty\u201D taste."
-  accessed:
-  - day: 9
-    month: 6
-    year: 2016
+  volume: 5
+- abstract: National drinking water assessments for Bangladesh do not reflect local
+    variability, or temporal differences. This paper reports on the findings of an
+    interdisciplinary investigation of drinking water insecurity in a rural coastal
+    south-western Bangladesh. Drinking water quality is assessed by comparison of
+    locally measured concentrations to national levels and water quality criteria;
+    resident's access to potable water and their perceptions are based on local social
+    surveys. Residents in the study area use groundwater far less than the national
+    average; salinity and local rainwater scarcity necessitates the use of multiple
+    water sources throughout the year. Groundwater concentrations of arsenic and specific
+    conductivity (SpC) were greater than surface water (pond) concentrations; there
+    was no statistically significant seasonal difference in mean concentrations in
+    groundwater, but there was for ponds, with arsenic higher in the dry season. Average
+    arsenic concentrations in local water drinking were 2--4 times times the national
+    average. All of the local groundwater samples exceeded the Bangladesh guidance
+    for SpC, although the majority of residents surveyed did not perceive their water
+    as having a "bad" or "salty" taste.
+  accessed: 2016-06-09
   author:
   - family: Benneyworth
     given: Laura
@@ -1269,26 +1168,26 @@ references:
   - family: Piya
     given: Bhumika
   container-title: International Journal of Environmental Health Research
+  doi: 10.1080/09603123.2016.1194383
   file:
   - desc: Full Text
     file: benneyworth_2016_drinking_water.pdf
   id: benneyworth:2016:drinking.water
-  issued:
-  - year: 2016
+  issn: 0960-3123
+  issued: 2016
   keyword: tenuretrack
-  note: "Featured by Taylor & Francis publishers as part of their observance of World\
-    \ Water Day 2017. T&F opened free access to the article and published an accompanying\
-    \ \u201CResearch Story\u201D with background on the article: <https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>."
+  note: '`\Note{}`{=latex} Featured by Taylor & Francis publishers as part of their
+    observance of World Water Day 2017. T&F opened free access to the article and
+    published an accompanying "Research Story" with background on the article: `\small`{=latex}<https://web.archive.org/web/20170915110349/http://authorservices.taylorandfrancis.com/world-water-day-2017-2/>.'
   page: 508-524
+  pmid: 27277537
   status: published
   title: 'Drinking water insecurity: Water quality and access in coastal south-western
     Bangladesh'
   title-short: Drinking water insecurity
   type: article-journal
-  volume: '26'
-- DOI: 10.1109/WSC.2016.7822216
-  URL: https://papers.ssrn.com/abstract=2807452
-  abstract: 'Drought and water scarcity are growing challenges to agriculture around
+  volume: 26
+- abstract: 'Drought and water scarcity are growing challenges to agriculture around
     the world. Farmers can adapt through both individual and community-based collective
     actions. We draw on extensive field-work conducted with paddy farmers in rural
     Sri Lanka to study adaptations to water scarcity, including switching to less
@@ -1308,6 +1207,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Proceedings of the 2016 winter simulation conference
+  doi: 10.1109/WSC.2016.7822216
   editor:
   - family: Roeder
     given: T. M. K.
@@ -1325,8 +1225,7 @@ references:
   - desc: Full Text
     file: burchfield_2016_collective_adaptation.pdf
   id: burchfield:2016:abm
-  issued:
-  - year: 2016
+  issued: 2016
   keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
     decision science, drought, Prospect Theory, Sustainability, tenuretrack
   page: 1678-1689
@@ -1336,9 +1235,8 @@ references:
   status: published
   title: Dynamics of individual and collective agricultural adaptation to water scarcity
   type: paper-conference
-- DOI: 10.1016/j.apgeog.2016.10.003
-  URL: https://www.sciencedirect.com/science/article/pii/S0143622816306063
-  abstract: Droughts affect more people than any other natural disaster. Drought severity
+  url: https://papers.ssrn.com/abstract=2807452
+- abstract: Droughts affect more people than any other natural disaster. Drought severity
     is not merely a function of precipitation; it emerges from a web of interrelations
     between human and natural systems. The impacts of drought are equally complex,
     shifting across temporal scales, economic sectors, and regions. Even in regions
@@ -1360,12 +1258,12 @@ references:
   - family: Gilligan
     given: Jonathan
   container-title: Applied Geography
+  doi: 10.1016/j.apgeog.2016.10.003
   file:
   - desc: Full Text
     file: burchfield_2016_agricultural_adaptation.pdf
   id: burchfield:2016:ag.adaptation
-  issued:
-  - year: 2016
+  issued: 2016
   keyword: Drought, Adaptive capacity, Multi-scale, Remote sensing, Mixed methods,
     tenuretrack
   page: 92-100
@@ -1373,11 +1271,9 @@ references:
   status: published
   title: Agricultural adaptation to drought in the Sri Lankan dry zone
   type: article-journal
-  volume: '77'
-- DOI: 10.5194/isprs-archives-XLI-B2-465-2016
-  ISSN: 1682-1750
-  URL: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
-  abstract: This project applies machine learning techniques to remotely sensed imagery
+  url: https://www.sciencedirect.com/science/article/pii/S0143622816306063
+  volume: 77
+- abstract: This project applies machine learning techniques to remotely sensed imagery
     to train and validate predictive models of vegetation health in Bangladesh and
     Sri Lanka. For both locations, we downloaded and processed eleven years of imagery
     from multiple MODIS datasets which were combined and transformed into two-dimensional
@@ -1393,10 +1289,7 @@ references:
     well-suited for decision makers interested in understanding and predicting vegetation
     health dynamics in countries in which environmental data is scarce and cloud cover
     is a significant concern.
-  accessed:
-  - day: 6
-    month: 7
-    year: 2016
+  accessed: 2016-07-06
   author:
   - family: Burchfield
     given: Emily
@@ -1404,40 +1297,37 @@ references:
     given: John J.
   - family: Gilligan
     given: Jonathan
-  container-title: "ISPRS\u2014International Archives of the Photogrammetry, Remote\
-    \ Sensing and Spatial Information Sciences"
+  container-title: ISPRS---International Archives of the Photogrammetry, Remote Sensing
+    and Spatial Information Sciences
+  doi: 10.5194/isprs-archives-XLI-B2-465-2016
   file:
   - desc: Full Text
     file: burchfield_2016_vegetation_health.pdf
   id: burchfield:2016:vegetation.health
-  issued:
-  - year: 2016
+  issn: 1682-1750
+  issued: 2016
   keyword: tenuretrack
   page: 465-469
   status: published
   title: Application of machine learning to the prediction of vegetation health
   type: article-journal
+  url: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
   volume: XLI-B2
-- DOI: 10.1002/joc.4365
-  ISSN: 1097-0088
-  abstract: "A spatiotemporal analysis of two well-known agricultural drought indices,\
+- abstract: "A spatiotemporal analysis of two well-known agricultural drought indices,\
     \ the Palmer Drought Severity Index (PDSI) and the Standardized Precipitation\
     \ Index at a 9-month scale (SPI-9), is presented for Sri Lanka. The analysis was\
     \ conducted based on monthly precipitation and temperature data from January 1881\
     \ to December 2010 using 13 stations distributed across the three climatic zones\
     \ of the country. Principal component analysis shows that the first two principal\
     \ components of PDSI and SPI-9 are spatially comparable and could physically represent\
-    \ the two main monsoons. A wavelet analysis of these principal components\u2019\
-    \ scores for both indices indicates a stronger association between the Northeastern\
-    \ monsoon and El-Ni\xF1o in recent decades. Correlation analysis with agricultural\
-    \ metrics suggests that different indices might be appropriate for each of the\
-    \ climatic zones in Sri Lanka. PDSI correlated best with the intermediate zone\
-    \ districts; SPI-9 correlated best with the dry zone districts; but neither index\
-    \ correlated well with the wet zone districts."
-  accessed:
-  - day: 12
-    month: 2
-    year: 2016
+    \ the two main monsoons. A wavelet analysis of these principal components' scores\
+    \ for both indices indicates a stronger association between the Northeastern monsoon\
+    \ and El-Ni\xF1o in recent decades. Correlation analysis with agricultural metrics\
+    \ suggests that different indices might be appropriate for each of the climatic\
+    \ zones in Sri Lanka. PDSI correlated best with the intermediate zone districts;\
+    \ SPI-9 correlated best with the dry zone districts; but neither index correlated\
+    \ well with the wet zone districts."
+  accessed: 2016-02-12
   author:
   - family: Gunda
     given: Thushara
@@ -1446,40 +1336,37 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: International Journal of Climatology
+  doi: 10.1002/joc.4365
   file:
   - desc: full text
     file: gunda_2016_drought.pdf
   id: gunda:2016:drought
-  issue: '2'
-  issued:
-  - day: 1
-    month: 2
-    year: 2016
+  issn: 1097-0088
+  issue: 2
+  issued: 2016-02-01
   keyword: drought, PCA, PDSI, SPI, Sri Lanka, wavelets, tenuretrack
   page: 563-575
-  title: "Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881\u2013\
-    2010"
+  title: 'Spatiotemporal patterns of agricultural drought in Sri Lanka: 1881--2010'
   title-short: Spatiotemporal patterns of agricultural drought in Sri Lanka
   type: article-journal
-  volume: '36'
-- DOI: 10.1111/socf.12274
-  abstract: "Although there are multiple causes of the water scarcity crisis in the\
-    \ American Southwest, it can be used as a model of the long-term problem of freshwater\
-    \ shortages that climate change will exacerbate. We examine the water-supply crisis\
-    \ for 22 cities in the extended Southwest of the United States and develop a unique,\
-    \ new measure of water conservation policies and programs. Convergent qualitative\
-    \ and quantitative analyses suggest that political conflicts play an important\
-    \ role in the transition of water-supply regimes toward higher levels of demandreduction\
-    \ policies and programs. Qualitative analysis using institutional theory identifies\
-    \ the interaction of four types of motivating logics\u2014development, rural preservation,\
-    \ environmental, and urban consumer\u2014and shows how demand-reduction strategies\
-    \ can potentially satisfy all four. Quantitative analysis of the explanatory factors\
-    \ for the variation in the adoption of demand-reduction policies points to the\
-    \ overwhelming importance of political preferences as defined by Cook\u2019s Partisan\
-    \ Voting Index. We suggest that approaches to water-supply choices are influenced\
-    \ less by direct partisan disagreements than by broad preferences for a development\
-    \ logic based on supplyincrease strategies and discomfort with demand-reduction\
-    \ strategies that clash with conservative beliefs."
+  volume: 36
+- abstract: Although there are multiple causes of the water scarcity crisis in the
+    American Southwest, it can be used as a model of the long-term problem of freshwater
+    shortages that climate change will exacerbate. We examine the water-supply crisis
+    for 22 cities in the extended Southwest of the United States and develop a unique,
+    new measure of water conservation policies and programs. Convergent qualitative
+    and quantitative analyses suggest that political conflicts play an important role
+    in the transition of water-supply regimes toward higher levels of demandreduction
+    policies and programs. Qualitative analysis using institutional theory identifies
+    the interaction of four types of motivating logics---development, rural preservation,
+    environmental, and urban consumer---and shows how demand-reduction strategies
+    can potentially satisfy all four. Quantitative analysis of the explanatory factors
+    for the variation in the adoption of demand-reduction policies points to the overwhelming
+    importance of political preferences as defined by Cook's Partisan Voting Index.
+    We suggest that approaches to water-supply choices are influenced less by direct
+    partisan disagreements than by broad preferences for a development logic based
+    on supplyincrease strategies and discomfort with demand-reduction strategies that
+    clash with conservative beliefs.
   author:
   - family: Hess
     given: David J.
@@ -1496,38 +1383,32 @@ references:
   - family: Hornberger
     given: George M.
   container-title: Sociological Forum
+  doi: 10.1111/socf.12274
   file:
   - desc: full text
     file: hess_2016_drought_southwest.pdf
   id: hess:2016:drought
-  issued:
-  - year: 2016
+  issued: 2016
   keyword: tenuretrack
   page: 807-827
   publisher: Wiley Online Library
   status: published
   title: Drought, risk, and institutional politics in the American Southwest
   type: article-journal
-  volume: '31'
-- DOI: 10.1109/WSC.2016.7822215
-  URL: https://arxiv.org/abs/1603.08961
-  abstract: "Despite much scientific evidence, a large fraction of the American public\
-    \ doubts that greenhouse gases are causing global warming. We present a simulation\
-    \ model as a computational test-bed for climate prediction markets. Traders adapt\
-    \ their beliefs about future temperatures based on the profits of other traders\
-    \ in their social network. We simulate two alternative climate futures, in which\
-    \ global temperatures are primarily driven either by carbon dioxide or by solar\
-    \ irradiance. These represent, respectively, the scientific consensus and a hypothesis\
-    \ advanced by prominent skeptics. We conduct sensitivity analyses to determine\
-    \ how a variety of factors describing both the market and the physical climate\
-    \ may affect traders\u2019 beliefs about the cause of global climate change. Market\
-    \ participation causes most traders to converge quickly toward believing the \"\
-    true\" climate model, suggesting that a climate market could be useful for building\
-    \ public consensus."
-  accessed:
-  - day: 14
-    month: 7
-    year: 2016
+  volume: 31
+- abstract: Despite much scientific evidence, a large fraction of the American public
+    doubts that greenhouse gases are causing global warming. We present a simulation
+    model as a computational test-bed for climate prediction markets. Traders adapt
+    their beliefs about future temperatures based on the profits of other traders
+    in their social network. We simulate two alternative climate futures, in which
+    global temperatures are primarily driven either by carbon dioxide or by solar
+    irradiance. These represent, respectively, the scientific consensus and a hypothesis
+    advanced by prominent skeptics. We conduct sensitivity analyses to determine how
+    a variety of factors describing both the market and the physical climate may affect
+    traders' beliefs about the cause of global climate change. Market participation
+    causes most traders to converge quickly toward believing the \"true\" climate
+    model, suggesting that a climate market could be useful for building public consensus.
+  accessed: 2016-07-14
   author:
   - family: Nay
     given: John J.
@@ -1536,6 +1417,7 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Proceedings of the 2016 winter simulation conference
+  doi: 10.1109/WSC.2016.7822215
   editor:
   - family: Roeder
     given: T. M. K.
@@ -1553,8 +1435,7 @@ references:
   - desc: full text
     file: nay_2016_betting_belief.pdf
   id: nay:2016:betting.belief
-  issued:
-  - year: 2016
+  issued: 2016
   keyword: Computer Science - Multiagent Systems, Physics - Physics and Society, Quantitative
     Finance - Economics, tenuretrack
   page: 1666-1677
@@ -1565,20 +1446,20 @@ references:
   title: 'Betting and belief: Prediction markets and attribution of climate change'
   title-short: Betting and Belief
   type: paper-conference
-- ISBN: '9789849103790'
-  abstract: "Between the national and household factors, community or \u201Cmeso-level\u201D\
-    \ changes in political economy and livelihoods in southwestern Bangladesh illustrate\
-    \ that in order to understand the impacts on people and nations of climate change-related\
-    \ environmental changes\u2014changes that are expected to include rising sea level,\
-    \ saline inundation, and increased likelihood and intensity of cyclones in Bangladesh\u2014\
-    we need to understand the dynamics of the built and natural environment and the\
-    \ political economies these sustain. Meso-level political economies affect the\
-    \ sources of income and livelihood available in distressed environmental conditions,\
-    \ and therefore influence how well the people in them can adapt to changing environmental\
-    \ conditions. In this study we have seen the underlying political economies whose\
-    \ dynamics, and not slow onset environmental changes or disastrous environmental\
-    \ events, are pushing Bangladeshis to incorporate migration strategies into their\
-    \ livelihood strategies."
+  url: https://arxiv.org/abs/1603.08961
+- abstract: Between the national and household factors, community or "meso-level"
+    changes in political economy and livelihoods in southwestern Bangladesh illustrate
+    that in order to understand the impacts on people and nations of climate change-related
+    environmental changes---changes that are expected to include rising sea level,
+    saline inundation, and increased likelihood and intensity of cyclones in Bangladesh---we
+    need to understand the dynamics of the built and natural environment and the political
+    economies these sustain. Meso-level political economies affect the sources of
+    income and livelihood available in distressed environmental conditions, and therefore
+    influence how well the people in them can adapt to changing environmental conditions.
+    In this study we have seen the underlying political economies whose dynamics,
+    and not slow onset environmental changes or disastrous environmental events, are
+    pushing Bangladeshis to incorporate migration strategies into their livelihood
+    strategies.
   author:
   - family: Ackerly
     given: Brooke A.
@@ -1597,8 +1478,8 @@ references:
   - desc: full text
     file: ackerly_2015_political_economies.pdf
   id: ackerly:2015:political.economies
-  issued:
-  - year: 2015
+  isbn: 9789849103790
+  issued: 2015
   keyword: tenuretrack
   page: 27-39
   publisher: AH Development Publishing House
@@ -1606,13 +1487,7 @@ references:
   status: published
   title: Environment, political economies, and livelihood change
   type: chapter
-- DOI: 10.1038/nclimate2620
-  ISSN: 1758-678X
-  URL: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
-  accessed:
-  - day: 3
-    month: 6
-    year: 2015
+- accessed: 2015-06-03
   author:
   - family: Auerbach
     given: L. W.
@@ -1635,34 +1510,35 @@ references:
   - family: Ackerly
     given: B. A.
   container-title: Nature Climate Change
+  doi: 10.1038/nclimate2620
   id: auerbach:2015:polder.reply
-  issue: '6'
-  issued:
-  - year: 2015
+  issn: 1758-678X
+  issue: 6
+  issued: 2015
   keyword: tenuretrack
   page: 492-493
   status: published
-  title: "Reply to \u2018Tidal river management in Bangladesh\u2019"
+  title: Reply to 'Tidal river management in Bangladesh'
   type: article-journal
-  volume: '5'
-- DOI: 10.1038/nclimate2472
-  abstract: "The Ganges-Brahmaputra river delta, with 170 million people and a vast,\
-    \ low-lying coastal plain, is perceived to be at great risk of increased flooding\
-    \ and submergence from sea-level rise. However, human alteration of the landscape\
-    \ can create similar risks to sea-level rise. Here, we report that islands in\
-    \ southwest Bangladesh, enclosed by embankments in the 1960s, have lost 1.0\u2013\
-    1.5m of elevation, whereas the neighbouring Sundarban mangrove forest has remained\
-    \ comparatively stable. We attribute this elevation loss to interruption of sedimentation\
-    \ inside the embankments, combined with accelerated compaction, removal of forest\
-    \ biomass, and a regionally increased tidal range. One major consequence of this\
-    \ elevation loss occurred in 2009 when the embankments of several large islands\
-    \ failed during Cyclone Aila, leaving large areas of land tidally inundated for\
-    \ up to two years until embankments were repaired. Despite sustained human suering\
-    \ during this time, the newly reconnected landscape received tens of centimetres\
-    \ of tidally deposited sediment, equivalent to decades\u2019 worth of normal sedimentation.\
-    \ Although many areas still lie well below mean high water and remain at risk\
-    \ of severe flooding, we conclude that elevation recovery may be possible through\
-    \ controlled embankment breaches."
+  url: https://www.nature.com/nclimate/journal/v5/n6/full/nclimate2620.html
+  volume: 5
+- abstract: The Ganges-Brahmaputra river delta, with 170 million people and a vast,
+    low-lying coastal plain, is perceived to be at great risk of increased flooding
+    and submergence from sea-level rise. However, human alteration of the landscape
+    can create similar risks to sea-level rise. Here, we report that islands in southwest
+    Bangladesh, enclosed by embankments in the 1960s, have lost 1.0--1.5m of elevation,
+    whereas the neighbouring Sundarban mangrove forest has remained comparatively
+    stable. We attribute this elevation loss to interruption of sedimentation inside
+    the embankments, combined with accelerated compaction, removal of forest biomass,
+    and a regionally increased tidal range. One major consequence of this elevation
+    loss occurred in 2009 when the embankments of several large islands failed during
+    Cyclone Aila, leaving large areas of land tidally inundated for up to two years
+    until embankments were repaired. Despite sustained human suering during this time,
+    the newly reconnected landscape received tens of centimetres of tidally deposited
+    sediment, equivalent to decades' worth of normal sedimentation. Although many
+    areas still lie well below mean high water and remain at risk of severe flooding,
+    we conclude that elevation recovery may be possible through controlled embankment
+    breaches.
   author:
   - family: Auerbach
     given: Leslie W.
@@ -1686,36 +1562,30 @@ references:
   - family: Ackerly
     given: Brooke A.
   container-title: Nature Climate Change
+  doi: 10.1038/nclimate2472
   file:
   - desc: full text
     file: auerbach_2015_bangladesh.pdf
   id: auerbach:2015:polders
-  issue: '2'
-  issued:
-  - year: 2015
+  issue: 2
+  issued: 2015
   keyword: tenuretrack
   page: 152-157
   status: published
   title: Flood risk of natural and embanked landscapes on the Ganges-Brahmaputra tidal
     delta plain
   type: article-journal
-  volume: '5'
-- DOI: 10.1109/WSC.2015.7408456
-  ISBN: 978-1-4673-9741-4
-  URL: https://dl.acm.org/citation.cfm?id=2888619.2889027
-  abstract: "Flood-control measures, such as levees and floodwalls, can backfire and\
-    \ increase risks of disastrous floods by giving the public a false sense of security\
-    \ and thus encouraging people to build valuable property in high-risk locations.\
-    \ More generally, nonlinear interactions between human land-use and natural processes\
-    \ can produce unexpected emergent phenomena in coupled human-natural systems (CHNS).\
-    \ We describe a participatory agent-based simulation of coupled urban development\
-    \ and flood risks and discuss the potential of this simulation to help educate\
-    \ a wide range of the public\u2014from middle- and high-school students to public\
-    \ officials\u2014about emergence in CHNS and present results from two pilot studies."
-  accessed:
-  - day: 25
-    month: 2
-    year: 2016
+  volume: 5
+- abstract: Flood-control measures, such as levees and floodwalls, can backfire and
+    increase risks of disastrous floods by giving the public a false sense of security
+    and thus encouraging people to build valuable property in high-risk locations.
+    More generally, nonlinear interactions between human land-use and natural processes
+    can produce unexpected emergent phenomena in coupled human-natural systems (CHNS).
+    We describe a participatory agent-based simulation of coupled urban development
+    and flood risks and discuss the potential of this simulation to help educate a
+    wide range of the public---from middle- and high-school students to public officials---about
+    emergence in CHNS and present results from two pilot studies.
+  accessed: 2016-02-25
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -1728,6 +1598,7 @@ references:
   - family: Sengupta
     given: Pratim
   container-title: Proceedings of the 2015 Winter Simulation Conference
+  doi: 10.1109/WSC.2015.7408456
   editor:
   - family: Yilmaz
     given: L.
@@ -1745,19 +1616,18 @@ references:
   - desc: full text
     file: gilligan_2015_flood_partsim.pdf
   id: gilligan:2015:flood.partsim
-  issued:
-  - year: 2015
+  isbn: 978-1-4673-9741-4
+  issued: 2015
   keyword: tenuretrack
-  note: '00000'
+  note: 0
   page: 3174-3175
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
   status: published
   title: Participatory simulations of urban flooding for learning and decision support
   type: paper-conference
-- DOI: 10.1002/2015WR016943
-  ISSN: 1944-7973
-  abstract: Cities across the world have had to diversify and expand their water supply
+  url: https://dl.acm.org/citation.cfm?id=2888619.2889027
+- abstract: Cities across the world have had to diversify and expand their water supply
     systems in response to demand growth, groundwater depletion and pollution, and
     instability and inadequacy of regional surface freshwater sources. In the U.S.,
     these problems plague not only the arid Western cities but increasingly also cities
@@ -1773,10 +1643,7 @@ references:
     and political barriers to more advanced water conservation regimes. This interdisciplinary,
     mixed methods approach typifies the need for knowledge that informs hydrologists
     about how their research may or may not be adopted by decision-makers.
-  accessed:
-  - day: 12
-    month: 2
-    year: 2016
+  accessed: 2016-02-12
   author:
   - family: Hornberger
     given: George M.
@@ -1785,45 +1652,41 @@ references:
   - family: Gilligan
     given: Jonathan
   container-title: Water Resources Research
+  doi: 10.1002/2015WR016943
   file:
   - desc: full text
     file: hornberger_2015_water_conservation.pdf
   id: hornberger:2015:hydro.transitions
-  issue: '6'
-  issued:
-  - year: 2015
+  issn: 1944-7973
+  issue: 6
+  issued: 2015
   keyword: 1834 Human impacts, 1880 Water management, 1884 Water supply, water conservation,
     tenuretrack
   page: 4635-4649
   status: published
   title: Water conservation and hydrological transitions in cities in the United States
   type: article-journal
-  volume: '51'
-- DOI: 10.1109/WSC.2015.7408381
-  ISBN: 978-1-4673-9741-4
-  URL: https://dl.acm.org/citation.cfm?id=2888619.2888935
-  abstract: "This article outlines a method for automatically generating models of\
-    \ dynamic decision-making that both have strong predictive power and are interpretable\
-    \ in human terms. This is useful for designing empirically grounded agent-based\
-    \ simulations and for gaining direct insight into observed dynamic processes.\
-    \ We use an efficient model representation and a genetic algorithm-based estimation\
-    \ process to generate simple approximations that explain most of the structure\
-    \ of complex stochastic processes. This method, implemented in C^++^ and R, scales\
-    \ well to large data sets. We apply our methods to empirical data from human subjects\
-    \ game experiments and international relations. We also demonstrate the method\u2019\
-    s ability to recover known data-generating processes by simulating data with agent-based\
-    \ models and correctly deriving the underlying decision models for multiple agent\
-    \ models and degrees of stochasticity."
-  accessed:
-  - day: 25
-    month: 2
-    year: 2016
+  volume: 51
+- abstract: This article outlines a method for automatically generating models of
+    dynamic decision-making that both have strong predictive power and are interpretable
+    in human terms. This is useful for designing empirically grounded agent-based
+    simulations and for gaining direct insight into observed dynamic processes. We
+    use an efficient model representation and a genetic algorithm-based estimation
+    process to generate simple approximations that explain most of the structure of
+    complex stochastic processes. This method, implemented in C^++^ and R, scales
+    well to large data sets. We apply our methods to empirical data from human subjects
+    game experiments and international relations. We also demonstrate the method's
+    ability to recover known data-generating processes by simulating data with agent-based
+    models and correctly deriving the underlying decision models for multiple agent
+    models and degrees of stochasticity.
+  accessed: 2016-02-25
   author:
   - family: Nay
     given: John J.
   - family: Gilligan
     given: Jonathan M.
   container-title: Proceedings of the 2015 winter simulation conference
+  doi: 10.1109/WSC.2015.7408381
   editor:
   - family: Yilmaz
     given: L.
@@ -1841,10 +1704,10 @@ references:
   - desc: full text
     file: nay_2015_dynamic_decision_models.pdf
   id: nay:2015:decision.models
-  issued:
-  - year: 2015
+  isbn: 978-1-4673-9741-4
+  issued: 2015
   keyword: tenuretrack
-  note: '00000'
+  note: 0
   page: 2752-2763
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -1852,50 +1715,48 @@ references:
   status: published
   title: Data-driven dynamic decision models
   type: paper-conference
-- DOI: 10.2139/ssrn.2533643
-  URL: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
-  abstract: "This Article examines how private governance can bypass government gridlock\
-    \ on climate change and buy time for a national and international carbon price.\
-    \ A carbon price\u2014whether in the form of a carbon tax or a cap-and-trade program\u2014\
-    is the optimal government response but is unlikely to be implemented within the\
-    \ next decade. Likely government policies will reduce emissions by far less than\
-    \ needed to reduce the risk of significant climate disruption, but recent corporate\
-    \ carbon disclosure programs, supply chain contracting requirements, investor\
-    \ pressure, and other private initiatives demonstrate the viability of another\
-    \ approach. Private initiatives can reduce carbon emissions without the coercive\
-    \ power or resources of government by correcting market and behavioral failures\
-    \ and by drawing on the support for mitigation that exists in a subset of the\
-    \ population. The Article demonstrates how a private governance wedge of emissions\
-    \ reductions can be achieved by expanding current corporate and household private\
-    \ governance initiatives and by launching new initiatives that address climate\
-    \ beliefs, motivations, and behavior. Private initiatives can bypass ideological\
-    \ barriers and national boundaries, but implementing a private climate governance\
-    \ strategy will require relaxing the assumption that only governments can drive\
-    \ major emissions reductions over the next decade."
+  url: https://dl.acm.org/citation.cfm?id=2888619.2888935
+- abstract: This Article examines how private governance can bypass government gridlock
+    on climate change and buy time for a national and international carbon price.
+    A carbon price---whether in the form of a carbon tax or a cap-and-trade program---is
+    the optimal government response but is unlikely to be implemented within the next
+    decade. Likely government policies will reduce emissions by far less than needed
+    to reduce the risk of significant climate disruption, but recent corporate carbon
+    disclosure programs, supply chain contracting requirements, investor pressure,
+    and other private initiatives demonstrate the viability of another approach. Private
+    initiatives can reduce carbon emissions without the coercive power or resources
+    of government by correcting market and behavioral failures and by drawing on the
+    support for mitigation that exists in a subset of the population. The Article
+    demonstrates how a private governance wedge of emissions reductions can be achieved
+    by expanding current corporate and household private governance initiatives and
+    by launching new initiatives that address climate beliefs, motivations, and behavior.
+    Private initiatives can bypass ideological barriers and national boundaries, but
+    implementing a private climate governance strategy will require relaxing the assumption
+    that only governments can drive major emissions reductions over the next decade.
   author:
   - family: Vandenbergh
     given: Michael P.
   - family: Gilligan
     given: Jonathan M.
   container-title: Columbia Journal of Environmental Law
+  doi: 10.2139/ssrn.2533643
   file:
   - desc: full text
     file: vandenbergh_2015_beyond_gridlock.pdf
   id: vandenbergh:2015:beyond.gridlock
-  issue: '2'
-  issued:
-  - year: 2015
+  issue: 2
+  issued: 2015
   keyword: tenuretrack
-  note: '**<span class="smallcaps">Note:</span>** This paper won the 2017 Morrison
-    Prize for the highest-impact paper on sustainability law and policy in 2015'
+  note: '**[Note:]{.smallcaps}** This paper won the 2017 Morrison Prize for the highest-impact
+    paper on sustainability law and policy in 2015'
   page: 217-303
   ssrn: '2533643'
   status: published
   title: Beyond gridlock
   type: article-journal
-  volume: '40'
-- DOI: 10.2139/ssrn.2220788
-  abstract: 'This Essay argues for consideration of political opportunity costs in
+  url: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
+  volume: 40
+- abstract: 'This Essay argues for consideration of political opportunity costs in
     the criteria used to evaluate climate policy instruments. Law and policy debates
     typically evaluate policy instruments by their expected performance after adoption,
     tacitly excluding consideration of the timing of adoption. Under this standard,
@@ -1919,21 +1780,20 @@ references:
   - family: Vandenbergh
     given: Michael P.
   container-title: Virginia Environmental Law Journal
+  doi: 10.2139/ssrn.2220788
   file:
   - desc: full text
     file: gilligan_2014_political_feasibility.pdf
   id: gilligan:2014:political.feasibility
-  issued:
-  - year: 2014
+  issued: 2014
   keyword: tenuretrack
   page: 1-26
   ssrn: '2220788'
   status: published
   title: Accounting for political feasibility in climate instrument choice
   type: article-journal
-  volume: '32'
-- URL: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
-  abstract: 'Much of energy policy is driven by concerns about climate change. Views
+  volume: 32
+- abstract: 'Much of energy policy is driven by concerns about climate change. Views
     about the importance of carbon emissions affect debates on topics ranging from
     the regulation of electricity generation and transmission to the need for incentives
     to develop and promote emerging technologies. Government efforts to fund and communicate
@@ -1971,8 +1831,7 @@ references:
   - desc: full text
     file: vandenbergh_2014_prediction_market.pdf
   id: vandenbergh:2014:prediction.markets
-  issued:
-  - year: 2014
+  issued: 2014
   keyword: tenuretrack
   page: 1962-2017
   ssrn: '2372321'
@@ -1980,22 +1839,22 @@ references:
   title: 'Energy and climate change: A climate prediction market'
   title-short: Energy and climate change
   type: article-journal
-  volume: '61'
-- abstract: "Environmental vulnerability in Bangladesh\u2014especially vulnerability\
-    \ to climate change\u2014is too often treated in isolation from the social, economic,\
-    \ and political contexts in which communities and their inhabitants make their\
-    \ livelihood. We propose that resilience and vulnerability to environmental stress\
-    \ are best understood in terms of a modification of Ostrom\u2019s socioecological\
-    \ systems paradigm that we call \u201Cmultiple dynamic equilibria:\u201D livelihoods\
-    \ in vulnerable regions are shaped by multiple overlapping patterns of interaction\
-    \ between the physical environment in which people live and the social, economic,\
-    \ and political environments in which they interact, within their communities,\
-    \ with other communities, and external actors. Translating policy goals into effective\
-    \ action requires understanding these interactions at multiple levels. We report\
-    \ on a new transdisciplinary project that draws geoscientists, engineers, and\
-    \ social scientists together to investigate the interactions between communities\
-    \ and the environment in the southwestern coastal region of Bangladesh and understand\
-    \ the dynamics of vulnerability and resilience."
+  url: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
+  volume: 61
+- abstract: Environmental vulnerability in Bangladesh---especially vulnerability to
+    climate change---is too often treated in isolation from the social, economic,
+    and political contexts in which communities and their inhabitants make their livelihood.
+    We propose that resilience and vulnerability to environmental stress are best
+    understood in terms of a modification of Ostrom's socioecological systems paradigm
+    that we call "multiple dynamic equilibria:" livelihoods in vulnerable regions
+    are shaped by multiple overlapping patterns of interaction between the physical
+    environment in which people live and the social, economic, and political environments
+    in which they interact, within their communities, with other communities, and
+    external actors. Translating policy goals into effective action requires understanding
+    these interactions at multiple levels. We report on a new transdisciplinary project
+    that draws geoscientists, engineers, and social scientists together to investigate
+    the interactions between communities and the environment in the southwestern coastal
+    region of Bangladesh and understand the dynamics of vulnerability and resilience.
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -2009,10 +1868,7 @@ references:
   - desc: full text
     file: gilligan_2013_building_resilience.pdf
   id: gilligan:2013:isee
-  issued:
-  - day: 22
-    month: 2
-    year: 2013
+  issued: 2013-02-22
   publisher: Bangladesh Development Initiative
   publisher-place: Berkeley, CA
   status: published
@@ -2046,48 +1902,45 @@ references:
   - desc: full text
     file: rogers_2013_farming_practices.pdf
   id: rogers:2013:farming
-  issued:
-  - year: 2013
+  issued: 2013
   page: 133-142
-  publisher: "Int\u2019l. Assoc.\_Hydrolog.\_Sci."
+  publisher: "Int'l. Assoc.\_Hydrolog.\_Sci."
   publisher-place: Gothenberg SE
   status: published
   title: Farming practices and anthropogenic delta dynamics
   type: paper-conference
-  volume: '358'
-- abstract: "The individual and household sector accounts for roughly 40 percent of\
-    \ United States energy use and carbon dioxide emissions, yet the laws and policies\
-    \ directed at reductions from this sector often reflect a remarkably simplistic\
-    \ model of behavior. This Essay addresses one of the obstacles to achieving a\
-    \ \u201Cbehavioral wedge\u201Dbehavioral wedge of individual and household emissions\
-    \ reductions: the lack of an accessible, brief summary for policymakers of the\
-    \ key findings of behavioral and social science studies on household energy behavior.\
-    \ The Essay does not provide a comprehensive overview of the field, but it discusses\
-    \ many of the leading studies that demonstrate the extent and limits of rational\
-    \ action. These studies can inform lawyers and policymakers who are developing\
-    \ measures to reduce energy use and carbon emissions and can serve as an entry\
-    \ point for more detailed studies of the literature.An effective response to the\
-    \ climate change problem will require substantial reductions in energy demand\
-    \ in addition to new developments in low-carbon energy supplies.1 The individual\
-    \ and household sector presents a major opportunity: the sector accounts for roughly\
-    \ 40Despite this opportunity, recent regulatory and policy efforts are only beginning\
-    \ to direct substantial attention to the individual and household sector. Findings\
-    \ from the social sciences provide valuable insights into how to capitalize on\
-    \ this opportunity, yet policymakers often have little time to develop new polices\
-    \ and are confronted with a barrage of often-conflicting approaches and theories.\
-    \ This Essay addresses the policy-making challenge by distilling the findings\
-    \ from a broad range of fields into several key principles for those developing\
-    \ energy and climate laws and policies. The principles we outline here are a starting\
-    \ point for policymakers working in this area. We attempt to provide insight into\
-    \ which principles are most relevant to law and policy, but instructions as to\
-    \ how to incorporate these principles are beyond the scope of this essay. The\
-    \ principles include only a subset of the insights from the behavioral and social\
-    \ science literature. In many cases, adherence to multiple principles will be\
-    \ necessary to develop the most effective policy design. Policymakers should consult\
-    \ the body of work referenced here, as well as experts in the social sciences\
-    \ to further their understanding of these and other principles. More extensive\
-    \ reviews of this literature and its relevance to energy and climate policy are\
-    \ also available."
+  volume: 358
+- abstract: 'The individual and household sector accounts for roughly 40 percent of
+    United States energy use and carbon dioxide emissions, yet the laws and policies
+    directed at reductions from this sector often reflect a remarkably simplistic
+    model of behavior. This Essay addresses one of the obstacles to achieving a "behavioral
+    wedge"behavioral wedge of individual and household emissions reductions: the lack
+    of an accessible, brief summary for policymakers of the key findings of behavioral
+    and social science studies on household energy behavior. The Essay does not provide
+    a comprehensive overview of the field, but it discusses many of the leading studies
+    that demonstrate the extent and limits of rational action. These studies can inform
+    lawyers and policymakers who are developing measures to reduce energy use and
+    carbon emissions and can serve as an entry point for more detailed studies of
+    the literature.An effective response to the climate change problem will require
+    substantial reductions in energy demand in addition to new developments in low-carbon
+    energy supplies.1 The individual and household sector presents a major opportunity:
+    the sector accounts for roughly 40Despite this opportunity, recent regulatory
+    and policy efforts are only beginning to direct substantial attention to the individual
+    and household sector. Findings from the social sciences provide valuable insights
+    into how to capitalize on this opportunity, yet policymakers often have little
+    time to develop new polices and are confronted with a barrage of often-conflicting
+    approaches and theories. This Essay addresses the policy-making challenge by distilling
+    the findings from a broad range of fields into several key principles for those
+    developing energy and climate laws and policies. The principles we outline here
+    are a starting point for policymakers working in this area. We attempt to provide
+    insight into which principles are most relevant to law and policy, but instructions
+    as to how to incorporate these principles are beyond the scope of this essay.
+    The principles include only a subset of the insights from the behavioral and social
+    science literature. In many cases, adherence to multiple principles will be necessary
+    to develop the most effective policy design. Policymakers should consult the body
+    of work referenced here, as well as experts in the social sciences to further
+    their understanding of these and other principles. More extensive reviews of this
+    literature and its relevance to energy and climate policy are also available.'
   author:
   - family: Carrico
     given: Amanda R.
@@ -2106,17 +1959,15 @@ references:
   - desc: full text
     file: carrico_2011_key_lessons.pdf
   id: carrico:2011:key.lessons
-  issued:
-  - year: 2011
+  issued: 2011
   page: 61-67
   ssrn: '1612224'
   status: published
   title: 'Energy and climate change: Key lessons for implementing the behavioral wedge'
   title-short: Energy and climate change
   type: article-journal
-  volume: '2'
-- URL: https://scholarship.law.duke.edu/delpf/vol21/iss2/8/
-  author:
+  volume: 2
+- author:
   - family: Vandenbergh
     given: Michael P.
   - family: Gilligan
@@ -2126,15 +1977,15 @@ references:
   - desc: full text
     file: vandenbergh_2011_macro_risks.pdf
   id: vandenbergh:2011:macro.risks
-  issued:
-  - year: 2011
+  issued: 2011
   page: 401-431
   ssrn: '2004671'
   status: published
   title: 'Macro-risks: The challenge for rational risk regulation'
   title-short: Macro-risks
   type: article-journal
-  volume: '21'
+  url: https://scholarship.law.duke.edu/delpf/vol21/iss2/8/
+  volume: 21
 - author:
   - family: Baudenbacher
     given: Franz J.
@@ -2159,10 +2010,7 @@ references:
   - family: Werdich
     given: Andreas
   id: baudenbacher:2010:patent.metabolic
-  issued:
-  - day: 27
-    month: 4
-    year: 2010
+  issued: 2010-04-27
   number: 7,704,745 B2
   status: published
   title: Apparatus and methods for monitoring the status of a metabolically active
@@ -2182,17 +2030,13 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   id: cliffel:2010:patent.plurality
-  issued:
-  - day: 11
-    month: 5
-    year: 2010
+  issued: 2010-05-11
   number: 7,713,733 B2
   status: published
   title: Device and methods for detecting the response of a plurality of cells to
     at least one analyte of interest
   type: patent
-- DOI: 10.1111/j.1740-9713.2010.00405.x
-  author:
+- author:
   - family: Gilligan
     given: Jonathan
   - family: Dietz
@@ -2204,22 +2048,23 @@ references:
   - family: Vandenbergh
     given: Michael
   container-title: Significance
+  doi: 10.1111/j.1740-9713.2010.00405.x
   file:
   - desc: full text
     file: gilligan_2010_behavioral_wedge.pdf
   id: gilligan:2010:behavioral.wedge
-  issued:
-  - year: 2010
-  note: '*Invited paper, subsequently named one of the best papers of 2009 by Significance.*'
+  issued: 2010
+  note: '`\Note{}`{=latex} *Invited paper, subsequently named one of the best papers
+    of 2009 by Significance.*'
   page: 17-20
   status: published
   title: The behavioral wedge
   type: article-journal
-  volume: '7'
+  volume: 7
 - author:
   - family: Gilligan
     given: Jonathan
-  container-title: 'Opposing viewpoints: Ethics'
+  container-title: 'Opposing viewpoints: ethics'
   editor:
   - family: Espejo
     given: R.
@@ -2227,16 +2072,14 @@ references:
   - desc: full text
     file: gilligan_2010_ethics_in_geologic_time.pdf
   id: gilligan:2010:future.generations
-  issued:
-  - year: 2010
+  issued: 2010
   page: 20-32
   publisher: Gale
   status: published
   title: People should behave ethically for the sake of future generations
   type: chapter
-  volume: '2'
-- DOI: 10.1021/es100896p
-  author:
+  volume: 2
+- author:
   - family: Stern
     given: Paul C.
   - family: Gardner
@@ -2248,17 +2091,17 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Environmental Science & Technology
+  doi: 10.1021/es100896p
   file:
   - desc: full text
     file: stern_2010_design_principles.pdf
   id: stern:2010:design.principles
-  issued:
-  - year: 2010
+  issued: 2010
   page: 4847-4848
   status: published
   title: Design principles for carbon emissions reduction programs
   type: article-journal
-  volume: '44'
+  volume: 44
 - author:
   - family: Vandenbergh
     given: Michael P.
@@ -2275,10 +2118,10 @@ references:
   - desc: full text
     file: vandenbergh_2010_implementing_behavioral_wedge.pdf
   id: vandenbergh:2010:implementing
-  issued:
-  - year: 2010
-  note: Selected by Environmental Law Institute to reprint as the featured cover story
-    of the 2010 summer reading issue for policymakers of Environmental Forum.
+  issued: 2010
+  note: '`\Note{}`{=latex} Selected by Environmental Law Institute to reprint as the
+    featured cover story of the 2010 summer reading issue for policymakers of Environmental
+    Forum.'
   page: 547-554
   ssrn: '1617426'
   status: published
@@ -2286,9 +2129,8 @@ references:
     emissions reduction programs'
   title-short: Implementing the behavioral wedge
   type: article-journal
-  volume: '40'
-- DOI: 10.1016/j.enpol.2009.03.031
-  author:
+  volume: 40
+- author:
   - family: Carrico
     given: Amanda R.
   - family: Padgett
@@ -2300,21 +2142,20 @@ references:
   - family: Wallston
     given: Kenneth A.
   container-title: Energy Policy
+  doi: 10.1016/j.enpol.2009.03.031
   file:
   - desc: full text
     file: carrico_2009_costly_myths.pdf
   id: carrico:2009:costly.myths
-  issued:
-  - year: 2009
+  issued: 2009
   page: 2881-2888
   status: published
   title: 'Costly myths: An analysis of idling beliefs and behavior in personal motor
     vehicles'
   title-short: Costly myths
   type: article-journal
-  volume: '37'
-- DOI: 10.1073/pnas.0908738106
-  author:
+  volume: 37
+- author:
   - family: Dietz
     given: Thomas
   - family: Gardner
@@ -2326,20 +2167,20 @@ references:
   - family: Vandenbergh
     given: Michael
   container-title: PNAS
+  doi: 10.1073/pnas.0908738106
   file:
   - desc: full text
     file: dietz_2009_behavioral_wedge.pdf
   - desc: Supporting Information
     file: dietz_2009_behavioral_wedge_supporting_info.pdf
   id: dietz:2009:behavioral.wedge
-  issued:
-  - year: 2009
+  issued: 2009
   page: 18452-18456
   status: published
-  title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
+  title: Household actions can provide a behavioral wedge to rapidly reduce U.S. Carbon
     emissions
   type: article-journal
-  volume: '106'
+  volume: 106
 - author:
   - family: Holcomb
     given: Mark R.
@@ -2358,15 +2199,15 @@ references:
   - desc: full text
     file: holcomb_2009_dual_camera.pdf
   id: holcomb:2009:dual.camera
-  issued:
-  - year: 2009
-  note: '*Selected by the editors as the feature article of the month.*'
+  issued: 2009
+  note: '`\Note{}`{=latex} *Selected by the editors as the feature article of the
+    month.*'
   page: 1355-1372
   status: published
   title: The potential of dual camera systems for multimodal imaging of cardiac electrophysiology
     and metabolism
   type: article-journal
-  volume: '234'
+  volume: 234
 - author:
   - family: Vandenbergh
     given: Michael P.
@@ -2379,15 +2220,14 @@ references:
   - desc: full text
     file: vandenbergh_2008_low_hanging_fruit.pdf
   id: vandenbergh:2008:low.hanging.fruit
-  issued:
-  - year: 2008
+  issued: 2008
   page: 1701-1758
   ssrn: '1161143'
   status: published
   title: 'Individual carbon emissions: The low-hanging fruit'
   title-short: Individual carbon emissions
   type: article-journal
-  volume: '55'
+  volume: 55
 - author:
   - family: Mashburn
     given: David N.
@@ -2406,14 +2246,13 @@ references:
   - desc: full text
     file: mashburn_2007_cardiac_stimulator.pdf
   id: mashburn:2007:cardiac.stimulator
-  issued:
-  - year: 2007
+  issued: 2007
   page: 104302-104309
   status: published
   title: A high-voltage cardiac stimulator for field shocks of a whole heart in a
     bath
   type: article-journal
-  volume: '78'
+  volume: 78
 - author:
   - family: Gilligan
     given: Jonathan Mark
@@ -2422,18 +2261,15 @@ references:
   - desc: full text
     file: gilligan_2006_nanotechnology.pdf
   id: gilligan:2006:nanotech
-  issue: '12'
-  issued:
-  - year: 2006
+  issued: 2006
   page: 10924-10930
   status: published
   title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
     risks'
   title-short: Flexibility, clarity, and legitimacy
   type: article-journal
-  volume: '36'
-- PMID: '12683847'
-  abstract: "Light scattering is used to monitor the dynamics and energy thresholds\
+  volume: 36
+- abstract: "Light scattering is used to monitor the dynamics and energy thresholds\
     \ of laser-induced structural alterations in biopolymers due to irradiation by\
     \ a free electron laser\_(FEL) in the infrared\_(IR) wavelength range 2.2\_to\
     \ 8.5\_$\\mu$m. Attenuated total reflectance (ATR) Fourier-transform\_IR\_(FTIR)\
@@ -2469,15 +2305,14 @@ references:
   - desc: full text
     file: sobol_2003_light_scattering.pdf
   id: sobol:2003:light.scattering
-  issue: '2'
-  issued:
-  - year: 2003
+  issued: 2003
   page: 216-222
+  pmid: 12683847
   status: published
   title: Time-resolved light scattering measurements of cartilage and cornea denaturation
     due to free-electron laser radiation
   type: article-journal
-  volume: '8'
+  volume: 8
 - author:
   - family: Cricenti
     given: Antonio
@@ -2501,13 +2336,12 @@ references:
     given: Norman H.
   container-title: Advances in Science and Technology
   id: cricenti:2002:snom.surface
-  issued:
-  - year: 2002
+  issued: 2002
   page: 183-192
   status: published
   title: Surface characterisation by near-field microscopy and atomic force microscopy
   type: article-journal
-  volume: '32'
+  volume: 32
 - author:
   - family: Mensing
     given: G.
@@ -2527,24 +2361,22 @@ references:
     given: P. C.
   container-title: Journal of Non-Crystalline Solids
   id: mensing:2002:defect.energies
-  issued:
-  - year: 2002
+  issued: 2002
   page: 621-625
   status: published
   title: Defect transition energies and the density of electronic states in hydrogenated
     amorphous silicon
   type: article-journal
-  volume: '299'
-- PMID: '11309110'
-  abstract: "Hydrogen chemistry in thin films and biological systems is one of the\
-    \ most difficult experimental problems in today\u2019s science and technology.\
-    \ We successfully tested a novel solution, based on the spectroscopic version\
-    \ of scanning near-field optical microscopy\_(SNOM). The tunable infrared radiation\
-    \ of the Vanderbilt free-electron laser enabled us to reveal clearly hydrogen-decorated\
-    \ grain boundaries on nominally hydrogen-free diamond films. The images were obtained\
-    \ by SNOM detection of reflected 3.5\_micron photons, corresponding to the C-H\
-    \ stretch absorption, and reached a lateral resolution of 0.2\_micron, well below\
-    \ the $\\lambda/2$ ($\\lambda$ = wavelength) limit of classical microscopy."
+  volume: 299
+- abstract: "Hydrogen chemistry in thin films and biological systems is one of the\
+    \ most difficult experimental problems in today's science and technology. We successfully\
+    \ tested a novel solution, based on the spectroscopic version of scanning near-field\
+    \ optical microscopy\_(SNOM). The tunable infrared radiation of the Vanderbilt\
+    \ free-electron laser enabled us to reveal clearly hydrogen-decorated grain boundaries\
+    \ on nominally hydrogen-free diamond films. The images were obtained by SNOM detection\
+    \ of reflected 3.5\_micron photons, corresponding to the C-H stretch absorption,\
+    \ and reached a lateral resolution of 0.2\_micron, well below the $\\lambda/2$\
+    \ ($\\lambda$ = wavelength) limit of classical microscopy."
   author:
   - family: Cricenti
     given: Antonio
@@ -2571,16 +2403,16 @@ references:
   - desc: full text
     file: cricenti_2001_diamond_film.pdf
   id: cricenti:2001:snom.spectroscopy
-  issued:
-  - year: 2001
+  issued: 2001
   page: 446-450
+  pmid: 11309110
   status: published
   title: "Spectroscopic scanning near-field optical microscopy with a free electron\
     \ laser: CH$_2$\_bond imaging in diamond films"
   title-short: Spectroscopic scanning near-field optical microscopy with a free electron
     laser
   type: article-journal
-  volume: '202'
+  volume: 202
 - author:
   - family: Sturmann
     given: Judit
@@ -2602,13 +2434,12 @@ references:
     given: Wolfgang
   - family: Tolk
     given: Norman H.
-  container-title: Nonresonant laser-matter interaction (nlmi-10)
+  container-title: Nonresonant laser-matter interaction (NLMI-10)
   file:
   - desc: full text
     file: sturmann_2001_photoablation.pdf
   id: sturmann:2001:fel
-  issued:
-  - year: 2001
+  issued: 2001
   page: 206-211
   publisher: International Society for Optics; Photonics
   status: published
@@ -2631,15 +2462,14 @@ references:
     given: Norman H.
   container-title: Condensed Matter Theories
   id: lupke:2000:selective.modification
-  issued:
-  - year: 2000
+  issued: 2000
   page: 349-364
   status: published
   title: 'Materials science at the WM Keck free electron laser: Infrared wavelength
     selective materials modification'
   title-short: Materials science at the WM Keck free electron laser
   type: article-journal
-  volume: '14'
+  volume: 14
 - author:
   - family: Sobol
     given: Emil
@@ -2656,15 +2486,14 @@ references:
   - desc: full text
     file: sobol_2000_tissue_absorption.pdf
   id: sobol:2000:tissue.absorption
-  issued:
-  - year: 2000
-  page: '78'
+  issued: 2000
+  page: 78
   publisher: SPIE
   status: published
   title: Alteration of absorption coefficients of tissue water as a result of heating
     under IR FEL radiation with different wavelengths
   type: paper-conference
-  volume: '3925'
+  volume: 3925
 - author:
   - family: Talley
     given: David B.
@@ -2691,13 +2520,12 @@ references:
   - desc: full text
     file: talley_2000_ir_snom_tips.pdf
   id: talley:2000:snom
-  issued:
-  - year: 2000
+  issued: 2000
   page: 339-344
   status: published
   title: Scanning near field infrared microscopy using chalcogenide fiber tips
   type: article-journal
-  volume: '42'
+  volume: 42
 - author:
   - family: Cricenti
     given: Antonio
@@ -2720,14 +2548,13 @@ references:
   - desc: full text
     file: cricenti_1999_chemical_contrast.pdf
   id: cricenti:1999:snom.contrast
-  issued:
-  - year: 1999
+  issued: 1999
   page: 345-349
   status: published
   title: Chemical contrast observed at a III-V heterostructure by scanning near-field
     optical microscopy
   type: article-journal
-  volume: '175'
+  volume: 175
 - author:
   - family: Cricenti
     given: A.
@@ -2756,14 +2583,13 @@ references:
   - desc: full text
     file: cricenti_1999_interface_snom.pdf
   id: cricenti:1999:snom.interface
-  issued:
-  - year: 1999
+  issued: 1999
   page: 317-329
   status: published
   title: Interface applications of scanning near-field optical microscopy with a free
     electron laser
   type: article-journal
-  volume: '175'
+  volume: 175
 - author:
   - family: Marka
     given: Z.
@@ -2784,14 +2610,13 @@ references:
   - desc: full text
     file: marka_1999_nanoscale_modifications.pdf
   id: marka:1999:nonlinear.modification
-  issued:
-  - year: 1999
+  issued: 1999
   page: 1069-1072
   status: published
   title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
     in metals and semiconductors
   type: article-journal
-  volume: '44'
+  volume: 44
 - author:
   - family: Schaafsma
     given: D. T.
@@ -2820,13 +2645,12 @@ references:
   - desc: full text
     file: schaafsma_1999_single_mode_tips.pdf
   id: schaafsma:1999:snom.probe
-  issued:
-  - year: 1999
+  issued: 1999
   page: 77-81
   status: published
   title: Singlemode chalcogenide fiber infrared SNOM probes
   type: article-journal
-  volume: '77'
+  volume: 77
 - author:
   - family: Schaafsma
     given: D. T.
@@ -2853,14 +2677,13 @@ references:
   - desc: full text
     file: schaafsma_1999_ir_snom_tips.pdf
   id: schaafsma:1999:snom.tips
-  issued:
-  - year: 1999
+  issued: 1999
   page: 1381-1385
   status: published
   title: Fabrication of single-mode chalcogenide fiber probes for scanning near-field
     infrared optical microscopy
   type: article-journal
-  volume: '38'
+  volume: 38
 - author:
   - family: Sobol
     given: E.
@@ -2879,15 +2702,14 @@ references:
   - desc: full text
     file: sobol_1999_tissue_denaturation.pdf
   id: sobol:1999:threshold
-  issued:
-  - year: 1999
+  issued: 1999
   page: 122-129
   publisher: SPIE
   status: published
   title: Effect of wavelength on threshold and kinetics of tissue denaturation under
     laser radiation
   type: paper-conference
-  volume: '3601'
+  volume: 3601
 - author:
   - family: Cricenti
     given: A.
@@ -2918,14 +2740,13 @@ references:
   - desc: full text
     file: cricenti_1998_first_ir_snom.pdf
   id: cricenti:1998:snom.fel
-  issued:
-  - year: 1998
+  issued: 1998
   page: 241-247
   status: published
   title: First experimental results with the free electron laser coupled to a scanning
     near-field optical microscope
   type: article-journal
-  volume: '170'
+  volume: 170
 - author:
   - family: Cricenti
     given: A.
@@ -2946,13 +2767,12 @@ references:
   - desc: full text
     file: cricenti_1998_fel_ir_snom.pdf
   id: cricenti:1998:snom.spectroscopy
-  issued:
-  - year: 1998
+  issued: 1998
   page: 151-153
   status: published
   title: Free-electron-laser near-field nanospectroscopy
   type: article-journal
-  volume: '73'
+  volume: 73
 - author:
   - family: Sturmann
     given: J.
@@ -2975,13 +2795,12 @@ references:
   - desc: full text
     file: sturmann_1998_diamond.pdf
   id: sturmann:1998:diamond
-  issued:
-  - year: 1998
+  issued: 1998
   page: 59-63
   status: published
   title: Infrared wavelength-selective photodesorption on diamond surfaces
   type: article-journal
-  volume: '129'
+  volume: 129
 - author:
   - family: Tolk
     given: Norman Henry
@@ -3013,14 +2832,13 @@ references:
     given: W.
   container-title: 'Izvestiya Akademii Nauk: Seriya Fizicheskaya'
   id: tolk:1998:molecular.sputtering
-  issued:
-  - year: 1998
+  issued: 1998
   page: 676-679
   status: published
   title: Molecular effects in measured sputtering yields on gold at near threshold
     energies
   type: article-journal
-  volume: '62'
+  volume: 62
 - author:
   - family: Wang
     given: W.
@@ -3047,13 +2865,12 @@ references:
   - desc: full text
     file: wang_1998_dynamics.pdf
   id: wang:1998:interface.dynamics
-  issued:
-  - year: 1998
+  issued: 1998
   page: 4224-4227
   status: published
-  title: Coupled electron-hole dynamics at the Si/SiO2 interface
+  title: Coupled electron-hole dynamics at the `\ce{Si/SiO2}`{=latex} interface
   type: article-journal
-  volume: '81'
+  volume: 81
 - author:
   - family: Yao
     given: Y.
@@ -3086,13 +2903,12 @@ references:
   - desc: full text
     file: yao_1998_molecular_sputtering.pdf
   id: yao:1998:molecular.collision
-  issued:
-  - year: 1998
+  issued: 1998
   page: 550-553
   status: published
   title: New molecular collisional interaction effect in low-energy sputtering
   type: article-journal
-  volume: '81'
+  volume: 81
 - author:
   - family: Sturmann
     given: J.
@@ -3121,13 +2937,12 @@ references:
   - desc: full text
     file: sturmann_1997_photoexcitation.pdf
   id: sturmann:1997:fel
-  issued:
-  - year: 1997
+  issued: 1997
   page: 689-696
   status: published
   title: Photoexcitation spectroscopy and material alteration with free-electron laser
   type: article-journal
-  volume: '91'
+  volume: 91
 - author:
   - family: Volk
     given: C. M.
@@ -3152,13 +2967,12 @@ references:
   - desc: full text
     file: volk_1997_lifetimes.pdf
   id: volk:1997:lifetimes
-  issued:
-  - year: 1997
+  issued: 1997
   page: 25543-25564
   status: published
   title: Evaluation of source gas lifetimes from stratospheric observations
   type: article-journal
-  volume: '102'
+  volume: 102
 - author:
   - family: Elkins
     given: James W.
@@ -3215,14 +3029,13 @@ references:
   - desc: full text
     file: elkins_1996_acats.pdf
   id: elkins:1996:acats
-  issued:
-  - year: 1996
+  issued: 1996
   page: 347-350
   status: published
   title: Airborne gas chromatograph for *in situ* measurements of long-lived species
     in the upper troposphere and lower stratosphere
   type: article-journal
-  volume: '23'
+  volume: 23
 - author:
   - family: Volk
     given: C. M.
@@ -3253,13 +3066,12 @@ references:
   - desc: full text
     file: volk_1996_transport.pdf
   id: volk:1996:transport
-  issued:
-  - year: 1996
+  issued: 1996
   page: 1763-1768
   status: published
   title: Quantifying transport between the tropical and mid-latitude lower stratosphere
   type: article-journal
-  volume: '272'
+  volume: 272
 - author:
   - family: Woodbridge
     given: E. L.
@@ -3302,14 +3114,13 @@ references:
   - desc: full text
     file: woodbridge_1995_total_chlorine.pdf
   id: woodbridge:1995:chlorine.budget
-  issued:
-  - year: 1995
+  issued: 1995
   page: 3057-3064
   status: published
   title: Estimates of total organic and inorganic chlorine in the lower stratosphere
-    from *in situ* measurements during <span class="smallcaps">aase ii</span>
+    from *in situ* measurements during [aase ii]{.smallcaps}
   type: article-journal
-  volume: '100'
+  volume: 100
 - author:
   - family: Gilligan
     given: Jonathan Mark
@@ -3329,12 +3140,11 @@ references:
     given: R. C.
   container-title: Atmospheric effects of aviation project workshop
   id: gilligan:1994:chlorine.budget
-  issued:
-  - year: 1994
+  issued: 1994
   status: published
   title: Refinement of the total organic and inorganic chlorine budgets in the atmosphere
     with a new *in situ* instrument, airborne chromatograph for atmospheric trace
-    species (<span class="smallcaps">acats-iv</span>)
+    species ([acats-iv]{.smallcaps})
   type: paper-conference
 - author:
   - family: Eichmann
@@ -3356,13 +3166,12 @@ references:
   - desc: full text
     file: eichmann_1993_two_slit.pdf
   id: eichmann:1993:two.slit.a
-  issued:
-  - year: 1993
+  issued: 1993
   page: 2359-2362
   status: published
-  title: "Young\u2019s interference experiment with light scattered from two atoms"
+  title: Young's interference experiment with light scattered from two atoms
   type: article-journal
-  volume: '70'
+  volume: 70
 - author:
   - family: Eichmann
     given: Ullrich
@@ -3383,8 +3192,7 @@ references:
   - desc: full text
     file: eichmann_1993_two_atoms.pdf
   id: eichmann:1993:two.slit.b
-  issued:
-  - year: 1993
+  issued: 1993
   page: 43-48
   status: published
   title: Interference in the resonance fluorescence of two trapped atoms
@@ -3407,14 +3215,13 @@ references:
   - desc: full text
     file: itano_1993_quantum_projection_noise.pdf
   id: itano:1993:projection.noise
-  issued:
-  - year: 1993
+  issued: 1993
   page: 3554-3570
   status: published
   title: 'Quantum projection noise: Population fluctuations in two-level systems'
   title-short: Quantum projection noise
   type: article-journal
-  volume: '47'
+  volume: 47
 - author:
   - family: Itano
     given: Wayne M.
@@ -3434,8 +3241,7 @@ references:
     given: David J.
   container-title: Vistas in Astronomy
   id: itano:1993:quantum.measurement
-  issued:
-  - year: 1993
+  issued: 1993
   page: 169-183
   status: published
   title: Quantum measurements of trapped ions
@@ -3459,13 +3265,12 @@ references:
     given: David J.
   container-title: Hyperfine Interactions
   id: itano:1993:spectroscopy
-  issued:
-  - year: 1993
+  issued: 1993
   page: 211-220
   status: published
   title: Ultra-high precision spectroscopy for fundamental physics
   type: article-journal
-  volume: '78'
+  volume: 78
 - author:
   - family: Itano
     given: Wayne M.
@@ -3486,8 +3291,7 @@ references:
   - desc: full text
     file: itano_1993_two_atoms.pdf
   id: itano:1993:two.slit
-  issued:
-  - year: 1993
+  issued: 1993
   page: 410-419
   status: published
   title: Light scattered from two atoms
@@ -3506,14 +3310,13 @@ references:
   - desc: full text
     file: shiner_1993_iodine_calibration.pdf
   id: shiner:1993:calibration
-  issued:
-  - year: 1993
+  issued: 1993
   page: 4042-4045
   status: published
-  title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
-    lines
+  title: '`\ce{H2}`{=latex}, `\ce{D2}`{=latex}, and `\ce{HD}`{=latex} ionization potentials
+    by accurate calibration of several iodine lines'
   type: article-journal
-  volume: '47'
+  volume: 47
 - author:
   - family: Gilligan
     given: Jonathan Mark
@@ -3524,14 +3327,13 @@ references:
   - desc: full text
     file: gilligan_1992_ionization_potentials.pdf
   id: gilligan:1992:ionization.potentials
-  issued:
-  - year: 1992
+  issued: 1992
   page: 3676-3690
   status: published
   title: Precise determinations of ionization potentials and $EF$ state energy levels
     of H$_2$, HD, and D$_2$
   type: article-journal
-  volume: '46'
+  volume: 46
 - author:
   - family: Raizen
     given: Mark G.
@@ -3548,13 +3350,12 @@ references:
   - desc: full text
     file: raizen_1992_ionic_crystals.pdf
   id: raizen:1992:crystals
-  issued:
-  - year: 1992
+  issued: 1992
   page: 6493-6501
   status: published
   title: Ionic crystals in a linear Paul trap
   type: article-journal
-  volume: '45'
+  volume: 45
 - author:
   - family: Raizen
     given: Mark G.
@@ -3571,23 +3372,22 @@ references:
   - desc: full text
     file: raizen_1992_linear_trap.pdf
   id: raizen:1992:linear.trap
-  issued:
-  - year: 1992
+  issued: 1992
   page: 233-242
   status: published
   title: Linear trap for high-accuracy spectroscopy of stored ions
   type: article-journal
-  volume: '39'
+  volume: 39
 - author:
   - family: Gilligan
     given: Jonathan Mark
   genre: PhD thesis
   id: gilligan:1991:dissertation
-  issued:
-  - year: 1991
+  issued: 1991
   publisher: Yale University
-  title: Precise multiphoton spectroscopy of the H2, HD, and D2 molecules and a new
-    determination of the ionization potential of HD
+  title: Precise multiphoton spectroscopy of the `\ce{H2}`{=latex}, `\ce{HD}`{=latex},
+    and `\ce{D2}`{=latex} molecules and a new determination of the ionization potential
+    of `\ce{HD}`{=latex}
   type: thesis
 - author:
   - family: Gilligan
@@ -3599,14 +3399,13 @@ references:
   - desc: full text
     file: gilligan_1991_three_photon.pdf
   id: gilligan:1991:three.photon
-  issued:
-  - year: 1991
+  issued: 1991
   page: 6406-6409
   status: published
   title: High-resolution three-photon spectroscopy and multiphoton interference in
     molecular hydrogen
   type: article-journal
-  volume: '43'
+  volume: 43
 - author:
   - family: Wineland
     given: David J.
@@ -3631,8 +3430,7 @@ references:
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
   id: wineland:1991:spectrosopy
-  issued:
-  - year: 1991
+  issued: 1991
   page: 539-551
   status: published
   title: High-resolution spectroscopy of laser-cooled ions
@@ -3661,8 +3459,7 @@ references:
   container-title: Proceedings of the Enrico Fermi summer school on laser manipulation
     of atoms and ions, July 1991, Varenna, Italy
   id: wineland:1991:trapped.ions
-  issued:
-  - year: 1991
+  issued: 1991
   page: 553-567
   status: published
   title: Recent experiments on trapped ions at the National Institute of Standards
@@ -3682,13 +3479,12 @@ references:
   - desc: full text
     file: mccormack_1989_ip.pdf
   id: mccormack:1989:rydberg
-  issued:
-  - year: 1989
+  issued: 1989
   page: 2260-2263
   status: published
   title: Measurement of high Rydberg states and the ionization potential of H$_2$
   type: article-journal
-  volume: '39'
+  volume: 39
 - author:
   - family: Eyler
     given: Edward Eugene
@@ -3697,18 +3493,17 @@ references:
   - family: McCormack
     given: Elizabeth
   collection-title: AIP conference proceedings
-  container-title: Advances in laser spectroscopy iii
+  container-title: Advances in laser spectroscopy III
   file:
   - desc: full text
     file: eyler_1988_precise_spectroscopy.pdf
   id: eyler:1988:multiphoton.spectroscopy
-  issued:
-  - year: 1988
+  issued: 1988
   page: 331-333
   status: published
-  title: Precise multiphoton spectroscopy of H2
+  title: Precise multiphoton spectroscopy of `\ce{H2}`{=latex}
   type: paper-conference
-  volume: '172'
+  volume: 172
 - author:
   - family: Eyler
     given: Edward Eugene
@@ -3725,28 +3520,26 @@ references:
   - desc: full text
     file: eyler_1987_two_photon.pdf
   id: eyler:1987:ef.state
-  issued:
-  - year: 1987
+  issued: 1987
   page: 3486-3489
   status: published
-  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H2
+  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in `\ce{H2}`{=latex}
   type: article-journal
-  volume: '36'
+  volume: 36
 - author:
   - family: Eyler
     given: Edward Eugene
   - family: Gilligan
     given: Jonathan Mark
   collection-title: AIP conference proceedings
-  container-title: Advances in laser spectroscopy ii
+  container-title: Advances in laser spectroscopy II
   id: eyler:1987:multiphoton.spectroscopy
-  issued:
-  - year: 1987
+  issued: 1987
   page: 388-390
   status: published
-  title: Precise multiphoton spectroscopy of excited states of H2
+  title: Precise multiphoton spectroscopy of excited states of `\ce{H2}`{=latex}
   type: paper-conference
-  volume: '160'
+  volume: 160
 - author:
   - family: McCormack
     given: Elizabeth
@@ -3755,13 +3548,12 @@ references:
   - family: Gilligan
     given: Jonathan Mark
   collection-title: Technical digest series
-  container-title: Proceedings of the xv international conference on quantum electronics
+  container-title: Proceedings of the XV international conference on quantum electronics
   id: mccormack:1987:photodissociation
-  issued:
-  - year: 1987
+  issued: 1987
   page: 58-60
   publisher: Optical Society of America
   status: published
-  title: Precise photodissociation and multiphoton spectroscopy of H2
+  title: Precise photodissociation and multiphoton spectroscopy of `\ce{H2}`{=latex}
   type: paper-conference
-  volume: '21'
+  volume: 21

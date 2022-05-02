@@ -15,7 +15,7 @@ file:
   file: mccormack_1989_ip.pdf
 id: mccormack_1989_rydberg
 issued:
-- year: 1989
+  year: 1989
 page: 2260-2263
 pub_type: article-journal
 pubdate: '1989-01-01'
@@ -30,5 +30,5 @@ short_author:
   given: E.E.
 status: published
 title: Measurement of high Rydberg states and the ionization potential of H$_2$
-volume: '39'
+volume: 39
 ---

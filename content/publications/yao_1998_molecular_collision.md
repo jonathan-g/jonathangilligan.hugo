@@ -33,7 +33,7 @@ file:
   file: yao_1998_molecular_sputtering.pdf
 id: yao_1998_molecular_collision
 issued:
-- year: 1998
+  year: 1998
 page: 550-553
 pub_type: article-journal
 pubdate: '1998-01-01'
@@ -66,5 +66,5 @@ short_author:
   given: W.
 status: published
 title: New molecular collisional interaction effect in low-energy sputtering
-volume: '81'
+volume: 81
 ---

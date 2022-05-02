@@ -29,7 +29,7 @@ file:
   file: best_2021_abm.pdf
 id: best_2021_WSC
 issued:
-- day: 31
+  day: 31
   month: 12
   year: 2021
 pub_type: paper-conference

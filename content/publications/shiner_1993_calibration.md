@@ -15,7 +15,7 @@ file:
   file: shiner_1993_iodine_calibration.pdf
 id: shiner_1993_calibration
 issued:
-- year: 1993
+  year: 1993
 page: 4042-4045
 pub_type: article-journal
 pubdate: '1993-01-01'
@@ -29,7 +29,7 @@ short_author:
 - family: Lichten
   given: W.
 status: published
-title: H2, D2, And HD ionization potentials by accurate calibration of several iodine
-  lines
-volume: '47'
+title: '`\ce{H2}`{=latex}, `\ce{D2}`{=latex}, and `\ce{HD}`{=latex} ionization potentials
+  by accurate calibration of several iodine lines'
+volume: 47
 ---
