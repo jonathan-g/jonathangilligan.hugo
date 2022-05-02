@@ -6,7 +6,8 @@ slug: private-governance-framework
 categories: [blog post]
 tags: [Beyond Politics, Private governance]
 ---
-Mike Vandenbergh and I have [a new paper out](https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY), in the journal 
+Mike Vandenbergh and I have 
+[a new paper out](https://authors.elsevier.com/a/1aHOS7tZ6Zn9yY), in the journal 
 _Energy Research & Social Science_, on our three-part framework for assessing 
 the impacts of private climate governance.
 

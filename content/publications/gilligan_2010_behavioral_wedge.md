@@ -14,8 +14,6 @@ author:
 container_title: Significance
 date: '2010-01-01'
 file:
-- desc: ''
-  file: Gilligan_2010_Behavioral_Wedge.pdf
 - desc: full text
   file: gilligan_2010_behavioral_wedge.pdf
 id: gilligan_2010_behavioral_wedge

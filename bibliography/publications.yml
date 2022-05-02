@@ -1,4 +1,58 @@
 references:
+- DOI: 10.1007/s10113-022-01915-1
+  abstract: As researchers collect large amounts of data in the social sciences through
+    household surveys, challenges may arise in how best to analyze such datasets,
+    especially where motivating theories are unclear or conflicting. New analytical
+    methods may be necessary to extract information from these datasets. Machine learning
+    techniques are promising methods for identifying patterns in large datasets, but
+    have not yet been widely used to identify important variables in social surveys
+    with many questions. To demonstrate the potential of machine learning to analyze
+    large social datasets, we apply machine learning techniques to the study of migration
+    in Bangladesh. The complexity of migration decisions makes them suitable for analysis
+    with machine learning techniques, which enable pattern identification in large
+    datasets with many covariates. In this paper, we apply random forest methods to
+    analyzing a large survey which captures approximately 2000 variables from approximately
+    1700 households in southwestern Bangladesh. Our analysis ranked the covariates
+    in the dataset in terms of their predictive power for migration decisions. The
+    results identified the most important covariates, but there exists a tradeoff
+    between predictive ability and interpretability. To address this tradeoff, random
+    forests and other machine learning algorithms may be especially useful in combination
+    with more traditional regression methods. To develop insights into how the important
+    variables identified by the random forest algorithm impact migration, we performed
+    a survival analysis of household time to first migration. With this combined analysis,
+    we found that variables related to wealth and household composition are important
+    predictors of migration. Such multi-methods approaches may help to shed light
+    on factors contributing to migration and non-migration.
+  author:
+  - family: Best
+    given: Kelsea
+  - family: Gilligan
+    given: Jonathan
+  - family: Baroud
+    given: Hiba
+  - family: Carrico
+    given: Amanda
+  - family: Donato
+    given: Katharine
+  - family: Mallick
+    given: Bishawjit
+  container-title: Regional Enviroonmental Change
+  file:
+  - desc: full text
+    file: best_2022_applying_machine_learning_to.pdf
+  id: best:2022:random.forest
+  issued:
+  - day: 25
+    month: 3
+    year: 2022
+  keyword: posttenure
+  page: '52'
+  status: published
+  title: 'Applying machine learning to social datasets: A study of migration in southwestern
+    Bangladesh using random forests'
+  title-short: Applying machine learning to social datasets
+  type: article-journal
+  volume: '22'
 - DOI: 10.1007/s42001-020-00066-9
   ISSN: 2432-2725
   URL: https://doi.org/10.1007/s42001-020-00066-9
@@ -22,9 +76,9 @@ references:
     to explore the potential of machine learning techniques applied to questions of
     environmental migration.
   accessed:
-  - day: 14
-    month: 3
-    year: 2020
+  - day: 1
+    month: 5
+    year: 2021
   author:
   - family: Best
     given: Kelsea B.
@@ -44,20 +98,269 @@ references:
   container-title-short: J Comput Soc Sc
   file:
   - desc: full text
-    file: best_2020_random_forest.pdf
-  id: best:2020:random.forest
+    file: best_2021_random_forest.pdf
+  id: best:2021:random.forest
   issued:
-  - day: 11
-    month: 3
-    year: 2020
+  - year: 2021
   keyword: posttenure
   language: en-US
   other-ids:
-  - bestRandomForestAnalysis2020a
-  status: advance
+  - bestRandomForestAnalysis2021
+  page: 77-100
+  status: published
   title: Random forest analysis of two household surveys can identify important predictors
     of migration in Bangladesh
   type: article-journal
+  volume: '14'
+- DOI: 10.1109/WSC52266.2021.9715380
+  abstract: Environmental change interacts with population migration in complex ways
+    that depend on interactions between impacts on individual households and on communities.
+    These coupled individual-collective dynamics make agent-based simulations useful
+    for studying environmental migration. We present an original agent-based model
+    that simulates environment-migration dynamics in terms of the impacts of natural
+    hazards on labor markets in rural communities, with households deciding whether
+    to migrate based on maximizing their expected income. We use a pattern-oriented
+    approach that seeks to reproduce observed patterns of environmentally-driven migration
+    in Bangladesh. The model is parameterized with empirical data and unknown parameters
+    are calibrated to reproduce the observed patterns. This model can reproduce these
+    patterns, but only for a narrow range of parameters. Future work will compare
+    income-maximizing decisions to psychologically complex decision heuristics that
+    include non-economic considerations.
+  author:
+  - family: Best
+    given: Kelsea B.
+  - family: Qu
+    given: Ao
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Proceedings of the 2021 winter simulation conference
+  editor:
+  - family: Kim
+    given: S.
+  - family: Feng
+    given: B.
+  - family: Smith
+    given: K.
+  - family: Masoud
+    given: S.
+  - family: Zhang
+    given: Z.
+  - family: Czabo
+    given: C.
+  - family: Lopez
+    given: M.
+  file:
+  - desc: full text
+    file: best_2021_abm.pdf
+  id: best:2021:WSC
+  issued:
+  - day: 31
+    month: 12
+    year: 2021
+  keyword: posttenure
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  status: published
+  title: 'Modeling multi-level patterns of environmental migration in Bangladesh:
+    An agent-based approach'
+  title-short: Modeling multi-level patterns of environmental migration in Bangladesh
+  type: paper-conference
+- DOI: 10.1016/j.resconrec.2021.105573
+  abstract: "The impact of human activities and climate change occurs across a range\
+    \ of spatial and temporal scales, and the city or regional scale is critical for\
+    \ managing food-energy-water (FEW) resources. We develop a coupled human-natural\
+    \ system model for Cape Town, South Africa, which consists of an agent-based model\
+    \ and a regional hydrologic model, to study the FEW nexus connecting the agricultural,\
+    \ urban, and hydroelectric generation sectors. We use the model to compare three\
+    \ policies\u2014a simple adaptive approach, adaptation with free water to indigent\
+    \ households, and water supply augmentation\u2014and assess their ability to provide\
+    \ reliable FEW services to the different stakeholders under four different climate\
+    \ scenarios, representing moderate to severe amounts of warming. Our results indicate\
+    \ that Cape Town is likely to face increasing water stress as temperatures rise,\
+    \ and that adaptation strategies could effectively mitigate the effects of water\
+    \ limitations and avoid severe failures in providing FEW services across sectors.\
+    \ One way to manage demand for FEW services is by adjusting water price tariffs,\
+    \ but high prices create inequality in access to water for households with different\
+    \ incomes. Our analysis suggests that the water supply system in Cape Town may\
+    \ already be at, if not over, its sustainable capacity within the FEW nexus. Our\
+    \ model serves as a test-bed for assessing policies to manage stresses on water\
+    \ resources for the benefit of stakeholders across FEW sectors. This model can\
+    \ be adapted to cities and regions around the globe."
+  author:
+  - family: Ding
+    given: Ke Jack
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Yang
+    given: Y. C. Ethan
+  - family: Wolski
+    given: Piotr
+  - family: Hornberger
+    given: G. M.
+  container-title: Resources, Conservation and Recycling
+  file:
+  - desc: full text
+    file: ding_2021_cape_town.pdf
+  id: ding:2021:Cape-Town
+  issued:
+  - day: 1
+    month: 7
+    year: 2021
+  page: '105573'
+  status: published
+  title: 'Assessing food-energy-water resources management strategies at city scale:
+    An agent-based modeling approach for Cape Town, South Africa'
+  title-short: Assessing food-energy-water resources management strategies at city
+    scale
+  type: article-journal
+  volume: '170'
+- DOI: 10.1111/risa.13407
+  abstract: 'Hazards and disasters arise from interactions between environmental and
+    social processes so interdisciplinary research is crucial to understanding and
+    effectively managing them. Despite support and encouragement from funding agencies,
+    universities, and journals and growing interest from researchers, interdisciplinary
+    disaster research teams face significant obstacles, such as the difficulty of
+    establishing effective communication and understanding across disciplines. Better
+    understanding of interdisciplinary teamwork can also have important practical
+    benefits for operational disaster planning and response.Social studies of science
+    distinguishes different kinds of expertise and different modes of communication.
+    Understanding these differences can help interdisciplinary research teams communicate
+    more clearly and work together more effectively. The primary role of a researcher
+    is in *contributory expertise*contributory expertise (the ability to make original
+    contributions to a discipline); but *interactional expertise*interactional expertise
+    in other disciplines (the ability to understand their literature and communicate
+    with their practitioners) can play an important role in interdisciplinary collaborations.
+    Developing interactional expertise requires considerable time and effort, which
+    can be challenging for a busy researcher, and also requires a foundation of trust
+    and communication among team members. Three distinct aspects of communication
+    play important roles in effective interdisciplinary communication: *dialects*dialects,
+    *metaphors*metaphors, and *articulation*articulation.There are different ways
+    to develop interactional expertise and effective communication, so researchers
+    can pursue approaches that suit their circumstances. It will be important for
+    future research on interdisciplinary disaster research to identify best practices
+    for building trust, facilitating communication, and developing interactional expertise.'
+  author:
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Risk Analysis
+  file:
+  - desc: full text
+    file: gilligan_2021_expertise.pdf
+  id: gilligan:2021:collaboration
+  issued:
+  - day: 28
+    month: 7
+    year: 2021
+  keyword: posttenure
+  page: 1171-1177
+  status: published
+  title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
+    disaster research teams'
+  title-short: Expertise across disciplines
+  type: article-journal
+  volume: '41'
+- URL: https://par.nsf.gov/biblio/10249350-predicting-public-transportation-load-estimate-probability-social-distancing-violations
+  abstract: "Public transit agencies struggle to maintain transit accessibility with\
+    \ reduced resources, unreliable ridership data, reduced vehicle capacities due\
+    \ to social distancing, and reduced services due to driver unavailability. In\
+    \ collaboration with transit agencies from two large metropolitan areas in the\
+    \ USA, we are designing novel approaches for addressing the afore-mentioned challenges\
+    \ by collecting accurate real-time ridership data, providing guidance to commuters,\
+    \ and performing operational optimization for public transit. We estimate rider-ship\
+    \ data using historical automated passenger counting data, conditional on a set\
+    \ of relevant determinants. Accurate ridership forecasting is essential to optimize\
+    \ the public transit schedule, which is necessary to improve current fixed lines\
+    \ with on-demand transit. Also, passenger crowding has been a problem for public\
+    \ transportation since it deteriorates passengers\u2019 wellbeing and satisfaction.\
+    \ During the COVID-19 pandemic, passenger crowding has gained importance since\
+    \ it represents a risk for social distancing violations. Therefore, we are creating\
+    \ optimization models to ensure that social distancing norms can be adequately\
+    \ followed while ensuring that the total demand for transit is met. We will then\
+    \ use accurate forecasts for operational optimization that includes (a) proactive\
+    \ fixed-line schedule optimization based on predicted demand, (b) dispatch of\
+    \ on-demand micro-transit, prioritizing at-risk populations, and (c) allocation\
+    \ of vehicles to transit and cargo trips, considering exigent vehicle maintenance\
+    \ requirements (i.e., disinfection). Finally, this paper presents some initial\
+    \ results from our project regarding the estimation of ridership in public transit."
+  accessed:
+  - day: 26
+    month: 1
+    year: 2022
+  author:
+  - family: Martinez
+    given: Juan
+  - family: Mukhopadhyay
+    given: Ayan
+  - family: Ayman
+    given: Afiya
+  - family: Wilbur
+    given: Michael
+  - family: Pugliese
+    given: Philip
+  - family: Freudberg
+    given: Dan
+  - family: Gilligan
+    given: Jonathan
+  - family: Laszka
+    given: Aron
+  - family: Dubey
+    given: Abhishek
+  container-title: Proceedings of the workshop on ai for urban mobility at the 35th
+    aaai conference on artificial intelligence
+  file:
+  - desc: full text
+    file: martinez_2021_predicting_transit_load.pdf
+  id: martinez:2021:transit
+  issued:
+  - day: 8
+    month: 2
+    year: 2021
+  keyword: posttenure
+  language: en-US
+  other-ids:
+  - martinezPredictingPublicTransportation
+  status: in press
+  title: Predicting public transportation load to estimate the probability of social
+    distancing violations
+  type: paper-conference
+- DOI: 10.1016/j.futures.2021.102809
+  abstract: "The paper examines a scenario exercise concerning deployment of solar\
+    \ geoengineering by a small group of states that are particularly vulnerable to\
+    \ climate change. Two groups of participants were each asked to provide expert\
+    \ decision-making advice to an alliance comprising great powers, and to propose\
+    \ a political response to the deployment initiative. This paper discusses the\
+    \ initial governance proposals and examines differences and exchanges between\
+    \ the groups throughout the exercise. The two groups delivered distinct governance\
+    \ proposals. The differences, which were driven largely by divergent worldviews\
+    \ and assumptions about the geopolitical context, provide insights into the complexities\
+    \ of responses to the \u201Cfree-driver\u201D of solar geoengineering deployment,\
+    \ internal functioning and cohesion of coalitions, and interactions among multiple\
+    \ responses to climate change."
+  author:
+  - family: Schenuit
+    given: Felix
+  - family: Gilligan
+    given: Jonathan
+  - family: Viswamohanan
+    given: Anjali
+  container-title: Futures
+  file:
+  - desc: full text
+    file: schenuit_2021_geoengineering.pdf
+  id: schenuit:2021:geoengineering
+  issued:
+  - day: 4
+    month: 8
+    year: 2021
+  keyword: posttenure
+  language: en-US
+  page: '102809'
+  status: published
+  title: 'A scenario of solar geoengineering governance: Vulnerable states demand,
+    and act'
+  title-short: A scenario of solar geoengineering governance
+  type: article-journal
+  volume: '132'
 - DOI: 10.1016/j.gloenvcha.2020.102160
   abstract: Climate change interacts with social, economic, and political forces in
     ways that can shape demographic behavior. Yet, the link between environmental
@@ -171,7 +474,7 @@ references:
   volume: '2'
 - DOI: 10.1016/j.erss.2019.101400
   ISSN: 2214-6296
-  URL: http://www.sciencedirect.com/science/article/pii/S2214629619310370
+  URL: https://www.sciencedirect.com/science/article/pii/S2214629619310370
   abstract: The growing sense of urgency by the public for action to address climate
     change stands in stark contrast to the slow pace and limited accomplishments of
     national and international institutions to reduce greenhouse gas emissions. Political
@@ -464,47 +767,6 @@ references:
     \ management in Cape Town, South Africa"
   title-short: "Avoiding \u201Cday-zero\u201D"
   type: paper-conference
-- DOI: 10.1111/risa.13407
-  abstract: 'Hazards and disasters arise from interactions between environmental and
-    social processes so interdisciplinary research is crucial to understanding and
-    effectively managing them. Despite support and encouragement from funding agencies,
-    universities, and journals and growing interest from researchers, interdisciplinary
-    disaster research teams face significant obstacles, such as the difficulty of
-    establishing effective communication and understanding across disciplines. Better
-    understanding of interdisciplinary teamwork can also have important practical
-    benefits for operational disaster planning and response.Social studies of science
-    distinguishes different kinds of expertise and different modes of communication.
-    Understanding these differences can help interdisciplinary research teams communicate
-    more clearly and work together more effectively. The primary role of a researcher
-    is in *contributory expertise*contributory expertise (the ability to make original
-    contributions to a discipline); but *interactional expertise*interactional expertise
-    in other disciplines (the ability to understand their literature and communicate
-    with their practitioners) can play an important role in interdisciplinary collaborations.
-    Developing interactional expertise requires considerable time and effort, which
-    can be challenging for a busy researcher, and also requires a foundation of trust
-    and communication among team members. Three distinct aspects of communication
-    play important roles in effective interdisciplinary communication: *dialects*dialects,
-    *metaphors*metaphors, and *articulation*articulation.There are different ways
-    to develop interactional expertise and effective communication, so researchers
-    can pursue approaches that suit their circumstances. It will be important for
-    future research on interdisciplinary disaster research to identify best practices
-    for building trust, facilitating communication, and developing interactional expertise.'
-  author:
-  - family: Gilligan
-    given: Jonathan M.
-  container-title: Risk Analysis
-  file:
-  - desc: full text
-    file: gilligan_2019_expertise.pdf
-  id: gilligan:2019:collaboration
-  issued:
-  - year: 2019
-  keyword: tenuretrack
-  status: advance
-  title: 'Expertise across disciplines: Establishing common ground in interdisciplinary
-    disaster research teams'
-  title-short: Expertise across disciplines
-  type: article-journal
 - DOI: 10.1038/s41893-019-0354-7
   URL: https://rdcu.be/bOaoY
   abstract: Meat is an important source of greenhouse-gas emissions, but not enough
@@ -725,6 +987,17 @@ references:
   type: article-journal
   volume: '39'
 - URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
+  abstract: When the United States withdrew from the Paris Climate Agreement, 100
+    private corporations reaffirmed their commitment to fighting climate change. While
+    governments are often tasked with facing climate change, many major private institutions
+    are taking steps to significantly reduce carbon emissions, reaping the benefits
+    of favorable public image and reduced operational costs from energy and other
+    savings. On September 5, 2018, ELI held an expert panel discussing the role of
+    private institutions in climate change mitigation, the incentives for private
+    actors pursuing carbon reduction initiatives, key factors in successful case studies,
+    and methods for developing and evaluating successful private climate initiatives.
+    Below, we present a transcript of the discussion, which has been edited for style,
+    clarity, and space considerations.
   author:
   - family: Phillips
     given: Cassie
@@ -789,6 +1062,24 @@ references:
   type: article-journal
   volume: '86'
 - ISBN: '9780367136161'
+  abstract: Climate change is a *global* problem. Food, water, health, housing, and
+    life are basic *individual* human rights. However, *between* the global forces
+    of climate change and individual challenges of meeting basic needs, communities
+    are the context in which people experience the effects of climate change and seek
+    to adapt to its impact on their livelihoods. Such adaptation may include permanent
+    migration and certainly, this has been one of the foci of international relations
+    and security politics related to climate change. Of course, such migration will
+    have human rights consequences and there are human rights causes to some of this
+    migration as well. Of equal importance, but gaining less attention, are the problems
+    related to climate change effects that do not cause mass migration, that may include
+    short-term seasonal migration, and that also have human rights causes and consequences.
+    In this chapter, we use a study in rural Bangladesh to demonstrate the import
+    of the human rights considerations of this second, community-level, impact of
+    climate change on human rights. We find that the human rights impacts of slow
+    and rapid onset environmental change are a function of democratic, social, and
+    economic rights, that is, those human rights that are best understood as enjoyed
+    *through* political community are equally worthy of our rights attention because
+    they are essential to climate change adaptation.
   author:
   - family: Ackerly
     given: Brooke A.
@@ -825,7 +1116,7 @@ references:
     of climate change'
   title-short: Climate and community
   type: chapter
-- URL: http://issues.org/34-1/forum-36/
+- URL: https://issues.org/34-1/forum-36/
   author:
   - family: Gilligan
     given: Jonathan M.
@@ -1086,6 +1377,22 @@ references:
 - DOI: 10.5194/isprs-archives-XLI-B2-465-2016
   ISSN: 1682-1750
   URL: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/465/2016/
+  abstract: This project applies machine learning techniques to remotely sensed imagery
+    to train and validate predictive models of vegetation health in Bangladesh and
+    Sri Lanka. For both locations, we downloaded and processed eleven years of imagery
+    from multiple MODIS datasets which were combined and transformed into two-dimensional
+    matrices. We applied a gradient boosted machines model to the lagged dataset values
+    to forecast future values of the Enhanced Vegetation Index (EVI). The predictive
+    power of raw spectral data MODIS products were compared across time periods and
+    land use categories. Our models have significantly more predictive power on held-out
+    datasets than a baseline. Though the tool was built to increase capacity to monitor
+    vegetation health in data scarce regions like South Asia, users may include ancillary
+    spatiotemporal datasets relevant to their region of interest to increase predictive
+    power and to facilitate interpretation of model results. The tool can automatically
+    update predictions as new MODIS data is made available by NASA. The tool is particularly
+    well-suited for decision makers interested in understanding and predicting vegetation
+    health dynamics in countries in which environmental data is scarce and cloud cover
+    is a significant concern.
   accessed:
   - day: 6
     month: 7
@@ -1156,6 +1463,23 @@ references:
   type: article-journal
   volume: '36'
 - DOI: 10.1111/socf.12274
+  abstract: "Although there are multiple causes of the water scarcity crisis in the\
+    \ American Southwest, it can be used as a model of the long-term problem of freshwater\
+    \ shortages that climate change will exacerbate. We examine the water-supply crisis\
+    \ for 22 cities in the extended Southwest of the United States and develop a unique,\
+    \ new measure of water conservation policies and programs. Convergent qualitative\
+    \ and quantitative analyses suggest that political conflicts play an important\
+    \ role in the transition of water-supply regimes toward higher levels of demandreduction\
+    \ policies and programs. Qualitative analysis using institutional theory identifies\
+    \ the interaction of four types of motivating logics\u2014development, rural preservation,\
+    \ environmental, and urban consumer\u2014and shows how demand-reduction strategies\
+    \ can potentially satisfy all four. Quantitative analysis of the explanatory factors\
+    \ for the variation in the adoption of demand-reduction policies points to the\
+    \ overwhelming importance of political preferences as defined by Cook\u2019s Partisan\
+    \ Voting Index. We suggest that approaches to water-supply choices are influenced\
+    \ less by direct partisan disagreements than by broad preferences for a development\
+    \ logic based on supplyincrease strategies and discomfort with demand-reduction\
+    \ strategies that clash with conservative beliefs."
   author:
   - family: Hess
     given: David J.
@@ -1242,6 +1566,19 @@ references:
   title-short: Betting and Belief
   type: paper-conference
 - ISBN: '9789849103790'
+  abstract: "Between the national and household factors, community or \u201Cmeso-level\u201D\
+    \ changes in political economy and livelihoods in southwestern Bangladesh illustrate\
+    \ that in order to understand the impacts on people and nations of climate change-related\
+    \ environmental changes\u2014changes that are expected to include rising sea level,\
+    \ saline inundation, and increased likelihood and intensity of cyclones in Bangladesh\u2014\
+    we need to understand the dynamics of the built and natural environment and the\
+    \ political economies these sustain. Meso-level political economies affect the\
+    \ sources of income and livelihood available in distressed environmental conditions,\
+    \ and therefore influence how well the people in them can adapt to changing environmental\
+    \ conditions. In this study we have seen the underlying political economies whose\
+    \ dynamics, and not slow onset environmental changes or disastrous environmental\
+    \ events, are pushing Bangladeshis to incorporate migration strategies into their\
+    \ livelihood strategies."
   author:
   - family: Ackerly
     given: Brooke A.
@@ -1309,6 +1646,23 @@ references:
   type: article-journal
   volume: '5'
 - DOI: 10.1038/nclimate2472
+  abstract: "The Ganges-Brahmaputra river delta, with 170 million people and a vast,\
+    \ low-lying coastal plain, is perceived to be at great risk of increased flooding\
+    \ and submergence from sea-level rise. However, human alteration of the landscape\
+    \ can create similar risks to sea-level rise. Here, we report that islands in\
+    \ southwest Bangladesh, enclosed by embankments in the 1960s, have lost 1.0\u2013\
+    1.5m of elevation, whereas the neighbouring Sundarban mangrove forest has remained\
+    \ comparatively stable. We attribute this elevation loss to interruption of sedimentation\
+    \ inside the embankments, combined with accelerated compaction, removal of forest\
+    \ biomass, and a regionally increased tidal range. One major consequence of this\
+    \ elevation loss occurred in 2009 when the embankments of several large islands\
+    \ failed during Cyclone Aila, leaving large areas of land tidally inundated for\
+    \ up to two years until embankments were repaired. Despite sustained human suering\
+    \ during this time, the newly reconnected landscape received tens of centimetres\
+    \ of tidally deposited sediment, equivalent to decades\u2019 worth of normal sedimentation.\
+    \ Although many areas still lie well below mean high water and remain at risk\
+    \ of severe flooding, we conclude that elevation recovery may be possible through\
+    \ controlled embankment breaches."
   author:
   - family: Auerbach
     given: Leslie W.
@@ -1349,6 +1703,15 @@ references:
 - DOI: 10.1109/WSC.2015.7408456
   ISBN: 978-1-4673-9741-4
   URL: https://dl.acm.org/citation.cfm?id=2888619.2889027
+  abstract: "Flood-control measures, such as levees and floodwalls, can backfire and\
+    \ increase risks of disastrous floods by giving the public a false sense of security\
+    \ and thus encouraging people to build valuable property in high-risk locations.\
+    \ More generally, nonlinear interactions between human land-use and natural processes\
+    \ can produce unexpected emergent phenomena in coupled human-natural systems (CHNS).\
+    \ We describe a participatory agent-based simulation of coupled urban development\
+    \ and flood risks and discuss the potential of this simulation to help educate\
+    \ a wide range of the public\u2014from middle- and high-school students to public\
+    \ officials\u2014about emergence in CHNS and present results from two pilot studies."
   accessed:
   - day: 25
     month: 2
@@ -1439,6 +1802,18 @@ references:
 - DOI: 10.1109/WSC.2015.7408381
   ISBN: 978-1-4673-9741-4
   URL: https://dl.acm.org/citation.cfm?id=2888619.2888935
+  abstract: "This article outlines a method for automatically generating models of\
+    \ dynamic decision-making that both have strong predictive power and are interpretable\
+    \ in human terms. This is useful for designing empirically grounded agent-based\
+    \ simulations and for gaining direct insight into observed dynamic processes.\
+    \ We use an efficient model representation and a genetic algorithm-based estimation\
+    \ process to generate simple approximations that explain most of the structure\
+    \ of complex stochastic processes. This method, implemented in C^++^ and R, scales\
+    \ well to large data sets. We apply our methods to empirical data from human subjects\
+    \ game experiments and international relations. We also demonstrate the method\u2019\
+    s ability to recover known data-generating processes by simulating data with agent-based\
+    \ models and correctly deriving the underlying decision models for multiple agent\
+    \ models and degrees of stochasticity."
   accessed:
   - day: 25
     month: 2
@@ -1478,7 +1853,25 @@ references:
   title: Data-driven dynamic decision models
   type: paper-conference
 - DOI: 10.2139/ssrn.2533643
-  URL: http://www.columbiaenvironmentallaw.org/beyond-gridlock/
+  URL: https://www.columbiaenvironmentallaw.org/beyond-gridlock/
+  abstract: "This Article examines how private governance can bypass government gridlock\
+    \ on climate change and buy time for a national and international carbon price.\
+    \ A carbon price\u2014whether in the form of a carbon tax or a cap-and-trade program\u2014\
+    is the optimal government response but is unlikely to be implemented within the\
+    \ next decade. Likely government policies will reduce emissions by far less than\
+    \ needed to reduce the risk of significant climate disruption, but recent corporate\
+    \ carbon disclosure programs, supply chain contracting requirements, investor\
+    \ pressure, and other private initiatives demonstrate the viability of another\
+    \ approach. Private initiatives can reduce carbon emissions without the coercive\
+    \ power or resources of government by correcting market and behavioral failures\
+    \ and by drawing on the support for mitigation that exists in a subset of the\
+    \ population. The Article demonstrates how a private governance wedge of emissions\
+    \ reductions can be achieved by expanding current corporate and household private\
+    \ governance initiatives and by launching new initiatives that address climate\
+    \ beliefs, motivations, and behavior. Private initiatives can bypass ideological\
+    \ barriers and national boundaries, but implementing a private climate governance\
+    \ strategy will require relaxing the assumption that only governments can drive\
+    \ major emissions reductions over the next decade."
   author:
   - family: Vandenbergh
     given: Michael P.
@@ -1540,6 +1933,32 @@ references:
   type: article-journal
   volume: '32'
 - URL: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
+  abstract: 'Much of energy policy is driven by concerns about climate change. Views
+    about the importance of carbon emissions affect debates on topics ranging from
+    the regulation of electricity generation and transmission to the need for incentives
+    to develop and promote emerging technologies. Government efforts to fund and communicate
+    climate science have been extraordinary, but recent polling suggests that roughly
+    half of the American population is unsure or does not believe that anthropogenic
+    climate change is occurring. Among some populations belief in climate change is
+    declining even as the climate science becomes more certain. Much of the doubt
+    occurs among individuals who support free markets, and the doubt is fueled by
+    the argument that governments and government-funded climate scientists are not
+    accounting for information that is inconsistent with the climate consensus. This
+    Article explores a private governance response: the creation of a prediction market
+    to assess and communicate the implications of climate science. Markets not only
+    allow the buying and selling of goods, they provide information about the likelihood
+    of future events. Research suggests that markets are often able to account for
+    information that is outside of the conventional wisdom. In addition, individuals
+    who are likely to doubt climate science may find markets to be credible sources
+    of information. A climate market could take the form of an academic initiative
+    along the lines of the Iowa presidential prediction market or could operate as
+    a more traditional options market. Trading could occur over the types of predictions
+    that matter for global climate change, such as the global average temperature
+    or sea level in 2020 or 2100, with the current market value of the prediction
+    signaling the likelihood of the outcome. The market will be subject to manipulation
+    concerns, but experience with other prediction markets suggests that a climate
+    prediction market has the potential to provide an accurate, credible and widely-disseminated
+    signal about the status of the climate science.'
   author:
   - family: Vandenbergh
     given: Michael P.
@@ -1562,7 +1981,22 @@ references:
   title-short: Energy and climate change
   type: article-journal
   volume: '61'
-- author:
+- abstract: "Environmental vulnerability in Bangladesh\u2014especially vulnerability\
+    \ to climate change\u2014is too often treated in isolation from the social, economic,\
+    \ and political contexts in which communities and their inhabitants make their\
+    \ livelihood. We propose that resilience and vulnerability to environmental stress\
+    \ are best understood in terms of a modification of Ostrom\u2019s socioecological\
+    \ systems paradigm that we call \u201Cmultiple dynamic equilibria:\u201D livelihoods\
+    \ in vulnerable regions are shaped by multiple overlapping patterns of interaction\
+    \ between the physical environment in which people live and the social, economic,\
+    \ and political environments in which they interact, within their communities,\
+    \ with other communities, and external actors. Translating policy goals into effective\
+    \ action requires understanding these interactions at multiple levels. We report\
+    \ on a new transdisciplinary project that draws geoscientists, engineers, and\
+    \ social scientists together to investigate the interactions between communities\
+    \ and the environment in the southwestern coastal region of Bangladesh and understand\
+    \ the dynamics of vulnerability and resilience."
+  author:
   - family: Gilligan
     given: Jonathan M.
   - family: Ackerly
@@ -1586,7 +2020,16 @@ references:
     social, environmental, and engineering perspective'
   title-short: Building resilience to environmental stress in coastal Bangladesh
   type: paper-conference
-- author:
+- abstract: Deltas are dynamic landforms that have been the foci of agri- and aquacultural
+    development by humans for millennia. The dynamics of deltas are governed by changes
+    in river discharge and reworking of sediment. While these dynamics make deltas
+    highly productive areas, they also present challenges to farming practices, often
+    resulting in complicated feedbacks. These dynamics include river and coastal flooding,
+    compaction, subsidence, salinization, and moving land-water boundaries. Likewise,
+    farming in a dynamic environment can lead to socio-economic conflicts. Adaptation
+    to these constantly changing variables requires flexible farming practices that
+    must keep pace with changing climate.
+  author:
   - family: Rogers
     given: Kimberly G.
   - family: Syvitski
@@ -1612,7 +2055,40 @@ references:
   title: Farming practices and anthropogenic delta dynamics
   type: paper-conference
   volume: '358'
-- author:
+- abstract: "The individual and household sector accounts for roughly 40 percent of\
+    \ United States energy use and carbon dioxide emissions, yet the laws and policies\
+    \ directed at reductions from this sector often reflect a remarkably simplistic\
+    \ model of behavior. This Essay addresses one of the obstacles to achieving a\
+    \ \u201Cbehavioral wedge\u201Dbehavioral wedge of individual and household emissions\
+    \ reductions: the lack of an accessible, brief summary for policymakers of the\
+    \ key findings of behavioral and social science studies on household energy behavior.\
+    \ The Essay does not provide a comprehensive overview of the field, but it discusses\
+    \ many of the leading studies that demonstrate the extent and limits of rational\
+    \ action. These studies can inform lawyers and policymakers who are developing\
+    \ measures to reduce energy use and carbon emissions and can serve as an entry\
+    \ point for more detailed studies of the literature.An effective response to the\
+    \ climate change problem will require substantial reductions in energy demand\
+    \ in addition to new developments in low-carbon energy supplies.1 The individual\
+    \ and household sector presents a major opportunity: the sector accounts for roughly\
+    \ 40Despite this opportunity, recent regulatory and policy efforts are only beginning\
+    \ to direct substantial attention to the individual and household sector. Findings\
+    \ from the social sciences provide valuable insights into how to capitalize on\
+    \ this opportunity, yet policymakers often have little time to develop new polices\
+    \ and are confronted with a barrage of often-conflicting approaches and theories.\
+    \ This Essay addresses the policy-making challenge by distilling the findings\
+    \ from a broad range of fields into several key principles for those developing\
+    \ energy and climate laws and policies. The principles we outline here are a starting\
+    \ point for policymakers working in this area. We attempt to provide insight into\
+    \ which principles are most relevant to law and policy, but instructions as to\
+    \ how to incorporate these principles are beyond the scope of this essay. The\
+    \ principles include only a subset of the insights from the behavioral and social\
+    \ science literature. In many cases, adherence to multiple principles will be\
+    \ necessary to develop the most effective policy design. Policymakers should consult\
+    \ the body of work referenced here, as well as experts in the social sciences\
+    \ to further their understanding of these and other principles. More extensive\
+    \ reviews of this literature and its relevance to energy and climate policy are\
+    \ also available."
+  author:
   - family: Carrico
     given: Amanda R.
   - family: Vandenbergh
@@ -1729,8 +2205,6 @@ references:
     given: Michael
   container-title: Significance
   file:
-  - desc: ''
-    file: Gilligan_2010_Behavioral_Wedge.pdf
   - desc: full text
     file: gilligan_2010_behavioral_wedge.pdf
   id: gilligan:2010:behavioral.wedge
@@ -2130,7 +2604,7 @@ references:
     given: Norman H.
   container-title: Nonresonant laser-matter interaction (nlmi-10)
   file:
-  - desc: ''
+  - desc: full text
     file: sturmann_2001_photoablation.pdf
   id: sturmann:2001:fel
   issued:
@@ -2644,8 +3118,6 @@ references:
     given: G.
   container-title: Acta Physica Polonica A
   file:
-  - desc: ''
-    file: _________________.pdf
   - desc: full text
     file: sturmann_1997_photoexcitation.pdf
   id: sturmann:1997:fel
