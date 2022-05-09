@@ -9,8 +9,10 @@ title: "About me"
 
 The following bio may be used in media releases without further permission.
 
-> Jonathan Gilligan is Associate Professor of 
-> [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees)
+> Jonathan Gilligan is 
+> [The Alexander Heard Distinguished Service Professor](https://www.vanderbilt.edu/faculty-affairs/faculty-development/faculty-awards/vu-internal-awards/alexander-heard-distinguished-professor-award/),
+> Associate Professor of 
+> [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees),
 > and Associate Professor of 
 > [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
 > at [Vanderbilt University](https://www.vanderbilt.edu/).

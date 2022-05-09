@@ -1,5 +1,4 @@
 ---
-ISBN: 978-1107181229
 author:
 - family: Vandenbergh
   given: Michael P.
@@ -8,7 +7,7 @@ author:
 date: '2017-11-30'
 id: vandenbergh_2017_beyond_politics
 issued:
-- day: 30
+  day: 30
   month: 11
   year: 2017
 note: 494 pp.

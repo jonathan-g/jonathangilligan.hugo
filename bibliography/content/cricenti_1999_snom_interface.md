@@ -29,7 +29,7 @@ file:
   file: cricenti_1999_interface_snom.pdf
 id: cricenti_1999_snom_interface
 issued:
-- year: 1999
+  year: 1999
 page: 317-329
 pub_type: article-journal
 pubdate: '1999-01-01'
@@ -59,5 +59,5 @@ short_author:
 status: published
 title: Interface applications of scanning near-field optical microscopy with a free
   electron laser
-volume: '175'
+volume: 175
 ---

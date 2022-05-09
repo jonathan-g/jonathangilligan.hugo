@@ -1,5 +1,4 @@
 ---
-ISBN: '9780367136161'
 author:
 - family: Ackerly
   given: Brooke A.
@@ -27,7 +26,7 @@ file:
   file: ackerly_2017_climate_community.pdf
 id: ackerly_2017_climate_community
 issued:
-- year: 2017
+  year: 2017
 page: 189-202
 pub_type: chapter
 pubdate: '2017-01-01'

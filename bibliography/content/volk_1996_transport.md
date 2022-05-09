@@ -31,7 +31,7 @@ file:
   file: volk_1996_transport.pdf
 id: volk_1996_transport
 issued:
-- year: 1996
+  year: 1996
 page: 1763-1768
 pub_type: article-journal
 pubdate: '1996-01-01'
@@ -62,5 +62,5 @@ short_author:
   given: K.R.
 status: published
 title: Quantifying transport between the tropical and mid-latitude lower stratosphere
-volume: '272'
+volume: 272
 ---

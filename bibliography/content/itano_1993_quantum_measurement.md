@@ -20,7 +20,7 @@ container_title: Vistas in Astronomy
 date: '1993-01-01'
 id: itano_1993_quantum_measurement
 issued:
-- year: 1993
+  year: 1993
 page: 169-183
 pub_type: article-journal
 pubdate: '1993-01-01'

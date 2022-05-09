@@ -21,7 +21,7 @@ file:
   file: marka_1999_nanoscale_modifications.pdf
 id: marka_1999_nonlinear_modification
 issued:
-- year: 1999
+  year: 1999
 page: 1069-1072
 pub_type: article-journal
 pubdate: '1999-01-01'
@@ -43,5 +43,5 @@ short_author:
 status: published
 title: Nonlinear energy-selective nanoscale modifications of materials and dynamics
   in metals and semiconductors
-volume: '44'
+volume: 44
 ---

@@ -24,7 +24,7 @@ container_title: Advances in Science and Technology
 date: '2002-01-01'
 id: cricenti_2002_snom_surface
 issued:
-- year: 2002
+  year: 2002
 page: 183-192
 pub_type: article-journal
 pubdate: '2002-01-01'
@@ -51,5 +51,5 @@ short_author:
   given: N.H.
 status: published
 title: Surface characterisation by near-field microscopy and atomic force microscopy
-volume: '32'
+volume: 32
 ---

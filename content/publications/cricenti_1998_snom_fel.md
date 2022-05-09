@@ -31,7 +31,7 @@ file:
   file: cricenti_1998_first_ir_snom.pdf
 id: cricenti_1998_snom_fel
 issued:
-- year: 1998
+  year: 1998
 page: 241-247
 pub_type: article-journal
 pubdate: '1998-01-01'
@@ -63,5 +63,5 @@ short_author:
 status: published
 title: First experimental results with the free electron laser coupled to a scanning
   near-field optical microscope
-volume: '170'
+volume: 170
 ---

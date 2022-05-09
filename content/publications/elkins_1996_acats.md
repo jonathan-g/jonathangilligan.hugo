@@ -57,7 +57,7 @@ file:
   file: elkins_1996_acats.pdf
 id: elkins_1996_acats
 issued:
-- year: 1996
+  year: 1996
 page: 347-350
 pub_type: article-journal
 pubdate: '1996-01-01'
@@ -115,5 +115,5 @@ short_author:
 status: published
 title: Airborne gas chromatograph for *in situ* measurements of long-lived species
   in the upper troposphere and lower stratosphere
-volume: '23'
+volume: 23
 ---

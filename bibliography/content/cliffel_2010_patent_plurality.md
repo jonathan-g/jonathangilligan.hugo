@@ -15,7 +15,7 @@ author:
 date: '2010-05-11'
 id: cliffel_2010_patent_plurality
 issued:
-- day: 11
+  day: 11
   month: 5
   year: 2010
 number: 7,713,733 B2

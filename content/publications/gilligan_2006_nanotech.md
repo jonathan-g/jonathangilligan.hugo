@@ -8,9 +8,8 @@ file:
 - desc: full text
   file: gilligan_2006_nanotechnology.pdf
 id: gilligan_2006_nanotech
-issue: '12'
 issued:
-- year: 2006
+  year: 2006
 page: 10924-10930
 pub_type: article-journal
 pubdate: '2006-01-01'
@@ -21,5 +20,5 @@ short_title: Flexibility, clarity, and legitimacy
 status: published
 title: 'Flexibility, clarity, and legitimacy: Considerations for managing nanotechnolgy
   risks'
-volume: '36'
+volume: 36
 ---

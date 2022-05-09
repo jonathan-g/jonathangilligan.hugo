@@ -11,7 +11,7 @@ file:
   file: gilligan_1991_three_photon.pdf
 id: gilligan_1991_three_photon
 issued:
-- year: 1991
+  year: 1991
 page: 6406-6409
 pub_type: article-journal
 pubdate: '1991-01-01'
@@ -23,5 +23,5 @@ short_author:
 status: published
 title: High-resolution three-photon spectroscopy and multiphoton interference in molecular
   hydrogen
-volume: '43'
+volume: 43
 ---

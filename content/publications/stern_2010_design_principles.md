@@ -18,7 +18,7 @@ file:
   file: stern_2010_design_principles.pdf
 id: stern_2010_design_principles
 issued:
-- year: 2010
+  year: 2010
 page: 4847-4848
 pub_type: article-journal
 pubdate: '2010-01-01'
@@ -35,5 +35,5 @@ short_author:
   given: J.M.
 status: published
 title: Design principles for carbon emissions reduction programs
-volume: '44'
+volume: 44
 ---

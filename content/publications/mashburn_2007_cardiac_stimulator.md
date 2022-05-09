@@ -19,7 +19,7 @@ file:
   file: mashburn_2007_cardiac_stimulator.pdf
 id: mashburn_2007_cardiac_stimulator
 issued:
-- year: 2007
+  year: 2007
 page: 104302-104309
 pub_type: article-journal
 pubdate: '2007-01-01'
@@ -38,5 +38,5 @@ short_author:
   given: J.P.
 status: published
 title: A high-voltage cardiac stimulator for field shocks of a whole heart in a bath
-volume: '78'
+volume: 78
 ---

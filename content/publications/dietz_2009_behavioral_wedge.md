@@ -20,7 +20,7 @@ file:
   file: dietz_2009_behavioral_wedge_supporting_info.pdf
 id: dietz_2009_behavioral_wedge
 issued:
-- year: 2009
+  year: 2009
 page: 18452-18456
 pub_type: article-journal
 pubdate: '2009-01-01'
@@ -36,7 +36,7 @@ short_author:
 - family: Vandenbergh
   given: M.
 status: published
-title: Household actions can provide a behavioral wedge to rapidly reduce U.S. carbon
+title: Household actions can provide a behavioral wedge to rapidly reduce U.S. Carbon
   emissions
-volume: '106'
+volume: 106
 ---

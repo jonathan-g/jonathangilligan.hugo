@@ -7,11 +7,11 @@ author:
 - family: Gilligan
   given: Jonathan Mark
 collection_title: Technical digest series
-container_title: Proceedings of the xv international conference on quantum electronics
+container_title: Proceedings of the XV international conference on quantum electronics
 date: '1987-01-01'
 id: mccormack_1987_photodissociation
 issued:
-- year: 1987
+  year: 1987
 page: 58-60
 pub_type: paper-conference
 pubdate: '1987-01-01'
@@ -24,6 +24,6 @@ short_author:
 - family: Gilligan
   given: J.M.
 status: published
-title: Precise photodissociation and multiphoton spectroscopy of H2
-volume: '21'
+title: Precise photodissociation and multiphoton spectroscopy of `\ce{H2}`{=latex}
+volume: 21
 ---

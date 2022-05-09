@@ -25,12 +25,11 @@ file:
   file: burchfield_2016_collective_adaptation.pdf
 id: burchfield_2016_abm
 issued:
-- year: 2016
+  year: 2016
 keyword: Agent-based models, Agriculture, Climate adaptation, common-pool resources,
   decision science, drought, Prospect Theory, Sustainability
 page: 1678-1689
 pub_type: paper-conference
-pub_url: https://papers.ssrn.com/abstract=2807452
 pubdate: '2016-01-01'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA

@@ -29,7 +29,7 @@ file:
   file: sturmann_1997_photoexcitation.pdf
 id: sturmann_1997_fel
 issued:
-- year: 1997
+  year: 1997
 page: 689-696
 pub_type: article-journal
 pubdate: '1997-01-01'
@@ -58,5 +58,5 @@ short_author:
   given: G.
 status: published
 title: Photoexcitation spectroscopy and material alteration with free-electron laser
-volume: '91'
+volume: 91
 ---

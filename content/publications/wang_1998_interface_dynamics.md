@@ -27,7 +27,7 @@ file:
   file: wang_1998_dynamics.pdf
 id: wang_1998_interface_dynamics
 issued:
-- year: 1998
+  year: 1998
 page: 4224-4227
 pub_type: article-journal
 pubdate: '1998-01-01'
@@ -53,6 +53,6 @@ short_author:
 - family: Lucovsky
   given: G.
 status: published
-title: Coupled electron-hole dynamics at the Si/SiO2 interface
-volume: '81'
+title: Coupled electron-hole dynamics at the `\ce{Si/SiO2}`{=latex} interface
+volume: 81
 ---

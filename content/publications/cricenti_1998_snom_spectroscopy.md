@@ -21,7 +21,7 @@ file:
   file: cricenti_1998_fel_ir_snom.pdf
 id: cricenti_1998_snom_spectroscopy
 issued:
-- year: 1998
+  year: 1998
 page: 151-153
 pub_type: article-journal
 pubdate: '1998-01-01'
@@ -42,5 +42,5 @@ short_author:
   given: G.
 status: published
 title: Free-electron-laser near-field nanospectroscopy
-volume: '73'
+volume: 73
 ---

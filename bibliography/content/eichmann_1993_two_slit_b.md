@@ -21,7 +21,7 @@ file:
   file: eichmann_1993_two_atoms.pdf
 id: eichmann_1993_two_slit_b
 issued:
-- year: 1993
+  year: 1993
 page: 43-48
 pub_type: paper-conference
 pubdate: '1993-01-01'

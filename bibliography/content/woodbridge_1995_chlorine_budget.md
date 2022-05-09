@@ -43,7 +43,7 @@ file:
   file: woodbridge_1995_total_chlorine.pdf
 id: woodbridge_1995_chlorine_budget
 issued:
-- year: 1995
+  year: 1995
 page: 3057-3064
 pub_type: article-journal
 pubdate: '1995-01-01'
@@ -86,6 +86,6 @@ short_author:
   given: R.J.
 status: published
 title: Estimates of total organic and inorganic chlorine in the lower stratosphere
-  from *in situ* measurements during <span class="smallcaps">aase ii</span>
-volume: '100'
+  from *in situ* measurements during [aase ii]{.smallcaps}
+volume: 100
 ---

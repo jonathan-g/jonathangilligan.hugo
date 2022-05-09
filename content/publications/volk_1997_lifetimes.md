@@ -25,7 +25,7 @@ file:
   file: volk_1997_lifetimes.pdf
 id: volk_1997_lifetimes
 issued:
-- year: 1997
+  year: 1997
 page: 25543-25564
 pub_type: article-journal
 pubdate: '1997-01-01'
@@ -50,5 +50,5 @@ short_author:
   given: M.R.
 status: published
 title: Evaluation of source gas lifetimes from stratospheric observations
-volume: '102'
+volume: 102
 ---

@@ -20,7 +20,7 @@ container_title: Hyperfine Interactions
 date: '1993-01-01'
 id: itano_1993_spectroscopy
 issued:
-- year: 1993
+  year: 1993
 page: 211-220
 pub_type: article-journal
 pubdate: '1993-01-01'
@@ -43,5 +43,5 @@ short_author:
   given: D.J.
 status: published
 title: Ultra-high precision spectroscopy for fundamental physics
-volume: '78'
+volume: 78
 ---

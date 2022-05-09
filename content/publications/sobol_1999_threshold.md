@@ -19,7 +19,7 @@ file:
   file: sobol_1999_tissue_denaturation.pdf
 id: sobol_1999_threshold
 issued:
-- year: 1999
+  year: 1999
 page: 122-129
 pub_type: paper-conference
 pubdate: '1999-01-01'
@@ -40,5 +40,5 @@ short_author:
 status: published
 title: Effect of wavelength on threshold and kinetics of tissue denaturation under
   laser radiation
-volume: '3601'
+volume: 3601
 ---
