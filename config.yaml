@@ -101,7 +101,7 @@ params:
   mathjax: true
   mhchem: true
   avatar: "avatar.jpg"
-  front_page_img: "jg/jg_kokilmoni_deck_2010_large.jpg"
+  front_page_img: "/files/headshots/Gilligan_Jonathan_formal_closeup.jpg"
   email: "jonathan.gilligan@vanderbilt.edu"
   pubs_count: 4
   teach_count: 2

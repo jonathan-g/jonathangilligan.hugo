@@ -90,13 +90,16 @@ The following bio may be used in media releases without further permission.
 > (a feminist adaptation of Hawthorne) 
 > and the libretto for the opera [_Pearl_]({{< ref "creative/pearl.md" >}}).
 
-## Head shots
+## Head shot
 
-Click to download a high-resolution version. These may be used in media releases without further permission.
+Click to download a high-resolution version. This may be used in media releases without further permission.
 
+<!--
 [![Brown](/files/headshots/Gilligan_Jonathan_brown_thumb.jpg)](/files/headshots/Gilligan_Jonathan_brown.jpg)
 [![Informal](/files/headshots/Gilligan_Jonathan_informal_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_close.jpg)
 [![Informal Large](/files/headshots/Gilligan_Jonathan_informal_large_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_large.jpg)
+-->
+[![2022](/files/headshots/Gilligan_Jonathan_2022_thumb.jpg)](/files/headshots/Gilligan_Jonathan_2022.jpg)
 
 ## Academic/Professional Data:
 
