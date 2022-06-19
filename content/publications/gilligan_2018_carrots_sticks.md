@@ -14,6 +14,7 @@ issued:
   year: 2018
 page: 179-198
 pub_type: article-journal
+pub_url: https://scholarship.law.tamu.edu/lawreview/vol6/iss1/7/
 pubdate: '2018-12-31'
 short_author:
 - family: Gilligan

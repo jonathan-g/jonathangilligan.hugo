@@ -14,6 +14,7 @@ import subprocess
 import re
 import html
 import yaml
+import urllib.parse
 # import string
 import datetime
 from dateutil.parser import parse as duparse
@@ -30,8 +31,11 @@ def fix_files(path):
     time.sleep(0.5)
     os.rmdir(scratch_path)
 
+fix_file_pattern_1 = re.compile("^(?P<prefix>[a-z ]+:)(?P<file>[^:]+)(?P<suffix>:.*$)")
+fix_file_pattern_2 = re.compile("^(?P<prefix> *file *= *\\{)(?P<files>[^}]*)(?P<suffix>\\}.*$)")
+
 def fix_file_ref(s):
-    m = re.match("^(?P<prefix>[a-z ]+:)(?P<file>[^:]+)(?P<suffix>:.*$)", s)
+    m = fix_file_pattern_1.match(s)
     if m is not None:
         matches = m.groupdict()
         res = matches['prefix'] + matches['file'].lower() + matches['suffix']
@@ -40,7 +44,7 @@ def fix_file_ref(s):
         return s
 
 def fix_file_refs(s):
-    m = re.match("^(?P<prefix> *file *= *\\{)(?P<files>[^}]*)(?P<suffix>\\}.*$)", s)
+    m = fix_file_pattern_2.match(s)
     if m is not None:
         matches = m.groupdict()
         files = [ fix_file_ref(f) for f in matches['files'].split(';') ]
@@ -132,20 +136,20 @@ given_s2_expr = re.compile('\\. +')
 def shorten_given(s, f):
     s1 = re.sub(given_s1_expr, '\\1.', s)
     s2 = re.sub(given_s2_expr, '.', s1)
-    print('fam = "', f, '", s = "', s, '", s1 = "', s1, '", s2 = "', s2, '"')
+    # print('item ', key, ': fam = "', f, '", s = "', s, '", s1 = "', s1, '", s2 = "', s2, '"')
     return s2
 
 def fix_particles(name):
     if ('family' in name.keys()):
         if ('non-dropping-particle' in name.keys()):
-            print('*** fam = "', name['family'], '", nd part = "', 
-                name['non-dropping-particle'], '"')
+            # print('item ', key, ': *** fam = "', name['family'], '", nd part = "', 
+            #       name['non-dropping-particle'], '"')
             name['family'] = name['non-dropping-particle'].rstrip() + ' ' +  \
                 name['family'].lstrip()
             name.pop('non-dropping-particle')
         if ('dropping-particle' in name.keys()):
-            print('*** fam = "', name['family'], '", d part = "', 
-                name['dropping-particle'], '"')
+            # print('item ', key, ': *** fam = "', name['family'], '", d part = "', 
+            #       name['dropping-particle'], '"')
             name['family'] = name['dropping-particle'].rstrip() + ' ' +  \
                 name['family'].lstrip()
             name.pop('dropping-particle')
@@ -160,6 +164,7 @@ def gen_items(bib):
                    'genre', 'status',
                    'volume', 'issue', 'page', 'number',
                    'ISBN', 'DOI', # 'URL',
+                   'pub_url',
                    'preprint',
                    'ssrn',
                    'patent_num',
@@ -170,24 +175,33 @@ def gen_items(bib):
                    'amazon'
                    ]
     # title_keys = ['title', 'short_title', 'container_title', 'collection_title']
+    proxy_pattern = re.compile(r'^(?P<hostname>[a-z0-9-]+)(?P<proxy>\.proxy(\.[a-z0-9-]+)*\.vanderbilt\.edu)')
+    abstract_pattern = re.compile(r"(?P<keep>(?P<emph>([*_]+|&quot;))(?P<text>.+)(?P=emph))(?P=text)")
     if not os.path.exists('content'):
         os.mkdir('content')
     for item in bib:
+        keys = item.keys()
         key = clean_expr.sub('_', item['id'])
-        if 'doi' in item.keys():
+        # print("Item ", key, " has keys ", ', '.join(keys))
+        if 'url' in keys: 
+          print(" item ", key, " has url ", item['url'])
+        if 'doi' in keys:
           item['DOI'] = item.pop('doi')
-        if 'title-short' in item.keys():
+          if 'url' in item.keys():
+            print("Deleting URL for ", key)
+            item.pop('url')
+        if 'title-short' in keys:
             item['short_title'] = item['title-short']
-        if 'container-title' in item.keys():
+        if 'container-title' in keys:
             item['container_title'] = item['container-title']
-        if 'collection-title' in item.keys():
+        if 'collection-title' in keys:
             item['collection_title'] = item['collection-title']
-        if 'publisher-place' in item.keys():
+        if 'publisher-place' in keys:
             item['publisher_place'] = item['publisher-place']
-        if 'author' in item.keys():
+        if 'author' in keys:
             item['author'] = [ fix_particles(n) for n in item['author']]
             item['short_author'] = [ {'family':n['family'], 'given':shorten_given(n['given'], n['family'])} for n in item['author'] ]
-        if 'editor' in item.keys():
+        if 'editor' in keys:
             item['editor'] = [ fix_particles(n) for n in item['editor']]
             item['short_editor'] = [ {'family':n['family'], 'given':shorten_given(n['given'], n['family'])} for n in item['editor'] ]
         header_items = dict([(k, v) for (k, v) in item.items() if k in output_keys])
@@ -226,11 +240,28 @@ def gen_items(bib):
         else :
           print("No issued date for ", header_items['id'])
           continue
-        if 'URL' in item.keys():
-            header_items['pub_url'] = item['URL']
-        if 'preprint' in item.keys():
+        if 'url' in keys:
+            print("Item ", key, " has an URL")
+            if not 'doi' in keys:
+              print("Fixing up URL for item ", key)
+              pub_url = item['url']
+              split_url = urllib.parse.urlsplit(pub_url)
+              hostname = split_url.netloc
+              m = proxy_pattern.match(hostname)
+              if m:
+                gd = m.groupdict()
+                if 'proxy' in gd.keys():
+                  hostname = gd['hostname'].replace('-', '.')
+                  split_url = split_url._replace(netloc = hostname)
+                  pub_url = urllib.parse.urlunsplit(split_url)
+                  print("Replacing proxy for item ", key)
+              print("URL for ", key, " is ", pub_url)
+              header_items['pub_url'] = pub_url
+            else:
+              print("Ignoring URL for item ", key)
+        if 'preprint' in keys:
             header_items['preprint_url'] = item['preprint']
-        if 'ssrn' in item.keys():
+        if 'ssrn' in keys:
             header_items['ssrn_id'] = item['ssrn']
         header_items['pub_type'] = item['type']
         if 'keyword' in header_items.keys():
@@ -257,6 +288,7 @@ def gen_items(bib):
             abstract = item['abstract']
         if abstract is not None:
             abstract = html.escape(abstract).encode('ascii', 'xmlcharrefreplace').decode('utf-8')
+            abstract = abstract_pattern.sub(r'\g<keep>', abstract)
             outfile.write(abstract + '\n')
         outfile.close()
 

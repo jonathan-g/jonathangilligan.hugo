@@ -55,3 +55,4 @@ status: published
 title: Reply to 'Tidal river management in Bangladesh'
 volume: 5
 ---
+We appreciate the opportunity to address tidal river management (TRM), as raised by Hossain and colleagues. We are aware of TRM but made the decision not to include it in our Letter on flood risk on the Ganges-Brahmaputra tidal delta plain for the following reasons.

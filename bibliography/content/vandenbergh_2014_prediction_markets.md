@@ -16,6 +16,7 @@ issued:
   year: 2014
 page: 1962-2017
 pub_type: article-journal
+pub_url: https://www.uclalawreview.org/vandenbergh-raimi-gilligan/
 pubdate: '2014-01-01'
 short_author:
 - family: Vandenbergh

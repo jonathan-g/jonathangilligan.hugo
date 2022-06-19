@@ -1,4 +1,5 @@
 ---
+DOI: 10.3181/0902-RM-47
 author:
 - family: Holcomb
   given: Mark R.
@@ -42,3 +43,4 @@ title: The potential of dual camera systems for multimodal imaging of cardiac el
   and metabolism
 volume: 234
 ---
+Fluorescence imaging has become a common modality in cardiac electrodynamics. A single fluorescent parameter is typically measured. Given the growing emphasis on simultaneous imaging of more than one cardiac variable, we present an analysis of the potential of dual camera imaging, using as an example our straightforward dual camera system that allows simultaneous measurement of two dynamic quantities from the same region of the heart. The advantages of our system over others include an optional software camera calibration routine that eliminates the need for precise camera alignment. The system allows for rapid setup, dichroic image separation, dual-rate imaging, and high spatial resolution, and it is generally applicable to any two-camera measurement. This type of imaging system offers the potential for recording simultaneously not only transmembrane potential and intracellular calcium, two frequently measured quantities, but also other signals more directly related to myocardial metabolism, such as \[K+\]e, NADH, and reactive oxygen species, leading to the possibility of correlative multimodal cardiac imaging. We provide a compilation of dye and camera information critical to the design of dual camera systems and experiments.

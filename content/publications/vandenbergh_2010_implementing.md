@@ -43,3 +43,4 @@ title: 'Implementing the behavioral wedge: Designing and adopting effective carb
   emissions reduction programs'
 volume: 40
 ---
+The time is ripe to identify additional politically viable, low-cost, nonintrusive strategies to reduce carbon emissions. This article examines how laws and policies can reduce U.S. carbon emissions by 7% or more by inducing changes in household technology adoption and use. This &quot;behavioral wedge&quot; of emissions reductions will buy time for a stronger public consensus to emerge on the need for more intrusive carbon mitigation measures (e.g., regulating emissions, pricing carbon) and will complement the additional measures after they are adopted. The article identifies six principles for the design of behavioral wedge policies and programs and uses the design principles to evaluate recent federal household energy initiatives.
