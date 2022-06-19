@@ -29,7 +29,7 @@ short_author:
 - family: Lichten
   given: W.
 status: published
-title: '`\ce{H2}`{=latex}, `\ce{D2}`{=latex}, and `\ce{HD}`{=latex} ionization potentials
-  by accurate calibration of several iodine lines'
+title: H$_2$, D$_2$, and HD ionization potentials by accurate calibration of several
+  iodine lines
 volume: 47
 ---

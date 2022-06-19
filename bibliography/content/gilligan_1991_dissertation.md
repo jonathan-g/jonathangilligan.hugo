@@ -13,7 +13,6 @@ publisher: Yale University
 short_author:
 - family: Gilligan
   given: J.M.
-title: Precise multiphoton spectroscopy of the `\ce{H2}`{=latex}, `\ce{HD}`{=latex},
-  and `\ce{D2}`{=latex} molecules and a new determination of the ionization potential
-  of `\ce{HD}`{=latex}
+title: Precise multiphoton spectroscopy of the H$_2$, HD, and D$_2$ molecules and
+  a new determination of the ionization potential of HD
 ---

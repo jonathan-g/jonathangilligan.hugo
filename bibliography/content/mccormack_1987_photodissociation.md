@@ -24,6 +24,6 @@ short_author:
 - family: Gilligan
   given: J.M.
 status: published
-title: Precise photodissociation and multiphoton spectroscopy of `\ce{H2}`{=latex}
+title: Precise photodissociation and multiphoton spectroscopy of H$_2$
 volume: 21
 ---

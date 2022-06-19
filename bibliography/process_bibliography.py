@@ -184,11 +184,12 @@ def gen_items(bib):
         key = clean_expr.sub('_', item['id'])
         # print("Item ", key, " has keys ", ', '.join(keys))
         if 'url' in keys: 
-          print(" item ", key, " has url ", item['url'])
+          # print(" item ", key, " has url ", item['url'])
+          pass
         if 'doi' in keys:
           item['DOI'] = item.pop('doi')
           if 'url' in item.keys():
-            print("Deleting URL for ", key)
+            # print("Deleting URL for ", key)
             item.pop('url')
         if 'title-short' in keys:
             item['short_title'] = item['title-short']
@@ -241,9 +242,9 @@ def gen_items(bib):
           print("No issued date for ", header_items['id'])
           continue
         if 'url' in keys:
-            print("Item ", key, " has an URL")
+            # print("Item ", key, " has an URL")
             if not 'doi' in keys:
-              print("Fixing up URL for item ", key)
+              # print("Fixing up URL for item ", key)
               pub_url = item['url']
               split_url = urllib.parse.urlsplit(pub_url)
               hostname = split_url.netloc
@@ -254,11 +255,12 @@ def gen_items(bib):
                   hostname = gd['hostname'].replace('-', '.')
                   split_url = split_url._replace(netloc = hostname)
                   pub_url = urllib.parse.urlunsplit(split_url)
-                  print("Replacing proxy for item ", key)
-              print("URL for ", key, " is ", pub_url)
+                  # print("Replacing proxy for item ", key)
+              # print("URL for ", key, " is ", pub_url)
               header_items['pub_url'] = pub_url
             else:
-              print("Ignoring URL for item ", key)
+              # print("Ignoring URL for item ", key)
+              pass
         if 'preprint' in keys:
             header_items['preprint_url'] = item['preprint']
         if 'ssrn' in keys:
