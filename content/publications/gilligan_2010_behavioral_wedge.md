@@ -36,7 +36,7 @@ short_author:
 - family: Vandenbergh
   given: M.
 status: published
-title: The behavioral wedge
+title: The behavioural wedge
 volume: 7
 ---
 When nations fail to agree, can individual citizens make a difference? The third of our post-Copenhagen features is by Jonathan Gilligan, Thomas Dietz, Gerald T. Gardner, Paul C. Stern, and Michael P. Vandenbergh. They look at the effects that voluntary actions by individuals can have, and at the policies that can best encourage such actions.

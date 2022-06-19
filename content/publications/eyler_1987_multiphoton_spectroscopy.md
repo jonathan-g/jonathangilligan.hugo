@@ -19,6 +19,6 @@ short_author:
 - family: Gilligan
   given: J.M.
 status: published
-title: Precise multiphoton spectroscopy of excited states of `\ce{H2}`{=latex}
+title: Precise multiphoton spectroscopy of excited states of H$_2$
 volume: 160
 ---

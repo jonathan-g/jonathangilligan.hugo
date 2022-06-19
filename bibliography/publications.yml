@@ -97,7 +97,6 @@ references:
   issued: 2021
   keyword: posttenure
   language: en-US
-  other-ids: bestRandomForestAnalysis2021
   page: 77-100
   status: published
   title: Random forest analysis of two household surveys can identify important predictors
@@ -2167,7 +2166,7 @@ references:
     of 2009 by Significance.*'
   page: 17-20
   status: published
-  title: The behavioral wedge
+  title: The behavioural wedge
   type: article-journal
   volume: 7
 - abstract: As I discuss the ethics that apply over enormous spans of time, I will
@@ -3097,7 +3096,7 @@ references:
   issued: 1998
   page: 4224-4227
   status: published
-  title: Coupled electron-hole dynamics at the `\ce{Si/SiO2}`{=latex} interface
+  title: Coupled electron-hole dynamics at the Si/SiO2 interface
   type: article-journal
   volume: 81
 - author:
@@ -3542,8 +3541,8 @@ references:
   issued: 1993
   page: 4042-4045
   status: published
-  title: '`\ce{H2}`{=latex}, `\ce{D2}`{=latex}, and `\ce{HD}`{=latex} ionization potentials
-    by accurate calibration of several iodine lines'
+  title: H$_2$, D$_2$, and HD ionization potentials by accurate calibration of several
+    iodine lines
   type: article-journal
   volume: 47
 - author:
@@ -3614,9 +3613,8 @@ references:
   id: gilligan:1991:dissertation
   issued: 1991
   publisher: Yale University
-  title: Precise multiphoton spectroscopy of the `\ce{H2}`{=latex}, `\ce{HD}`{=latex},
-    and `\ce{D2}`{=latex} molecules and a new determination of the ionization potential
-    of `\ce{HD}`{=latex}
+  title: Precise multiphoton spectroscopy of the H$_2$, HD, and D$_2$ molecules and
+    a new determination of the ionization potential of HD
   type: thesis
 - author:
   - family: Gilligan
@@ -3721,18 +3719,11 @@ references:
     given: Jonathan Mark
   - family: McCormack
     given: Elizabeth
-  collection-title: AIP conference proceedings
   container-title: Advances in laser spectroscopy III
-  file:
-  - desc: full text
-    file: eyler_1988_precise_spectroscopy.pdf
   id: eyler:1988:multiphoton.spectroscopy
   issued: 1988
-  page: 331-333
-  status: published
-  title: Precise multiphoton spectroscopy of `\ce{H2}`{=latex}
+  title: Precise multiphoton spectroscopy of h$_2$
   type: paper-conference
-  volume: 172
 - author:
   - family: Eyler
     given: Edward Eugene
@@ -3752,7 +3743,7 @@ references:
   issued: 1987
   page: 3486-3489
   status: published
-  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in `\ce{H2}`{=latex}
+  title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H$_2$
   type: article-journal
   volume: 36
 - author:
@@ -3766,7 +3757,7 @@ references:
   issued: 1987
   page: 388-390
   status: published
-  title: Precise multiphoton spectroscopy of excited states of `\ce{H2}`{=latex}
+  title: Precise multiphoton spectroscopy of excited states of H$_2$
   type: paper-conference
   volume: 160
 - author:
@@ -3783,6 +3774,6 @@ references:
   page: 58-60
   publisher: Optical Society of America
   status: published
-  title: Precise photodissociation and multiphoton spectroscopy of `\ce{H2}`{=latex}
+  title: Precise photodissociation and multiphoton spectroscopy of H$_2$
   type: paper-conference
   volume: 21

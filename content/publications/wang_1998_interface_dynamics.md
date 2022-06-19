@@ -53,6 +53,6 @@ short_author:
 - family: Lucovsky
   given: G.
 status: published
-title: Coupled electron-hole dynamics at the `\ce{Si/SiO2}`{=latex} interface
+title: Coupled electron-hole dynamics at the Si/SiO2 interface
 volume: 81
 ---

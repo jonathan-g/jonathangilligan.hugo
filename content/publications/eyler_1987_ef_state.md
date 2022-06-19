@@ -33,6 +33,6 @@ short_author:
 - family: Pollack
   given: E.
 status: published
-title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in `\ce{H2}`{=latex}
+title: Precise two-photon spectroscopy of $E\leftarrow X^*$ intervals in H$_2$
 volume: 36
 ---
