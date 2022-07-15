@@ -60,7 +60,7 @@ The importance of both environmental and societal characteristics demonstrates t
 ## Compiling a Database of Urban Water Conservation Policies
 
 Over the past three years, I have been part of an interdisciplinary research project, together with
-[George Hornberger](https://engineering.vanderbilt.edu/bio/george-hornberger), [David Hess](http://www.davidjhess.org/index.html), [Scott Worland](https://www.usgs.gov/staff-profiles/scott-c-worland?qt-staff_profile_science_products=3#qt-staff_profile_science_products), [John Nay](http://johnjnay.com/), [Christopher Wold](https://www.linkedin.com/in/christopher-wold-813a8975), [Kate Pride Brown](https://www.iac.gatech.edu/people/faculty/brown_2), and others, to study the 
+[George Hornberger](https://engineering.vanderbilt.edu/bio/george-hornberger), [David Hess](http://www.davidjhess.org/index.html), [Scott Worland](https://github.com/scworland), [John Nay](http://johnjnay.com/), [Christopher Wold](https://www.linkedin.com/in/christopher-wold-813a8975), [Kate Pride Brown](https://www.iac.gatech.edu/people/faculty/brown_2), and others, to study the 
 [socio-technical transition of water policy in U.S. cities](https://doi.org/10.1002/2015WR016943)
 from technologically focused measures to expand supply capacity and reliability toward softer measures
 that address the demand side through emphasis on efficiency and waste reduction.
@@ -73,8 +73,8 @@ and share economic activity with the central city).
 
 -----
 
-<iframe src="https://scworland-usgs.github.io/vwci/" width="800" height="600">
-An interactive map of water conservation scores is available at <http://scworland-usgs.github.io/vwci/>.
+<iframe src="http://scworland.github.io/vwci/" width="800" height="600">
+An interactive map of water conservation scores is available at <http://scworland.github.io/vwci/>.
 </iframe>
 
 -----

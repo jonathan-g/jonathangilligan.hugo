@@ -13,8 +13,8 @@ tags:
   - Bayesian statistics
 ---
 
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 <script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
 
 
 <p>Cities face challenges on many fronts as they work to assure their residents of safe and reliable access to water.
@@ -52,7 +52,7 @@ The importance of both environmental and societal characteristics demonstrates t
 <div id="compiling-a-database-of-urban-water-conservation-policies" class="section level2">
 <h2>Compiling a Database of Urban Water Conservation Policies</h2>
 <p>Over the past three years, I have been part of an interdisciplinary research project, together with
-<a href="https://engineering.vanderbilt.edu/bio/george-hornberger">George Hornberger</a>, <a href="http://www.davidjhess.org/index.html">David Hess</a>, <a href="https://www.usgs.gov/staff-profiles/scott-c-worland?qt-staff_profile_science_products=3#qt-staff_profile_science_products">Scott Worland</a>, <a href="http://johnjnay.com/">John Nay</a>, <a href="https://www.linkedin.com/in/christopher-wold-813a8975">Christopher Wold</a>, <a href="https://www.iac.gatech.edu/people/faculty/brown_2">Kate Pride Brown</a>, and others, to study the
+<a href="https://engineering.vanderbilt.edu/bio/george-hornberger">George Hornberger</a>, <a href="http://www.davidjhess.org/index.html">David Hess</a>, <a href="https://github.com/scworland">Scott Worland</a>, <a href="http://johnjnay.com/">John Nay</a>, <a href="https://www.linkedin.com/in/christopher-wold-813a8975">Christopher Wold</a>, <a href="https://www.iac.gatech.edu/people/faculty/brown_2">Kate Pride Brown</a>, and others, to study the
 <a href="https://doi.org/10.1002/2015WR016943">socio-technical transition of water policy in U.S. cities</a>
 from technologically focused measures to expand supply capacity and reliability toward softer measures
 that address the demand side through emphasis on efficiency and waste reduction.
@@ -63,8 +63,8 @@ We built a <a href="https://doi.org/10.1111/1752-1688.12506">database of water c
 is a geographic region representing a central city and one or more contiguous counties that have high population densities
 and share economic activity with the central city).</p>
 <hr />
-<iframe src="https://scworland-usgs.github.io/vwci/" width="800" height="600">
-An interactive map of water conservation scores is available at <a href="http://scworland-usgs.github.io/vwci/" class="uri">http://scworland-usgs.github.io/vwci/</a>.
+<iframe src="http://scworland.github.io/vwci/" width="800" height="600">
+An interactive map of water conservation scores is available at <a href="http://scworland.github.io/vwci/" class="uri">http://scworland.github.io/vwci/</a>.
 </iframe>
 <hr />
 <p>We counted the number of water-conservation policy (out of a list of 79 possible categories)
@@ -596,7 +596,7 @@ for PVI this allows us to consider the effect of a city being more Democratic or
 <h3>Regression Analysis</h3>
 <p>We performed a regression analysis to examine the role of each of these variables in predicting each of the three conservation scores.
 The results of the analysis are shown in the figure below.</p>
-{{% figure src="/post/img/water-conservation-policies/vwci_cat_plot.png" caption="Regression coefficients for state ($\gamma$) and city ($\beta$) level variables." %}}
+<p>{{% figure src="/post/img/water-conservation-policies/vwci_cat_plot.png" caption="Regression coefficients for state ($\gamma$) and city ($\beta$) level variables." %}}</p>
 <p>In addition to the variables listed above, we tested alternate statistical models that considered such variables as
 the Gini index of economic inequality, population density, and the areas covered by the different MSAs. None of these
 alternate models performed as well as the analysis we present above (for details, see the paper and its supporting

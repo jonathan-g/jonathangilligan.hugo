@@ -74,7 +74,7 @@ international group of experts and stakeholders, and a desire to see more such w
 The workshop received extensive news coverage in Bangladesh, including feature stories in 
 [the Daily Samakal]({{< ref "/news/2018-07-09-samakal-waterways-workshop.md" >}}) 
 and Channel i TV 
-{{< youtube ns4_3tOeRLQ >}}
+{{< youtube id="ns4_3tOeRLQ" >}}
 
 ## Following Up
 
