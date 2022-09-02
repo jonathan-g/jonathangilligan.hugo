@@ -46,7 +46,7 @@ The following bio may be used in media releases without further permission.
 > for which he received a NASA Group Achievement Award 
 > and a NOAA Outstanding Scientific Paper award. 
 >
-> In 1994, Gilligan joined Vanderbilt’s 
+> In 1994, Gilligan joined Vanderbilt's 
 > [Department of Physics and Astronomy](https://as.vanderbilt.edu/physics/), 
 > where he applied physics to material science, biology, and medicine, 
 > later becoming the Robert T. Lagemann Assistant Professor of Living State Physics. 
@@ -80,7 +80,7 @@ The following bio may be used in media releases without further permission.
 > His book, 
 > [_Beyond Politics: The Private Governance Response to Climate Change_](https://beyondpoliticsbook.com)
 > (co-authored with Michael Vandenbergh) was recognized with 
-> a [Vanderbilt Chancellor’s Award for Research](https://news.vanderbilt.edu/2018/08/24/gould-awarded-10k-prize-for-achievement-in-research-at-fall-assembly/) 
+> a [Vanderbilt Chancellor's Award for Research](https://news.vanderbilt.edu/2018/08/24/gould-awarded-10k-prize-for-achievement-in-research-at-fall-assembly/) 
 > in 2018 and was named [one of the most important books on environmental 
 > policy of the last 50 years](/news/2019/12/23/top-books/)
 > by _Environmental Forum_.
@@ -111,6 +111,7 @@ Click to download a high-resolution version. This may be used in media releases 
   <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
   <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
   <li> SSRN ID: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
+  <li> <i class="fa-li {{< fa_icon weight="b" icon="youtube-square" >}}"></i><a href="https://www.youtube.com/channel/UCh3zZ5uI7oZBtpO6kflg_dg" target="_blank">YouTube channel for research talks</a></li>
   <li><i class="fa-li {{< fa_icon weight="b" icon="github" >}}" style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
   <li><i class="fa-li {{< fa_icon weight="l" icon="key" >}}" style="padding-top:3px;"></i> PGP/GPG fingerprint <a href="/files/public_keys/jmgilligan.asc" target="_blank">70F3 509D B77C E8FF 6CFE B595 818E 22FA 6654 70B0</a> <a href="https://pgp.key-server.io/pks/lookup?search=jonathan.gilligan%40vanderbilt.edu" target="_blank">[Public Key Server]</a> (<a href="https://futureboy.us/pgp.html" target="_blank">what is this?</a>)
   <li><i class="fa-li {{< fa_icon weight="l" icon="globe">}}" style="padding-top:3px;"></i> <a href="https://keybase.io/jmgilligan" target="_blank">Verified identities</a> at <a href="https://keybase.io/jmgilligan" target="_blank"><tt>keybase.io</tt></a>
