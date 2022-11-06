@@ -139,6 +139,18 @@ params:
       link: "https://twitter.com/jg_environ"
       text: "@jg_environ"
       on_site: "Twitter"
+      rel_me: yes
+      social_media: yes
+    mastodon: 
+      priority: 10
+      icon: "mastodon"
+      icon_pack: "fa"
+      icon_weight: "b"
+      link: "https://mathstodon.xyz/@jg_environ"
+      text: "@jg_environ@mathstodon.xyz"
+      on_site: "Mastodon"
+      rel_me: yes
+      social_media: yes
     youtube:
       priority: 9
       icon: "youtube-square"
@@ -146,6 +158,9 @@ params:
       icon_weight: "b"
       link: "https://www.youtube.com/channel/UCh3zZ5uI7oZBtpO6kflg_dg"
       text: "Youtube channel"
+      long_text: "YouTube channel for research talks"
+      rel_me: yes
+      social_media: yes
     github:
       priority: 8
       icon: "github"
@@ -154,6 +169,7 @@ params:
       link: "https://github.com/jonathan-g"
       text: "jonathan-g"
       on_site: "GitHub"
+      rel_me: yes
     orcid:
       priority: 6
       icon: "orcid"
@@ -161,17 +177,20 @@ params:
       link: "https://orcid.org/0000-0003-1375-6686"
       text: "0000-0003-1375-6686"
       site: "ORCID:"
+      rel_me: yes
     ssrn:
       priority: 7
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061"
       text: "954061"
       site: "SSRN ID:"
+      rel_me: yes
     google_scholar:
       priority: 5
       icon: "google-scholar"
       icon_pack: "ai"
       link: "https://scholar.google.com/citations?user=B8RVAU0AAAAJ"
       text: "Google Scholar"
+      rel_me: yes
 taxonomies:
   - category: "categories"
   - tag:      "tags"
