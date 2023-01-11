@@ -108,14 +108,20 @@ Click to download a high-resolution version. This may be used in media releases 
 <ul class="fa-ul">
   {{< pronouns "  list" >}}
   <li><i class="fa-li ai ai-cv" style="padding-opt:3px;"></i> <a href="/files/cv/gilligan_cv.pdf"><em><strong>Curriculum Vitae</strong></em></a> &nbsp; <a href="/files/cv/gilligan_cv.pdf" class="badge badge-small pdf"><i class="fal fa-file-pdf"></i>&nbsp;&nbsp;pdf</a>
-  <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
-  <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
-  <li> SSRN ID: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
-  <li> <i class="fa-li {{< fa_icon weight="b" icon="youtube-square" >}}"></i><a href="https://www.youtube.com/channel/UCh3zZ5uI7oZBtpO6kflg_dg" target="_blank">YouTube channel for research talks</a></li>
-  <li><i class="fa-li {{< fa_icon weight="b" icon="github" >}}" style="padding-top:3px;"></i> <a href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
+  <li><i class="fa-li ai ai-orcid" style="padding-opt:3px;"></i> ORCID: <a rel="me" href="https://orcid.org/0000-0003-1375-6686" target="_blank">0000-0003-1375-6686</a></li>
+  <li><i class="fa-li ai ai-google-scholar" style="padding-top:3px;"></i> <a rel="me" href="https://scholar.google.co.uk/citations?user=B8RVAU0AAAAJ" target="_blank">Google Scholar</a></li>
+  <li> SSRN ID: <a rel="me" href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061" target="_blank">954061</a></li>
+  <li><i class="fa-li {{< fa_icon weight="b" icon="github" >}}" style="padding-top:3px;"></i> <a rel="me" href="https://github.com/jonathan-g" target="_blank">jonathan-g</a> on GitHub</li>
   <li><i class="fa-li {{< fa_icon weight="l" icon="key" >}}" style="padding-top:3px;"></i> PGP/GPG fingerprint <a href="/files/public_keys/jmgilligan.asc" target="_blank">70F3 509D B77C E8FF 6CFE B595 818E 22FA 6654 70B0</a> <a href="https://pgp.key-server.io/pks/lookup?search=jonathan.gilligan%40vanderbilt.edu" target="_blank">[Public Key Server]</a> (<a href="https://futureboy.us/pgp.html" target="_blank">what is this?</a>)
-  <li><i class="fa-li {{< fa_icon weight="l" icon="globe">}}" style="padding-top:3px;"></i> <a href="https://keybase.io/jmgilligan" target="_blank">Verified identities</a> at <a href="https://keybase.io/jmgilligan" target="_blank"><tt>keybase.io</tt></a>
+  <li><i class="fa-li {{< fa_icon weight="l" icon="globe">}}" style="padding-top:3px;"></i> <a rel="me" href="https://keybase.io/jmgilligan" target="_blank">Verified identities</a> at <a rel="me" href="https://keybase.io/jmgilligan" target="_blank"><tt>keybase.io</tt></a>
 </ul>
+
+### Social Media
+
+<ul class="fa-ul">
+{{< social_media_list >}}
+</ul>
+
 
 ---
 
