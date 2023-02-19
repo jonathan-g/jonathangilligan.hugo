@@ -17,11 +17,6 @@ keywords:
   - climate studies
 ---
 
-Science, policy, history, and causes of climate change on Earth in the last 
-2 million years; evidence of human impacts on climate since 1850; future 
-climate change and its economic, social, and ecological consequences; economic, 
-technological, and public policy responses.
-
 This course, for undergraduate students, has two major parts:
 
 1. The __basic scientific principles__ of the earth's climate.

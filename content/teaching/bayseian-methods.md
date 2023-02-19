@@ -29,7 +29,7 @@ critical evaluation of statistical models and modeling analyses.
 
 I divide the semester into three parts:
 
-### Introduction to Bayes???s Theorem and its Applications: 
+### Introduction to Bayes's Theorem and its Applications: 
 
 The first part of the course introduces the basic concepts of Bayesian 
 statistics, using simplified approximations to calculate difficult equations. 
