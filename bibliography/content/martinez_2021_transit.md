@@ -30,6 +30,7 @@ issued:
   month: 2
   year: 2021
 pub_type: paper-conference
+pub_url: https://par.nsf.gov/biblio/10249350-predicting-public-transportation-load-estimate-probability-social-distancing-violations
 pubdate: '2021-02-08'
 short_author:
 - family: Martinez

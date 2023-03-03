@@ -20,6 +20,7 @@ issued:
   year: 2018
 page: 11049-11062
 pub_type: article-journal
+pub_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295695
 pubdate: '2018-01-01'
 short_author:
 - family: Phillips

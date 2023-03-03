@@ -58,3 +58,4 @@ short_author:
 status: published
 title: Apparatus and methods for monitoring the status of a metabolically active cell
 ---
+An apparatus and methods for monitoring the status of a cell that consumes oxygen. In one embodiment of the present invention, the method includes the steps of confining the cell in a sensing volume, measuring dynamically intracellular or extracellular signaling of the cell, and determining the status of the cell from the measured intracellular or extracellular signaling of the cell.

@@ -16,6 +16,7 @@ issued:
   year: 2020
 page: 1177-1810
 pub_type: article-journal
+pub_url: https://vanderbiltlawreview.org/lawreview/2020/12/beyond-wickedness-managing-complex-systems-and-climate-change/
 pubdate: '2020-12-22'
 short_author:
 - family: Gilligan

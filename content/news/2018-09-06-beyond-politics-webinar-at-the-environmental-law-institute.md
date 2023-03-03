@@ -68,7 +68,7 @@ When the United States withdrew from the Paris Climate Agreement, 100 private co
 
 ## Watch
 
-{{< youtube xu0_l1-tgvY >}}
+{{< youtube id="xu0_l1-tgvY" >}}
 
 ## Transcript
 

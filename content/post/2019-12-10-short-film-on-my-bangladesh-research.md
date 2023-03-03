@@ -27,4 +27,4 @@ of the
 [American Geophysical Union](https://www.agu.org/).
 For those not attending AGU, the film is also available on YouTube
 
-{{< youtube pKIFh9x35mU >}}
+{{< youtube id="pKIFh9x35mU" >}}

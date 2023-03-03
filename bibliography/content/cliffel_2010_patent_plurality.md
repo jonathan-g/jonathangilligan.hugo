@@ -39,3 +39,4 @@ status: published
 title: Device and methods for detecting the response of a plurality of cells to at
   least one analyte of interest
 ---
+An apparatus and methods for detecting at least one analyte of interest either produced or consumed by a plurality of cell. In one embodiment of the present invention, the method includes the steps of providing a housing defining a chamber, placing a plurality of cells in the chamber, and simultaneously detecting at least two analytes of interest either produced or consumed by the plurality of cells in the chamber.
