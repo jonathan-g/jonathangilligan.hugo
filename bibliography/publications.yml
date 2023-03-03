@@ -1,5 +1,26 @@
 nocite: '[@*]'
 references:
+- author:
+  - family: Sweitzer
+    given: Matthew D.
+  - family: Gunda
+    given: Thushara
+  - family: Gilligan
+    given: J. M.
+  container-title: Frontiers in Environmental Science
+  doi: 10.3389/fenvs.2023.1038904
+  file:
+  - desc: full text
+    file: sweitzer_2023_water_narratives
+  id: SweitzerWaterNarrativesinLocalNewspaperswithintheUnitedStates2023
+  issn: 2296-665X
+  issued: 2023-03-03
+  keyword: posttenure
+  status: published
+  title: Water narratives in local newspapers within the united states
+  type: article-journal
+  url: https://www.frontiersin.org/articles/10.3389/fenvs.2023.1038904
+  volume: 11
 - abstract: As researchers collect large amounts of data in the social sciences through
     household surveys, challenges may arise in how best to analyze such datasets,
     especially where motivating theories are unclear or conflicting. New analytical
