@@ -55,7 +55,11 @@ The following bio may be used in media releases without further permission.
 > [Department of Earth and Environmental Sciences](https://www.vanderbilt.edu/ees), 
 > where he collaborates on interdisciplinary research 
 > into interactions between human behavior, society, and environmental change. 
-> His recent research projects include
+> He is principal investigator on a National Science Foundation grant to study
+> how the adoption of clean energy, electric vehicles, and broadband 
+> telecommunications affects urban and rural communities in the Southeastern
+> United States.
+> Other recent research projects include
 > studying the role of the private sector in regulating greenhouse gas emissions,
 > studying water-conservation policies in U.S. cities,
 > studying interactions between climate change, land use, 
@@ -71,7 +75,7 @@ The following bio may be used in media releases without further permission.
 > Gerald Gardner, [Paul Stern](http://www.seri-us.org/content/paul-c-stern), 
 > and [Michael Vandenbergh](https://law.vanderbilt.edu/bio/michael-vandenbergh)) 
 > has been cited 
-> [more than 1,200 times](https://scholar.google.com/citations?user=B8RVAU0AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DB8RVAU0AAAAJ%26citation_for_view%3DB8RVAU0AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300) 
+> more than 1,600 times,
 > and his paper, 
 > "[Beyond Gridlock]({{< ref "publications/vandenbergh_2015_beyond_gridlock.md" >}})" 
 > (co-authored with Michael Vandenbergh) won 
