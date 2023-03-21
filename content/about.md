@@ -67,9 +67,10 @@ The following bio may be used in media releases without further permission.
 > and applying machine-learning methods to studying gentrification and its
 > impacts on inequalities in mobility and access to public transport.
 >
-> Gilligan has published one book and 100 scholarly articles and holds two patents. 
-> Their paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly Reduce 
-> U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
+> Gilligan has published one book and more than 100 scholarly articles, 
+> and holds two patents. 
+> Their paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly 
+> Reduce U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
 > (co-authored with 
 > [Thomas Dietz](https://sociology.msu.edu/people/faculty_directory/thomas-dietz), 
 > Gerald Gardner, [Paul Stern](http://www.seri-us.org/content/paul-c-stern), 
