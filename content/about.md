@@ -15,46 +15,50 @@ The following bio may be used in media releases without further permission.
 > and Associate Professor of 
 > [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
 > at [Vanderbilt University](https://www.vanderbilt.edu/).
-> He is director of Vanderbilt's interdisciplinary Grand Challenge 
+> They are director of Vanderbilt's interdisciplinary Grand Challenge 
 > Initiative on Climate and Society.
 >
-> Gilligan received his BA in Physics, with a minor in Philosophy from 
+> Gilligan received their BA in Physics, with a minor in Philosophy from 
 > [Swarthmore College ](https://www.swarthmore.edu/)
-> and his Ph.D. in [Physics](https://physics.yale.edu/) from [Yale University](https://www.yale.edu/), 
-> for which he performed the first measurements of molecular spectra accurate 
+> and their Ph.D. in [Physics](https://physics.yale.edu/) from [Yale University](https://www.yale.edu/), 
+> for which they performed the first measurements of molecular spectra accurate 
 > enough to resolve quantum-electrodynamic effects. 
 >
-> He was a 
+> They were a 
 > [National Research Council Postdoctoral Associate](https://sites.nationalacademies.org/pga/rap/) 
 > at the 
 > [Time and Frequency Division](https://www.nist.gov/pml/time-and-frequency-division) 
 > of the 
 > [National Institute of Standards and Technology](https://www.nist.gov/), 
-> where he worked with 
+> where they worked with 
 > [David Wineland](https://en.wikipedia.org/wiki/David_J._Wineland) 
 > using laser-cooled trapped atomic ions to study the fundamental properties of 
 > quantum measurements and improve the accuracy of atomic clocks. 
 >
-> He led a team from the 
+> They led a team from the 
 > [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) and 
 > the [Cooperative Institute for Research in Environmental Sciences](https://cires.colorado.edu/) 
 > at the [University of Colorado](https://www.colorado.edu)
 > using a multichannel gas chromatograph on a 
 > [NASA airborne mission](https://espo.nasa.gov/ashoe_maesa/content/ASHOE_MAESA)
 > to study ozone depletion, 
-> for which he received a NASA Group Achievement Award 
+> for which they received a NASA Group Achievement Award 
 > and a NOAA Outstanding Scientific Paper award. 
 >
 > In 1994, Gilligan joined Vanderbilt's 
 > [Department of Physics and Astronomy](https://as.vanderbilt.edu/physics/), 
-> where he applied physics to material science, biology, and medicine, 
+> where they applied physics to material science, biology, and medicine, 
 > later becoming the Robert T. Lagemann Assistant Professor of Living State Physics. 
 >
-> In 2003 he joined Vanderbilt's newly-established 
+> In 2003 they joined Vanderbilt's newly-established 
 > [Department of Earth and Environmental Sciences](https://www.vanderbilt.edu/ees), 
-> where he collaborates on interdisciplinary research 
+> where they collaborate on interdisciplinary research 
 > into interactions between human behavior, society, and environmental change. 
-> His recent research projects include
+> They are principal investigator on a National Science Foundation grant to study
+> how the adoption of clean energy, electric vehicles, and broadband 
+> telecommunications affects urban and rural communities in the Southeastern
+> United States.
+> Other recent research projects include
 > studying the role of the private sector in regulating greenhouse gas emissions,
 > studying water-conservation policies in U.S. cities,
 > studying interactions between climate change, land use, 
@@ -62,21 +66,22 @@ The following bio may be used in media releases without further permission.
 > and applying machine-learning methods to studying gentrification and its
 > impacts on inequalities in mobility and access to public transport.
 >
-> Gilligan has published one book and 100 scholarly articles and holds two patents. 
-> His paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly Reduce 
-> U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
+> Gilligan has published one book and more than 100 scholarly articles, 
+> and holds two patents. 
+> Their paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly 
+> Reduce U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
 > (co-authored with 
 > [Thomas Dietz](https://sociology.msu.edu/people/faculty_directory/thomas-dietz), 
 > Gerald Gardner, [Paul Stern](http://www.seri-us.org/content/paul-c-stern), 
 > and [Michael Vandenbergh](https://law.vanderbilt.edu/bio/michael-vandenbergh)) 
 > has been cited 
-> [more than 1,200 times](https://scholar.google.com/citations?user=B8RVAU0AAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DB8RVAU0AAAAJ%26citation_for_view%3DB8RVAU0AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300) 
-> and his paper, 
+> more than 1,600 times,
+> and their paper, 
 > "[Beyond Gridlock]({{< ref "publications/vandenbergh_2015_beyond_gridlock.md" >}})" 
 > (co-authored with Michael Vandenbergh) won 
 > the [2017 Morrison Prize](https://www.prnewswire.com/news-releases/morrison-prize-winners-highlight-the-importance-of-private-action-in-battling-climate-change-300405452.html), 
 > for the highest-impact paper of the year on sustainability law and policy. 
-> His book, 
+> Their book, 
 > [_Beyond Politics: The Private Governance Response to Climate Change_](https://beyondpoliticsbook.com)
 > (co-authored with Michael Vandenbergh) was recognized with 
 > a [Vanderbilt Chancellor's Award for Research](https://news.vanderbilt.edu/2018/08/24/gould-awarded-10k-prize-for-achievement-in-research-at-fall-assembly/) 
@@ -84,7 +89,7 @@ The following bio may be used in media releases without further permission.
 > policy of the last 50 years](/news/2019/12/23/top-books/)
 > by _Environmental Forum_.
 >
-> He also collaborated with his mother, 
+> They also collaborated with their mother, 
 > [Carol Gilligan](https://en.wikipedia.org/wiki/Carol_Gilligan), 
 > to write the play 
 > [_The Scarlet Letter_]({{< ref "creative/scarlet_letter.md" >}}) 
@@ -133,8 +138,7 @@ Click to download a high-resolution version. This may be used in media releases 
 </ul>
 
 
-<iframe src="https://goo.gl/maps/HxrUWumTE8abKuay9" width="600" height="450" frameborder="0" style="border:0;margin-top:1em;margin-bottom:1em;" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.896502279433!2d-86.8021866!3d36.1447332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88646697ffe4b5df%3A0x7be5cd1f89eaab88!2sDepartment%20of%20Earth%20and%20Environmental%20Sciences!5e0!3m2!1sen!2sus!4v1679434064444!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * U.S. Mail:
 
