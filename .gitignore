@@ -12,3 +12,4 @@ __pycache__
 *.Rproj
 /blogdown/
 .netlify/
+.hugo_build.lock
