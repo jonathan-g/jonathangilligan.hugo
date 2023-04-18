@@ -12,8 +12,11 @@ categories:
 tags: [awards]
 draft: no
 ---
-I am thrilled and proud to receive a mentoring award from the 
-Margaret Cuninggim Women's Center at Vanderbilt, recognizing my 
+I am thrilled and proud to receive a 
+[mentoring award](https://news.vanderbilt.edu/2023/04/17/margaret-cuninggim-womens-center-presents-annual-awards-to-five-vanderbilt-community-members/) 
+from the 
+[Margaret Cuninggim Women's Center](https://www.vanderbilt.edu/womenscenter/) 
+at Vanderbilt, recognizing my 
 mentorship, support, and advocacy for women at Vanderbilt, especially in 
 STEM.
 One of the nominating letters described me as
