@@ -2,9 +2,9 @@
   publish = "public/"
   command = "hugo"
 [build.environment]
-  HUGO_VERSION = "0.62.0"
+  HUGO_VERSION = "0.109.0"
 [context.production]
-  branch = "master"
+  branch = "main"
 [build.processing]
   skip_processing = false
 [build.processing.css]
