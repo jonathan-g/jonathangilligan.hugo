@@ -18,7 +18,9 @@ from the
 [Margaret Cuninggim Women's Center](https://www.vanderbilt.edu/womenscenter/) 
 at Vanderbilt, recognizing my 
 mentorship, support, and advocacy for women at Vanderbilt, especially in 
-STEM.
+STEM. 
+
+<!--more-->
 One of the nominating letters described me as
 "bring[ing] a truly unique kindness and deliberate commitment to equity and 
 inclusion to his mentorship."

@@ -14,6 +14,8 @@ the [University of Calgary](https://www.ucalgary.ca/)'s
 [Werklund School of Education](https://werklund.ucalgary.ca/)
 as the Fulbright Canada Research Chair in Digital Technologies and 
 Sustainability. 
+
+<!--more-->
 I will work with Professors 
 [Pratim Sengupta](https://www.m3lab.org/), 
 [Marie-Claire Shanahan](https://boundaryvision.com/), and 
