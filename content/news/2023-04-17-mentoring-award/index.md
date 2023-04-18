@@ -10,7 +10,7 @@ categories:
   - news
   - news articles
 tags: [awards]
-draft: yes
+draft: no
 ---
 I am thrilled and proud to receive a mentoring award from the 
 Margaret Cuninggim Women's Center at Vanderbilt, recognizing my 

@@ -6,7 +6,7 @@ slug: fulbright-scholar-award
 categories:
   - blog posts
 tags: [awards]
-draft: yes
+draft: no
 ---
 I am very excited to announce that I have been selected for a Fulbright Scholar
 Award, which will allow me to spend a large part of the next academic year at
