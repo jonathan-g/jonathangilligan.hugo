@@ -34,6 +34,13 @@ def fix_files(path):
 fix_file_pattern_1 = re.compile("^(?P<prefix>[a-z ]+:)(?P<file>[^:]+)(?P<suffix>:.*$)")
 fix_file_pattern_2 = re.compile("^(?P<prefix> *file *= *\\{)(?P<files>[^}]*)(?P<suffix>\\}.*$)")
 
+fix_html_specials_pattern = re.compile("`<!--.*-->`\\{=html\\}")
+
+def fix_html_specials(s):
+  s = fix_html_specials_pattern.sub("", s)
+  return s
+
+
 def fix_file_ref(s):
     m = fix_file_pattern_1.match(s)
     if m is not None:
@@ -289,6 +296,7 @@ def gen_items(bib):
         elif 'abstract' in item.keys():
             abstract = item['abstract']
         if abstract is not None:
+            abstract = fix_html_specials(abstract)
             abstract = html.escape(abstract).encode('ascii', 'xmlcharrefreplace').decode('utf-8')
             abstract = abstract_pattern.sub(r'\g<keep>', abstract)
             outfile.write(abstract + '\n')

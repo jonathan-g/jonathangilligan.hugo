@@ -1,6 +1,107 @@
 nocite: "[@*]"
 references:
-- author:
+- abstract: The principal nature-based solution for offsetting relative
+    sea-level rise in the Ganges- Brahmaputra delta is the unabated
+    delivery, dispersal, and deposition of the rivers'
+    $\sim$`<!-- -->`{=html}1 billion tonne annual sediment load. Recent
+    hydrological transport modeling suggests that strengthening monsoon
+    precipitation in the 21st century could increase this sediment
+    delivery 34--60%; yet other studies demonstrate that sediment could
+    decline 15--80% if planned dams and river diversions are fully
+    implemented. We validate these modeled ranges by developing a
+    comprehensive field-based sediment budget that quantifies the supply
+    of Ganges-Brahmaputra river sediment under varying Holocene climate
+    conditions. Our data reveal natural responses in sediment supply
+    comparable to previously modeled results and suggest that increased
+    sediment delivery may be capable of offsetting accelerated sea-level
+    rise. This prospect for a naturally sustained Ganges-Brahmaputra
+    delta presents possibilities beyond the dystopian future often posed
+    for this system, but the implementation of currently proposed dams
+    and diversions would preclude such opportunities.
+  author:
+  - family: Raff
+    given: Jessica
+  - family: Goodbred
+    given: Steven
+    suffix: Jr.
+  - family: Pickering
+    given: Jennifer
+  - family: Sincavage
+    given: Ryan
+  - family: Ayers
+    given: John
+  - family: Hossain
+    given: Saddam
+  - family: Wilson
+    given: Carol
+  - family: Paola
+    given: Chris
+  - family: Steckler
+    given: Michael
+  - family: Mondal
+    given: Dhiman
+  - family: Grimaud
+    given: Jean-Louis
+  - family: Grail
+    given: Celine Jo
+  - family: Rogers
+    given: Kimberly
+  - family: Ahmed
+    given: Kazi
+  - family: Akhter
+    given: Syed Humayun
+  - family: Carlson
+    given: Brandee
+  - family: Chamberlain
+    given: Elizabeth
+  - family: Dejter
+    given: Meagan
+  - family: Gilligan
+    given: Jonathan
+  - family: Hale
+    given: Richard
+  - family: Khan
+    given: Mahfuzur
+  - family: Muktadir
+    given: Golam
+  - family: Rahman
+    given: Munsur
+  - family: Williams
+    given: Lauren
+  container-title: Nature Communications
+  doi: 10.1038/s41467-023-38057-9
+  id: "raff:2023:sediment"
+  issn: 2041-1723
+  issued: 2023-04-27
+  keyword: posttenure
+  page: 2429
+  status: published
+  title: Sediment delivery to sustain the Ganges-Brahmaputra delta under
+    climate change and anthropogenic impacts
+  type: article-journal
+  volume: 14
+- abstract: Sustainable use of water resources continues to be a
+    challenge across the globe. This is in part due to the complex set
+    of physical and social behaviors that interact to influence water
+    management from local to global scales. Analyses of water resources
+    have been conducted using a variety of techniques, including
+    qualitative evaluations of media narratives. This study aims to
+    augment these methods by leveraging computational and quantitative
+    techniques from the social sciences focused on text analyses.
+    Specifically, we use natural language processing methods to
+    investigate a large corpus (approx. 1.8M) of newspaper articles
+    spanning approximately 35 years (1982--2017) for insights into
+    human-nature interactions with water. Focusing on local and regional
+    United States publications, our analysis demonstrates important
+    dynamics in water-related dialogue about drinking water and
+    pollution to other critical infrastructures, such as energy, across
+    different parts of the country. Our assessment, which looks at water
+    as a system, also highlights key actors and sentiments surrounding
+    water. Extending these analytical methods could help us further
+    improve our understanding of the complex roles of water in current
+    society that should be considered in emerging activities to mitigate
+    and respond to resource conflicts and climate change.
+  author:
   - family: Sweitzer
     given: Matthew D.
   - family: Gunda
