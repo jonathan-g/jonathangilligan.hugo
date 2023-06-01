@@ -10,9 +10,9 @@ title: "About me"
 The following bio may be used in media releases without further permission.
 
 > Jonathan Gilligan is 
-> Associate Professor of 
+> Professor of 
 > [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees),
-> and Associate Professor of 
+> and Professor of 
 > [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
 > at [Vanderbilt University](https://www.vanderbilt.edu/).
 > They are director of Vanderbilt's interdisciplinary Grand Challenge 
