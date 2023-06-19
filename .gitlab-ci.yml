@@ -1,8 +1,8 @@
-image: jojomi/hugo
+image: klakegg/hugo:alpine-ci
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  
+
 pages:
   script:
   - rm -rf public
@@ -11,4 +11,4 @@ pages:
     paths:
     - public
   only:
-  - jonathan.pages.jgilligan.org 
+  - jonathan.pages.jgilligan.org
