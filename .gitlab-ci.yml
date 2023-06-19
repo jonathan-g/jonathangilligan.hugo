@@ -1,3 +1,5 @@
+# This file is a template, and might need editing before it works on your project.
+# Full project: https://gitlab.com/pages/hugo
 image: klakegg/hugo:alpine-ci
 
 variables:
@@ -5,10 +7,19 @@ variables:
 
 pages:
   script:
+  - hugo version
   - rm -rf public
+  - fgrep -ir baseurl *
+  - fgrep -ir jonathangilligan.org *
   - hugo --ignoreCache
   artifacts:
     paths:
     - public
   only:
-  - jonathan.pages.jgilligan.org
+  - gitlab_pages
+
+test:
+  script:
+  - hugo
+  except:
+  - gitlab_pages
