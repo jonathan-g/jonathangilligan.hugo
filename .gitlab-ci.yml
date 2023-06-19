@@ -1,4 +1,5 @@
-image: klakegg/hugo:alpine-ci
+default:
+  image: klakegg/hugo:alpine-ci
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -10,5 +11,5 @@ pages:
   artifacts:
     paths:
     - public
-  only:
-  - jonathan.pages.jgilligan.org
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
