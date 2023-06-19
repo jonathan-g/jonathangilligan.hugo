@@ -16,10 +16,10 @@ pages:
     paths:
     - public
   only:
-  - gitlab_pages
+  - "gitlab-pages"
 
 test:
   script:
   - hugo
   except:
-  - gitlab_pages
+  - "gitlab-pages"
