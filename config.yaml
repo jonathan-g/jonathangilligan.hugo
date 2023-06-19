@@ -88,6 +88,8 @@ markup:
 # googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Gilligan"
+  copyright:
+    year: "2006"
   bio_name: "Jonathan Gilligan"
   pronouns: "they or he"
   bio_twitter: "jg_environ"
