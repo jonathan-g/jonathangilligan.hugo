@@ -9,7 +9,7 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseURL: "https://jonathan.pages.jgilligan.org/"
+baseURL: "http://jonathan.pages.jgilligan.org/"
 indexes:
   category: "categories"
   tag: "tags"
@@ -45,65 +45,27 @@ menu:
         Weight: 8
 permalinks:
   post: /post/:year/:month/:day/:slug
-  news: /news/:year/:month/:day/:slug
-markup:
-  defaultMarkdownHandler: goldmark
-  blackfriday:
-    smartypants: true
-    angledQuotes: false
-    fractions: false
-    smartDashes: true
-    latexDashes: true
-    hrefTargetBlank: true
-  goldmark:
-    extensions:
-      definitionList: true
-      footnote: true
-      linkify: true
-      strikethrough: true
-      table: true
-      taskList: true
-      typographer: true
-    parser:
-      attribute: true
-      autoHeadingID: true
-    renderer:
-      hardWraps: false
-      unsafe: true
-      xHTML: false
-  highlight:
-    codeFences: true
-    guessSyntax: false
-    hl_Lines: ""
-    lineNoStart: 1
-    lineNos: false
-    lineNumbersInTable: true
-    noClasses: true
-    style: monokai
-    tabWidth: 4
-  tableOfContents:
-    endLevel: 3
-    ordered: false
-    startLevel: 2
-# googleAnalytics: "UA-101117636-1"
+  news: /ness/:year/:month/:day/:slug
+blackfriday:
+  smartypants: true
+  angledQuotes: false
+  fractions: false
+  smartDashes: true
+  latexDashes: true
+  hrefTargetBlank: true
+googleAnalytics: "UA-101117636-1"
+
 params:
   AuthorName: "Jonathan Gilligan"
-  copyright:
-    year: "2006"
   bio_name: "Jonathan Gilligan"
-  pronouns: "they or he"
   bio_twitter: "jg_environ"
-  bio_youtube: "UCh3zZ5uI7oZBtpO6kflg_dg"
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
-  repository: "https://github.com/jonathan-g/jonathangilligan.hugo"
-  typekitCode: "pxs4bbm"
-  fontawesomePro: true
-  fontawesomeCode: "sha384-rqn26AG5Pj86AF4SO72RK5fyefcQ/x32DNQfChxWvbXIyXFePlEktwD18fEz+kQU"
+  typekitCode: "cwm0smq"
   mathjax: true
   mhchem: true
   avatar: "avatar.jpg"
-  front_page_img: "/files/headshots/Gilligan_Jonathan_formal_closeup.jpg"
+  front_page_img: "jg/jg_kokilmoni_deck_2010_large.jpg"
   email: "jonathan.gilligan@vanderbilt.edu"
   pubs_count: 4
   teach_count: 2
@@ -124,54 +86,27 @@ params:
       priority: 1
       icon: "phone"
       icon_pack: "fa"
-      icon_weight: "s"
       text: "615.322.2420"
     email:
       priority: 2
       icon: "envelope"
       icon_pack: "fa"
-      icon_weight: "s"
       link: "mailto:jonathan.gilligan@vanderbilt.edu"
       text: "jonathan.gilligan@vanderbilt.edu"
     twitter:
       priority: 4
       icon: "twitter"
       icon_pack: "fa"
-      icon_weight: "b"
       link: "https://twitter.com/jg_environ"
       text: "@jg_environ"
       on_site: "Twitter"
-      rel_me: yes
-      social_media: yes
-    mastodon:
-      priority: 10
-      icon: "mastodon"
-      icon_pack: "fa"
-      icon_weight: "b"
-      link: "https://mathstodon.xyz/@jg_environ"
-      text: "@jg_environ@mathstodon.xyz"
-      on_site: "Mastodon"
-      rel_me: yes
-      social_media: yes
-    youtube:
-      priority: 9
-      icon: "youtube-square"
-      icon_pack: "fa"
-      icon_weight: "b"
-      link: "https://www.youtube.com/channel/UCh3zZ5uI7oZBtpO6kflg_dg"
-      text: "Youtube channel"
-      long_text: "YouTube channel for research talks"
-      rel_me: yes
-      social_media: yes
     github:
       priority: 8
       icon: "github"
       icon_pack: "fa"
-      icon_weight: "b"
       link: "https://github.com/jonathan-g"
       text: "jonathan-g"
       on_site: "GitHub"
-      rel_me: yes
     orcid:
       priority: 6
       icon: "orcid"
@@ -179,20 +114,23 @@ params:
       link: "https://orcid.org/0000-0003-1375-6686"
       text: "0000-0003-1375-6686"
       site: "ORCID:"
-      rel_me: yes
     ssrn:
       priority: 7
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061"
       text: "954061"
       site: "SSRN ID:"
-      rel_me: yes
     google_scholar:
       priority: 5
       icon: "google-scholar"
       icon_pack: "ai"
       link: "https://scholar.google.com/citations?user=B8RVAU0AAAAJ"
       text: "Google Scholar"
-      rel_me: yes
+    skype:
+      priority: 3
+      icon: "skype"
+      icon_pack: "fa"
+      text: "jonathan_gilligan"
+      on_site: "Skype"
 taxonomies:
   - category: "categories"
   - tag:      "tags"
