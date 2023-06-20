@@ -98,8 +98,9 @@ params:
   organization: "Vanderbilt University"
   repository: "https://github.com/jonathan-g/jonathangilligan.hugo"
   typekitCode: "pxs4bbm"
-  fontawesomePro: true
-  fontawesomeCode: "sha384-rqn26AG5Pj86AF4SO72RK5fyefcQ/x32DNQfChxWvbXIyXFePlEktwD18fEz+kQU"
+  fontawesomePro:
+    key: "sha384-rqn26AG5Pj86AF4SO72RK5fyefcQ/x32DNQfChxWvbXIyXFePlEktwD18fEz+kQU"
+    kit: "536cbb4daa"
   mathjax: true
   mhchem: true
   avatar: "avatar.jpg"
