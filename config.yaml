@@ -144,8 +144,15 @@ params:
       on_site: "Twitter"
       rel_me: yes
       social_media: yes
+    bluesky:
+      priority: 5
+      link: "https://bsky.app/profile/jonathan.jgilligan.org"
+      text: "@jonathan.jgilligan.org"
+      on_site: "Bluesky"
+      rel_me: yes
+      social_media: yes
     mastodon:
-      priority: 10
+      priority: 11
       icon: "mastodon"
       icon_pack: "fa"
       icon_weight: "b"
@@ -155,7 +162,7 @@ params:
       rel_me: yes
       social_media: yes
     youtube:
-      priority: 9
+      priority: 10
       icon: "youtube-square"
       icon_pack: "fa"
       icon_weight: "b"
@@ -165,7 +172,7 @@ params:
       rel_me: yes
       social_media: yes
     github:
-      priority: 8
+      priority: 9
       icon: "github"
       icon_pack: "fa"
       icon_weight: "b"
@@ -174,7 +181,7 @@ params:
       on_site: "GitHub"
       rel_me: yes
     orcid:
-      priority: 6
+      priority: 7
       icon: "orcid"
       icon_pack: "ai"
       link: "https://orcid.org/0000-0003-1375-6686"
@@ -182,13 +189,13 @@ params:
       site: "ORCID:"
       rel_me: yes
     ssrn:
-      priority: 7
+      priority: 8
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=954061"
       text: "954061"
       site: "SSRN ID:"
       rel_me: yes
     google_scholar:
-      priority: 5
+      priority: 6
       icon: "google-scholar"
       icon_pack: "ai"
       link: "https://scholar.google.com/citations?user=B8RVAU0AAAAJ"
