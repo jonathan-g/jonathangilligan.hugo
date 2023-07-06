@@ -146,8 +146,8 @@ params:
       social_media: yes
     bluesky:
       priority: 5
-      link: "https://bsky.app/profile/jonathan.jgilligan.org"
-      text: "@jonathan.jgilligan.org"
+      link: "https://bsky.app/profile/jgilligan.org"
+      text: "@jgilligan.org"
       on_site: "Bluesky"
       rel_me: yes
       social_media: yes
