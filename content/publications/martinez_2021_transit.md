@@ -51,7 +51,7 @@ short_author:
   given: A.
 - family: Dubey
   given: A.
-status: in press
+status: published
 title: Predicting public transportation load to estimate the probability of social
   distancing violations
 ---
