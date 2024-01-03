@@ -1,5 +1,48 @@
 nocite: '[@*]'
 references:
+- author:
+  - family: Burgess
+    given: Matthew G.
+  - family: Van Boven
+    given: Leaf
+  - family: Wagner
+    given: Gernot
+  - family: Wong-Parodi
+    given: Gabrielle
+  - family: Baker
+    given: Kyri
+  - family: Boykoff
+    given: Maxwell
+  - family: Converse
+    given: Benjamin A.
+  - family: Dilling
+    given: Lisa
+  - family: M.
+    given: Gilligan Jonathan
+  - family: Inbar
+    given: Yoel
+  - family: Markowitz
+    given: Ezra
+  - family: Moyer
+    given: Jonathan D.
+  - family: Newton
+    given: Peter
+  - family: T.
+    given: Raimi Kaitlin
+  - family: Shrum
+    given: Trisha
+  - family: Vandenbergh
+    given: Michael P.
+  container-title: Nature Climate Change
+  file:
+  - desc: full text
+    file: burgess_2024_climate-policies.pdf
+  id: burgess:2024:climate.policies
+  issued: 2024-01-01
+  keyword: posttenure
+  status: in press
+  title: Supply, demand, and polarization challenges facing U.S. Climate policies
+  type: article-journal
 - abstract: Indices of socio-environmental vulnerability, resilience, and sustainability
     are well-established in assessing, mitigating, and planning for natural hazards
     in mitigation. Although there are many such indices, we still lack an index to
@@ -161,6 +204,53 @@ references:
   type: article-journal
   url: https://www.frontiersin.org/articles/10.3389/fenvs.2023.1038904
   volume: 11
+- abstract: "The coastal zone of the Ganges-Brahmaputra-Meghna (GBM) Delta is widely\
+    \ recognized as one of the most vulnerable places to sea-level rise (SLR), with\
+    \ around 57\_million people living within 5\_m of sea level. Sediment transported\
+    \ by the Ganges, Brahmaputra, and Meghna rivers has the potential to raise the\
+    \ land and offset SLR. There is significant uncertainty in future sediment supply\
+    \ and SLR, which raises questions about the sustainability of the delta. We present\
+    \ a simple model, driven by basic physics, to estimate the evolution of the landscape\
+    \ under different conditions at low computational cost. Using a single tuning\
+    \ parameter, the model can match observed rates of land aggradation. We find a\
+    \ strong negative feedback, which robustly brings land elevation into equilibrium\
+    \ with changing sea level. We discuss how this model can be used to investigate\
+    \ the dynamics of sediment transport and the sustainability of the GBM Delta."
+  author:
+  - family: Tasich
+    given: Christopher M.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Hornberger
+    given: George M.
+  container-title: Proceedings of the 2023 winter simulation conference
+  editor:
+  - family: Corlu
+    given: C. G.
+  - family: Hunter
+    given: S. R.
+  - family: Lam
+    given: H.
+  - family: Onggo
+    given: B. S.
+  - family: Shortle
+    given: J.
+  - family: Biller
+    given: B.
+  file:
+  - desc: full text
+    file: tasich_2023_sediment.pdf
+  id: tasich:2023:sediment
+  issued: 2023-12-12
+  keyword: posttenure
+  page: 946-957
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  status: in press
+  title: 'Modeling the dynamics of sediment transport, tides, and sea-level rise:
+    Implications for the resilience of coastal bengal'
+  title-short: Modeling the dynamics of sediment transport, tides, and sea-level rise
+  type: paper-conference
 - abstract: As researchers collect large amounts of data in the social sciences through
     household surveys, challenges may arise in how best to analyze such datasets,
     especially where motivating theories are unclear or conflicting. New analytical
