@@ -26,8 +26,8 @@ author:
   given: Jonathan D.
 - family: Newton
   given: Peter
-- family: T.
-  given: Raimi Kaitlin
+- family: Raimi
+  given: Kaitlin T.
 - family: Shrum
   given: Trisha
 - family: Vandenbergh
@@ -71,8 +71,8 @@ short_author:
   given: J.D.
 - family: Newton
   given: P.
-- family: T.
-  given: R.K.
+- family: Raimi
+  given: K.T.
 - family: Shrum
   given: T.
 - family: Vandenbergh
@@ -80,3 +80,4 @@ short_author:
 status: in press
 title: Supply, demand, and polarization challenges facing U.S. Climate policies
 ---
+The U.S. recently passed major federal laws supporting the energy transition, and analyses suggest that their successful implementation could reduce U.S. emissions more than 40% below 2005 levels by 2030. However, achieving maximal emissions reductions would require frictionless supply and demand responses to the laws&#x27; incentives, and implementation that avoids polarization and efforts to repeal or undercut them. In this Perspective we discuss some of these supply, demand, and polarization challenges. We highlight insights from social science research, and identify open questions needing answers, regarding how to address these challenges. The stakes are high: these new laws&#x27; successes could catalyze virtuous cycles in the energy transition, or their failures could breed cynicism about major government spending on climate change.
