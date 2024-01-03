@@ -57,6 +57,6 @@ short_editor:
 short_title: Modeling the dynamics of sediment transport, tides, and sea-level rise
 status: in press
 title: 'Modeling the dynamics of sediment transport, tides, and sea-level rise: Implications
-  for the resilience of coastal bengal'
+  for the resilience of coastal Bengal'
 ---
 The coastal zone of the Ganges-Brahmaputra-Meghna (GBM) Delta is widely recognized as one of the most vulnerable places to sea-level rise (SLR), with around 57&#160;million people living within 5&#160;m of sea level. Sediment transported by the Ganges, Brahmaputra, and Meghna rivers has the potential to raise the land and offset SLR. There is significant uncertainty in future sediment supply and SLR, which raises questions about the sustainability of the delta. We present a simple model, driven by basic physics, to estimate the evolution of the landscape under different conditions at low computational cost. Using a single tuning parameter, the model can match observed rates of land aggradation. We find a strong negative feedback, which robustly brings land elevation into equilibrium with changing sea level. We discuss how this model can be used to investigate the dynamics of sediment transport and the sustainability of the GBM Delta.

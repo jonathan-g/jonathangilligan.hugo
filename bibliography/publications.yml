@@ -52,7 +52,8 @@ references:
   issued: 2024-01-01
   keyword: posttenure
   status: in press
-  title: Supply, demand, and polarization challenges facing U.S. Climate policies
+  title: Supply, demand, and polarization challenges facing U.S. [climate]{.nocase}
+    policies
   type: article-journal
 - abstract: Indices of socio-environmental vulnerability, resilience, and sustainability
     are well-established in assessing, mitigating, and planning for natural hazards
@@ -259,7 +260,7 @@ references:
   publisher-place: Piscataway, NJ, USA
   status: in press
   title: 'Modeling the dynamics of sediment transport, tides, and sea-level rise:
-    Implications for the resilience of coastal bengal'
+    Implications for the resilience of coastal Bengal'
   title-short: Modeling the dynamics of sediment transport, tides, and sea-level rise
   type: paper-conference
 - abstract: As researchers collect large amounts of data in the social sciences through
