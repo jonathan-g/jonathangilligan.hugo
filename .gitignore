@@ -4,6 +4,9 @@
 .RData
 .Rhistory
 
+# Local batch scripts
+static/files/cv/copy_cv*
+
 # Python files
 .spyproject
 __pycache__
