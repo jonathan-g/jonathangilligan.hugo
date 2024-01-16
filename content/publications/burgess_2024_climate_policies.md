@@ -17,8 +17,8 @@ author:
   given: Benjamin A.
 - family: Dilling
   given: Lisa
-- family: M.
-  given: Gilligan Jonathan
+- family: Gilligan
+  given: Jonathan M.
 - family: Inbar
   given: Yoel
 - family: Markowitz
@@ -62,8 +62,8 @@ short_author:
   given: B.A.
 - family: Dilling
   given: L.
-- family: M.
-  given: G.J.
+- family: Gilligan
+  given: J.M.
 - family: Inbar
   given: Y.
 - family: Markowitz

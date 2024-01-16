@@ -28,8 +28,8 @@ references:
     given: Benjamin A.
   - family: Dilling
     given: Lisa
-  - family: M.
-    given: Gilligan Jonathan
+  - family: Gilligan
+    given: Jonathan M.
   - family: Inbar
     given: Yoel
   - family: Markowitz
@@ -55,6 +55,42 @@ references:
   status: published
   title: Supply, demand, and polarization challenges facing U.S. [climate]{.nocase}
     policies
+  type: article-journal
+- abstract: 'In the 2021 Infrastructure Investment and Jobs Act (IIJA) and the 2022
+    Inflation Reduction Act (IRA), the United States (U.S.) Congress placed a major
+    bet on the importance of household actions, and the incentives for these actions
+    may yield disproportionately large emissions reductions. Modeling estimates from
+    Rapid Energy Policy Evaluation and Analysis Toolkit (REPEAT) suggest that the
+    IRA''s \$331 billion investment can reduce carbon emissions by as much as 4% below
+    a 2005 baseline by 2030, assuming a low-friction economic environment. To evaluate
+    the role of household actions, we use a two-part method: 1) Policy analyses of
+    the IRA and IIJA to identify household incentives; 2) Secondary data analysis
+    of REPEAT''s policy models to identify the potential for emissions reductions
+    associated with household action. We find that \$39 billion, or 12% of climate
+    and energy funds in the IRA and \$4.3 billion or 5.7% of clean energy and power
+    funds in the IIJA, target voluntary household actions, and that these actions
+    contribute 40% of the cumulative emissions reductions under the IRA and IIJA,
+    assuming a mid-range scenario for uptake. The importance of household actions
+    to achieving IRA and IIJA''s emissions reduction goals suggests that actual impacts
+    will likely vary by behavioral plasticity, and that program design should reflect
+    social and behavioral science insights.'
+  author:
+  - family: Caballero
+    given: Mariah D.
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Currier
+    given: Elodie O.
+  container-title: Energy Policy
+  id: caballero:2024:ira
+  issued: 2024-02-01
+  keyword: posttenure
+  status: in press
+  title: 'Incentivizing household action: Exploring the behavioral wedge in the 2021
+    Infrastructure Investment and Jobs Act and the 2022 Inflation Reduction Act'
+  title-short: Incentivizing household action
   type: article-journal
 - abstract: Indices of socio-environmental vulnerability, resilience, and sustainability
     are well-established in assessing, mitigating, and planning for natural hazards
