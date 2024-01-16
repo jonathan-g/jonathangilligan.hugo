@@ -84,6 +84,9 @@ references:
   - family: Currier
     given: Elodie O.
   container-title: Energy Policy
+  file:
+  - desc: full text
+    file: caballero_2024_iija-ira.pdf
   id: caballero:2024:ira
   issued: 2024-02-01
   keyword: posttenure

@@ -35,6 +35,7 @@ fix_file_pattern_1 = re.compile("^(?P<prefix>[a-z ]+:)(?P<file>[^:]+)(?P<suffix>
 fix_file_pattern_2 = re.compile("^(?P<prefix> *file *= *\\{)(?P<files>[^}]*)(?P<suffix>\\}.*$)")
 
 fix_html_specials_pattern = re.compile("`<!--.*-->`\\{=html\\}")
+fix_escaped_dollar_pattern = re.compile(r"(?P<keep>[^\\])\\\$")
 
 def fix_html_specials(s):
   s = fix_html_specials_pattern.sub("", s)
@@ -327,6 +328,7 @@ def gen_items(bib):
             abstract = fix_html_specials(abstract)
             abstract = html.escape(abstract).encode('ascii', 'xmlcharrefreplace').decode('utf-8')
             abstract = abstract_pattern.sub(r'\g<keep>', abstract)
+            abstract = fix_escaped_dollar_pattern.sub(r'\g<keep><span>$</span>', abstract)
             outfile.write(abstract + '\n')
         outfile.close()
 
