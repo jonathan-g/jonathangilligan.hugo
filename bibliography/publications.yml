@@ -45,13 +45,14 @@ references:
   - family: Vandenbergh
     given: Michael P.
   container-title: Nature Climate Change
+  doi: 10.1038/s41558-023-01906-y
   file:
   - desc: full text
     file: burgess_2024_climate-policies.pdf
   id: burgess:2024:climate.policies
   issued: 2024-01-01
   keyword: posttenure
-  status: in press
+  status: published
   title: Supply, demand, and polarization challenges facing U.S. [climate]{.nocase}
     policies
   type: article-journal
