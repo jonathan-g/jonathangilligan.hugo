@@ -34,17 +34,17 @@ author:
 - family: Vandenbergh
   given: Michael P.
 container_title: Nature Climate Change
-date: '2024-01-01'
+date: '2024-01-16'
 file:
 - desc: full text
   file: burgess_2024_climate-policies.pdf
 id: burgess_2024_climate_policies
 issued:
-  day: 1
+  day: 16
   month: 1
   year: 2024
 pub_type: article-journal
-pubdate: '2024-01-01'
+pubdate: '2024-01-16'
 short_author:
 - family: Burgess
   given: M.G.

@@ -50,7 +50,7 @@ references:
   - desc: full text
     file: burgess_2024_climate-policies.pdf
   id: burgess:2024:climate.policies
-  issued: 2024-01-01
+  issued: 2024-01-16
   keyword: posttenure
   status: published
   title: Supply, demand, and polarization challenges facing U.S. [climate]{.nocase}
@@ -84,17 +84,20 @@ references:
   - family: Currier
     given: Elodie O.
   container-title: Energy Policy
+  doi: 10.1016/j.enpol.2024.113992
   file:
   - desc: full text
     file: caballero_2024_iija-ira.pdf
   id: caballero:2024:ira
-  issued: 2024-02-01
+  issued: 2024-01-26
   keyword: posttenure
-  status: in press
+  page: 113992
+  status: published
   title: 'Incentivizing household action: Exploring the behavioral wedge in the 2021
     Infrastructure Investment and Jobs Act and the 2022 Inflation Reduction Act'
   title-short: Incentivizing household action
   type: article-journal
+  volume: 186
 - abstract: Indices of socio-environmental vulnerability, resilience, and sustainability
     are well-established in assessing, mitigating, and planning for natural hazards
     in mitigation. Although there are many such indices, we still lack an index to
