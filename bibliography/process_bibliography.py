@@ -35,6 +35,7 @@ fix_file_pattern_1 = re.compile("^(?P<prefix>[a-z ]+:)(?P<file>[^:]+)(?P<suffix>
 fix_file_pattern_2 = re.compile("^(?P<prefix> *file *= *\\{)(?P<files>[^}]*)(?P<suffix>\\}.*$)")
 
 fix_html_specials_pattern = re.compile("`<!--.*-->`\\{=html\\}")
+fix_escaped_dollar_pattern = re.compile(r"(?P<keep>[^\\])\\\$")
 
 def fix_html_specials(s):
   s = fix_html_specials_pattern.sub("", s)
@@ -184,6 +185,7 @@ def gen_items(bib):
     # title_keys = ['title', 'short_title', 'container_title', 'collection_title']
     proxy_pattern = re.compile(r'^(?P<hostname>[a-z0-9-]+)(?P<proxy>\.proxy(\.[a-z0-9-]+)*\.vanderbilt\.edu)')
     abstract_pattern = re.compile(r"(?P<keep>(?P<emph>([*_]+|&quot;))(?P<text>.+)(?P=emph))(?P=text)")
+    title_case_pattern = re.compile(r"\[(?P<keep>[^\]]+)\]\{\.nocase\}")
     if not os.path.exists('content'):
         os.mkdir('content')
     for item in bib:
@@ -198,12 +200,39 @@ def gen_items(bib):
           if 'url' in item.keys():
             # print("Deleting URL for ", key)
             item.pop('url')
+        if 'title' in keys:
+            title = item['title']
+            title_2 = title_case_pattern.sub(r"\g<keep>", title)
+            if (title != title_2):
+              item['title'] = title_2
+              print("Title changed from '", title, "' to '", title_2, "'")
         if 'title-short' in keys:
+            title = item['title-short']
+            title = title_case_pattern.sub(r"\g<keep>", title)
+            item['title-short'] = title
             item['short_title'] = item['title-short']
+        elif 'short_title' in keys:
+            title = item['short_title']
+            title = title_case_pattern.sub(r"\g<keep>", title)
+            item['short_title'] = title
         if 'container-title' in keys:
+            title = item['container-title']
+            title = title_case_pattern.sub(r"\g<keep>", title)
+            item['container-title'] = title
             item['container_title'] = item['container-title']
+        elif 'container_title' in keys:
+            title = item['container_title']
+            title = title_case_pattern.sub(r"\g<keep>", title)
+            item['container_title'] = title
         if 'collection-title' in keys:
+            title = item['collection-title']
+            title = title_case_pattern.sub(r"\g<keep>", title)
+            item['collection-title'] = title
             item['collection_title'] = item['collection-title']
+        elif 'collection_title' in keys:
+            title = item['collection_title']
+            title = title_case_pattern.sub(r"\g<keep>", title)
+            item['collection_title'] = title
         if 'publisher-place' in keys:
             item['publisher_place'] = item['publisher-place']
         if 'author' in keys:
@@ -215,7 +244,7 @@ def gen_items(bib):
         header_items = dict([(k, v) for (k, v) in item.items() if k in output_keys])
         # for tk in title_keys:
         #     if (tk in header_items.keys()):
-        #         header_items[tk] = re.sub('\\^([^\\^]+)\\^', '<sup>\\1</sup>', header_items[tk])
+        #         header_items[tk] = re.sub('\\^([^\\^]+)\\^', '<sup>\\1</sup>', header_items[tk])                
         header_items['id'] = key
         if ('issued' in header_items.keys()):
           issued = header_items['issued']
@@ -299,6 +328,7 @@ def gen_items(bib):
             abstract = fix_html_specials(abstract)
             abstract = html.escape(abstract).encode('ascii', 'xmlcharrefreplace').decode('utf-8')
             abstract = abstract_pattern.sub(r'\g<keep>', abstract)
+            abstract = fix_escaped_dollar_pattern.sub(r'\g<keep><span>$</span>', abstract)
             outfile.write(abstract + '\n')
         outfile.close()
 
