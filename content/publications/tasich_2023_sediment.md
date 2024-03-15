@@ -7,7 +7,7 @@ author:
 - family: Hornberger
   given: George M.
 container_title: Proceedings of the 2023 winter simulation conference
-date: '2023-12-12'
+date: '2024-02-02'
 editor:
 - family: Corlu
   given: C. G.
@@ -26,12 +26,13 @@ file:
   file: tasich_2023_sediment.pdf
 id: tasich_2023_sediment
 issued:
-  day: 12
-  month: 12
-  year: 2023
+  day: 2
+  month: 2
+  year: 2024
 page: 946-957
 pub_type: paper-conference
-pubdate: '2023-12-12'
+pub_url: https://dl.acm.org/doi/abs/10.5555/3643142.3643220
+pubdate: '2024-02-02'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
@@ -55,7 +56,7 @@ short_editor:
 - family: Biller
   given: B.
 short_title: Modeling the dynamics of sediment transport, tides, and sea-level rise
-status: in press
+status: published
 title: 'Modeling the dynamics of sediment transport, tides, and sea-level rise: Implications
   for the resilience of coastal Bengal'
 ---
