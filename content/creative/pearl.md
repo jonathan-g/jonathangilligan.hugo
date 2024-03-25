@@ -140,3 +140,8 @@ Stephanie Otto Orvik, piano; Sara Jobin, conductor
 ### Review
 
 * Liane Carter, "[A Bold Opera Experiment](http://www.classical-scene.com/2012/08/17/opera-experiment/)," The Boston Musical Intelligencer. Aug. 17, 2012.
+
+### Radio Interview on WAMC radio
+
+[WAMC Radio interview](https://www.wamc.org/arts-culture/2013-07-31/pearl-an-opera-in-development-benefit-performance-shakespeare-and-company)
+with co-librettist Carol Gilligan, conductor Sara Jobin, and soprano Maureen O'Flynn
