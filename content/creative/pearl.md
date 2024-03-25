@@ -56,9 +56,11 @@ To remedy this, Jobin created the Different Voice Opera Project, which sponsored
 the development of this opera with award-winning young composer
 [Amy Scurria](https://www.amyscurria.com/)
 
-This opera focuses on Pearl, Hester, and Dimmesdale, and the changes in 
+This opera focuses on Hester Prynne, Reverend Dimmesdale, and their daughter 
+Pearl, and on the changes in 
 Pearl’s perception of the events she witnessed as a child and what she comes 
-to understand looking back on them as an adult. The basic tensions---between 
+to understand looking back on them as an adult. The challenges of living as a
+strong woman under patriarchy, and the basic tensions---between 
 the private and public aspects of erotic relationships, between one’s role as a 
 parent, as a lover, and as a citizen, and between moral codes and personal 
 passion---are as fraught and important today as they were in the 
