@@ -53,3 +53,57 @@ keywords:
   - Leigh Silverman
   - Prime Stage
 ---
+
+## About _The Scarlet Letter_ 
+
+Nathaniel Hawthorne's novel, _The Scarlet Letter_ is one of the most frequently 
+assigned novels in U.S. high schools, but it is often taught as a simple 
+morality tale about sin and hypocrisy, ignoring the deep and radical feminism of 
+Hawthorne's writing. Hawthorne published the novel in 1850, two years after the 
+Seneca Falls Convention for women's rights, and at the height of the feminist 
+abolitionist movement led by Lucretia Mott and others. Ten years earlier, 
+Hawthorne had joined the idealistic Brook Farm commune, which sought to 
+establish a more just and equal way of living in which women would be freed 
+from patriarchal strictures. 
+
+In _The Scarlet Letter_, Hawthorne writes Hester Prynne as uncommonly perceptive 
+and strong (Hester had "so much power to do, and power to sympathize, that many 
+people refused to interpret the scarlet A by its original signification. They 
+said that it meant Able; so strong was Hester Prynne, with a woman’s strength.") 
+and he concludes the novel with a vision that "at some brighter period, when the 
+world should have grown ripe for it, in Heaven’s own time, a new truth would be 
+revealed, in order to establish the whole relation between man and woman on a 
+surer ground of mutual happiness." Hawthorne's Hester sees the injustice of a 
+patriarchal society, but the clarity of her vision (like "moonlight, in a 
+familiar room, falling so white upon the carpet, and showing all its figures so 
+distinctly,—making every object so minutely visible, yet so unlike a morning or 
+noontide visibility") comes at the price of having to live outside of that 
+society, set apart both by her own choice and the will of the patriarchs 
+("such a patriarchal body of veterans," in Hawthorne's words, full of 
+"patriarchal privilege.").
+
+In adapting _The Scarlet Letter_ for an age in which women once again challenge 
+a new generation of patriarchs, we chose to rotate the tale and present it from 
+a different perspective, that of Hester and Dimmesdale's daughter Pearl, whom 
+Hester raised to become a strong and independent woman, someone who might live 
+a life of freedom and equality that escaped Hester and Dimmesdale.
+
+
+> Just as Arthur Miller’s _The Crucible_ was reflective of a poignant moment 
+> in American history with the Army-McCarthy hearings of the 1950’s, 
+> _The Scarlet Letter_ directly addresses hypocrisies that remain tangible in 
+> our current society. From the #MeToo movement, to gender-controlling 
+> legislation, to awakening awareness of personal bias based on systemic 
+> rhetoric, the conversations of gender are being brought to the forefront of 
+> our consciousness and our community. 
+> 
+> As a play that asks questions without providing answers, this new adaptation
+> from Carol Gilligan and Jonathan Gilligan masterfully weaves an old story,
+> one that many are familiar with from our secondary education, into a
+> current event that launches discussion, debate, and perhaps change. Finding
+> ways to empower each other, ourselves, and future generations when our
+> “Goodwives” and leaders feed a social media aimed toward maintaining and
+> propagating societal norms can feel insurmountable, yet small steps can be
+> powerful and you can contribute to either side with your choices.
+> 
+> --- Michael Mueller, Director, 2019 Fullerton College Production

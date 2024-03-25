@@ -12,9 +12,13 @@ performances:
   - date: "Mar 21, 2013"
     description: "Excerpts performed at University of Shanghai for Science and Technology"
     credits: "John Bellemer (tenor), Li Xin (soprano), Wang Yang (bass-baritone), Lin Shu (soprano), Charmaine (child soprano)"
+  - date: "Mar 8, 2013"
+    description: "Excerpts performed at Greensboro Cultural Center Recital Hall (Greensboro, NC)"
   - date: "Aug 13, 2012"
     description: "Concert performance at Shakespeare & Company (Lenox, MA)"
     credits: "Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Olivia Marchione (child soprano), John Demler (baritone), Jack Brown (baritone), Sara Jobin (piano, conductor, producer)"
+  - date: "Sept 11, 2011"
+    description: "Excerpts performed at UNC Chapel Hill (Chapel Hill, NC)"
 banner:
   image: "pearl.jpg"
 keywords:
@@ -42,6 +46,24 @@ keywords:
   - Olivia Marchione
 ---
 
+## About _Pearl_
+
+Translating the play _The Scarlet Letter_ to the opera _Pearl_ began with 
+Grammy Nominee Sara Jobin, the first woman to conduct 
+the San Francisco Opera. Sara had grown weary of the opera canon, in which 
+there were few strong women, and all too often the heroine died at the end.
+To remedy this, Jobin created the Different Voice Opera Project, which sponsored
+the development of this opera with award-winning young composer
+[Amy Scurria](https://www.amyscurria.com/)
+
+This opera focuses on Pearl, Hester, and Dimmesdale, and the changes in 
+Pearl’s perception of the events she witnessed as a child and what she comes 
+to understand looking back on them as an adult. The basic tensions---between 
+the private and public aspects of erotic relationships, between one’s role as a 
+parent, as a lover, and as a citizen, and between moral codes and personal 
+passion---are as fraught and important today as they were in the 
+mid-seventeenth century.
+
 ## Excerpts:
 
 
@@ -52,6 +74,24 @@ keywords:
   Maureen O'Flynn, soprano; Victoria Perl, child soprano; Sara Jobin, piano
 
 ---
+
+#### **"If God is Love, How Can Love Be Sin?"** [Dimmesdale]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1KCzONHk14" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+Maureen O'Flynn, soprano; John Bellemer, tenor; Stephanie Otto Orvik, Piano; Sara Jobin, conductor
+
+---
+
+#### **"Mother, Tell Me the Truth!"** [Hester, Adult Pearl, Child Pearl]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfCHhaVh6Jo" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+Maureen O'Flynn, soprano; Marnie Breckenridge, soprano; Olivia Marchione, child soprano; Stephanie Otto Orvik, Piano; Sara Jobin, conductor
+
+---
+
+<!--
 
 #### **"If God is Love, How Can Love Be Sin?"** [Dimmesdale]
 
@@ -93,6 +133,7 @@ Marnie Breckenridge, soprano (Adult Pearl); Maureen O'Flynn, soprano (Hester),
 Stephanie Otto Orvik, piano; Sara Jobin, conductor 
 
 ---
+-->
 
 ### Review
 
