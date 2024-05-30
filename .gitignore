@@ -34,3 +34,4 @@ __pycache__
 *.patch
 *.diff
 
+.hugo_build.lock
