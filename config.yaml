@@ -144,16 +144,16 @@ params:
       on_site: "Bluesky"
       rel_me: yes
       social_media: yes
-    mastodon:
-      priority: 11
-      icon: "mastodon"
-      icon_pack: "fa"
-      icon_weight: "b"
-      link: "https://mathstodon.xyz/@jg_environ"
-      text: "@jg_environ@mathstodon.xyz"
-      on_site: "Mastodon"
-      rel_me: yes
-      social_media: yes
+    # mastodon:
+    #   priority: 11
+    #   icon: "mastodon"
+    #   icon_pack: "fa"
+    #   icon_weight: "b"
+    #   link: "https://mathstodon.xyz/@jg_environ"
+    #   text: "@jg_environ@mathstodon.xyz"
+    #   on_site: "Mastodon"
+    #   rel_me: yes
+    #   social_media: yes
     youtube:
       priority: 10
       icon: "youtube-square"
