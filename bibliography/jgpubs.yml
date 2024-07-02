@@ -99,6 +99,48 @@ references:
   title-short: Incentivizing household action
   type: article-journal
   volume: 186
+- abstract: The growing demand for spatially detailed population
+    products in various fields continues to rise, as users shift their
+    focus from aggregated areal totals to high-resolution grid
+    estimates. Aggregating demographic data to areas, such as census
+    tracts or block groups, can mask localized heterogeneities within
+    those areas. This paper presents a new pycnophylactic
+    (density-preserving) geospatial model for disaggregating population
+    to high-resolution grids. We describe a Bayesian Hierarchical
+    Poisson Spatial Disaggregation Regression Model (HPSDRM), which
+    incorporates land cover covariates and two levels of spatial
+    autocorrelation. We evaluated the model's predictive ability first
+    with simulation studies, and then by disaggregating census
+    population data for Davidson County, TN, from the census tract-level
+    to a fine grid and comparing predicted to actual block-level
+    population counts. The interpolated population map successfully
+    identified spatial heterogeneities, such as hot- and cold-spots
+    within census tracts. The HPDSRM model out-performed three other
+    types of disaggregation modeling, which suggests the value of
+    incorporating spatial autocorrelation. Based upon this study, HPSDRM
+    has potential for disaggregating other demographic data, such as
+    socioeconomic indicators.
+  author:
+  - family: He
+    given: Bowen
+  - family: Gilligan
+    given: Jonathan
+  - family: Camp
+    given: Janey
+  container-title: Applied Geography
+  doi: 10.1016/j.apgeog.2024.103333
+  id: "he:2024:dasymetric"
+  issued: 2024-08
+  keyword: posttenure
+  page: 103333
+  publisher: Elsevier BV
+  status: published
+  title: "Incorporating spatial autocorrelation in dasymetric mapping: A
+    hierarchical poisson spatial disaggregation regression model"
+  title-short: Incorporating spatial autocorrelation in dasymetric
+    mapping
+  type: article-journal
+  volume: 169
 - abstract: The coastal zone of the Ganges-Brahmaputra-Meghna (GBM)
     Delta is widely recognized as one of the most vulnerable places to
     sea-level rise (SLR), with around 57 million people living within
