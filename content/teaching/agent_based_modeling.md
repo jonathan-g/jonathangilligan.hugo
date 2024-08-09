@@ -17,7 +17,7 @@ keywords:
 This course (for undergraduate and graduate students) introduces agent-based
 and individual-based computational modeling with applications to
 ecological, social, and behavioral sciences and engineering. It covers
-designing and programming models and using the mnodels to conduct
+designing and programming models and using the models to conduct
 experiments.
 
 
