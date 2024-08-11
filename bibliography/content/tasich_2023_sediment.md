@@ -7,7 +7,7 @@ author:
 - family: Hornberger
   given: George M.
 container_title: Proceedings of the 2023 winter simulation conference
-date: '2024-02-02'
+date: '2023-12-12'
 editor:
 - family: Corlu
   given: C. G.
@@ -26,13 +26,13 @@ file:
   file: tasich_2023_sediment.pdf
 id: tasich_2023_sediment
 issued:
-  day: 2
-  month: 2
-  year: 2024
+  day: 12
+  month: 12
+  year: 2023
 page: 946-957
 pub_type: paper-conference
 pub_url: https://dl.acm.org/doi/abs/10.5555/3643142.3643220
-pubdate: '2024-02-02'
+pubdate: '2023-12-12'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA
 short_author:
