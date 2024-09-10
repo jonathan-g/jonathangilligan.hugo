@@ -104,8 +104,9 @@ Click to download a high-resolution version. This may be used in media releases 
 [![Brown](/files/headshots/Gilligan_Jonathan_brown_thumb.jpg)](/files/headshots/Gilligan_Jonathan_brown.jpg)
 [![Informal](/files/headshots/Gilligan_Jonathan_informal_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_close.jpg)
 [![Informal Large](/files/headshots/Gilligan_Jonathan_informal_large_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_large.jpg)
--->
 [![2022](/files/headshots/Gilligan_Jonathan_2022_thumb.jpg)](/files/headshots/Gilligan_Jonathan_2022.jpg)
+-->
+[![2024](/files/headshots/Gilligan_Jonathan_2024_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_2024_close.jpg)
 
 ## Academic/Professional Data:
 
