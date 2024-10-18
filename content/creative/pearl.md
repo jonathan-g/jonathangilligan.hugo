@@ -65,6 +65,19 @@ parent, as a lover, and as a citizen, and between moral codes and personal
 passion---are as fraught and important today as they were in the 
 mid-seventeenth century.
 
+> Scurria has a remarkable melodic sense; Moments of remarkable tenderness are 
+> expressed between Dimmesdale and Prynne. The duet 'If God is love, can love be 
+> sin' was gripping and memorable, as was the limpid moment when he sings 
+> 'Hester, take down your hair.' Scurria's lyrical writing and tenor John 
+> Bellemer's sensitive singing as Dimmesdale brought out the wonderful 
+> musicality of the name 'Hester Prynne' - so lovingly phrased, evoking such 
+> tenderness in the name, that I wondered if this is a classic love song in the 
+> making, like Bernstein's 'Maria'.
+> 
+> --- Liane Curtis, 
+> "[A Bold Opera Experiment](http://www.classical-scene.com/2012/08/17/opera-experiment/)," 
+> _The Boston Musical Intelligencer_
+
 ## Excerpts:
 
 
