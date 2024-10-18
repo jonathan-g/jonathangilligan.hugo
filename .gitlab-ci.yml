@@ -1,6 +1,6 @@
 # This file is a template, and might need editing before it works on your project.
 # Full project: https://gitlab.com/pages/hugo
-image: klakegg/hugo:alpine-ci
+image: hugomods/hugo:std-git
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
