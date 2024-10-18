@@ -60,10 +60,19 @@ markup:
       definitionList: true
       footnote: true
       linkify: true
-      strikethrough: true
+      strikethrough: false
       table: true
       taskList: true
       typographer: true
+      extras:
+        delete:
+          enable: true
+        mark:
+          enable: true
+        superscript:
+          enable: true
+        subscript:
+          enable: true
     parser:
       attribute: true
       autoHeadingID: true
