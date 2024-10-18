@@ -9,11 +9,11 @@ pages:
   script:
   - hugo version
   - rm -rf public
-  - fgrep -ir baseurl *
-  - fgrep -ir jonathangilligan.org *
+  #- fgrep -ir baseurl *
+  #- fgrep -ir jonathangilligan.org *
   - hugo --ignoreCache
-  - fgrep -ir .min.css *
-  - fgrep -ir jg_web.pages.jgilligan.org/jonathangilligan_org/ *
+  #- fgrep -ir .min.css *
+  #- fgrep -ir jg_web.pages.jgilligan.org/jonathangilligan_org/ *
   artifacts:
     paths:
     - public
