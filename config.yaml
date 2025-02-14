@@ -143,6 +143,20 @@ params:
       icon_weight: "s"
       link: "mailto:jonathan.gilligan@vanderbilt.edu"
       text: "jonathan.gilligan@vanderbilt.edu"
+    email2:
+      priority: 3
+      icon: "envelope"
+      icon_pack: "fa"
+      icon_weight: "s"
+      link: "mailto:jonathan.gilligan@pm.me"
+      text: "jonathan.gilligan@pm.me"
+    signal:
+      priority: 4
+      icon: "signal-messenger"
+      icon_pack: "fa"
+      icon_weight: "b"
+      link: "https://signal.me/#eu/LiaAI8bSgU0l2PqEkWng55C2dz7A2DC3sUxJEIz7Opcj1o9XPEJKU53GDzJ2yQyS"
+      text: "jgilligan.82"
     bluesky:
       priority: 5
       icon: "bluesky"
