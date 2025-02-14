@@ -4,6 +4,8 @@ title: "About me"
 
 <span class="button">[Biography](#biography)</span> <span class="button">[Academic/Professional Data](#academic-professional-data)</span> <span class="button">[Contact Info](#contact-info)</span>  <span class="button">[Calendar](#my-schedule)</span> <span class="button">[Trivia](#trivia)</span>
 
+The views and opinions I express on this web site are mine alone, and 
+do not represent Vanderbilt University.
 
 ## Biography
 
@@ -132,8 +134,9 @@ Click to download a high-resolution version. This may be used in media releases 
 
 <ul class="fa-ul">
   <li><i class="fa-li {{< fa_icon weight="s" icon="university" >}}"></i> <b>Office:</b> Room 5735, 7<sup style="font-size:70%;">th</sup> floor, Stevenson Center #5 (Science &amp; Engineering Building),<br/><a href="https://www.vanderbilt.edu/ees">Dep't of Earth &amp; Environmental Sciences</a>, <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, Nashville, TN, USA</li>
-  <li><i class="fa-li {{< fa_icon weight="s" icon="phone" >}}"></i> 615.322.2420</li>
+  <li><i class="fa-li fa-brands {{< fa_icon weight="s" icon="signal-messenger" >}}"></i> <a href="https://signal.me/#eu/LiaAI8bSgU0l2PqEkWng55C2dz7A2DC3sUxJEIz7Opcj1o9XPEJKU53GDzJ2yQyS">jgilligan.82</a> on Signal</li>
   <li><i class="fa-li {{< fa_icon weight="s" icon="envelope" >}}"></i> <a href="mailto:jonathan.gilligan@vanderbilt.edu">jonathan.gilligan@vanderbilt.edu</a></li>
+  <li><i class="fa-li {{< fa_icon weight="s" icon="envelope" >}}"></i> <a href="mailto:jonathan.gilligan@pm.me">jonathan.gilligan@pm.me</a> on Proton Mail</li>
 </ul>
 
 
