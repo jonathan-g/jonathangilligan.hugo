@@ -10,17 +10,19 @@ do not represent Vanderbilt University.
 ## Biography
 
 The following bio may be used in media releases without further permission.
+Feel free to shorten it, as necessary.
 
 > Jonathan Gilligan is 
 > Professor of 
 > [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees),
-> and Professor of 
-> [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
+> Professor of 
+> [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/),
+> and
+> Professor of 
+> [Climate and Environmental Studies](https://as.vanderbilt.edu/climate-environmental/)
 > at [Vanderbilt University](https://www.vanderbilt.edu/).
-> They are director of Vanderbilt's interdisciplinary Grand Challenge 
-> Initiative on Climate and Society.
 >
-> Gilligan received their BA in Physics, with a minor in Philosophy from 
+> They received their BA in Physics, with a minor in Philosophy from 
 > [Swarthmore College ](https://www.swarthmore.edu/)
 > and their Ph.D. in [Physics](https://physics.yale.edu/) from [Yale University](https://www.yale.edu/), 
 > for which they performed the first measurements of molecular spectra accurate 
@@ -47,7 +49,7 @@ The following bio may be used in media releases without further permission.
 > for which they received a NASA Group Achievement Award 
 > and a NOAA Outstanding Scientific Paper award. 
 >
-> In 1994, Gilligan joined Vanderbilt's 
+> In 1994, they joined Vanderbilt's 
 > [Department of Physics and Astronomy](https://as.vanderbilt.edu/physics/), 
 > where they applied physics to material science, biology, and medicine, 
 > later becoming the Robert T. Lagemann Assistant Professor of Living State Physics. 
@@ -68,7 +70,7 @@ The following bio may be used in media releases without further permission.
 > and applying machine-learning methods to studying gentrification and its
 > impacts on inequalities in mobility and access to public transport.
 >
-> Gilligan has published one book and more than 100 scholarly articles, 
+> Professor Gilligan has published one book and more than 100 scholarly articles, 
 > and holds two patents. 
 > Their paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly 
 > Reduce U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
@@ -91,6 +93,12 @@ The following bio may be used in media releases without further permission.
 > policy of the last 50 years](/news/2019/12/23/top-books/)
 > by _Environmental Forum_.
 >
+> From 2020--2023 they led Vanderbilt's Interdisciplinary Grand Challenge
+> Initiative on Climate and Society, and were co-chair of the committee
+> that created Vanderbilt's innovative interdisciplinary Climate Studies
+> major, which integrates natural science, social science, and humanities
+> perspectives on climate change.
+> 
 > They also collaborated with their mother, 
 > [Carol Gilligan](https://en.wikipedia.org/wiki/Carol_Gilligan), 
 > to write the play 

@@ -14,7 +14,7 @@ indexes:
   category: "categories"
   tag: "tags"
 title: "Jonathan Gilligan"
-copyright: "&copy; 2017--24 Jonathan Gilligan"
+copyright: "&copy; 2017--25 Jonathan Gilligan"
 canonifyUrls: false
 relativeUrls: true
 enableRobotsTXT: true
@@ -60,19 +60,10 @@ markup:
       definitionList: true
       footnote: true
       linkify: true
-      strikethrough: false
+      strikethrough: true
       table: true
       taskList: true
       typographer: true
-      extras:
-        delete:
-          enable: true
-        mark:
-          enable: true
-        superscript:
-          enable: true
-        subscript:
-          enable: true
     parser:
       attribute: true
       autoHeadingID: true
@@ -143,20 +134,6 @@ params:
       icon_weight: "s"
       link: "mailto:jonathan.gilligan@vanderbilt.edu"
       text: "jonathan.gilligan@vanderbilt.edu"
-    email2:
-      priority: 3
-      icon: "envelope"
-      icon_pack: "fa"
-      icon_weight: "s"
-      link: "mailto:jonathan.gilligan@pm.me"
-      text: "jonathan.gilligan@pm.me"
-    signal:
-      priority: 4
-      icon: "signal-messenger"
-      icon_pack: "fa"
-      icon_weight: "b"
-      link: "https://signal.me/#eu/LiaAI8bSgU0l2PqEkWng55C2dz7A2DC3sUxJEIz7Opcj1o9XPEJKU53GDzJ2yQyS"
-      text: "jgilligan.82"
     bluesky:
       priority: 5
       icon: "bluesky"
