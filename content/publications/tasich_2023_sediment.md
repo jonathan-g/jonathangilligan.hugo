@@ -1,4 +1,5 @@
 ---
+DOI: 10.1109/WSC60868.2023.10407393
 author:
 - family: Tasich
   given: Christopher M.
@@ -31,7 +32,6 @@ issued:
   year: 2023
 page: 946-957
 pub_type: paper-conference
-pub_url: https://dl.acm.org/doi/abs/10.5555/3643142.3643220
 pubdate: '2023-12-12'
 publisher: IEEE Press
 publisher_place: Piscataway, NJ, USA

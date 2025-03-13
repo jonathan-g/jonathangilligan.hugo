@@ -7,7 +7,7 @@ writing_credit:
 performances:
   - date: "Aug 5, 2013"
     description: "Concert performance at Shakespeare & Company (Lenox MA)"
-    credits: "  Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Michael Corvino (bass), Olivia Marchione (child soprano), Stephanie Otto Orvik (piano), Sara Jobin (conductor and producer)"
+    credits: "  Maureen O'Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Michael Corvino (bass), Olivia Marchione (child soprano), Stephanie Otto Orvik (piano), Sara Jobin (conductor and producer)"
   - date: "Mar 21, 2013"
     description: "Excerpts performed at University of Shanghai for Science and Technology"
     credits: "John Bellemer (tenor), Li Xin (soprano), Wang Yang (bass-baritone), Lin Shu (soprano), Charmaine (child soprano)"
@@ -15,7 +15,7 @@ performances:
     description: "Excerpts performed at Greensboro Cultural Center Recital Hall (Greensboro, NC)"
   - date: "Aug 13, 2012"
     description: "Concert performance at Shakespeare & Company (Lenox, MA)"
-    credits: "Maureen O’Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Olivia Marchione (child soprano), John Demler (baritone), Jack Brown (baritone), Sara Jobin (piano, conductor, producer)"
+    credits: "Maureen O'Flynn (soprano), John Bellemer (tenor), Marnie Breckenridge (soprano), John Cheek (bass-baritone), Olivia Marchione (child soprano), John Demler (baritone), Jack Brown (baritone), Sara Jobin (piano, conductor, producer)"
   - date: "Sept 11, 2011"
     description: "Excerpts performed at UNC Chapel Hill (Chapel Hill, NC)"
 banner:
@@ -57,13 +57,26 @@ the development of this opera with award-winning young composer
 
 This opera focuses on Hester Prynne, Reverend Dimmesdale, and their daughter 
 Pearl, and on the changes in 
-Pearl’s perception of the events she witnessed as a child and what she comes 
+Pearl's perception of the events she witnessed as a child and what she comes 
 to understand looking back on them as an adult. The challenges of living as a
 strong woman under patriarchy, and the basic tensions---between 
-the private and public aspects of erotic relationships, between one’s role as a 
+the private and public aspects of erotic relationships, between one's role as a 
 parent, as a lover, and as a citizen, and between moral codes and personal 
 passion---are as fraught and important today as they were in the 
 mid-seventeenth century.
+
+> Scurria has a remarkable melodic sense; Moments of remarkable tenderness are 
+> expressed between Dimmesdale and Prynne. The duet 'If God is love, can love be 
+> sin' was gripping and memorable, as was the limpid moment when he sings 
+> 'Hester, take down your hair.' Scurria's lyrical writing and tenor John 
+> Bellemer's sensitive singing as Dimmesdale brought out the wonderful 
+> musicality of the name 'Hester Prynne' - so lovingly phrased, evoking such 
+> tenderness in the name, that I wondered if this is a classic love song in the 
+> making, like Bernstein's 'Maria'.
+> 
+> --- Liane Curtis, 
+> "[A Bold Opera Experiment](http://www.classical-scene.com/2012/08/17/opera-experiment/)," 
+> _The Boston Musical Intelligencer_
 
 ## Excerpts:
 

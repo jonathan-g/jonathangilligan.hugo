@@ -357,6 +357,7 @@ references:
   - family: Hornberger
     given: George M.
   container-title: Proceedings of the 2023 winter simulation conference
+  doi: 10.1109/WSC60868.2023.10407393
   editor:
   - family: Corlu
     given: C. G.

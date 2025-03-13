@@ -4,21 +4,25 @@ title: "About me"
 
 <span class="button">[Biography](#biography)</span> <span class="button">[Academic/Professional Data](#academic-professional-data)</span> <span class="button">[Contact Info](#contact-info)</span>  <span class="button">[Calendar](#my-schedule)</span> <span class="button">[Trivia](#trivia)</span>
 
+The views and opinions I express on this web site are mine alone, and 
+do not represent Vanderbilt University.
 
 ## Biography
 
 The following bio may be used in media releases without further permission.
+Feel free to shorten it, as necessary.
 
 > Jonathan Gilligan is 
 > Professor of 
 > [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees),
-> and Professor of 
-> [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/)
+> Professor of 
+> [Civil and Environmental Engineering](https://engineering.vanderbilt.edu/cee/),
+> and
+> Professor of 
+> [Climate and Environmental Studies](https://as.vanderbilt.edu/climate-environmental/)
 > at [Vanderbilt University](https://www.vanderbilt.edu/).
-> They are director of Vanderbilt's interdisciplinary Grand Challenge 
-> Initiative on Climate and Society.
 >
-> Gilligan received their BA in Physics, with a minor in Philosophy from 
+> They received their BA in Physics, with a minor in Philosophy from 
 > [Swarthmore College ](https://www.swarthmore.edu/)
 > and their Ph.D. in [Physics](https://physics.yale.edu/) from [Yale University](https://www.yale.edu/), 
 > for which they performed the first measurements of molecular spectra accurate 
@@ -45,7 +49,7 @@ The following bio may be used in media releases without further permission.
 > for which they received a NASA Group Achievement Award 
 > and a NOAA Outstanding Scientific Paper award. 
 >
-> In 1994, Gilligan joined Vanderbilt's 
+> In 1994, they joined Vanderbilt's 
 > [Department of Physics and Astronomy](https://as.vanderbilt.edu/physics/), 
 > where they applied physics to material science, biology, and medicine, 
 > later becoming the Robert T. Lagemann Assistant Professor of Living State Physics. 
@@ -66,7 +70,7 @@ The following bio may be used in media releases without further permission.
 > and applying machine-learning methods to studying gentrification and its
 > impacts on inequalities in mobility and access to public transport.
 >
-> Gilligan has published one book and more than 100 scholarly articles, 
+> Professor Gilligan has published one book and more than 100 scholarly articles, 
 > and holds two patents. 
 > Their paper, "[Household Actions Can Provide a Behavioral Wedge to Rapidly 
 > Reduce U.S. Carbon Emissions](https://doi.org/10.1073/pnas.0908738106)" 
@@ -89,6 +93,12 @@ The following bio may be used in media releases without further permission.
 > policy of the last 50 years](/news/2019/12/23/top-books/)
 > by _Environmental Forum_.
 >
+> From 2020--2023 they led Vanderbilt's Interdisciplinary Grand Challenge
+> Initiative on Climate and Society, and were co-chair of the committee
+> that created Vanderbilt's innovative interdisciplinary Climate Studies
+> major, which integrates natural science, social science, and humanities
+> perspectives on climate change.
+> 
 > They also collaborated with their mother, 
 > [Carol Gilligan](https://en.wikipedia.org/wiki/Carol_Gilligan), 
 > to write the play 
@@ -104,8 +114,9 @@ Click to download a high-resolution version. This may be used in media releases 
 [![Brown](/files/headshots/Gilligan_Jonathan_brown_thumb.jpg)](/files/headshots/Gilligan_Jonathan_brown.jpg)
 [![Informal](/files/headshots/Gilligan_Jonathan_informal_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_close.jpg)
 [![Informal Large](/files/headshots/Gilligan_Jonathan_informal_large_thumb.jpg)](/files/headshots/Gilligan_Jonathan_informal_large.jpg)
--->
 [![2022](/files/headshots/Gilligan_Jonathan_2022_thumb.jpg)](/files/headshots/Gilligan_Jonathan_2022.jpg)
+-->
+[![2024](/files/headshots/Gilligan_Jonathan_2024_close_thumb.jpg)](/files/headshots/Gilligan_Jonathan_2024_close.jpg)
 
 ## Academic/Professional Data:
 
@@ -131,8 +142,9 @@ Click to download a high-resolution version. This may be used in media releases 
 
 <ul class="fa-ul">
   <li><i class="fa-li {{< fa_icon weight="s" icon="university" >}}"></i> <b>Office:</b> Room 5735, 7<sup style="font-size:70%;">th</sup> floor, Stevenson Center #5 (Science &amp; Engineering Building),<br/><a href="https://www.vanderbilt.edu/ees">Dep't of Earth &amp; Environmental Sciences</a>, <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, Nashville, TN, USA</li>
-  <li><i class="fa-li {{< fa_icon weight="s" icon="phone" >}}"></i> 615.322.2420</li>
+  <li><i class="fa-li fa-brands {{< fa_icon weight="s" icon="signal-messenger" >}}"></i> <a href="https://signal.me/#eu/LiaAI8bSgU0l2PqEkWng55C2dz7A2DC3sUxJEIz7Opcj1o9XPEJKU53GDzJ2yQyS">jgilligan.82</a> on Signal</li>
   <li><i class="fa-li {{< fa_icon weight="s" icon="envelope" >}}"></i> <a href="mailto:jonathan.gilligan@vanderbilt.edu">jonathan.gilligan@vanderbilt.edu</a></li>
+  <li><i class="fa-li {{< fa_icon weight="s" icon="envelope" >}}"></i> <a href="mailto:jonathan.gilligan@pm.me">jonathan.gilligan@pm.me</a> on Proton Mail</li>
 </ul>
 
 
