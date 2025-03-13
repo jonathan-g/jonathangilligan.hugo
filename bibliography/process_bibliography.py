@@ -377,8 +377,7 @@ def pandoc_version_check():
     version = decode_version(version_str)
     return (version[0] >= 2 and (version[0] > 2 or version[1] >= 18))
 
-def main():
-    source = sys.argv[1]
+def process(source):
     version_ok = pandoc_version_check()
     if version_ok is None:
         sys.stderr.write("Error: Could not find pandoc. Try instlling pandoc.")
@@ -393,6 +392,10 @@ def main():
     gen_items(bib['references'])
     move_md_files()
     move_pdf_files()
+
+def main():
+    if len(sys.argv) >= 2:
+      process(source = sys.argv[1])
 
 if __name__ == '__main__':
     main()
