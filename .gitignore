@@ -18,7 +18,6 @@ __pycache__
 *.log
 *.sav
 
-
 # Blogdown stuff
 /blogdown/
 
@@ -29,10 +28,7 @@ __pycache__
 # Local Netlify stuff
 .netlify/
 
-
 # Diffs and patches
 *.patch
 *.diff
-
-.hugo_build.lock
 /old/

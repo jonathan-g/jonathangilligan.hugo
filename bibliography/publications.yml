@@ -1,5 +1,44 @@
 nocite: '[@*]'
 references:
+- abstract: Environmental migration occurs across spatial and temporal scales and
+    is influenced by the dynamics of individual and collective human behavior, as
+    well as environmental stresses. Agent-based modeling (ABM) has demonstrated potential
+    for studying such complex processes, especially where individual decision-making
+    is important. We developed an ABM to simulate environmental shocks, labor markets,
+    and household livelihoods and used it to study environmental migration in rural
+    Bangladesh. Using a pattern-oriented modeling approach, we found that an economic
+    model of migration decisions can robustly reproduce observed patterns so long
+    as economic inequality is properly represented. The results were sensitive to
+    both the functional form and the parameters characterizing the distribution of
+    land-ownership within a community. We conclude that community-level inequality
+    has significant implications for environmental migration dynamics and should be
+    considered in future policy interventions and research efforts.
+  accessed: 2025-03-12
+  author:
+  - family: Best
+    given: Kelsea
+  - family: Gilligan
+    given: Jonathan
+  - family: Mallick
+    given: Bishawjit
+  container-title: 'Nature Communications: Earth & Environment'
+  container-title-short: Commun Earth Environ
+  doi: 10.1038/s43247-025-02177-5
+  file:
+  - desc: full text
+    file: best_2025_migration_abm.pdf
+  id: best-2025-Migration-ABM
+  issn: 2662-4435
+  issue: 196
+  issued: 2025-03-12
+  keyword: Climate-change adaptation,Climate-change impacts
+  language: en-US
+  publisher: Nature Publishing Group
+  title: Economic inequality is a crucial determinant of observed patterns of environmental
+    migration
+  type: article-journal
+  url: https://www.nature.com/articles/s43247-025-02177-5
+  volume: 6
 - abstract: 'The U.S. recently passed major federal laws supporting the energy transition,
     and analyses suggest that their successful implementation could reduce U.S. emissions
     more than 40% below 2005 levels by 2030. However, achieving maximal emissions
