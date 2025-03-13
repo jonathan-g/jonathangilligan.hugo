@@ -1,7 +1,6 @@
 ---
 title: "_Pearl_: An Opera"
 date: "2012-08-13"
-kind: "opera"
 writing_credit:
   - "Composer [Amy Scurria](http://www.amyscurria.com/)"
   - "Libretto by Carol Gilligan and Jonathan Gilligan"

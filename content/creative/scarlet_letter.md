@@ -1,7 +1,6 @@
 ---
 title: "_The Scarlet Letter_: A Play"
 date: "2005-08-07"
-kind: "play"
 writing_credit:
   - "by Carol Gilligan and Jonathan Gilligan"
 performances:
