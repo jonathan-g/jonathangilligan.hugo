@@ -1,0 +1,88 @@
+---
+title: "Actions by Households Play a Surprisingly Large and Cost-Effective Role in IRA/IIJA Emissions Reductions"
+author: Jonathan Gilligan
+date: '2024-02-01'
+slug: household-ira
+categories:
+  - blog posts
+  - publications
+  - research
+tags: [IRA, IIJA, Inflation Reduction Act, Energy Policy, Climate Policy, Household Actions]
+draft: no
+bibliography: household-actions.bib
+nocite: 
+  - "@caballero-2024"
+  - "@davis-2017"
+banner:
+  image: "cover.jpg"
+  credit: "Photo: Evnex, Ltd."
+---
+[Mariah Caballero](https://peabody.vanderbilt.edu/bio/?pid=mariah-caballero),
+[Mike Vandenbergh](https://law.vanderbilt.edu/bio/?pid=michael-vandenbergh),
+Elodie Currier, and I have [a paper](https://doi.org/10.1016/j.enpol.2024.113992)
+analyzing the 2021 Infrastructure Investment and Jobs Act (IIJA)
+and the 2022 Inflation Reduction Act (IRA). We found that incentives for
+voluntary household actions to reduce greenhouse gas emissions account for only 
+around 11% of spending, but those household actions are expected to produce 
+around 40% of total emissions reductions.
+
+These results confirm previous studies which found that incentives for
+individuals and households to voluntarily adopt energy efficiency
+actions can make powerful contributions to climate and energy policy, and 
+should be emphasized in future policy proposals.
+
+<!--more-->
+
+## Introduction and Context
+
+Many people are surprised to learn that energy consumed by U.S. 
+individuals and households in their private lives (at home, in private 
+driving, etc.) is responsible for 
+[more energy-related greenhouse gas emissions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1617426) 
+than any other economic sector. 
+More than industry, more than commercial office and retail activity, 
+and more than commercial transportation [@vandenbergh-2010]. 
+
+In 2009, together with Mike Vandenbergh, Tom Dietz, Gerald Gardner, and
+Paul Stern, I calculated that with appropriate incentives, US households
+were likely to take enough voluntary actions to [reduce their greenhouse
+gas emissions by 20%](https://doi.org/10.1073/pnas.0908738106), 
+equivalent to almost 450 million metric tons per year of CO~2~ [@dietz-2009]. 
+
+We went on to identify important [design principles](https://doi.org/10.1021/es100896p) for policies to stimulate
+these voluntary emissions reductions [@stern-2010], and to assess how well 
+[actual government policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1617426) followed those principles [@vandenbergh-2010].
+
+In 2020, [I calculated](https://www.jonathangilligan.org/publications/gilligan_2020_assessing_private_governance/) that voluntary adoption of energy-efficient light-bulbs by U.S. households
+had reduced residential greenhouse gas emissions by almost 130 million metric tons of CO~2~
+per year [@gilligan-2020].
+
+```{r echo=FALSE}
+blogdown::shortcode(
+  "figure",
+  src="/post/img/household-ira/fig-1.jpg",
+  title="Figure 1: Per-Capita Residential Electricity Consumption in the U.S.",
+  alt="Figure showing per-capita residential electricity consumption in the U.S. The figure rises steadily from 1990 until around 2007, when it levels off and then falls by about 5% from 2010--2018.",
+  caption="Per-capita residential electricity consumption in the U.S. rose steadily from around 1930--2007. From 1990--2005 the rise was linear, but economist Lucas Davis [Davis 2017](#ref-davis-2017) discovered that around 2007, rapid adoption of energy-efficient light-bulbs caused residential electricity consumption to level off, and then began to drop. I calculated that this meant annual residential greenhouse gas emissions were almost 130 million metric tons lower in 2018 than if electricity consumption had continued to rise at the rate it had from 1990--2010 [Gilligan and Vandenbergh 2020](#ref-gilligan-2020)."
+  )
+```
+
+## Analysing the IIJA and IRA
+
+In 2021 and 2022, the US enacted two major new laws, the 2021 Infrastructure Investment and Jobs Act and the 2022 Inflation Reduction Act, both of which promoted clean energy infrastructure, electric vehicles, and adoption of energy efficiency measures by businesses and private households, with a total budget of around $400 billion for climate change and clean energy programs (the IIJA budget also contains vast sums for other aspects of US infrastructure and industrial growth, unrelated to climate and clean energy).
+
+A popular aspect of these laws were tax breaks and other financial incentives for buying electric vehicles, installing energy-efficient home heating equipment, such as heat-pumps for space heating and water heating, improving insulation, etc.
+
+[A comprehensive analysis](https://repeatproject.org/) by economists and engineers at Princeton University led by professor 
+[Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins) 
+reported that together, the cumulative emissions reductions from these two laws were likely to total about 17 billion metric tons by 2050 [@jenkins-2023].
+Mariah Caballero and I examined the Princeton University analysis to determine what fraction of the expected emissions reductions came from actions taken by individuals and households versus by businesses and other organizations. We found that voluntary household actions were expected to produce roughly 40% of total emissions reductions from the two laws. This confirms the expectations we had in light of the previous work by myself, Vandenbergh, and our collabortors.
+
+We also found that even though the household actions were expected to produce such a large share of the benefits from IRA and IIJA, they were especially cost-effective. The incentives for households to buy electric vehicles, install heat-pumps for space-heating and water-heating, and other energy-efficiency measures account for only 11% of the total spending on climate and clean energy under the two bills. 
+
+Thus, we found that incentives for voluntary energy-efficiency actions by individuals and households are valuable and important, both because they can produce large impacts
+in reducing greenhouse gas emissions, and because they can be exceptionally cost-effective at delivering those results. This confirms the general conclusion of a large body of previous work that incentives for voluntary actions by individuals and households should play prominent roles in future climate and energy policies.
+
+------
+
+## References
