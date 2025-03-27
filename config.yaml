@@ -9,12 +9,12 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseURL: "https://jonathan.pages.jgilligan.org/"
+baseURL: "https://www.jonathangilligan.org/"
 indexes:
   category: "categories"
   tag: "tags"
 title: "Jonathan Gilligan"
-copyright: "&copy; 2017--24 Jonathan Gilligan"
+copyright: "&copy; 2017--25 Jonathan Gilligan"
 canonifyUrls: false
 relativeUrls: true
 enableRobotsTXT: true
@@ -61,6 +61,7 @@ markup:
       footnote: true
       linkify: true
       strikethrough: false
+
       table: true
       taskList: true
       typographer: true
