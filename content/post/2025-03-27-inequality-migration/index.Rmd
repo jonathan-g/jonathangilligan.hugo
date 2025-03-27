@@ -1,5 +1,5 @@
 ---
-title: "Economic inequality plays an important role in environmental migration""
+title: "Economic inequality plays an important role in environmental migration"
 author: 'Jonathan Gilligan'
 date: '2025-03-27'
 slug: inequality-migration
@@ -7,9 +7,14 @@ categories:
   - blog posts
   - publications
   - research
-tags: [Bangladesh, GBM Delta, sediment, sea-level, climate change]
-draft: yes
+tags: [Bangladesh, migration, climate change, ABM, agent-based-model]
+draft: no
 bibliography: best-post.bib
+nocite: "@best-2025"
+banner:
+  image: "cover.jpg"
+  credit: "Photo: Jonathan Gilligan"
+  caption: "Migrants returning to Polder 32 in Dakop Upazilla, Khulna in May 2012, after spending a season working on paddy farms 100 km away. They took their season's pay in bags of rice, which they will use to feed their families until the local harvest comes in. This migration was an adaptation to the loss of local agricultural production following cyclone Aila, which devastated the Polder in 2009."
 ---
 I have a [new paper](/publications/best_2025_Migration_ABM/), 
 with [Kelsea Best](https://www.kelseabestresearch.com/) and 
@@ -29,15 +34,15 @@ migration is not a simple matter of the event directly causing migration.
 Rather, environmental stress is best considered as one among many factors
 affecting population movements. 
 
-> Just as the environment is only one among many factors that drive 
-> migration, migration is also only one among many possible responses 
-> to environmental change. [@walsham]
-
 > [T]hey did not react blindly to the furies of nature. 
 > What appears to be natural takes work: policies and legislation, 
 > chance and intention, technology and 
-> energy---not famine alone---combined to “push” migration across the 
-> Bay of Bengal. [@amrith2013, p. 114]
+> energy---not famine alone---combined to "push" migration across the 
+> Bay of Bengal. [@amrith-2013, p. 114]
+
+> Just as the environment is only one among many factors that drive 
+> migration, migration is also only one among many possible responses 
+> to environmental change. [@walsham-2010]
 
 Additionally, for several years Bishawjit Mallick has been arguing that
 greater attention should be paid to 
@@ -129,6 +134,15 @@ both patterns in the vast majority of simulation runs for 91% of the
 values we tested for the unknown parameters describing the expected 
 cost and benefit of migration.
 
+```{r echo=FALSE}
+blogdown::shortcode("figure",
+  src="/post/img/inequality-migration/fig-1.png",
+  title="Figure 1: Variation of migration versus community impact factor",
+  alt="Figure showing the variation in the number of migrations versus the fraction of the community affected. As the fraction of the community affected by a disaster rises from 0 to around 20%, the number of migrations falls, but when more than 20% of the community is affected, the number of migrations rises.",
+  caption="Variation in the number of migrations following a disaster, versus the fraction of the community affected (community impact-factor). The solid black line represents the mean from 13,7000 simulation runs, and the gray area represents the 95% confidence interval over those runs."
+)
+```
+
 However, when we ran the model using distributions of 
 land-ownership that did not represent what we knew from household 
 surveys---especially distributions in which inequality in land-ownership
@@ -175,3 +189,8 @@ are available in
 which are Open Accsess and freely available, and we have published 
 [the full model code](https://github.com/bestkb/Bangladesh_ABM_Public_V2) 
 on GitHub.
+
+---
+
+## References
+
