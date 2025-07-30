@@ -18,7 +18,8 @@ issued:
   day: 12
   month: 3
   year: 2025
-keyword: Climate-change adaptation,Climate-change impacts
+keyword: Climate migration,Bangladesh,migration,ABM,agent-based model,Climate-change
+  adaptation,Climate-change impacts
 pub_type: article-journal
 pubdate: '2025-03-12'
 publisher: Nature Publishing Group
