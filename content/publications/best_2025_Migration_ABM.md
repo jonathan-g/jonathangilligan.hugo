@@ -29,6 +29,7 @@ short_author:
   given: J.
 - family: Mallick
   given: B.
+status: published
 title: Economic inequality is a crucial determinant of observed patterns of environmental
   migration
 volume: 6
