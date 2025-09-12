@@ -149,8 +149,8 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:jonathan.gilligan@pm.me"
-      text: "jonathan.gilligan@pm.me"
+      link: "mailto:jonathan@jgilligan.org"
+      text: "jonathan@jgilligan.org"
     signal:
       priority: 4
       icon: "signal-messenger"
