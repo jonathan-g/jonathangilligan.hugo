@@ -31,14 +31,91 @@ references:
   issn: 2662-4435
   issue: 196
   issued: 2025-03-12
-  keyword: Climate-change adaptation,Climate-change impacts
+  keyword: Climate migration,Bangladesh,migration,ABM,agent-based model,posttenure,Climate-change
+    adaptation,Climate-change impacts
   language: en-US
   publisher: Nature Publishing Group
+  status: published
   title: Economic inequality is a crucial determinant of observed patterns of environmental
     migration
   type: article-journal
   url: https://www.nature.com/articles/s43247-025-02177-5
   volume: 6
+- abstract: Transgender and gender nonconforming (TGnC) people are a primary target
+    of the Trump administration. Multiple executive orders seek to erase TGnC protections;
+    mandate denial of gender identity; and ban diversity, equity, and inclusion (DEI).
+    Changes to federal funding policies related to TGnC individuals and DEI threaten
+    to curtail academic diversity and freedom. Institutions have been hesitant to
+    resist, but for many TGnC scientists---especially TGnC individuals of color, immigrants,
+    and those with disabilities---invisibility is not an option. Anticipatory obedience,
+    and even passive allyship, is insufficient; institutions must abandon neutrality
+    and defend targeted communities to minimize further harm. As queer and TGnC scientists,
+    we call on researchers at all levels---from undergraduates to university presidents---to
+    take direct, consistent, and rapid action.
+  author:
+  - family: Sinnott-Armstrong
+    given: Nasa
+  - family: Forsythe
+    given: Desiree
+  - family: Benoit
+    given: Jane M
+  - family: Chappell
+    given: Callie R.
+  - family: Coe
+    given: Lisa S. Y.
+  - dropping-particle: de
+    family: Oliveira
+    given: Bruno Francesco Rodrigues
+  - family: Evans
+    given: Natalya
+  - family: Fagre
+    given: Anna C.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Hamilton
+    given: Maria
+  - family: Henneberry
+    given: Colin Moran
+  - family: Ishaq
+    given: Suzanne L.
+  - family: Johnston
+    given: Juliet
+  - family: Krichilsky
+    given: Erin
+  - family: Lopez
+    given: Jamie Alcira
+  - family: McMonigal
+    given: Kay
+  - family: Ortiz Alvarez de la Campa
+    given: Melanie
+  - family: Rahman
+    given: Rahmeen
+  - family: Schwartz
+    given: Nicole E.
+  - family: Talluto
+    given: Lauren
+  - family: Taylor
+    given: Eric J.
+  - family: "Vargas-Mu\xF1iz"
+    given: "Jos\xE9 M."
+  - family: Weissman
+    given: J. L.
+  container-title: Science
+  doi: 10.1126/science.ady0962
+  file:
+  - desc: full text
+    file: sinnott-armstrong_2025_protect_transgender_scientists.pdf
+  id: sinnott-armstrong-2025-trans-scientists
+  issn: 1095-9203
+  issue: 6753
+  issued: 2025-06-19
+  keyword: posttenure
+  page: 1283-1284
+  publisher: American Association for the Advancement of Science (AAAS)
+  status: published
+  title: Protect transgender scientists
+  type: article-journal
+  volume: 388
 - abstract: 'The U.S. recently passed major federal laws supporting the energy transition,
     and analyses suggest that their successful implementation could reduce U.S. emissions
     more than 40% below 2005 levels by 2030. However, achieving maximal emissions
@@ -327,7 +404,7 @@ references:
   doi: 10.3389/fenvs.2023.1038904
   file:
   - desc: full text
-    file: sweitzer_2023_water_narratives
+    file: sweitzer_2023_water_narratives.pdf
   id: sweitzer:2023:water.narratives
   issn: 2296-665X
   issued: 2023-03-03
@@ -680,7 +757,6 @@ references:
   issued: 2021-02-08
   keyword: posttenure
   language: en-US
-  other-ids: martinezPredictingPublicTransportation
   status: published
   title: Predicting public transportation load to estimate the probability of social
     distancing violations

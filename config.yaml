@@ -149,8 +149,9 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:jonathan.gilligan@pm.me"
-      text: "jonathan.gilligan@pm.me"
+      link: "mailto:jonathan@jgilligan.org"
+      text: "jonathan@jgilligan.org"
+      on_site: "Proton mail"
     signal:
       priority: 4
       icon: "signal-messenger"
@@ -158,6 +159,7 @@ params:
       icon_weight: "b"
       link: "https://signal.me/#eu/LiaAI8bSgU0l2PqEkWng55C2dz7A2DC3sUxJEIz7Opcj1o9XPEJKU53GDzJ2yQyS"
       text: "jgilligan.82"
+      on_site: "Signal"
     bluesky:
       priority: 5
       icon: "bluesky"

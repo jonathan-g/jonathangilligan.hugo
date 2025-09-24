@@ -11,7 +11,7 @@ container_title: Frontiers in Environmental Science
 date: '2023-03-03'
 file:
 - desc: full text
-  file: sweitzer_2023_water_narratives
+  file: sweitzer_2023_water_narratives.pdf
 id: sweitzer_2023_water_narratives
 issued:
   day: 3
