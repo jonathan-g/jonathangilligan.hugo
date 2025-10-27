@@ -42,6 +42,93 @@ references:
   type: article-journal
   url: "https://www.nature.com/articles/s43247-025-02177-5"
   volume: 6
+- abstract: Adaptation to climate change goes beyond the
+    migration-non-migration divide. Families and communities combine
+    mobility with rootedness, drawing on cultural ties,
+    intergenerational learning, and lived knowledge to navigate risks
+    and shape long-term futures.
+  author:
+  - family: Mallick
+    given: Bishawjit
+  - family: Hunter
+    given: Lori
+  - family: Ackerly
+    given: Brooke
+  - family: Priordashini
+    given: Rup
+  - family: Kelman
+    given: Ilan
+  - family: Boas
+    given: Ingrid
+  - family: Castro
+    given: Brianna
+  - family: Czaika
+    given: Mathias
+  - family: Ahmed
+    given: Bayes
+  - family: Asan
+    given: Md. Nasif
+  - family: Arboleda
+    given: Maijana Fajardo
+  - family: Bailey
+    given: Ajay
+  - family: Bayrak
+    given: Mucahid
+  - family: Best
+    given: Kelsea
+  - family: Carrico
+    given: Amanda
+  - family: Draper
+    given: Jamie
+  - family: Etzold
+    given: Benjamin
+  - family: Farbotko
+    given: Carol
+  - family: Gain
+    given: Animesh Kumar
+  - family: Ghosh
+    given: Tuhin
+  - family: Gilligan
+    given: Jonathan
+  - family: Helbich
+    given: Marco
+  - family: Labib
+    given: S. M.
+  - family: Sampaio
+    given: Dora
+  - family: Naser
+    given: Mostafa
+  - family: Otsuki
+    given: Kei
+  - family: Ronald
+    given: Balgah
+  - family: Saha
+    given: Oishi Rani
+  - family: Sakdapolrak
+    given: Patrick
+  - family: Samanta
+    given: Gopa
+  - family: Schmock
+    given: Klara
+  - family: Sterly
+    given: Harald
+  - family: Sultana
+    given: Zakia
+  - dropping-particle: van der
+    family: Geest
+    given: Kees
+  - family: Viani
+    given: Anna
+  - dropping-particle: van den
+    family: Berg
+    given: J.
+  container-title: Nature Climate Change
+  id: "mallick:2025:tethered.resilience"
+  issued: 2025-11
+  publisher: Nature Publishing Group
+  status: in press
+  title: Future-making beyond (im)mobility through tethered resilience
+  type: article-journal
 - abstract: Transgender and gender nonconforming (TGnC) people are a
     primary target of the Trump administration. Multiple executive
     orders seek to erase TGnC protections; mandate denial of gender
@@ -106,7 +193,7 @@ references:
     given: J. L.
   container-title: Science
   doi: 10.1126/science.ady0962
-  id: sinnott-armstrong-2025-trans-scientists
+  id: "sinnott-armstrong:2025:transgender.scientists"
   issn: 1095-9203
   issue: 6753
   issued: 2025-06-19
@@ -2884,7 +2971,7 @@ references:
     given: Paul
   - family: Vandenbergh
     given: Michael
-  container-title: PNAS
+  container-title: Proceedings of the National Academy of Science
   doi: 10.1073/pnas.0908738106
   id: "dietz:2009:behavioral.wedge"
   issued: 2009
