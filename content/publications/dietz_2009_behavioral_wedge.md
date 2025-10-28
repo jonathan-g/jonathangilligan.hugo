@@ -11,7 +11,7 @@ author:
   given: Paul
 - family: Vandenbergh
   given: Michael
-container_title: PNAS
+container_title: Proceedings of the National Academy of Science
 date: '2009-01-01'
 file:
 - desc: full text

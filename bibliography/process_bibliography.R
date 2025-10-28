@@ -12,5 +12,5 @@ if (! py_module_available("dateutil")) {
   py_install("python-dateutil")
 }
 
-py_source("process_bibliography.py")
+py_run_file("process_bibliography.py")
 py_run_string("process('jgpubs.bib')")

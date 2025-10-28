@@ -42,6 +42,93 @@ references:
   type: article-journal
   url: "https://www.nature.com/articles/s43247-025-02177-5"
   volume: 6
+- abstract: Adaptation to climate change goes beyond the
+    migration-non-migration divide. Families and communities combine
+    mobility with rootedness, drawing on cultural ties,
+    intergenerational learning, and lived knowledge to navigate risks
+    and shape long-term futures.
+  author:
+  - family: Mallick
+    given: Bishawjit
+  - family: Hunter
+    given: Lori
+  - family: Ackerly
+    given: Brooke
+  - family: Priordashini
+    given: Rup
+  - family: Kelman
+    given: Ilan
+  - family: Boas
+    given: Ingrid
+  - family: Castro
+    given: Brianna
+  - family: Czaika
+    given: Mathias
+  - family: Ahmed
+    given: Bayes
+  - family: Asan
+    given: Md. Nasif
+  - family: Arboleda
+    given: Maijana Fajardo
+  - family: Bailey
+    given: Ajay
+  - family: Bayrak
+    given: Mucahid
+  - family: Best
+    given: Kelsea
+  - family: Carrico
+    given: Amanda
+  - family: Draper
+    given: Jamie
+  - family: Etzold
+    given: Benjamin
+  - family: Farbotko
+    given: Carol
+  - family: Gain
+    given: Animesh Kumar
+  - family: Ghosh
+    given: Tuhin
+  - family: Gilligan
+    given: Jonathan
+  - family: Helbich
+    given: Marco
+  - family: Labib
+    given: S. M.
+  - family: Sampaio
+    given: Dora
+  - family: Naser
+    given: Mostafa
+  - family: Otsuki
+    given: Kei
+  - family: Ronald
+    given: Balgah
+  - family: Saha
+    given: Oishi Rani
+  - family: Sakdapolrak
+    given: Patrick
+  - family: Samanta
+    given: Gopa
+  - family: Schmock
+    given: Klara
+  - family: Sterly
+    given: Harald
+  - family: Sultana
+    given: Zakia
+  - dropping-particle: van der
+    family: Geest
+    given: Kees
+  - family: Viani
+    given: Anna
+  - dropping-particle: van den
+    family: Berg
+    given: J.
+  container-title: Nature Climate Change
+  id: "mallick:2025:tethered.resilience"
+  issued: 2025-12-31
+  publisher: Nature Publishing Group
+  status: in press
+  title: Future-making beyond (im)mobility through tethered resilience
+  type: article-journal
 - abstract: Transgender and gender nonconforming (TGnC) people are a
     primary target of the Trump administration. Multiple executive
     orders seek to erase TGnC protections; mandate denial of gender
@@ -106,7 +193,7 @@ references:
     given: J. L.
   container-title: Science
   doi: 10.1126/science.ady0962
-  id: sinnott-armstrong-2025-trans-scientists
+  id: "sinnott-armstrong:2025:transgender.scientists"
   issn: 1095-9203
   issue: 6753
   issued: 2025-06-19
@@ -117,6 +204,179 @@ references:
   title: Protect transgender scientists
   type: article-journal
   volume: 388
+- abstract: "The damage from wildfires and hurricanes in recent years
+    has resulted in extensive emergency and longer-term responses. This
+    Article identifies an overlooked and inconvenient truth about these
+    types of disasters: many climate adaptation efforts should also
+    achieve climate mitigation. This is not a popular conclusion.
+    Scientists have recognized the importance of the
+    adaptationmitigation nexus for over a decade, but the climate change
+    legal literature typically treats adaptation (adjusting to or
+    reducing the harm of climate change) and mitigation (reducing the
+    causes of anthropogenic climate change) as discrete alternatives.
+    Adaptation will often occur in the midst of short-term emergency
+    responses in which achieving mitigation is far from the minds of
+    policymakers, and including mitigation in long-term adaptation
+    planning could create bureaucratic obstacles that bog down
+    decision-making. Yet future generations will ask whether we
+    accounted for their well-being as we responded to protect the
+    well-being of the current generation or whether we dismissed these
+    concerns and made future disasters worse. The Article argues that
+    adaptation scholarship and policies should reflect the fact that
+    reducing climate risks will often be far more difficult and
+    expensive if mitigation opportunities are missed. As a first step,
+    the Article offers two principles to guide research and policymaking
+    on this topic: mitigate-while-adapting and adapt-to-mitigate. The
+    Article explores the basis for these principles and their
+    implications for public and private governance."
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Stern
+    given: Stephanie
+  - family: Dana
+    given: David A.
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Georgetown Environmental Law Review
+  doi: 10.2139/ssrn.5381597
+  id: "vandenbergh:2025:adaptation-mitigation"
+  issued: 2025-12-31
+  status: in press
+  title: Adaptation as mitigation
+  type: article-journal
+  volume: 38
+- abstract: Artificial intelligence (AI) has the potential to create
+    major economic and social benefits but also to rapidly escalate
+    electricity demand and its associated environmental impacts.
+    Information has been a cornerstone of environmental law for half a
+    century, and this Article argues that providing information to
+    individual, corporate, and other users about the electricity demand
+    and environmental impacts of AI can reduce those impacts without
+    delaying development of the technology. Little is known about how AI
+    large language models (LLMs) compare on these issues, though, and to
+    address this shortcoming the Article provides the first comparison
+    of the outputs of four AI environmental footprint calculators. The
+    Article finds that running the same AI query through all four
+    calculators produces substantial differences in outputs, with one
+    calculator producing an estimate more than 50 times higher than
+    another for the same type of query. These differences suggest that
+    substantial improvements are needed in the disclosure of
+    information, whether through international, national, state, or
+    private standards, to provide reliable estimates of energy use and
+    environmental impacts to users. In turn, more accurate, easily
+    available information can create incentives for reducing the costs,
+    energy demand, and environmental impacts of AI even in a
+    deregulatory era.
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Thorpe
+    given: Ethan Ickovics
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Michigan Journal of Environmental and Administrative
+    Law
+  doi: 10.2139/ssrn.5400891
+  id: "vandenbergh:2025:ai-footprint"
+  issued: 2025-08-23
+  number-of-pages: 33
+  status: in press
+  title: The energy and environmental footprint of AI
+  type: article-journal
+  volume: 15
+- abstract: "Scholars have wrestled with the legal boundary of the firm
+    for generations. The legal boundary limits the extent to which a
+    firm can be held liable for the torts, contractual, and regulatory
+    obligations of other corporations. The existence of a legal boundary
+    suggests that the law limits incentives for firms to control the
+    climate and other environmental harms caused by their corporate
+    suppliers. Yet recent research demonstrates that many of the largest
+    corporations impose environmental requirements on their suppliers
+    that exceed the legal requirements imposed on these suppliers. This
+    suggests that some factors other than the threat of liability may be
+    encouraging corporations to try to reduce the environmental harm
+    caused by their suppliers. In this paper, we refer to the
+    attributions of responsibility to firms by customers, employees, and
+    other stakeholders as imposing a \\\"moral boundary\\\" on corporate
+    action that may be more constraining than the legal boundary.
+    Drawing on three surveys with 2,400 respondents, this Article
+    evaluates the extent to which the public may influence this moral
+    boundary of the firm-whether potential employees, retail customers,
+    community members, and other stakeholders hold firms morally
+    accountable for the environmental harms of their suppliers even if
+    they are not legally accountable. The survey results suggest that
+    they do: these stakeholders assign moral blame to corporate buyers
+    for the emissions of their first-and second-tier suppliers, although
+    the moral boundary is nuanced: the assignment of blame has limited
+    effects on consumer behavioral intentions, increases with the
+    control the buyer exercises over the supplier, and decreases from
+    tier one to tier two suppliers. The Article concludes that corporate
+    managers may be protecting the reputation-driven economic interests
+    of their firms when they adopt environmental supply chain
+    requirements, and it suggests the need for research on whether the
+    moral boundary interacts with the legal boundary in ways that lead
+    to an efficient balance between the legal boundary's incentives to
+    take financial risks, externalize harms, and exercise limited
+    control over third parties, and the moral boundary's incentives to
+    be cautious about financial risks, internalize harms, and exercise a
+    greater degree of control over third parties."
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Miller
+    given: Jane E.
+  - family: Blair
+    given: Margaret M.
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Iowa Law Review
+  doi: 10.2139/ssrn.5045216
+  id: "vandenbergh:2025:moral.boundary"
+  issued: 2025-12-31
+  status: in press
+  title: The moral boundary of the firm
+  type: article-journal
+  volume: 110
+- abstract: This Article explores the assumptions that underly
+    projections of extraordinary growth in artificial intelligence
+    (AI)-driven data center energy demand, and it identifies the
+    potential for reducing consumer and corporate energy costs and
+    demand through energy and environmental disclosures. The Article
+    explores AI-driven electricity demand assumptions by examining the
+    history of electricity demand over-predictions and by proposing
+    research to address the over-prediction bias. It then identifies
+    viable initiatives that may be able to shift the timing or amount of
+    demand, and it eschews the tendency to propose government
+    legislative or regulatory interventions on AI use or emissions that
+    are infeasible for the foreseeable future. Focusing on household
+    behavior, it identifies examples of successful disclosure programs
+    and presents exploratory new empirical data to explain how
+    electricity use and environmental disclosures have the potential to
+    shift consumer behavior. Turning to corporate behavior, it then
+    explore corporate environmental commitments and discusses ways to
+    enhance the gap-filling role of these commitments. The Article
+    concludes by identifying additional research initiatives to better
+    understand and address the role of information in addressing the
+    energy and environmental challenges arising from AI-driven
+    electricity demand.
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Miller
+    given: Jane E.
+  - family: Watkins
+    given: Lachlan
+  - family: Gilligan
+    given: Jonathan
+  - family: Williams
+    given: Mark J.
+  container-title: Texas Environmental Law Journal
+  id: "vandenbergh:2025:unplugging-ai"
+  issued: 2025-12-31
+  status: in press
+  title: Unplugging the artificial intelligence energy emergency
+  type: article-journal
 - abstract: "The U.S. recently passed major federal laws supporting the
     energy transition, and analyses suggest that their successful
     implementation could reduce U.S. emissions more than 40% below 2005
@@ -2884,7 +3144,7 @@ references:
     given: Paul
   - family: Vandenbergh
     given: Michael
-  container-title: PNAS
+  container-title: Proceedings of the National Academy of Science
   doi: 10.1073/pnas.0908738106
   id: "dietz:2009:behavioral.wedge"
   issued: 2009

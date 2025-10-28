@@ -373,11 +373,13 @@ def pandoc_version_check():
         sys.stderr.writelines(['Error running pandoc:',
                                version_check.stderr.strip().decode('utf-8')])
         return None
+    sys.stdout.write("Pandoc version = \"" + version_check.stdout.decode('utf-8') + "\"\n")
     version_str = version_check.stdout.decode('utf-8').split('\n')[0].strip()
     version = decode_version(version_str)
     return (version[0] >= 2 and (version[0] > 2 or version[1] >= 18))
 
 def process(source):
+    sys.stdout.write("Processing \"" + source + "\" in directory \"" + os.getcwd() + "\"\n")
     version_ok = pandoc_version_check()
     if version_ok is None:
         sys.stderr.write("Error: Could not find pandoc. Try instlling pandoc.")

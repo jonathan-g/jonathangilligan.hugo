@@ -52,7 +52,7 @@ date: '2025-06-19'
 file:
 - desc: full text
   file: sinnott-armstrong_2025_protect_transgender_scientists.pdf
-id: sinnott_armstrong_2025_trans_scientists
+id: sinnott_armstrong_2025_transgender_scientists
 issue: 6753
 issued:
   day: 19
