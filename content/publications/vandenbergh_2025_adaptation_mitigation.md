@@ -20,7 +20,7 @@ issued:
   month: 12
   year: 2025
 pub_type: article-journal
-pubdate: '2025-10-27'
+pubdate: '2025-11-10'
 short_author:
 - family: Vandenbergh
   given: M.P.

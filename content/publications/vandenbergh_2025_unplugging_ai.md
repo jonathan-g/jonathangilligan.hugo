@@ -1,4 +1,5 @@
 ---
+DOI: 10.2139/ssrn.5717522
 author:
 - family: Vandenbergh
   given: Michael P.
@@ -12,13 +13,16 @@ author:
   given: Mark J.
 container_title: Texas Environmental Law Journal
 date: '2025-12-31'
+file:
+- desc: full text
+  file: vandenbergh_2025_unplugging_ai.pdf
 id: vandenbergh_2025_unplugging_ai
 issued:
   day: 31
   month: 12
   year: 2025
 pub_type: article-journal
-pubdate: '2025-10-27'
+pubdate: '2025-11-10'
 short_author:
 - family: Vandenbergh
   given: M.P.
@@ -30,6 +34,8 @@ short_author:
   given: J.
 - family: Williams
   given: M.J.
+ssrn: '571522'
+ssrn_id: '571522'
 status: in press
 title: Unplugging the artificial intelligence energy emergency
 ---

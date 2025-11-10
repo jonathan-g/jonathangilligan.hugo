@@ -360,8 +360,13 @@ references:
   - family: Williams
     given: Mark J.
   container-title: Texas Environmental Law Journal
+  doi: 10.2139/ssrn.5717522
+  file:
+  - desc: full text
+    file: vandenbergh_2025_unplugging_ai.pdf
   id: vandenbergh:2025:unplugging-ai
   issued: 2025-12-31
+  ssrn: '571522'
   status: in press
   title: Unplugging the artificial intelligence energy emergency
   type: article-journal
