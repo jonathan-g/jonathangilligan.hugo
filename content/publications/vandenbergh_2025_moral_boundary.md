@@ -10,17 +10,19 @@ author:
 - family: Gilligan
   given: Jonathan M.
 container_title: Iowa Law Review
-date: '2025-12-31'
+date: '2025-07-01'
 file:
 - desc: full text
   file: vandenbergh_2025_moral_boundary.pdf
 id: vandenbergh_2025_moral_boundary
+issue: 5
 issued:
-  day: 31
-  month: 12
+  day: 1
+  month: 7
   year: 2025
+page: 2169-2199
 pub_type: article-journal
-pubdate: '2025-11-26'
+pubdate: '2025-07-01'
 short_author:
 - family: Vandenbergh
   given: M.P.
@@ -32,7 +34,7 @@ short_author:
   given: J.M.
 ssrn: '5045216'
 ssrn_id: '5045216'
-status: in press
+status: published
 title: The moral boundary of the firm
 volume: 110
 ---

@@ -335,10 +335,13 @@ references:
   container-title: Iowa Law Review
   doi: 10.2139/ssrn.5045216
   id: "vandenbergh:2025:moral.boundary"
-  issued: 2025-12-31
-  status: in press
+  issue: 5
+  issued: 2025-07-01
+  page: 2169-2199
+  status: published
   title: The moral boundary of the firm
   type: article-journal
+  url: "https://ilr.law.uiowa.edu/volume-110-issue-5/moral-boundary-firm"
   volume: 110
 - abstract: This Article explores the assumptions that underly
     projections of extraordinary growth in artificial intelligence
