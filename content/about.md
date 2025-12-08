@@ -12,7 +12,7 @@ do not represent Vanderbilt University.
 The following bio may be used in media releases without further permission.
 Feel free to shorten it, as necessary.
 
-> Jonathan Gilligan is 
+> Jonathan Magnolia Gilligan is 
 > Professor of 
 > [Earth and Environmental Sciences](https://www.vanderbilt.edu/ees),
 > Professor of 
