@@ -3,9 +3,6 @@ title: What Students Do
 date: 2017-06-15
 weight: 3
 ---
-**I am not currently taking any new graduate students in my 
-research group**
-
 Students working with me are engaged in a variety of projects to combine 
 knowledge about the physical environment and social, political, and economic 
 conditions.
