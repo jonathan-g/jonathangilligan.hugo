@@ -7,6 +7,15 @@ title: "About me"
 The views and opinions I express on this web site are mine alone, and 
 do not represent Vanderbilt University.
 
+## Names
+
+I go by Jonathan, Magnolia, and Maggie interchangeably. Feel free to 
+address me with any of these names. 
+
+I use they/them/theirs pronouns
+and you will make me happy if you use them when talking or writing about
+me.
+
 ## Biography
 
 The following bio may be used in media releases without further permission.
@@ -186,4 +195,4 @@ Click to download a high-resolution version. This may be used in media releases 
 
 ## Trivia
 
-My [Erd&#337;s number](http://www.oakland.edu/enp/) is 4, via David J. Wineland &rarr; Emanuel Knill &rarr; Vance Faber &rarr; Paul Erd&#337;s
+My [Erd&#337;s number](http://www.oakland.edu/enp/) is 4, via David J. Wineland &rarr; Emanuel Knill &rarr; Vance Faber &rarr; Paul Erd&#337;s.
