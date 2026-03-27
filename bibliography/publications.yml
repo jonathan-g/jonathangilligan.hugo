@@ -124,7 +124,7 @@ references:
   - desc: full text
     file: vandenbergh_2025_adaptation_mitigation.pdf
   id: vandenbergh:2025:adaptation-mitigation
-  issued: 2026-12-31
+  issued: 2026-12-30
   ssrn: '5381597'
   status: in press
   title: Adaptation as mitigation
@@ -160,7 +160,7 @@ references:
   - desc: full text
     file: vandenbergh_2025_ai_footprint.pdf
   id: vandenbergh:2025:ai-footprint
-  issued: 2026-12-31
+  issued: 2026-12-29
   number-of-pages: 33
   ssrn: '5400891'
   status: in press
@@ -201,7 +201,7 @@ references:
   - desc: full text
     file: vandenbergh_2025_unplugging_ai.pdf
   id: vandenbergh:2025:unplugging-ai
-  issued: 2026-12-31
+  issued: 2026-12-26
   ssrn: '571522'
   status: in press
   title: Unplugging the artificial intelligence energy emergency
