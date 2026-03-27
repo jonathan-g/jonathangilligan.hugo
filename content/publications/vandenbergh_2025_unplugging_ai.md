@@ -12,13 +12,13 @@ author:
 - family: Williams
   given: Mark J.
 container_title: Texas Environmental Law Journal
-date: '2026-12-31'
+date: '2026-12-26'
 file:
 - desc: full text
   file: vandenbergh_2025_unplugging_ai.pdf
 id: vandenbergh_2025_unplugging_ai
 issued:
-  day: 31
+  day: 26
   month: 12
   year: 2026
 pub_type: article-journal

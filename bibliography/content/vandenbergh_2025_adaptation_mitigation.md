@@ -10,13 +10,13 @@ author:
 - family: Gilligan
   given: Jonathan M.
 container_title: Georgetown Environmental Law Review
-date: '2026-12-31'
+date: '2026-12-30'
 file:
 - desc: full text
   file: vandenbergh_2025_adaptation_mitigation.pdf
 id: vandenbergh_2025_adaptation_mitigation
 issued:
-  day: 31
+  day: 30
   month: 12
   year: 2026
 pub_type: article-journal

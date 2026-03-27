@@ -8,13 +8,13 @@ author:
 - family: Gilligan
   given: Jonathan M.
 container_title: Michigan Journal of Environmental and Administrative Law
-date: '2026-12-31'
+date: '2026-12-29'
 file:
 - desc: full text
   file: vandenbergh_2025_ai_footprint.pdf
 id: vandenbergh_2025_ai_footprint
 issued:
-  day: 31
+  day: 29
   month: 12
   year: 2026
 pub_type: article-journal
