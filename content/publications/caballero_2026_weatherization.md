@@ -10,17 +10,17 @@ author:
 - family: McDonald
   given: Yolanda J.
 container_title: Energy Research & Social Science
-date: '2026-05-01'
+date: '2026-04-06'
 id: caballero_2026_weatherization
 issued:
-  day: 1
-  month: 5
+  day: 6
+  month: 4
   year: 2026
 keyword: Energy justice, Weatherization assistance program, Latine communities, Program
   implementation
 page: 104691
 pub_type: article-journal
-pubdate: '2026-04-20'
+pubdate: '2026-04-06'
 short_author:
 - family: Caballero
   given: M.D.
