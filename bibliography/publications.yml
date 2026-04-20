@@ -34,6 +34,9 @@ references:
     given: Yolanda J.
   container-title: Energy Research & Social Science
   doi: 10.1016/j.erss.2026.104691
+  file:
+  - desc: full text
+    file: caballero_2026_weatherization.pdf
   id: caballero:2026:weatherization
   issn: 2214-6296
   issued: 2026-04-06

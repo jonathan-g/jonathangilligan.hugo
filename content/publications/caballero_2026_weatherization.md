@@ -11,6 +11,9 @@ author:
   given: Yolanda J.
 container_title: Energy Research & Social Science
 date: '2026-04-06'
+file:
+- desc: full text
+  file: caballero_2026_weatherization.pdf
 id: caballero_2026_weatherization
 issued:
   day: 6
