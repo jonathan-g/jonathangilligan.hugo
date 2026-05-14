@@ -1,9 +1,9 @@
 ---
 title: Probability & Statistics for Geosciences
-date: "2025-01-06"
-enddate: "2025-05-02"
-last_date: "2022-08-25"
-last_enddate: "2023-05-05"
+date: "2027-01-11"
+enddate: "2027-05-06"
+last_date: "2025-01-06"
+last_enddate: "2025-05-02"
 publishdate: "2025-01-01"
 host: "Vanderbilt University"
 keywords:
